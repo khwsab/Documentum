@@ -1,0 +1,34 @@
+﻿<sites>
+	<language>
+		<key>de-german</key>
+		<value>Deutsch</value>
+	</language>
+	<language>
+		<key>es-spanish</key>
+		<value>Espa&#241;ol</value>
+	</language>
+	<language>
+		<key>en-english</key>
+		<value>English</value>
+	</language>
+	<language>
+		<key>tr-turkish</key>
+		<value>T&#252;rk&#231;e</value>
+	</language>
+	<language>
+		<key>ru-russian</key>
+		<value>&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</value>
+	</language>
+	<language>
+		<key>it-italian</key>
+		<value>Italiano</value>
+	</language>
+	<language>
+		<key>fr-french</key>
+		<value>Fran&#231;ais</value>
+	</language>
+	<language>
+		<key>zh-chinese</key>
+		<value>&#20013;&#25991;</value>
+	</language>
+</sites>

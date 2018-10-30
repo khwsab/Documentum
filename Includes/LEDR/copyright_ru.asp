@@ -1,0 +1,1 @@
+<script type="text/javascript">quickEditForm("0915881d81b2c36c", "/page",false,"../forms/XOMLedrCopyright","10px","650px","450px","Copyright Information","","pencil.gif","");</script><p>Copyright © 2001-2016 Exxon Mobil Corporation. &#1042;&#1089;&#1077; &#1087;&#1088;&#1072;&#1074;&#1072; &#1079;&#1072;&#1097;&#1080;&#1097;&#1077;&#1085;&#1099;.</p>

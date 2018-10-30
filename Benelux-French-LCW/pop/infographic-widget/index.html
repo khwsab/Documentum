@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>EXX4574-01 Infographic Widget</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	</head>
+	<body>
+
+		<!-- Wrapper div where the widget will be loaded -->
+		<div id="widget-wrapper"></div>
+
+		<!-- Path to the widget script -->
+		<script src="js/widget-infographic.js"></script>
+
+		<!-- Widget initialsation script -->
+		<script>
+			jQuery(function() {
+				new Infographics({
+					// ID of widget wrapper div
+					id: 'widget-wrapper', 
+
+					// Path to JSON config file
+					config: 'json/fr/widget-infographic.json',
+
+					// Infographic items
+					infographics: [1, 2, 3],
+
+					// Intro section [optional]
+					intro: {
+						title: 'L\’huile moteur Mobil Delvac 1™ LE 5W-30 permet à un transporteur néerlandais de réaliser des économies de carburant',
+						image: 'img/fr/top-banner.jpg',
+						objective: 'Economie de carburant / réduction des émissions'
+					},
+
+					// Custom text block section(s) [optional]
+					details: ['situation', 'recommendation', 'results']
+				});
+			});
+		</script>
+
+	</body>
+</html>

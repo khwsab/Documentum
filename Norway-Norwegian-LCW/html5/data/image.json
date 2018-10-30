@@ -1,0 +1,44 @@
+{
+
+    "slider": [{ 
+        "slide": "slide1",
+        "link": "https://www.esso.no/trumf",
+        "img": "html5/images/615x274_trumf.png",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector1"
+    }, {        
+        "slide": "slide2",
+        "link": "http://www.mobil.no/Norway-Norwegian-LCW/vanengineoils.aspx",
+        "img": "html5/images/615x274_light-duty-1-no.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector2"
+    }, {        
+        "slide": "slide3",
+        "link": "http://www.mobil.no/Norway-Norwegian-LCW/vanengineoils.aspx",
+        "img": "html5/images/615x274_light-duty-2-no.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector3"
+   }, {        
+        "slide": "slide4",
+        "link": "http://www.mobil.no/Norway-Norwegian-LCW/carengineoils_mobil-lubricant-selector.aspx",
+        "img": "html5/images/617x274_product-selector_no.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector4"
+    }]
+}

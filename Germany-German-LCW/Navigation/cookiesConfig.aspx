@@ -1,0 +1,1 @@
+<asp:panel id="eCookiesPanel" Runat="server"><!--#include file="/Imports/eCookies/optHyb_german.aspx" --><script>var enableCookies = 'true';var cookiesOption = 'OPT-HYB';var languageCookieName = 'Germany-German-LCW';cookiesLawInit();</script></asp:panel>

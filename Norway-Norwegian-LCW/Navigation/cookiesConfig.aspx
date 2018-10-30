@@ -1,0 +1,1 @@
+<asp:panel id="eCookiesPanel" Runat="server"><!--#include file="/Imports/eCookies/optHyb_norsk.aspx" --><script>var enableCookies = 'true';var cookiesOption = 'OPT-HYB';var languageCookieName = 'Norway-Norwegian-LCW';cookiesLawInit();</script></asp:panel>

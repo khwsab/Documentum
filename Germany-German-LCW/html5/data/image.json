@@ -1,0 +1,14 @@
+{
+
+    "slider": [{   
+        "slide": "slide1",
+        "link": "https://www.mobil1.de/aktuelles-und-motorenolwissen/gewinnen-einen-lexus?utm_source=mobil1&utm_medium=lcw_banner&utm_campaign=2018_B2C_Promo",
+        "img":"html5/images/DE_Lexus_Promo_615x274.png",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector1"
+    }]
+}

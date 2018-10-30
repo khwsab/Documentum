@@ -1,0 +1,15 @@
+{
+
+    "slider": [{
+        "slide": "slide1",
+        "link": "https://www.mobil1.fi/oppimiskeskus/voita-lexus?utm_source=mobil1&utm_medium=lcw_banner&utm_campaign=2018_B2C_Promo",
+        "mobileIMG": "html5/images/FI_Lexus_Promo_615x274.jpg",
+        "img": "html5/images/FI_Lexus_Promo_615x274.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector1"
+    }]
+}

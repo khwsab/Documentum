@@ -1,0 +1,60 @@
+
+			
+				<%@ Page Language="C#"%>
+				<script runat=server>
+					protected String GetDomain()
+					{
+						string hostname = Request.ServerVariables.Get("SERVER_NAME");
+						string domain = string.Empty;
+						if (hostname.Contains("www.mobilindustrial.com") )
+							{
+								domain = "http://www.mobil.com.cn";
+							} 
+						else
+							{
+								domain = "";
+							}
+						return domain;
+					}
+				</script>					
+				<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+			
+		<html xml:lang="it" lang="it" xmlns="http://www.w3.org/1999/xhtml"><head xmlns:xalan-nodeset="org.apache.xalan.xslt.extensions.Nodeset" xmlns:java="http://xml.apache.org/xslt/java" xmlns:fo="http://www.w3.org/1999/XSL/Format"><META http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="X-UA-Compatible" content="IE=8"><title>Lubrificanti per Industria Siderurgica | Mobil&trade; Industrial Lubricants</title><meta name="keywords" content="industria del ferro, industria dell&rsquo;acciaio, grassi industriali, lubrificanti industriali, macchinari industriali, lubrificanti industriali Mobil"><meta name="description" content="Per il settore dell&rsquo;industria siderurgica, fate affidamento sui lubrificanti industriali Mobil&trade; per contribuire a migliorare il funzionamento dei vostri macchinari, evitando interruzioni e fermi macchina non programmati."><meta name="date" content="09/2014"><meta name="language" content="it"><meta http-equiv="Content-Language" content="it"><link type="text/css" rel="stylesheet" media="all" href="/Imports/mobil_ind.css"><link type="text/css" rel="stylesheet" media="print" href="/Imports/xom_print.css"><link type="text/css" title="medium" rel="stylesheet" href="/Imports/xom_web_medium.css"><link type="text/css" title="large" rel="alternate stylesheet" href="/Imports/xom_web_large.css"><link type="text/css" title="small" rel="alternate stylesheet" href="/Imports/xom_web_small.css">	
+					<script type="text/javascript" src="/Imports/js/styleswitcher.js"></script>
+					<script type="text/javascript" src="/Imports/js/footnotelinks.js"></script>
+					<script language="Javascript" src="/Imports/js/xom.js"></script>
+					<script type="text/javascript" src="/Imports/js/search.js"></script> <!--[if IE 7.0]>
+					<link href="/Imports/mobil_ind_ie7.css" rel="stylesheet" type="text/css" media="all" />
+					<![endif]--> 	<!--[if lte IE 6]>
+					<link href="/Imports/mobil_ind_ie.css" rel="stylesheet" type="text/css" media="all" />
+					<![endif]-->	<!--[if gte IE 5.1]>
+				<script type="text/javascript">
+					try 
+					{
+						document.execCommand("BackgroundImageCache", false, true);
+					} 
+					catch(err) {}
+				</script><![endif]--><!-- Set 'expires' in http header, start --><% string cacheExpireDateStr="6/1/2015 11:32:18 AM";
+        DateTime cacheExpireDate = Convert.ToDateTime(cacheExpireDateStr); 
+        Response.AddHeader("Expires",cacheExpireDate.ToUniversalTime().ToString("ddd, dd MMM yyyy HH:mm:ss 'GMT'")); %><!-- end --></head><body xmlns:xalan-nodeset="org.apache.xalan.xslt.extensions.Nodeset" xmlns:java="http://xml.apache.org/xslt/java" xmlns:fo="http://www.w3.org/1999/XSL/Format" class="list gn01ne"><a href="#mainContent" class="skip">Skip to Main Content</a><div id="container"><!--#include virtual="Navigation/Header.aspx"--><div id="mainPanel" class="clrfix"><!--#include virtual="Navigation/yourindustry_left_navigation.aspx"--><div id="mainContent"><div class="layoutRow clrfix"><h1></h1><p><!-- #include virtual="yourindustry_primarymetals_link.html"--></p><p><span style=" font-size: x-large;"><b>Produttività inossidabile</b></span></p><p><b><span style=" font-size: large;">Soluzioni e servizi per l&rsquo;industria siderurgica</span></b></p><p>Nel settore dell&rsquo;industria siderurgica a livello globale, le esigenze di produttività non sono mai state così grandi. Per ottenere la massima efficienza e redditività, avete bisogno di lubrificanti per macchinari in grado di contribuire a migliorare il loro livello di produttività in alcuni degli ambienti più difficili (caratterizzati da alte temperature e carichi pesanti). Affidatevi ai lubrificanti industriali Mobil&trade; per contribuire a migliorare il funzionamento dei vostri macchinari, evitando interruzioni e fermi macchina non programmati.</p><p><b>Per migliorare l&rsquo;efficienza energetica</b><br>
+Condividiamo l&rsquo;impegno del vostro settore per soddisfare la domanda di acciaio in modo sicuro e sostenibile. Molti prodotti del marchio Mobil possono contribuire alla riduzione dei consumi energetici e dell&rsquo;utilizzo delle risorse attraverso:<br>
+&bull; efficienza energetica<br>
+&bull; lunga durata dell&rsquo;olio<br>
+&bull; lunga durata dei macchinari</p><p>La nostra gamma completa di lubrificanti sintetici premium per macchinari siderurgici comprende:*<br>
+&bull; <b><a title="" href="products_mobil-shc_mobil-shc-600-series.aspx">Mobil SHC&trade; serie 600</a></b> oli per ingranaggi e sistemi di circolazione di nuova generazione che offrono vantaggi di efficienza energetica**<br>
+&bull; <b><a title="" href="products_mobil-shc_mobil-shc-gear-series.aspx">Mobil SHC&trade; Gear Serie</a></b> eccezionali oli per ingranaggi di nuova generazione che offrono vantaggi di efficienza energetica**<br>
+&bull; <b><a title="" href="products_mobil-shc_mobil-rarus-shc-1020-series.aspx">Mobil Rarus SHC&trade; Serie 1000</a></b> oli per compressori d&rsquo;aria<br>
+&bull; <b><a title="" href="products_mobil-shc_mobil-shc-polyrex-series.aspx">Mobil SHC Serie Polyrex&trade;</a> &nbsp;</b>grasso per cuscinetti ad alte prestazioni<br>
+&bull; <b><a title="" href="products_greases_mobilith-shc-grease-series.aspx">Mobilith SHC&trade; Serie</a> &nbsp;</b>grassi sintetici ad alta temperatura per cuscinetti<br>
+&bull; <b>Mobil Centaur&trade; XHP Serie</b> grasso al solfonato di calcio per macchinari in &nbsp;acciaio e laminatoi<br>
+&bull; <b>Mobil Vacuoline&trade; serie 100</b> oli per sistemi di circolazione e cuscinetti a strisciamento in laminatoi<br>
+&bull; <b>Mobil Vacuoline&trade; serie 500</b> oli per sistemi di circolazione pesanti per avvolgitori di cavi metallici antitorsione</p><p><b>Offrire un&rsquo;esperienza di settore altamente qualificata</b><br>
+Formuliamo i nostri oli e grassi per laminatoi siderurgici per soddisfare o superare le aspettative dei produttori di macchinari di questo settore. Accuratamente testati prima di essere commercializzati, i lubrificanti industriali Mobil soddisfano gli standard di qualità a livello globale e sono compatibili con i rigorosi sistemi interni di gestione relativi alla produzione, al servizio clienti, ai laboratori, alla sicurezza, alla salvaguardia della salute e al rispetto dell&rsquo;ambiente.</p><p><b>Forniamo il supporto di cui avete bisogno</b><br>
+Grazie all&rsquo;affidabilità dei nostri servizi non sarete mai soli. &dagger;</p><p><b>Help Desk Tecnico ExxonMobil </b>&ndash; Un'adeguata assistenza da parte del nostro team di ingegneri, disponibile telefonicamente oppure on-line, in grado di offrire indicazioni e consulenza specifiche.</p><p><b>Distributor Sales Representatives (DSR)</b> &ndash; Un aiuto sul campo per la scelta del lubrificante più adatto che può contribuire ad aumentare la produttività dello stabilimento.</p><p><b>Team di ingegneri della ExxonMobil (LFE- Lubes Field Engineer)</b>&ndash; Una consulenza professionale sulle pratiche di lubrificazione, per contribuire ad ottimizzare le prestazioni del lubrificante e risolvere eventuali problemi dei macchinari. &nbsp;Ispezioni degli impianti e monitoraggio proattivo per aiutarvi a far funzionare i macchinari più a lungo e in modo più efficiente.</p><p><b>Programma Sygnum<sup>SM</sup> Oil Analysis </b>&ndash; Controlla le condizioni dei lubrificanti e dei macchinari per contribuire ad aumentarne la durata, l'affidabilità e a ridurre i costi di manutenzione. Appositamente studiato per il settore delle lavorazioni meccaniche, per la misurazione degli indicatori critici dell'olio usato, il programma offre le conoscenze specifiche necessarie per conoscere meglio i lubrificanti e le condizioni dei macchinari.</p><p>Fate affidamento sulla leadership tecnologica e sull&rsquo;esperienza nelle applicazioni alla base dei lubrificanti industriali Mobil per aiutare i vostri macchinari a produrre di più, più velocemente, in modo più sicuro, migliorandone l&rsquo;efficienza energetica ed operativa.</p><p><span style=" font-size: x-small;">* Consultate il manuale del costruttore per la scelta del lubrificante più adatto in funzione del macchinario e delle condizioni operative.&nbsp;<br>
+** Il ridotto consumo energetico riguarda esclusivamente le prestazioni del fluido a confronto con i fluidi convenzionali della ExxonMobil. L&rsquo;affermazione sull&rsquo;efficienza energetica di questo prodotto si basa sui risultati di test condotti in conformità a tutti gli standard e protocolli industriali applicabili.&nbsp;<br><br>
+&dagger; Consultate il vostro &nbsp;referente di zona della ExxonMobil (DBC) per verificare la disponibilità nella vostra area.</span></p></div><div class="mc2column"><div class="itemgroup clrfix"><div class="item left"><img alt="Industria Siderurgica &ndash; Schema di riduzione diretta impianto a caldo" title="Industria Siderurgica &ndash; Schema di riduzione diretta impianto a caldo" longdesc="" src="/IND/English/Images/teaser_60x60_hot_side_plant_schematic.jpg" border="0"></img><h3></h3><p><a target="_new" href="/IND/English/Files/schm_primarymetals_steelhotside.pdf">schema dell&rsquo;impianto siderurgico a caldo<img style="display:inline; float:none; margin:0 0 -3px 0; width:auto;" src="/Images/Icons/icon_pdf_whitespace.jpg" border="0" alt=""></a>&nbsp;(EN)<br>
+Scoprite come aiutare il vostro impianto a caldo a raggiungere il massimo delle<br>
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;prestazioni</p><p></p></div><div class="item right"><img alt="Scoprite come aiutare il vostro impianto di trattamento a rimanere al top della forma" title="Scoprite come aiutare il vostro impianto di trattamento a rimanere al top della forma" longdesc="" src="/IND/English/Images/teaser_60x60_handling_plant_schematic.jpg" border="0"></img><h3></h3><p><a target="_new" href="/IND/English/Files/schm_primarymetals_steelforming.pdf">schema impianto di formatura siderurgico<img style="display:inline; float:none; margin:0 0 -3px 0; width:auto;" src="/Images/Icons/icon_pdf_whitespace.jpg" border="0" alt=""></a> (EN)<br>
+Scoprite come aiutare il vostro impianto di formatura a migliorare la produttività</p><p></p><p>&nbsp;</p></div></div><p></p></div><div class="mc2column"><div class="itemgroup clrfix"><div class="item left"><img alt="Industria Siderurgica &ndash; Schema produzione di sinterizzazione" title="Industria Siderurgica &ndash; Schema produzione di sinterizzazione" longdesc="" src="/IND/English/Images/teaser_60x60_handling_plant_schematic.jpg" border="0"></img><h3></h3><p><a target="_new" href="/IND/English/Files/schm_primarymetals_steelmaterialhandling.pdf">schema dell&rsquo;impianto di trattamento siderurgico<img style="display:inline; float:none; margin:0 0 -3px 0; width:auto;" src="/Images/Icons/icon_pdf_whitespace.jpg" border="0" alt=""></a>&nbsp;(EN)<br>
+Scoprite come aiutare il vostro impianto di trattamento a rimanere al top della<br>
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;forma</p><p></p></div><div class="item right"><h3></h3></div></div><p></p></div><%if(File.Exists(Server.MapPath("yourindustry_primarymetals2.aspx"))){%><div class="paging"><ul><li class="label">page 1 of 2</li><li>1</li><li><a href="yourindustry_primarymetals2.aspx">2</a></li><li><a href="yourindustry_primarymetals2.aspx">next</a></li></ul></div><%}%></div></div><!--#include virtual="Navigation/Footer.aspx"--></div></body></html>

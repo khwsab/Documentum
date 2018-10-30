@@ -1,0 +1,44 @@
+{
+
+    "slider": [{
+        "slide": "slide1",
+        "link": "https://carburanti.esso.it/diesel",
+        "img": "html5/images/615x274_esso_italy.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "",
+        "selector": "selector1"
+    }, {
+        "slide": "slide2",
+        "link": "http://www.mobil.it/Italy-Italian-LCW/heavydutyoils_energy-efficiency-guide.aspx",
+        "img": "html5/images/Energy_Efficiency_Guide_Banner_IT.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "",
+        "selector": "selector2"
+    }, {
+		 "slide": "slide3",
+        "link": "https://carburanti.esso.it/explore/index.php#video",
+        "img": "html5/images/615x274_Flashbox_frames_IT.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "",
+        "selector": "selector3"
+    }, {
+"slide": "slide4",
+        "link": "https://carburanti.esso.it/v1/explore/index.php#video",
+        "img": "html5/images/615x274_esso_servitissimo_mobil.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector4"
+    }]
+}

@@ -1,0 +1,146 @@
+html, body {
+	font-family: Arial,Helvetica,Sans-Serif;
+	margin:0px;
+}
+
+#app-selector {
+  min-height: 473px;
+  width: 509px;
+  border: 1px solid #7a7a7a;
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+
+#app-selector .left-app-btns {
+  width: 154px;
+  border-right: 1px solid #7a7a7a;
+  height: 100%;
+  background-color: #e5e5e5;
+  display: inline-block;
+  float: left;
+}
+
+#app-selector .left-app-btns .apps {
+  display: block;
+  padding: 10px;
+  font-size: 12px;
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+  background-color: #e5e5e5;
+  background: -webkit-linear-gradient(#f6f6f6, #e5e5e5); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#f6f6f6, #e5e5e5); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#f6f6f6, #e5e5e5); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#f6f6f6, #e5e5e5); /* Standard syntax */
+}
+
+#app-selector .left-app-btns .apps:hover {
+  text-decoration: none;
+  background: #0062b6;
+  background-color: #c3c3c3;
+  background: -webkit-linear-gradient(#c3c3c3, #cbcbcb); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#c3c3c3, #cbcbcb); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#c3c3c3, #cbcbcb); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#c3c3c3, #cbcbcb); /* Standard syntax */
+}
+
+#app-selector .left-app-btns .apps.active {
+  text-decoration: none;
+  background: #0062b6;
+  color: white;
+}
+
+#app-selector .main-app-body {
+  display: inline-block;
+  float: right;
+  width: 354px;
+  min-height: 473px;
+  position: relative;
+}
+
+#app-selector .main-app-body .select {
+  background: url(../images/product-oil.jpg) no-repeat;
+  background-size: cover;
+  background-position: bottom center;
+  width: 354px;
+  height: 473px;
+  position: absolute;
+  bottom: 0px;
+}
+
+#app-selector .main-app-body .select.off {
+  display: none;
+}
+
+
+#app-selector .main-app-body .select-inner {
+  padding-top: 90px;
+  margin: 0 auto;
+  width: 260px;
+}
+#app-selector .main-app-body .select-inner img {
+  float: left;
+}
+
+#app-selector .main-app-body .select-inner span {
+  text-align: right;
+  font-size: 16px;
+  font-weight: bold;
+  display: inline-block;
+  width: 74%;
+  line-height: 22px;
+}
+
+#app-selector .main-app-body .application {
+  padding: 15px;
+  display: none;
+}
+
+#app-selector .main-app-body .application.active {
+  display: block;
+}
+
+#app-selector .main-app-body .application .app-img {
+  height: 68px;
+  width: 68px;
+  border: 1px solid #e5e5e5;
+  border-radius: 5px;
+  overflow: hidden;
+  margin-right: 15px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+#app-selector .main-app-body .application .app-prods {
+  width: 234px;
+  display: inline-block;
+}
+
+#app-selector .main-app-body .application .app-prods h2 {
+  font-size: 16px;
+  margin: 0 0 20px;
+}
+
+#app-selector .main-app-body .application .app-prods p {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+#app-selector .main-app-body .application .app-prods ul {
+  font-size: 12px;
+  padding-left: 25px;
+}
+
+#app-selector .main-app-body .application .app-prods ul a {
+  color: #0062b6;
+}
+
+#app-selector-notes {
+padding:10px;
+font-size:12px;
+width: 511px;
+margin: 0 auto;
+
+}

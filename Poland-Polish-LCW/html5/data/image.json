@@ -1,0 +1,44 @@
+{
+
+    "slider": [{   
+        "slide": "slide1",
+        "link": "https://www.mobil1.pl/aktualnosci-i-wiedza/wygraj-lexus?utm_source=mobil1&utm_medium=lcw_banner&utm_campaign=2018_B2C_Promo",
+        "img": "html5/images/PL_Lexus_Promo_615x274.png",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector1"
+    }, {          
+        "slide": "slide2",
+        "link": "http://www.mobil.pl/Poland-Polish-LCW/carengineoils_which-oil.aspx",
+        "img": "html5/images/615x274_product-selector-pl.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector2"
+    }, {        
+        "slide": "slide3",
+        "link": "http://www.mobil.pl/Poland-Polish-LCW/vanengineoils.aspx",
+        "img": "html5/images/615x274_light-duty-pl-1.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector3"
+    }, {        
+        "slide": "slide4",
+        "link": "http://www.mobil.pl/Poland-Polish-LCW/vanengineoils.aspx",
+        "img": "html5/images/615x274_light-duty-pl-2.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector4"
+    }]
+}

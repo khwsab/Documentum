@@ -1,0 +1,24 @@
+{
+
+    "slider": [{     
+        "slide": "slide1",
+        "link": "https://www.mobil1.fr/pourquoi-une-huile-synthetique/gagnez-une-lexus?utm_source=mobil1&utm_medium=lcw_banner&utm_campaign=2018_B2C_Promo",
+        "img": "html5/images/FR_Lexus_Promo_615x274.png",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector1"
+    }, {          
+        "slide": "slide2",
+        "link": "http://carburant.esso.fr/",
+        "img": "html5/images/615x274-FR_Esso_Synergy_Mobil.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector2"
+    }]
+}

@@ -1,0 +1,14 @@
+{
+
+    "slider": [{     
+        "slide": "slide1",
+        "link": "http://lubes.mobil.com.mx/Mexico-Spanish-LCW/carengineoils_yee.aspx",
+        "img": "html5/images/615x274-Mobil-Spanish-YEE-Banner.png",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector1"
+    }]
+}

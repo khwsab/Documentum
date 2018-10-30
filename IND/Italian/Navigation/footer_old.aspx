@@ -1,0 +1,7 @@
+
+				<!-- stopindex -->
+				<!-- googleoff: index -->
+			<div xmlns="http://www.w3.org/1999/xhtml" xmlns:xalan-nodeset="http://xml.apache.org/xalan" xmlns:java="http://xml.apache.org/xslt/java" xmlns:fo="http://www.w3.org/1999/XSL/Format" id="globalFooter"><div class="footerNav"><ul><li><a href="http://corporate.exxonmobil.com/en/">Exxon Mobil Corporation</a></li><li><a href="http://corporate.exxonmobil.com/#global-websites" class="iconleft globe">Siti Web nel Mondo</a></li><li class="noBorderR"><a href="http://www.esso.com/Italy-Italian/PA/Imports/contactus_contact.aspx" class="iconleft phone">per contattarci</a></li></ul></div><div class="footerNav"><ul><li/><li><a href="http://www.exxonmobil.com/Global-All/Legal/TC_Global_English.aspx">Note Legali</a></li><li><a href="http://www.exxonmobil.com/Global-All/Legal/privacy.aspx">Privacy</a></li><li class="noBorderR"><a href="/IND/Italian/sitemap.aspx">mappa del sito</a></li></ul></div><div class="footerNav logo"><ul><li><a href="http://corporate.exxonmobil.com/en/"><img title="ExxonMobil" src="http://www.exxonmobil.com/Corporate/Images/exxonMobilLogo.jpg" class="borderR" alt="ExxonMobil"/></a></li><li><a href="http://www.esso.com"><img title="" src="/Images/logos/essologo.gif" longdesc="" border="0" alt="Esso"/></a></li><li><a href="http://www.mobil.com"><img title="" src="/Images/logos/mobillogo.gif" longdesc="" border="0" alt="Mobil"/></a></li></ul></div></div><!--#include virtual="/Imports/MOBIL_IND_webtrends.html"-->
+				<!-- googleon: index -->
+				<!-- startindex -->
+			

@@ -1,0 +1,14 @@
+{
+
+    "slider": [{
+        "slide": "slide1",
+        "link": "http://lubes.mobil.ca/Canada-French-LCW/Save-Fuel-With-Mobil-1-Oil-Change.aspx",
+        "img": "html5/images/French-NIP14-Banner.JPG",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector1"
+        }]
+}

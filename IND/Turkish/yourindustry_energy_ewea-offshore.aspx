@@ -1,0 +1,36 @@
+
+			
+			<%@ Page Language="C#" AutoEventWireup="false" Inherits="XOM.Common.Web.XOMPage" %>
+			<%@ Register TagPrefix="XOM" Namespace="XOM.Common.Web" Assembly="XOMCommon" %>
+			<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:xalan-nodeset="org.apache.xalan.xslt.extensions.Nodeset" xmlns:java="http://xml.apache.org/xslt/java" xmlns:fo="http://www.w3.org/1999/XSL/Format" xml:lang="tr" lang="tr"><head><title>EWEA Offshore 2013 | Mobil&trade; Endüstriyel Ya&#287;lar&#305;</title><meta name="keywords" content="EWEA Offshore, rüzgar enerjisi,di&#351;li ya&#287;, rüzgar türbini ya&#287;lar&#305;, rüzgar konferans&#305;, türbin ya&#287;&#305;"/><meta name="description" content="Rüzgar türbini üreticileri ekipmanlar&#305;n&#305;n ilk dolumlar&#305;n&#305; Mobil SHC&trade; ya&#287;lar&#305; ile yap&#305;yorlar &ndash; bunun nedenini EWEA Offshore 2013&rsquo;de ö&#287;renin"/><meta name="date" content="10/2013"/><meta name="language" content="tr"/><meta http-equiv="Content-Language" content="tr"/><link type="text/css" rel="stylesheet" media="all" href="/Imports/mobil_ind.css"/><link type="text/css" rel="stylesheet" media="print" href="/Imports/xom_print.css"/><link type="text/css" title="medium" rel="stylesheet" href="/Imports/xom_web_medium.css"/><link type="text/css" title="large" rel="alternate stylesheet" href="/Imports/xom_web_large.css"/><link type="text/css" title="small" rel="alternate stylesheet" href="/Imports/xom_web_small.css"/>	
+			<script type="text/javascript" src="/Imports/js/styleswitcher.js"></script>
+			<script type="text/javascript" src="/Imports/js/footnotelinks.js"></script>
+			<script language="Javascript" src="/Imports/js/xom.js"></script>
+            <script type="text/javascript" src="/Imports/js/swfobject.js"></script>
+			<script type="text/javascript" src="/Imports/js/search.js"></script> <!--[if IE 7.0]>
+<link href="/Imports/mobil_ind_ie7.css" rel="stylesheet" type="text/css" media="all" />
+<![endif]--> 	<!--[if lte IE 6]>
+				<link href="/Imports/mobil_ind_ie.css" rel="stylesheet" type="text/css" media="all" />
+				<![endif]-->	<!--[if gte IE 5.1]>
+				<script type="text/javascript">
+					try 
+					{
+						document.execCommand("BackgroundImageCache", false, true);
+					} 
+					catch(err) {}
+				</script><![endif]--><!-- Set 'expires' in http header, start --><% string cacheExpireDateStr="6/30/2014 5:28:08 PM";
+        DateTime cacheExpireDate = Convert.ToDateTime(cacheExpireDateStr); 
+        Response.AddHeader("Expires",cacheExpireDate.ToUniversalTime().ToString("ddd, dd MMM yyyy HH:mm:ss 'GMT'")); %><!-- end --></head><body class="article"><a href="#mainContent" class="skip">Skip to Main Content</a><div id="container"><!--#include virtual="Navigation/Header.aspx"--><div id="mainPanel" class="clrfix"><!--#include virtual="Navigation/yourindustry_left_navigation.aspx"--><div id="toolbar"><!--#include virtual="Services/Toolbox.aspx"--><div class="related"><div class="relatedimg150X68"><img xmlns="" title="rüzgâr enerjisi" src="/IND/Turkish/Images/150x68_sidecallouts_wind.jpeg" longdesc="" border="0" alt="rüzgâr enerjisi"><p xmlns=""><br>
+Rüzgâr enerjisi<br><a title="" target="" href="yourindustry_energy_wind.aspx">Rüzgâr Türbini &#350;emas&#305;n&#305; inceleyin</a></p></div></div><div class="related"><div class="relatedimg150X68"><img xmlns="" title="Mobil SHC" src="/IND/English/Images/150x68_sidecallouts_mobilshc.jpg" longdesc="" border="0" alt="Mobil SHC"><p xmlns=""><br>
+Mobil&nbsp;SHC&trade;<br><a title="" target="" href="mobilshc.aspx">Sentetik ya&#287;lar hakk&#305;nda daha fazla bilgi edinin</a></p></div></div></div><div id="mainContent"><h1><p xmlns=""><b><span style=" font-size: x-large;">EWEA Offshore 2013</span></b></p></h1><br/><a href="/IND/Turkish/Images/husum_wind.swf"><img title="3" src="/IND/Turkish/Images/husum_wind.jpg" longdesc="2" alt="1"/></a><script xmlns="" type="text/javascript" language="JavaScript">
+						var so = new SWFObject("/IND/Turkish/Images/husum_wind.swf",	//Flash movie name
+						"photoviewer", 		// ID for generated object/embed
+						"100%", 					// width
+						"280", 					// height
+						"9"); 					// minimum version of Flash required						
+						so.addParam("wmode", "window");
+						so.addParam("allowfullscreen", "true");
+						so.addVariable("imagepath", "/IND/Turkish/Images/husum_wind.jpg");
+						so.addParam("menu", "False");
+						flashReplace = so.write("mainContent");  //replace div contents with Flash (IF version is ok).
+			 		</script><p xmlns=""></p><p xmlns=""><span style=" font-size: x-large;"><b>Rüzgâr Türbinleri için Mobil SHC&trade; sentetik</b></span></p><p xmlns=""><span style=" font-size: x-large;"><b>ya&#287;lar&#305; ve gresleri<br></b></span>&nbsp;</p><p xmlns=""><span style=" font-size: large;"><b>Rüzgâr türbinlerini yeni zirveler ç&#305;kartt&#305;n</b><br></span>&nbsp;</p><p xmlns="">Mobil&trade; Endüstriyel Ya&#287;lar&#305; olarak EWEA Offshore 2013&rsquo;ün sponsoru olmaktan gurur duyuyoruz. Almanya&rsquo;daki Messe Frankfurt ticaret fuar&#305;nda, Stand 30C120&rsquo;de bize ula&#351;&#305;n veya bulundu&#287;unuz bölgeye en yak&#305;n ileti&#351;im bilgileri için yukar&#305;daki interaktif haritay&#305; kullan&#305;n.</p><p xmlns="">Mobil SHC&trade; ya&#287;lar&#305; ve gresleri, rüzgar türbini bile&#351;enlerinin servis ömrünü uzatmaya yard&#305;mc&#305; olmak ve ya&#287; de&#287;i&#351;im aral&#305;klar&#305;n&#305; uzatmak gibi rüzgar endüstrisine özgü faydalar sunacak &#351;ekilde tasarlanm&#305;&#351;t&#305;r. Mobil SHC ya&#287;lar&#305;ndaki geli&#351;mi&#351; teknoloji, ekipman&#305;n bozulma risklerini potansiyel olarak azaltabilmekte ve maliyetli olan plans&#305;z duru&#351; sürelerini en aza indirmeye yard&#305;mc&#305; olabilmektedir. Mobil SHC ya&#287;lar&#305;, dünyan&#305;n bir çok önde gelen rüzgar türbini üreticisi taraf&#305;ndan tercih edilmektedir.</p><p xmlns="">Tüm dünyadaki mü&#351;terilerimiz, ya&#287;lama uygulama uzmanl&#305;&#287;&#305;na sahip yüksek e&#287;itimli saha gücümüzden yararlanmaktad&#305;r. Da&#287;&#305;t&#305;m a&#287;&#305;m&#305;z, tek marka kalitesini sürekli olarak tüm dünyaya ula&#351;t&#305;rmakta ve mü&#351;terilerine güven sunmaktad&#305;r.</p><p xmlns="">Mobil Endüstriyel Ya&#287;lar&#305; ve rüzgâr türbini hizmetleri ile ilgili daha fazla bilgi için, yukar&#305;daki interaktif haritada belirtilen, bölgenizdeki Mobil Teknik Destek Mühendisi ile temasa geçebilirsiniz.</p><div class="quicklinks"><div class="headerbar"><h3 class="nolink">inceleme</h3></div><ul><li><a xmlns="" title="This link will open a new window." target="_new" href="http://www.ewea.org/offshore2013/">EWEA Offshore 2013</a> (EN)</li><li><a xmlns="" title="" target="" href="yourindustry_energy_wind.aspx">Sizin çal&#305;&#351;t&#305;&#287;&#305;n&#305;z endüstri: Rüzgâr Enerjisi</a></li><li><a xmlns="" title="" target="" href="yourindustry_energy_wind_schematic.aspx">Bir Rüzgâr Türbinini ke&#351;fedin</a></li></ul></div></div></div><!--#include virtual="Navigation/Footer.aspx"--></div></body></html>

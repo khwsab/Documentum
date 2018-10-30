@@ -1,0 +1,54 @@
+{
+
+    "slider": [{      
+        "slide": "slide1",
+        "link": "https://www.esso.co.uk/loyalty-program",
+        "img": "html5/images/615x274_Esso_Q1_LoyaltyUK_LCW.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector1"
+    }, {      
+        "slide": "slide2",
+        "link": "http://www.mobil.co.uk/UK-English-LCW/vanengineoils.aspx",
+        "img": "html5/images/615x274_light-duty-uk-2.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector2"
+    }, {        
+        "slide": "slide3",
+        "link": "http://www.mobil.co.uk/UK-English-LCW/heavydutyoils_energy-efficiency-guide.aspx",
+        "img": "html5/images/615x274_uk-energy-guide.png",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector3"
+    }, {        
+        "slide": "slide4",
+        "link": "https://www.esso.co.uk/promo",
+        "img": "html5/images/615x274_Flashbox-opt3.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector4"
+    }, {        
+        "slide": "slide5",
+        "link": "https://www.esso.co.uk/explore",
+        "img": "html5/images/UK_Esso_YBFE_Mobil_615x274.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector5"
+    }]
+}

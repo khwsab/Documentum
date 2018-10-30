@@ -1,0 +1,39 @@
+
+			
+				<%@ Page Language="C#"%>
+				<script runat=server>
+					protected String GetDomain()
+					{
+						string hostname = Request.ServerVariables.Get("SERVER_NAME");
+						string domain = string.Empty;
+						if (hostname.Contains("www.mobilindustrial.com") )
+							{
+								domain = "http://www.mobil.com.cn";
+							} 
+						else
+							{
+								domain = "";
+							}
+						return domain;
+					}
+				</script>					
+				<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+			
+		<html xml:lang="it" lang="it" xmlns="http://www.w3.org/1999/xhtml"><head xmlns:xalan-nodeset="org.apache.xalan.xslt.extensions.Nodeset" xmlns:java="http://xml.apache.org/xslt/java" xmlns:fo="http://www.w3.org/1999/XSL/Format"><META http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="X-UA-Compatible" content="IE=8"><title>Lubrificanti Industriali per Turbine Eoliche &ndash; Settore Energetico  |  Mobil&trade; Industrial Lubricants</title><meta name="keywords" content="generatori eolici, lubrificanti industriali, macchine, condizioni estreme, temperature elevate, carico pesante, contaminazione dell'acqua, lubrificanti sintetici, grassi, funzionamento nelle condizioni migliori, ridurre i tempi di fermo, minori costi di manutenzione, prolungare la durata dell'olio, prestazioni comprovate sul campo, olio per ingranaggi, generatori eolici, energia eolica"><meta name="description" content="I lubrificanti e i grassi sintetici Mobil SHC&trade; vi consentiranno di mantenere le vostre turbine eoliche al massimo dell&rsquo;efficienza anche in condizioni di servizio impegnative."><meta name="date" content="08/2014"><meta name="language" content="it"><meta http-equiv="Content-Language" content="it"><link type="text/css" rel="stylesheet" media="all" href="/Imports/mobil_ind.css"><link type="text/css" rel="stylesheet" media="print" href="/Imports/xom_print.css"><link type="text/css" title="medium" rel="stylesheet" href="/Imports/xom_web_medium.css"><link type="text/css" title="large" rel="alternate stylesheet" href="/Imports/xom_web_large.css"><link type="text/css" title="small" rel="alternate stylesheet" href="/Imports/xom_web_small.css">	
+					<script type="text/javascript" src="/Imports/js/styleswitcher.js"></script>
+					<script type="text/javascript" src="/Imports/js/footnotelinks.js"></script>
+					<script language="Javascript" src="/Imports/js/xom.js"></script>
+					<script type="text/javascript" src="/Imports/js/search.js"></script> <!--[if IE 7.0]>
+					<link href="/Imports/mobil_ind_ie7.css" rel="stylesheet" type="text/css" media="all" />
+					<![endif]--> 	<!--[if lte IE 6]>
+					<link href="/Imports/mobil_ind_ie.css" rel="stylesheet" type="text/css" media="all" />
+					<![endif]-->	<!--[if gte IE 5.1]>
+				<script type="text/javascript">
+					try 
+					{
+						document.execCommand("BackgroundImageCache", false, true);
+					} 
+					catch(err) {}
+				</script><![endif]--><!-- Set 'expires' in http header, start --><% string cacheExpireDateStr="6/1/2015 11:23:05 AM";
+        DateTime cacheExpireDate = Convert.ToDateTime(cacheExpireDateStr); 
+        Response.AddHeader("Expires",cacheExpireDate.ToUniversalTime().ToString("ddd, dd MMM yyyy HH:mm:ss 'GMT'")); %><!-- end --></head><body xmlns:xalan-nodeset="org.apache.xalan.xslt.extensions.Nodeset" xmlns:java="http://xml.apache.org/xslt/java" xmlns:fo="http://www.w3.org/1999/XSL/Format" class="list gn01ne"><a href="#mainContent" class="skip">Skip to Main Content</a><div id="container"><!--#include virtual="Navigation/Header.aspx"--><div id="mainPanel" class="clrfix"><!--#include virtual="Navigation/yourindustry_left_navigation.aspx"--><div id="mainContent"><div class="layoutRow clrfix"><h1></h1><p><!-- #include virtual="yourindustry_energy_wind_link.html"--></p><p><b><span style=" font-size: x-large;">Nuove vette da conquistare per le turbine eoliche</span></b></p><p><b><span style=" font-size: large;">Raggiungere le massime prestazioni</span></b></p><p>Quando si tratta di turbine eoliche, i lubrificanti industriali Mobil&trade; non si limitano a farle funzionare: le fanno &ldquo;volare&rdquo;. Come? Aiutandovi ad ottenere il massimo dai vostri macchinari.</p><p>Sviluppati per eccellere anche in alcune delle condizioni più estreme, come temperature elevate, carichi pesanti e contaminazione da acqua, i lubrificanti e grassi sintetici <a title="" href="products_mobil-shc.aspx">Mobil SHC&trade;</a> possono contribuire al perfetto funzionamento delle turbine eoliche. Inoltre, possono aiutare a ridurre i tempi di fermo macchina non programmati, abbattere i costi di manutenzione e prolungare la durata dell&rsquo;intervallo di cambio olio.</p><p><b>Supportati dalle approvazioni di molti costruttori e dai risultati dei test sul campo</b></p><p>Rigorosamente testati prima della commercializzazione, i lubrificanti e i grassi Mobil sono supportati da una grande esperienza e dall'approvazione di molti costruttori. Ad esempio, Mobilgear SHC XMP&trade;, &nbsp;il nostro lubrificante sintetico &nbsp;al top della gamma per turbine eoliche, è approvato e/o impiegato da diversi ed importanti produttori di ingranaggi, cuscinetti e turbine eoliche. Approvato da molti costruttori, lubrifica più di 40.000 turbine eoliche in tutto il mondo. L'analisi di oltre 46.000 campioni di olio usato Mobilgear SHC XMP &nbsp;indica una superba protezione contro l&rsquo;usura e non ha segnalato problemi di invecchiamento dell&rsquo;olio.</p><p>Affidatevi alle tecnologie all&rsquo;avanguardia e all&rsquo;esperienza operativa che sono alla base dei lubrificanti industriali Mobil per aiutare le vostre turbine eoliche ad essere sempre al massimo dell&rsquo;efficienza operativa.</p></div><div class="mc2column"><div class="itemgroup clrfix"><div class="item left"><img alt="Lubrificanti per turbine eoliche suddivisi per applicazoni" title="Lubrificanti per turbine eoliche suddivisi per applicazoni" longdesc="" src="/IND/English/Images/teaser_60x60-explore-the-wind-turbine.jpg" border="0"></img><h3><a title="" href="yourindustry_energy_wind_schematic.aspx">alla scoperta di una turbina eolica</a></h3><p>Scoprite come possiamo aiutarvi a proteggere le vostre turbine eoliche<br></p></div><div class="item right"><img alt="Lubrificanti e grassi per turbine eoliche suddivisi per applicazioni" title="Lubrificanti e grassi per turbine eoliche suddivisi per applicazioni" longdesc="" src="/IND/English/Images/teaser_60x60-wind-turbine-schematic.jpg" border="0"></img><h3><a target="_new" href="/IND/English/files/schm_wind.pdf">schema turbine eoliche<img style="display:inline; float:none; margin:0 0 -3px 0; width:auto;" src="/Images/Icons/icon_pdf_whitespace.jpg" border="0" alt=""></a> (EN)</h3><p>Scoprite come i nostri lubrificanti rispondono alle necessità delle vostre turbine eoliche<br></p></div></div><p></p></div><div class="mc2column"><div class="itemgroup clrfix"><div class="item left"><img alt="Brochure lubrificanti per turbine eoliche" title="Brochure lubrificanti per turbine eoliche" longdesc="" src="/IND/English/Images/teaser_60x60-wind-turbine-brochure.jpg" border="0"></img><h3><a target="_new" href="/IND/italian/files/br_wind_it.pdf">brochure turbine eoliche<img style="display:inline; float:none; margin:0 0 -3px 0; width:auto;" src="/Images/Icons/icon_pdf_whitespace.jpg" border="0" alt=""></a></h3><p>Nuove vette di efficienza da conquistare per le turbine eoliche<br></p></div><div class="item right"><h3></h3></div></div><p></p></div><%if(File.Exists(Server.MapPath("yourindustry_energy_wind2.aspx"))){%><div class="paging"><ul><li class="label">page 1 of 2</li><li>1</li><li><a href="yourindustry_energy_wind2.aspx">2</a></li><li><a href="yourindustry_energy_wind2.aspx">next</a></li></ul></div><%}%></div></div><!--#include virtual="Navigation/Footer.aspx"--></div></body></html>

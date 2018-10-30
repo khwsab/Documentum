@@ -1,0 +1,15 @@
+/*
+Core styles to match the main Mobil site.
+*/
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    padding: 25px 30px;
+    color: #333;
+    font-family: Arial, Helvetica, Sans-Serif;
+    font-size: 1em;
+    line-height: 1em;
+}

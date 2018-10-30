@@ -1,0 +1,27 @@
+{
+
+    
+	"slider": [{
+
+        "slide": "slide1",
+
+        "link": "http://www.mobiloil.com.tr/Turkey-Turkish-LCW/vanengineoils.aspx",
+
+        "img": "html5/images/615x274_hafifticari_ana_sayfa.jpg",
+
+        "main": "",
+
+        "title": "",
+
+        "subtitle": "",
+
+        "linkslide": "",
+
+        "active": "active",
+
+        "selector": "selector1"
+
+
+    }]
+
+}

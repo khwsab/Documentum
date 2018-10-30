@@ -1,0 +1,34 @@
+{
+
+    "slider": [{      
+        "slide": "slide1",
+        "link": "http://www.mobiloil.se/Sweden-Swedish-LCW/vanengineoils.aspx",
+        "img": "html5/images/615x274_light-duty-1-se.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector1"
+    }, {        
+        "slide": "slide2",
+        "link": "http://www.mobiloil.se/Sweden-Swedish-LCW/vanengineoils.aspx",
+        "img": "html5/images/615x274_light-duty-2-se.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector2"
+    }, {        
+        "slide": "slide3",
+        "link": "http://www.mobiloil.se/Sweden-Swedish-LCW/carengineoils_mobil-lubricant-selector.aspx",
+        "img": "html5/images/617x274_product-selector_se.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector3"
+    }]
+}

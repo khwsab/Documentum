@@ -1,0 +1,1 @@
+<asp:panel id="eCookiesPanel" Runat="server"><!--#include file="/Imports/eCookies/optIn_french.aspx" --><script>var enableCookies = 'true';var cookiesOption = 'OPT-IN';var languageCookieName = 'Benelux-French-LCW';cookiesLawInit();</script></asp:panel>
