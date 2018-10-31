@@ -96,7 +96,7 @@
                 <div id="mainContent_thin"><!-- googleoff: all -->
                     <script type="text/javascript">quickEditForm('0915881d81d8db03', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
-                        <div style="float:left" id="flash"> </div>
+                        <div style="float:left" id="flash">ï¿½</div>
                         <h1>Mobil 1&trade; ESP Formula 5W-30</h1>
                         <p xmlns="" align="left">
                             <a title="" target="" onclick="trackClick(this);" href="/Canada-English-LCW/Images/640x800_mobil1-esp-5w30.png" class="lightview"><img src="../Canada-English-LCW/Images/120x150_mobil1-esp-5w30.png" height="150" width="120" alt="Mobil 1 ESP Formula 5W30" title="Mobil 1 ESP Formula 5W30" align="left" border="15" hspace="5"></a>
@@ -159,7 +159,7 @@
                                         </tr>
                                         <tr>
                                             <td width="" height="" class="standard">Excellent low temperature capabilities</td><td width="" height="" class="standard">Quick cold weather starting and ultra fast protection<br>
-            Helps to extend engine life</td>
+                                                Helps to extend engine life</td>
                                         </tr></tbody></table>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Applications Content">
@@ -173,7 +173,106 @@
                                     <p xmlns="">
                                         <strong>Mobil 1 ESP Formula 5W-30 has the following builder approvals:&nbsp;&nbsp;</strong>
                                         <br>
-BMW Longlife 04 <br>
-Chrysler MS-11106 <br>
-GM dexos2 <br>
-Peugeot/Citroe
+                                        BMW Longlife 04 <br>
+                                        MB-Approval 229.31 <br>
+                                        MB-Approval 229.51 <br>
+                                        Volkswagen (Gasoline / Diesel) 504 00 / 507 00 <br>
+                                        Porsche C30 <br>
+                                        Chrysler MS-11106 <br>
+                                        Peugeot/Citroï¿½n Automobiles B71 2290&nbsp;/ B71 2297<br>
+                                        GM Dexos</p>
+                                        
+                                        <p xmlns="">
+                                            <strong>Mobil 1 ESP Formula 5W-30 meets or exceeds the requirements of:&nbsp;&nbsp; <br>
+    
+                                            </strong>ACEA C2, C3 <br>JASO DL-1</p>
+    
+                                        <p xmlns="">
+                                            <strong>According to Imperial Oil, Mobil 1 ESP Formula 5W-30 is of the following quality level:&nbsp;&nbsp; <br>
+    
+                                            </strong>API CF <br>
+                                            Volkswagen (Gasoline) 502 00 / 503 00 / 503 01 <br>
+                                            Volkswagen (Diesel) 505 00 / 505 01 / 506 00 / 506 01<br>
+                                            All VW engines with the exception of Unit-Injector / Pump-Duse TDI without LongLife Service and without DPF between 1999-2003 and R5/V10-TDi before model year 2006.</p>
+                                    </div>
+                                    <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Tech Details Content">
+                                        <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
+                                            <thead>
+                                                <tr>
+                                                    <th width="" scope="col" height="" class="standard">Mobil 1 ESP Formula 5W-30</th><th width="" scope="col" height="" class="standard">&nbsp;</th>
+                                                </tr>
+                                            </thead><tbody><tr>
+                                                <td width="" height="" class="standard">SAE Grade 5W-30</td><td width="" height="" class="standard">&nbsp;</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">Viscosity, cSt (ASTM D445)</td><td width="" height="" class="standard">&nbsp;</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">@ 40ï¿½C</td><td width="" height="" class="standard">72.8</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">@ 100ï¿½C</td><td width="" height="" class="standard">12.1</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">Viscosity Index</td><td width="" height="" class="standard">164</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">Sulphated Ash, wt% (ASTM D874)</td><td width="" height="" class="standard">0.6</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">HTHS Viscosity, mPa&bull;s @ 150 ï¿½C (ASTM D4683)</td><td width="" height="" class="standard">3.58</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">Pour Point, ï¿½C (ASTM D97)</td><td width="" height="" class="standard">-45</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">Flash Point, ï¿½C (ASTM D92)</td><td width="" height="" class="standard">254</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">Density @ 15.6 ï¿½C, g/ml (ASTM D4052)</td><td width="" height="" class="standard">0.850</td>
+                                            </tr></tbody></table>
+                                    </div>
+                                </td>
+                                <td valign="top" style="width: 10px; background-image:url('/Images/Tabs/box_Right.png'); background-repeat: repeat-y; background-color: #ffffff;" class="rightBorder">
+                                    <img src="/Images/Tabs/boxNoFade_RightUpper.png" alt=""/>
+                                </td>
+                            </tr>
+                            <tr id="tabsLower">
+                                <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerLeft">
+                                    <img src="/Images/Tabs/box_LeftLower.png" alt=""/>
+                                </td>
+                                <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle">ï¿½</td>
+                                <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerRight">
+                                    <img src="/Images/Tabs/box_RightLower.png" alt=""/>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                <div style="clear:both;width:100%;position:relative;"><!--#include file="Navigation/Footer.aspx" --></div>
+            </div><script type="text/javascript">  
+            var tabsdiv = document.getElementById("divTabs");
+            var tabs, tabId;
+        
+            //Get parameter
+            var parameters = location.search;
+            var index = parameters.indexOf('tabIndex=');
+            if (index != -1){
+                
+                var tabIndex = parameters.charAt(index+9);
+                if(tabsdiv.childNodes.length == 1)
+                {
+                tabs = tabsdiv.childNodes[0];
+                }else
+                {
+                tabs = tabsdiv.childNodes[1];
+                }
+                if(tabs.childNodes.length >= tabIndex)
+                {
+                tabId = tabs.childNodes[tabIndex-1].id;
+                showTab(tabId);        
+                location.href = location.href+"#"+ tabId;
+                }
+            }
+            </script></body>
+    </html>

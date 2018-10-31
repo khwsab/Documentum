@@ -7,7 +7,7 @@
     <head><meta http-equiv="X-UA-Compatible" content="IE=8">
         <title>Mobil&trade; Canada | Huiles Pour Moteurs de Voitures |&nbsp; Les produits | Mobil 1&trade; ESP Formula 5W-30</title>
         <meta name="keywords" content="Huiles Pour Moteurs de Voitures, Mobil 1&trade; ESP Formula 5W-30 ,&nbsp;engine oil, motor oil, lubricant"/>
-        <meta name="description" content="L&rsquo;huile Mobil 1&trade; ESP Formula 5W-30 est une huile à moteur synthétique à rendement évolué, formulée pour offrir des caractéristiques exceptionnelles de nettoyage, de protection contre l&rsquo;usure et de rendement general."/>
+        <meta name="description" content="L&rsquo;huile Mobil 1&trade; ESP Formula 5W-30 est une huile ï¿½ moteur synthï¿½tique ï¿½ rendement ï¿½voluï¿½, formulï¿½e pour offrir des caractï¿½ristiques exceptionnelles de nettoyage, de protection contre l&rsquo;usure et de rendement general."/>
         <meta name="date" content="2016-01-01"/>
         <meta name="language" content="fr"/>
         <meta http-equiv="Content-Language" content="fr"/>
@@ -96,13 +96,13 @@
                 <div id="mainContent_thin"><!-- googleoff: all -->
                     <script type="text/javascript">quickEditForm('0915881d81d8dac5', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
-                        <div style="float:left" id="flash"> </div>
+                        <div style="float:left" id="flash">ï¿½</div>
                         <h1>Mobil 1&trade; ESP Formula 5W-30</h1>
                         <p xmlns="" align="left">
                             <a title="" target="" onclick="trackClick(this);" href="/Canada-English-LCW/Images/640x800_mobil1-esp-5w30.png" class="lightview"><img src="../Canada-English-LCW/Images/120x150_mobil1-esp-5w30.png" height="150" width="120" alt="Mobil 1 15W-50" title="Mobil 1 15W-50" align="left" border="15" hspace="5"></a>
                         </p>
 
-                        <p xmlns="">L&rsquo;huile Mobil 1&trade; ESP Formula 5W-30 est une huile à moteur synthétique à rendement évolué, formulée pour offrir des caractéristiques exceptionnelles de nettoyage, de protection contre l&rsquo;usure et de rendement general. L&rsquo;huile Mobil 1 ESP Formula 5W-30 a été formulée par nos experts pour prolonger la durée de vie des systèmes de réduction des émissions et en préserver l&rsquo;efficacité dans les voitures à moteur diesel ou essence. L'huile Mobil 1 ESP Formula 5W-30 respecte ou surpasse les exigences de bon nombre d'exigences d'équipementiers et de fabricants automobiles visant les moteurs à essence et diesel des véhicules de passagers modernes.</p>
+                        <p xmlns="">L&rsquo;huile Mobil 1&trade; ESP Formula 5W-30 est une huile ï¿½ moteur synthï¿½tique ï¿½ rendement ï¿½voluï¿½, formulï¿½e pour offrir des caractï¿½ristiques exceptionnelles de nettoyage, de protection contre l&rsquo;usure et de rendement general. L&rsquo;huile Mobil 1 ESP Formula 5W-30 a ï¿½tï¿½ formulï¿½e par nos experts pour prolonger la durï¿½e de vie des systï¿½mes de rï¿½duction des ï¿½missions et en prï¿½server l&rsquo;efficacitï¿½ dans les voitures ï¿½ moteur diesel ou essence. L'huile Mobil 1 ESP Formula 5W-30 respecte ou surpasse les exigences de bon nombre d'exigences d'ï¿½quipementiers et de fabricants automobiles visant les moteurs ï¿½ essence et diesel des vï¿½hicules de passagers modernes.</p>
                     </div>
                     <table style="width: 454px   " id="tblTabs" cellspacing="0px" cellpadding="0" border="0">
                         <tr id="tabNav">
@@ -119,8 +119,8 @@
                                         <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Specs">
                                             <a href="#" onclick="javascript:showTab('Specs');">Specs</a>
                                         </li>
-                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Caractéristiques">
-                                            <a href="#" onclick="javascript:showTab('Caractéristiques');">Caractéristiques</a>
+                                        <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Caractï¿½ristiques">
+                                            <a href="#" onclick="javascript:showTab('Caractï¿½ristiques');">Caractï¿½ristiques</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -132,49 +132,149 @@
                             </td>
                             <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/boxNoFade_Upper.png'); background-repeat: repeat-x; background-color: #ffffff;" class="midBorder">
                                 <div style="width:434px; white-space:normal; padding-top:10px;display:block " class="divTabContent" id="Vue D'ensemble Content">
-                                    <p xmlns="">L'huile Mobil 1 ESP Formula 5W-30 est élaborée à partir d&rsquo;un mélange exclusif d'additifs de pointe et formulée pour être entièrement compatible avec les nouveaux filtres à particules diesel (DPF) et les convertisseurs catalytiques des moteurs à essence (CAT). L'huile Mobil 1 ESP Formula 5W-30 a été conçue pour contribuer à offrir un rendement et une protection remarquables et pour réduire la consommation de carburant. Les caractéristiques et avantages potentiels incluent:</p>
+                                    <p xmlns="">L'huile Mobil 1 ESP Formula 5W-30 est ï¿½laborï¿½e ï¿½ partir d&rsquo;un mï¿½lange exclusif d'additifs de pointe et formulï¿½e pour ï¿½tre entiï¿½rement compatible avec les nouveaux filtres ï¿½ particules diesel (DPF) et les convertisseurs catalytiques des moteurs ï¿½ essence (CAT). L'huile Mobil 1 ESP Formula 5W-30 a ï¿½tï¿½ conï¿½ue pour contribuer ï¿½ offrir un rendement et une protection remarquables et pour rï¿½duire la consommation de carburant. Les caractï¿½ristiques et avantages potentiels incluent:</p>
                                     <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
                                         <thead>
                                             <tr>
-                                                <th width="" scope="col" height="" class="standard">Caractéristiques</th><th width="" scope="col" height="" class="standard">Avantages et améliorations potentielles</th>
+                                                <th width="" scope="col" height="" class="standard">Caractï¿½ristiques</th><th width="" scope="col" height="" class="standard">Avantages et amï¿½liorations potentielles</th>
                                             </tr>
                                         </thead><tbody><tr>
-                                            <td width="" height="" class="standard">Faible teneur en cendres</td><td width="" height="" class="standard">Contribue à réduire l'accumulation de particules dans le filtre à particules des moteurs diesel.</td>
+                                            <td width="" height="" class="standard">Faible teneur en cendres</td><td width="" height="" class="standard">Contribue ï¿½ rï¿½duire l'accumulation de particules dans le filtre ï¿½ particules des moteurs diesel.</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Faible teneur en soufre et en phosphore</td><td width="" height="" class="standard">Contribue à réduire l'empoisonnement des convertisseurs catalytiques.</td>
+                                            <td width="" height="" class="standard">Faible teneur en soufre et en phosphore</td><td width="" height="" class="standard">Contribue ï¿½ rï¿½duire l'empoisonnement des convertisseurs catalytiques.</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Agents nettoyants actifs</td><td width="" height="" class="standard">Contribuent à réduire les dépôts et l'accumulation de boue afin de prolonger la vie et la propreté du moteur.</td>
+                                            <td width="" height="" class="standard">Agents nettoyants actifs</td><td width="" height="" class="standard">Contribuent ï¿½ rï¿½duire les dï¿½pï¿½ts et l'accumulation de boue afin de prolonger la vie et la propretï¿½ du moteur.</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Résistance remarquable à la chaleur et à l'oxydation</td><td width="" height="" class="standard">Contribue à réduire le vieillissement de l'huile afin de prolonger l'intervalle de vidange.</td>
+                                            <td width="" height="" class="standard">Rï¿½sistance remarquable ï¿½ la chaleur et ï¿½ l'oxydation</td><td width="" height="" class="standard">Contribue ï¿½ rï¿½duire le vieillissement de l'huile afin de prolonger l'intervalle de vidange.</td>
                                         </tr>
                                         <tr>
                                             <td width="" height="" class="standard">
                                                 <br>
-            Réduction de la consommation d'huile</td><td width="" height="" class="standard">Moins de pollution par hydrocarbures</td>
+            Rï¿½duction de la consommation d'huile</td><td width="" height="" class="standard">Moins de pollution par hydrocarbures</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Caractéristiques de frottement améliorées</td><td width="" height="" class="standard">Économie de carburant</td>
+                                            <td width="" height="" class="standard">Caractï¿½ristiques de frottement amï¿½liorï¿½es</td><td width="" height="" class="standard">ï¿½conomie de carburant</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Excellente capacité à basse temperature</td><td width="" height="" class="standard">Démarrages rapides par temps froids et protection ultrarapide<br>
-            Contribue à prolonger la durée du moteur</td>
+                                            <td width="" height="" class="standard">Excellente capacitï¿½ ï¿½ basse temperature</td><td width="" height="" class="standard">Dï¿½marrages rapides par temps froids et protection ultrarapide<br>
+            Contribue ï¿½ prolonger la durï¿½e du moteur</td>
                                         </tr></tbody></table>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Applications Content">
-                                    <p xmlns="">L'huile Mobil 1 ESP Formula 5W-30 est recommandée pour tous les types de moteurs automobiles modernes, particulièrement les moteurs diesel et à essence à haute performance qui se trouvent dans les plus récents modèles de véhicules de passager, de VUS et de camions légers.</p>
+                                    <p xmlns="">L'huile Mobil 1 ESP Formula 5W-30 est recommandï¿½e pour tous les types de moteurs automobiles modernes, particuliï¿½rement les moteurs diesel et ï¿½ essence ï¿½ haute performance qui se trouvent dans les plus rï¿½cents modï¿½les de vï¿½hicules de passager, de VUS et de camions lï¿½gers.</p>
                                     <ul xmlns="">
-                                        <li>L'huile Mobil 1 ESP Formula 5W-30 est particulièrement appropriée aux conditions extrêmes, dans lesquelles les huiles conventionnelles peuvent ne pas offrir un rendement adéquat.&nbsp;</li>
-                                        <li>Elle n'est pas conseillée pour les moteurs à deux temps ni les moteurs d'avion, sauf si elle est expressément approuvée par le constructeur.&nbsp;</li>
+                                        <li>L'huile Mobil 1 ESP Formula 5W-30 est particuliï¿½rement appropriï¿½e aux conditions extrï¿½mes, dans lesquelles les huiles conventionnelles peuvent ne pas offrir un rendement adï¿½quat.&nbsp;</li>
+                                        <li>Elle n'est pas conseillï¿½e pour les moteurs ï¿½ deux temps ni les moteurs d'avion, sauf si elle est expressï¿½ment approuvï¿½e par le constructeur.&nbsp;</li>
                                     </ul>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Specs Content">
                                     <p xmlns="">
-                                        <strong>L'huile Mobil 1 ESP Formula 5W-30 a reçu les homologations d'équipementiers suivantes :&nbsp;&nbsp;</strong>
+                                        <strong>L'huile Mobil 1 ESP Formula 5W-30 a reï¿½u les homologations d'ï¿½quipementiers suivantes :&nbsp;&nbsp;</strong>
                                         <br>
-BMW Longlife 04 <br>
-Chrysler MS-11106 <br>
-GM dexos2 <br>
-Peugeot/Citroe
+                                        BMW Longlife 04 <br>
+                                        MB-Approval 229,31 <br>
+                                        MB-Approval 229,51 <br>
+                                        Volkswagen (essence/diesel) 504 00 / 507 00 <br>
+                                        Porsche C30 <br>
+                                        Chrysler MS-11106 <br>
+                                        Peugeot/Citroï¿½n Automobiles B71 2290&nbsp;/ B71 2297<br>
+                                        GM Dexos</p>
+
+                                    <p xmlns="">
+                                        <strong>L'huile Mobil 1 ESP Formula 5W-30 respecte ou surpasse les exigences des spï¿½cifications :&nbsp;&nbsp;</strong>
+                                        <br>
+ACEA C2, C3&nbsp; <br>
+JASO DL-1</p>
+
+                                    <p xmlns="">
+                                        <strong>Selon la Pï¿½troliï¿½re Impï¿½riale, l'huile Mobil 1 ESP Formula 5W-30 prï¿½sente le niveau de qualitï¿½ suivant :&nbsp;&nbsp; </strong>
+                                        <br>
+API CF <br>
+Volkswagen (essence) 502 00 / 503 00 / 503 01 <br>
+Volkswagen (diesel) 505 00 / 505 01 / 506 00 / 506 01 <br>
+Tous les moteurs VW, sauf les moteurs Unit-Injector / Pump-Duse TDI sans LongLife Service et sans DPF, entre 1999 et 2003, et les moteurs R5/V10-TDi avant l'annï¿½e de modï¿½le 2006</p>
+                                </div>
+                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Caractï¿½ristiques Content">
+                                    <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
+                                        <thead>
+                                            <tr>
+                                                <th width="" scope="col" height="" class="standard">Mobil 1 ESP Formula 5W-30</th><th width="" scope="col" height="" class="standard">&nbsp;</th>
+                                            </tr>
+                                        </thead><tbody><tr>
+                                            <td width="" height="" class="standard">Grade SAE 5W-30</td><td width="" height="" class="standard">&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">Viscositï¿½, cSt (ASTM D445)</td><td width="" height="" class="standard">&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">@ 40 ï¿½C</td><td width="" height="" class="standard">72,8</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">@ 100 ï¿½C</td><td width="" height="" class="standard">12,1</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">Indice de viscositï¿½</td><td width="" height="" class="standard">164</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">Cendres sulfatï¿½es, % poids (ASTM D874)</td><td width="" height="" class="standard">0,6</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">Viscositï¿½ HTHS, mPa s @ 150 ï¿½C (ASTM D4683)</td><td width="" height="" class="standard">3,58</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">Point d'ï¿½coulement, ï¿½C (ASTM D 97)</td><td width="" height="" class="standard">-45</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">Point d'ï¿½clair (ï¿½C, ASTM D 92)</td><td width="" height="" class="standard">254</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">Masse volumique @15,6 ï¿½C (ASTM D 4052)</td><td width="" height="" class="standard">0,850</td>
+                                        </tr></tbody></table>
+                                </div>
+                            </td>
+                            <td valign="top" style="width: 10px; background-image:url('/Images/Tabs/box_Right.png'); background-repeat: repeat-y; background-color: #ffffff;" class="rightBorder">
+                                <img src="/Images/Tabs/boxNoFade_RightUpper.png" alt=""/>
+                            </td>
+                        </tr>
+                        <tr id="tabsLower">
+                            <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerLeft">
+                                <img src="/Images/Tabs/box_LeftLower.png" alt=""/>
+                            </td>
+                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle">ï¿½</td>
+                            <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerRight">
+                                <img src="/Images/Tabs/box_RightLower.png" alt=""/>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <div style="clear:both;width:100%;position:relative;"><!--#include file="Navigation/Footer.aspx" --></div>
+        </div><script type="text/javascript">  
+        var tabsdiv = document.getElementById("divTabs");
+        var tabs, tabId;
+    
+        //Get parameter
+        var parameters = location.search;
+        var index = parameters.indexOf('tabIndex=');
+        if (index != -1){
+            
+            var tabIndex = parameters.charAt(index+9);
+            if(tabsdiv.childNodes.length == 1)
+            {
+            tabs = tabsdiv.childNodes[0];
+            }else
+            {
+            tabs = tabsdiv.childNodes[1];
+            }
+            if(tabs.childNodes.length >= tabIndex)
+            {
+            tabId = tabs.childNodes[tabIndex-1].id;
+            showTab(tabId);        
+            location.href = location.href+"#"+ tabId;
+            }
+        }
+        </script></body>
+</html>                                        
