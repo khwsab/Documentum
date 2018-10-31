@@ -68,14 +68,11 @@
                     <div style="z-index:450;">
                         <script type="text/javascript">quickEditForm("0915881d8172a077", "/Content/Feature",true,"../forms/LCWLandingFeature","","790px","700px","Landing Page Feature and Subfeatures","","pencil.gif","210px");</script>
                     </div><!-- googleon: all -->
-                    <div id="mainFeature">
-                        <p xmlns="">
-                            <img src="../Shared-Images-LCW/article_150x150_porsche-panamera_gbl.jpg" height="150" width="150" alt="Prodotti autotrazione" title="Prodotti autotrazione" align="left" border="0" hspace="0" class="imgFloatLeft"></p>
-
-                        <h2 xmlns="">Oli motore</h2>
-
-                        <p xmlns="">Già da prima che venisse inventata la prima automobile a benzina, i prodotti Mobil&trade; hanno fatto funzionare macchinari e facilitato la vita in movimento delle persone. Dal primo volo dei fratelli Wright al lancio della stazione spaziale, dalle prime automobili alle monoposto da Gran Premio di ultima generazione, milioni di veicoli hanno mantenuto nel tempo prestazioni ottimali grazie agli oli Mobil.<br>
-Sulla base delle informazioni da voi indicate, la nostra applicazione <a title="" target="_self" onclick="trackClick(this);" href="/Italy-Italian-LCW/carengineoils_oil-selector.aspx" class="">quale olio </a>vi aiuterà ad individuare l'olio Mobil più adatto alla vostra autovettura.</p> </div>
+                    <div style="width:65%; float:left;">
+                            <p xmlns="">
+                                <img src="./html5/images/Banner-Box-Mobil1.gif" alt="Mobil" title="Mobil" align="left" border="0" hspace="0" class="imgFloatLeft">
+                            </p>
+                    </div>
             <div id="subfeatureCallouts">
                     <div style="background-image:url(/Shared-Images-LCW/callout_224x135_mobil-lubricant-selector_eame.jpg);" class="callout top">
                         <div class="frame01BL">
@@ -93,9 +90,16 @@ Sulla base delle informazioni da voi indicate, la nostra applicazione <a title="
                         </div>
                     </div>
             </div>
-          
+            <div id="mainFeature" style="width: 100%;">
+                    <p xmlns="">
+                        <img src="../Shared-Images-LCW/article_150x150_porsche-panamera_gbl.jpg" height="150" width="150" alt="Prodotti autotrazione" title="Prodotti autotrazione" align="left" border="0" hspace="0" class="imgFloatLeft"></p>
+
+                    <h2 xmlns="">Oli motore</h2>
+
+                    <p xmlns="">Già da prima che venisse inventata la prima automobile a benzina, i prodotti Mobil&trade; hanno fatto funzionare macchinari e facilitato la vita in movimento delle persone. Dal primo volo dei fratelli Wright al lancio della stazione spaziale, dalle prime automobili alle monoposto da Gran Premio di ultima generazione, milioni di veicoli hanno mantenuto nel tempo prestazioni ottimali grazie agli oli Mobil.<br>
+                    Sulla base delle informazioni da voi indicate, la nostra applicazione <a title="" target="_self" onclick="trackClick(this);" href="/Italy-Italian-LCW/carengineoils_oil-selector.aspx" class="">quale olio </a>vi aiuterà ad individuare l'olio Mobil più adatto alla vostra autovettura.</p> </div>
           </div>
-          
+
                     <div class="layoutRow clrfix">
                         <div class="subfeature csingle cleft"><!-- googleoff: all -->
                             <script type="text/javascript">quickEditForm("0915881d8172a077", "/Content/SLeftColumn/Section",true,"../forms/LCWLandingColumns","20px","820px","700px","Left Landing Page Column","","pencil.gif","");</script><!-- googleon: all --><div xmlns="" class="headerbar">
