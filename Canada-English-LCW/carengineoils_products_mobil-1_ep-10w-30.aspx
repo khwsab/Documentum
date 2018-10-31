@@ -217,7 +217,14 @@ Mobil 1 Extended Performance 5W-30 is approved for GM dexos1</p>&#160;</div>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Specs Content">
                                     <p xmlns="">
-
+                                        <strong>Mobil 1 Extended Performance 10W-30 meets or exceeds the requirements of:</strong>
+                                        <br>
+                                        <p>ILSAC GF-5<br>
+                                            API SN, SM, SL, SJ<br>
+                                            API SN PLUS<br>
+                                            API SN PLUS RESOURCE CONSERVING<br>
+                                            ACEA A1/B1, A5/B5
+                                        </p>
                                         <table width="100%" summary="" class="standard" cellspacing="0" border="0">
                                             <thead>
                                                 <tr>
