@@ -66,24 +66,22 @@
             <div id="mainPanel" class="clrfix"><!-- googleoff: all -->
                 <script type="text/javascript">quickEditForm('0915881d81da48e4','/Content',false,'../forms/LCWLeftNav','','500px','300px','Display/Hide Left Navigation','','pencil.gif','10px');</script><!-- googleon: all -->
                 <div id="sideBar" class="clrfix"><xom:Navigation ID="LeftNav" runat="server" /><!--#include file="Navigation/QuickLinks_heavydutyoils.aspx"--></div>
-                <div id="mainContent"><div class="layoutRow clrfix"><!-- googleoff: all -->
+                <div id="mainContent">
+                    <div class="layoutRow clrfix"><!-- googleoff: all -->
                     <div style="z-index:450;">
                         <script type="text/javascript">quickEditForm("0915881d81da48e4", "/Content/Feature",true,"../forms/LCWLandingFeature","","790px","700px","Landing Page Feature and Subfeatures","","pencil.gif","210px");</script>
                     </div><!-- googleon: all -->
-                    <div id="mainFeature">
+                    <div style="width:65%; float:left;">
                         <p xmlns="">
-                            <img src="../Shared-Images-LCW/article_150x150_euro-truck_eame.jpg" height="150" width="150" alt="Mobil Delvac" title="Mobil Delvac" align="left" border="0" hspace="0" class="imgFloatLeft"></p>
-
-                        <h1 xmlns="">Mobil Delvac&trade;</h1>
-
-                        <p xmlns="">Dalla sua introduzione nel 1925, in tutto il mondo ed in tutte le condizioni ambientali, Mobil Delvac&nbsp; contribuisce a prolungare la durata dei motori dei mezzi pesanti favorendo elevate prestazioni dei motori stessi e dei&nbsp; sistemi di trasmissione.<br>
-Nel corso degli anni, Mobil Delvac è diventato sinonimo di eccellenza nella lubrificazione. L&rsquo;impegno nel campo della ricerca, dello sviluppo tecnologico e una forte presenza internazionale, hanno portato Mobil Delvac ad essere uno dei marchi di olio motore per mezzi&nbsp; pesanti&nbsp; più utilizzati al mondo.</p> </div>
+                            <img src="./html5/images/Banner-Box-MobilDelvac.gif" alt="Mobil Delvac" title="Mobil Delvac" align="left" border="0" hspace="0" class="imgFloatLeft">
+                        </p>
+                    </div>
             <div id="subfeatureCallouts">
                     <div style="background-image:url(/Italy-Italian-LCW/Images/callout_244x135_italy-map.png.png);" class="callout top">
                         <div class="frame01BL">
                             <div class="frame01TL">
                         <div class="frame01TR"></div>
-                      </div>
+                            </div>
                             <div class="frame01BR clrfix">
                                 <div style="padding-right: 55px;" class="content">
                                     <h2>
@@ -98,7 +96,7 @@ Nel corso degli anni, Mobil Delvac è diventato sinonimo di eccellenza nella lubr
                         <div class="frame01BL">
                             <div class="frame01TL">
                         <div class="frame01TR"></div>
-                      </div>
+                            </div>
                             <div class="frame01BR clrfix">
                                 <div style="padding-right: 55px;" class="content">
                                     <h2>
@@ -110,9 +108,16 @@ Nel corso degli anni, Mobil Delvac è diventato sinonimo di eccellenza nella lubr
                         </div>
                     </div>
             </div>
-          
-          </div>
-          
+            <div id="mainFeature" style="width: 100%;">
+                    <p xmlns="">
+                        <img src="../Shared-Images-LCW/article_150x150_euro-truck_eame.jpg" height="150" width="150" alt="Mobil Delvac" title="Mobil Delvac" align="left" border="0" hspace="0" class="imgFloatLeft"></p>
+
+                    <h1 xmlns="">Mobil Delvac&trade;</h1>
+
+                    <p xmlns="">Dalla sua introduzione nel 1925, in tutto il mondo ed in tutte le condizioni ambientali, Mobil Delvac&nbsp; contribuisce a prolungare la durata dei motori dei mezzi pesanti favorendo elevate prestazioni dei motori stessi e dei&nbsp; sistemi di trasmissione.<br>
+                    Nel corso degli anni, Mobil Delvac è diventato sinonimo di eccellenza nella lubrificazione. L&rsquo;impegno nel campo della ricerca, dello sviluppo tecnologico e una forte presenza internazionale, hanno portato Mobil Delvac ad essere uno dei marchi di olio motore per mezzi&nbsp; pesanti&nbsp; più utilizzati al mondo.</p>
+            </div>
+            </div>
                     <div class="layoutRow clrfix">
                         <div class="subfeature csingle cleft"><!-- googleoff: all -->
                             <script type="text/javascript">quickEditForm("0915881d81da48e4", "/Content/SLeftColumn/Section",true,"../forms/LCWLandingColumns","20px","820px","700px","Left Landing Page Column","","pencil.gif","");</script><!-- googleon: all --><div xmlns="" class="headerbar">

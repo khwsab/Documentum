@@ -222,40 +222,21 @@ aux spécifications dexos1 (MC) certifié</p>&#160;</div>
                                     </ul>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Spécs Content">
-                                    <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
-                                        <thead>
-                                            <tr>
-                                                <th width="" scope="col" height="" class="standard">L'huile Mobil 1 Extended Performance 10W-30 atteint ou dépasse les exigences ::</th><th width="" scope="col" height="" class="standard">&nbsp;</th>
-                                            </tr>
-                                        </thead><tbody><tr>
-                                            <td width="" height="" class="standard">ILSAC</td><td width="" height="" class="standard">GF-5</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">API</td><td width="" height="" class="standard">SN,SM,SL,SJ</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">ACEA</td><td width="" height="" class="standard">A1/B1</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Ford</td><td width="" height="" class="standard">&nbsp;</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Ford</td><td width="" height="" class="standard">&nbsp;</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Honda /Acura</td><td width="" height="" class="standard">&nbsp;</td>
-                                        </tr></tbody></table>
+                                    <strong>L'huile Mobil 1 Extended Performance 10W-30 atteint ou dépasse les exigences :</strong>
+                                    <br>
+                                    <p>ILSAC GF-5<br>
+                                        API SN, SM, SL, SJ<br>
+                                        API SN PLUS<br>
+                                        API SN PLUS RESOURCE CONSERVING<br>
+                                        ACEA A1/B1, A5/B5
+                                    </p>
 
                                     <p xmlns="">
-                                        <strong>Selon la Pétrolière Impériale, l'huile Mobil 1 Extended Performance 10W-30 est du niveau de qualité :&nbsp;</strong>
-                                        <br>
-General Motors 4718M</p>
-
-                                    <p xmlns="">
-                                        <strong>Selon la Pétrolière Impériale, l'huile Mobil 1 Extended Performance 10W-30 est du niveau de qualité :&nbsp;<br>
-
-                                        </strong>General Motors 6094M<br>
-API CF</p>
+                                        <strong>Selon la Pétrolière Impériale, l'huile Mobil 1 Extended Performance 10W-30 est du niveau de qualité :&nbsp;</strong><br>
+                                        General Motors 6094M<br>
+                                        General Motors 4718M<br>
+                                        API CF
+                                    </p>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Caractéristiques Content">
                                     <p xmlns="">

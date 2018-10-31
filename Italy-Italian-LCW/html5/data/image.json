@@ -3,7 +3,7 @@
     "slider": [{
         "slide": "slide1",
         "link": "https://carburanti.esso.it/diesel",
-        "img": "html5/images/615x274_esso_italy.jpg",
+        "img": "html5/images/Esso_Italy_Statics_615x274_LCW_100k.jpg",
         "main": "",
         "title": "",
         "subtitle": "",
@@ -21,7 +21,7 @@
         "active": "",
         "selector": "selector2"
     }, {
-		 "slide": "slide3",
+		"slide": "slide3",
         "link": "https://carburanti.esso.it/explore/index.php#video",
         "img": "html5/images/615x274_Flashbox_frames_IT.jpg",
         "main": "",
@@ -31,7 +31,7 @@
         "active": "",
         "selector": "selector3"
     }, {
-"slide": "slide4",
+        "slide": "slide4",
         "link": "https://carburanti.esso.it/v1/explore/index.php#video",
         "img": "html5/images/615x274_esso_servitissimo_mobil.jpg",
         "main": "",
