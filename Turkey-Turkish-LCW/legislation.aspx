@@ -299,7 +299,7 @@
                         </ul>
 
                         <p xmlns="">
-                            <u><strong>Ki&#351;isel Verilerin Korunmas&#305;</strong></u>
+                            <u><strong>MOTA? Veri Gizlili?i Politikas?</strong></u>
                             <br>
 &nbsp;</p>
 
