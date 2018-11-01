@@ -1,0 +1,11 @@
+<banners>
+
+<banner image="/Canada-French-LCW/Flash/615x274_canada_nip_pvl_fr.swf" link="/Canada-French-LCW/promotion_mobil.aspx" tracking="PVL" type="SWF" thumbnail="/Canada-French-LCW/Images/50x40_nip_pvl_thumbnail_fr.jpg" target="_self"></banner>
+
+<banner image="/Canada-French-LCW/Flash/615x274_canada_nip_cvl_fr.swf" link="/Canada-French-LCW/promotion_mobil_delvac.aspx" tracking="PVL" type="SWF" thumbnail="/Canada-French-LCW/Images/50x40_nip_cvl_thumbnail_fr.jpg" target="_self"></banner>
+
+<banner image="/Canada-French-LCW/Flash/615x274_nascar-sweepstake-2016-fr.swf" link="/Canada-French-LCW/heavydutyengineoils_nascar-experience-2016.aspx" tracking="CVL" type="SWF" thumbnail="/canada-french-lcw/flash/50x40_nascar-thumb-fr.jpg" target="_self"></banner>
+
+<banner image="/Benelux-Dutch-LCW/Flash/dist_endless_road_trip_615x274_nl.swf" link="http://www.mobil-1.nl/in-de-motorsport/endless-roadtrip.aspx?utm_source=mobil-home&utm_medium=mobil&utm_content=homepage-banner&utm_campaign=endless-road-trip <http://www.mobil-1.nl/in-de-motorsport/endless-roadtrip.aspx?utm_source=mobil-home&utm_medium=mobil&utm_content=homepage-banner&utm_campaign=endless-road-trip> " tracking="PVL" type="SWF" thumbnail="/benelux-dutch-lcw/flash/media_50x40_motorsport.jpg" target="_self"></banner>
+
+</banners>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<translations>
+
+	<common>
+	
+		<skip_movie>Ohita elokuva</skip_movie>>
+		<enter>Eteenpäin</enter>
+		<read_more>Lue lisää</read_more>
+		<intro_headline><![CDATA[Puskurista puskuriin |suositukset |rekkaasi]]></intro_headline>
+		<intro_copy><![CDATA[Mobil Delvac synteettiset tuotteet ovat oikea valinta sinulle.<br><br>Synteettisten automaattivaihteistojen ja vaihteistoöljyjen tuotevalikoimamme on kehitetty erityisesti raskaalle kalustolle ja auttaa saavuttamaan suojan erittäin haastavissa olosuhteissa.<br><br>Yhdistettynä laajaan valikoimaan synteettisiä moottoriöljyjä, Mobil Delvac tarjoaa sinulle tuotekokonaisuuden, joka kattaa raskaan kalustosi vaatimukset.]]></intro_copy>
+	
+	</common>
+	
+	
+	
+	<navigation>
+	
+	
+	
+		<item>
+			<title><![CDATA[Moottoriöljyt]]></title>
+			<intro_copy>Mobil Delvac™ -moottoriöljyt soveltuvat raskaille, keskiraskaille ja kevyille hyötyajoneuvoille, ja ne auttavat saavuttamaan moottorin pitkän käyttöiän ja entistä pidemmät huoltovälit. </intro_copy>
+			<products>Mobil Delvac 1™ LE 5W-30, Mobil Delvac 1™ 5W-40, Mobil Delvac™ XHP LE 10W-40, Mobil Delvac™ XHP Extra 10W-40, Mobil Delvac™ MX ESP 10W-30, Mobil Delvac™ MX ESP 15W-40</products>
+			<label_coords>224, 287</label_coords>
+			<zoom_to>-180, -526</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[Ohjaustehostin]]></title>
+			<intro_copy>Mobil ATF™ -voiteluaineet parantavat kestävyyttä, pitävät vaihteiston puhtaana, tuottavat pehmeän vaihteenvaihdon ja pidentävät vaihteiston käyttöikää kaikissa käyttöolosuhteissa.</intro_copy>
+			<products>Mobil ATF™ 320, Mobil ATF™ 220</products>
+			<label_coords>333, 344</label_coords>
+			<zoom_to>-394, -591</zoom_to>
+		</item>
+				
+		<item>
+			<title><![CDATA[Voitelurasvat]]></title>
+			<intro_copy>Mobilin erittäin suorituskykyiset voitelurasvat antavat ensiluokkaisen suojan hapettumista ja kosteutta vastaan. Lisäksi ne tarjoavat erinomaiset korroosionesto- ja virtausominaisuudet myös erittäin matalissa lämpötiloissa.</intro_copy>
+			<products>Mobilgrease XHP™ 222</products>
+			<label_coords>562, 254</label_coords>
+			<zoom_to>-856, -459</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[Taka-akselin<br> voiteluaineet]]></title>
+			<intro_copy>Mobil Delvac™ -voiteluaineet on kehitetty kuorma-autojen voimansiirtoa, akseleita ja vetopyörästöä ajatellen niin, että ne toimivat kaikkein vaativimmissakin olosuhteissa. </intro_copy>
+			<products>Mobilube 1 SHC™ 75W-90, Mobil™ Delvac Synthetic Gear Oil 75W-90</products>
+			<label_coords>491, 228</label_coords>
+			<zoom_to>-697, -426</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[Manuaali - ja<br> automaattivaihteisto]]></title>
+			<intro_copy>Mobil™-vaihteistoöljyissä on synteettisiä tuotteita, jotka tarjoavat erinomaisen suojan korkeita lämpötiloja ja nopeaa kulumista vastaan antaen samalla ylivoimaisen suorituskyvyn myös kylmissä lämpötiloissa.</intro_copy>
+			<products>Mobil Delvac™ Synthetic ATF, Mobilube 1 SHC™ 75W-90, Mobilube XHP™ 75W-80</products>
+			<label_coords>356, 261</label_coords>
+			<zoom_to>-450, -468</zoom_to>
+	</item>
+		
+	
+		
+	</navigation>
+
+
+
+	
+	<products>
+	
+	<!--Engine Oils--> 
+	
+		<item>
+			<product_name>Mobil Delvac 1™ LE 5W-30</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-1-le-5w30.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac 1 LE 5W-30 on täyssynteettinen, erittäin suorituskykyinen dieselmoottoriöljy, jossa yhdistyy nykyaikaisten vähäpäästöisten ajoneuvojen moottoreiden suojaus ja paremman polttoainetalouden potentiaali1 ja muut kestävää kehitystä koskevat edut kuten, moottorin kestävyys, pakokaasujärjestelmien suojaus ja pidennetyt öljynvaihtovälit. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.fi/Finland-Finnish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx?WT.mc_id=Mobil-Delvac-1-LE-5W-30]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil Delvac 1™ 5W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-1-5w40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac 1 5W-40 on erittäin suorituskykyinen täyssynteettinen dieselmoottoriöljy, jonka voiteluteho on omaa luokkaansa. Se tarjoaa nykyaikaisille vaikeissa oloissa toimiville moottoreille mahdollisuuden pitkiin öljynvaihtoväleihin, paremman polttoainetaloudellisuuden ja entistä pidemmän käyttöiän. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.fi/Finland-Finnish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-1-5W40.aspx?WT.mc_id=Mobil-Delvac-15W-40]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil Delvac™ XHP LE 10W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-xhp-le-10w40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac XHP LE 10W-40 on synteettinen, erittäin suorituskykyinen dieselmoottoriöljy, joka on kehitetty erityisesti voitelemaan vaativissa olosuhteissa toimivia nykyaikaisia, suorituskykyisiä ja matalapäästöisiä moottoreita. Tämä moottoriöljy on valmistettu korkealaatuisista perusöljyistä, joiden ansiosta sillä on hyvä juoksevuus alhaisissa lämpötiloissa ja hyvä viskositeetin säilyminen kuumissa oloissa sekä pieni haihtuvuus. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.fi/Finland-Finnish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-xhp-le-10w40.aspx?WT.mc_id=Mobil-Delvac-XHP-LE-10W-40]]></product_link>
+		</item>
+		
+			<item>
+			<product_name>Mobil Delvac™ XHP Extra 10W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-xhp-extra-10w40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac XHP Extra 10W-40 on synteettinen, erittäin suorituskykyinen dieselmoottoriöljy, joka on valmistettu erityisesti suojaamaan vaativissa olosuhteissa toimivaa nykyaikaista liikkuvaa kalustoa. Tämä dieselmoottoriöljy on tehty korkealaatuisista perusöljyistä, joiden ansiosta sillä on hyvä juoksevuus alhaisissa lämpötiloissa, hyvä viskositeetin säilyminen kuumissa oloissa, alhainen haihtuvuus, ja lisäksi se parantaa polttoainetaloutta.  ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.fi/Finland-Finnish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-xhp-extra-10w40.aspx?WT.mc_id=Mobil-Delvac-XHP-Extra-10W-40]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil Delvac™ MX ESP 10W-30</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-mx-esp-10w30.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac MX ESP 10W-30 on erittäin suorituskykyinen dieselmoottoriöljy, joka auttaa pidentämään moottorin kestoikää jopa kaikkein vaativimmissa maantie- ja työmaaolosuhteissa, samalla kun se tarjoaa erinomaisen suorituskyvyn nykyaikaisissa, tehokkaissa dieselmoottoreissa, jotka hyödyntävät EGR-tekniikkaa sekä hiukkasuodattimilla (DPF) ja hapetuskatalysaattoreilla (DOC) varustettuja jälkikäsittelyjärjestelmiä.  ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.fi/Finland-Finnish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-mx-esp-10w30.aspx?WT.mc_id=Mobil-Delvac-MX-ESP-10W-30]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil Delvac™ MX ESP 15W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-mx-esp-15w40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac MX ESP 15W-40 on erittäin suorituskykyinen dieselmoottoriöljy, joka auttaa pidentämään moottorin kestoikää jopa kaikkein vaativimmissa maantie- ja työmaaolosuhteissa, samalla kun se tarjoaa erinomaisen suorituskyvyn nykyaikaisissa, tehokkaissa dieselmoottoreissa, jotka hyödyntävät EGR-tekniikkaa sekä hiukkasuodattimilla (DPF) ja hapetuskatalysaattoreilla (DOC) varustettuja jälkikäsittelyjärjestelmiä. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.fi/Finland-Finnish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-mx-esp-15w-40.aspx?WT.mc_id=Mobil-Delvac-MX-ESP-15W-40]]></product_link>
+		</item>
+		
+		<!--End of Engine Oils--> 
+		
+		
+		
+		<!--Power steering fluids--> 
+		
+		<item>
+			<product_name>Mobil ATF™ 320</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-atf-320.png</image_name>
+			<product_description><![CDATA[</li>Mobil ATF 320 on erittäin suorituskykyinen automaattivaihteistoöljy.
+Mobil ATF 320 -öljyä suositellaan useimpien henkilöautojen ja ammattiajoneuvojen automaattivaihteistoihin. Se soveltuu myös ohjaustehostimiin, hydraulisiin sovelluksiin ja joihinkin manuaalivaihteistoihin, joissa edellytetään automaattivaihteistoöljyn käyttöä.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.fi/Finland-Finnish-LCW/heavydutyoils_products_power-steering_mobil-atf-320.aspx?WT.mc_id=Mobil-ATF-320]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil ATF™ 220</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-atf-220.png</image_name>
+			<product_description><![CDATA[</li>Mobil ATF 220 on erittäin suorituskykyinen automaattivaihteistoöljy, joka on tarkoitettu vanhempiin, Dexron IID -luokituksen mukaista öljyä vaativiin autoihin. Lisäksi öljy sopii tiettyjen järjestelmien hydrauliikkaöljyksi.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.fi/Finland-Finnish-LCW/heavydutyoils_products_power-steering_mobil-atf-220.aspx?WT.mc_id=Mobil-ATF-220]]></product_link>
+		</item>
+		
+		
+		<!--End of Power steering fluids--> 
+		
+		
+		
+		<!--Start of Lubricating Greases--> 
+		
+			
+		<item>
+			<product_name>Mobilgrease XHP™ 222</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_grease-gun-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobilgrease XHP 220 -sarjan rasvat ovat erittäin kestäviä litiumkompleksiperustaisia korkeapainerasvoja, jotka soveltuvat hyvin monenlaiseen raskaaseen käyttöön ja vaihteleviin olosuhteisiin. Näillä rasvoilla on tavanomaisia tuotteita parempi suorituskyky, koska niissä käytetään ainutlaatuista litiumkompleksiin perustuvaa valmistustekniikkaa.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.fi/Finland-Finnish-LCW/heavydutyoils_products_greases_mobil-grease-xhp-222.aspx?WT.mc_id=Mobilgrease-XHP-222]]></product_link>
+		</item>
+		
+		<!--End of Lubricating Greases--> 
+		
+		
+		
+		
+		
+		
+		<!--Start of Rear axle lubricants--> 
+		
+		
+		<item>
+			<product_name>Mobilube 1 SHC™ 75W-90</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobilube-1-shc-75w90.png?WT.mc_id=Mobilube-1-SHC-75W-90</image_name>
+			<product_description><![CDATA[</li>Mobilube 1 SHC 75W-90 on täyssynteettinen, suorituskykyinen ammattikäyttöön tarkoitettu vaihteistoöljy, joka valmistetaan edistyksellisistä perusöljyistä ja viimeisimmän teknologian mukaisista lisäaineista. Vaihteistoöljy on tarkoitettu raskaassa käytössä oleviin manuaalivaihteistoihin ja taka-akseleihin, jotka vaativat erinomaista kuormankantokykyä vaihtelevissa lämpötiloissa ja joissa esiintyy äärimmäisiä paineita ja iskukuormituksia.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.fi/Finland-Finnish-LCW/heavydutyoils_products_rear-axle_mobilube-1-shc-75w90.aspx]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil™ Delvac Synthetic Gear Oil 75W-90</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_axel-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac Synthetic Gear Oil 75W-90 on täyssynteettinen rautatiekalustolle tarkoitettu voiteluaine. Suunniteltu äärimmäisen vaativiin ja raskaisiin rautatieolosuhteisiin, missä tarvitaan loistavaa kuormankantokykyä ja missä laitteisto altistuu äärimmäisille paineille ja iskukuormituksille.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.fi/Finland-Finnish-LCW/heavydutyoils_products_rear-axle_mobil-delvac-synthetic-gear-oil-75w90.aspx?WT.mc_id=Mobil-Delvac-Synthetic-Gear-Oil-75W-90 ]]></product_link>
+		</item>
+		
+	
+		
+		<!--End of Rear axle lubricants--> 
+		
+		
+		
+		
+		<!--Start of manual and automatic transmission--> 
+		
+			<item>
+			<product_name>Mobil Delvac™ Synthetic ATF</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_transmission-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac Synthetic ATF on Allison Transmission, Inc:n suosittelema, Allison TES-295 -spesifikaation mukaan hyväksytty täyssynteettinen vaihteistoöljy. Öljy on suunniteltu täyttämään nykyaikaisten, raskaassa käytössä olevien automaattivaihteistojen asettamat tiukat vaatimukset. Synteettinen perusöljykoostumus mahdollistaa erinomaisen suorituskyvyn jopa ankarimmissakin toimintaolosuhteissa. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.fi/Finland-Finnish-LCW/heavydutyoils_products_transmission_mobil-delvac-synthetic-atf.aspx?WT.mc_id=Mobil-Delvac-Synthetic-ATF]]></product_link>
+		</item>
+		
+			<item>
+			<product_name>Mobilube 1 SHC™ 75W-90</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/test_packshot1.png</image_name>
+			<product_description><![CDATA[</li>obilube 1 SHC 75W-90 on täyssynteettinen, suorituskykyinen ammattikäyttöön tarkoitettu vaihteistoöljy, joka valmistetaan edistyksellisistä perusöljyistä ja viimeisimmän teknologian mukaisista lisäaineista. Vaihteistoöljy on tarkoitettu raskaassa käytössä oleviin manuaalivaihteistoihin ja taka-akseleihin, jotka vaativat erinomaista kuormankantokykyä vaihtelevissa lämpötiloissa ja joissa esiintyy äärimmäisiä paineita ja iskukuormituksia.  ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.fi/Finland-Finnish-LCW/heavydutyoils_products_rear-axle_mobilube-1-shc-75w90.aspx?WT.mc_id=Mobilube-1-SHC-75W-90]]></product_link>
+		</item>
+		
+
+		
+			<item>
+			<product_name>Mobilube XHP™ 75W-80</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_transmission-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobilube XHP 75W-80 on erittäin suorituskykyinen manuaalivaihteistoöljy uusimpiin eurooppalaisiin, raskaassa tieliikenteessä oleviin hyötyajoneuvoihin ja autoihin. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.fi/Finland-Finnish-LCW/heavydutyoils_products_transmission_mobilube-xhp-75w80.aspx?WT.mc_id=Mobilube-XHP-75W-80]]></product_link>
+		</item>
+		
+		
+			
+			<!--End of manual and automatic transmission--> 
+	
+	</products>
+
+</translations>

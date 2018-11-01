@@ -1,0 +1,18 @@
+<banners>
+
+<banner image="/Italy-Italian-LCW/Flash/615x274_esso_it_servitissimo.swf" link="http://carburanti.esso.it/servitissimo" tracking="PVL" type="SWF" thumbnail="/uk-english-lcw/flash/media_50x40_fuelprogress.jpg" target="_self"></banner>
+
+<banner image="/Italy-Italian-LCW/Flash/615x274_payback_promo2.swf" link="http://www.payback.it/esso?incid=01_15180_103" tracking="PVL" type="SWF" thumbnail="/uk-english-lcw/flash/media_50x40_fuelprogress.jpg" target="_self"></banner>
+
+<banner image="/Italy-Italian-LCW/Flash/615x274_delvac90years_it.swf" link="/Italy-Italian-LCW/heavydutyengineoils_products.aspx" tracking="PVL" type="SWF" thumbnail="/Shared-Images-LCW/50x40_90_Years_Shield_Colour_white-English.jpg" target="_self"></banner>
+
+<banner image="/Italy-Italian-LCW/Flash/media_615x274_cvl-alr.swf" link="/Italy-Italian-lcw/which-oil.aspx" tracking="CVL" type="SWF" thumbnail="/UK-English-LCW/Flash/media_50x40_alr.jpg" target="_self"></banner>
+
+<banner image="/Italy-Italian-LCW/Flash/615x274_save-fuel.swf" link="/italy-italian-lcw/heavydutyengineoils_mobil-delvac-fuel-saving-millbrook.aspx" tracking="PVL" type="SWF" thumbnail="/Italy-Italian-LCW/Flash/50x40-save-fuel.png" target="_self"></banner>
+
+
+<banner image="/Italy-Italian-LCW/Flash/615x274-delvac-1-le-5w30-it.swf" link="/italy-italian-lcw/heavydutyengineoils_mobil-delvac-fuel-saving-millbrook.aspx" tracking="PVL" type="SWF" thumbnail="/Italy-Italian-LCW/Flash/50x40-save-fuel.png" target="_self"></banner>
+
+
+</banners>
+

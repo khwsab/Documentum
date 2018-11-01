@@ -6,7 +6,7 @@
     </div>
     <ul>
         <li>
-            <a title="" target="" onclick="trackClick(this);" href="/IND/english/" class="">Mobil&trade; Industrial Lubricants</a>
+            <a title="" target="" onclick="trackClick(this);" href="http://www.mobilindustrial.com/IND/english/" class="">Mobil&trade; Industrial Lubricants</a>
         </li>
         <li>
             <a title="" target="_blank" onclick="trackClick(this);" href="http://www.exxonmobil.com/pdssearch/search.aspx?chooseLanguage=en&amp;CountryValue=Canada" class="">Product Data Sheets</a>
@@ -24,7 +24,7 @@
             <a title="This link will open a new window." target="_new" onclick="trackClick(this);" href="/Canada-English-LCW/Files/ultimate-lubrication-warranty.pdf">the ultimate lubrication warranty<img src="/Images/Icons/icon_pdf_whitespace.jpg" border="0" alt=""></a>
         </li>
         <li>
-            <a target="" onclick="trackClick(this);" href="/Canada-English-LCW/carengineoils_products_mobil-1.aspx">Mobil 1 </a>
+            <a target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-English-LCW/carengineoils_products_mobil-1.aspx">Mobil 1 </a>
         </li>
         <li>
             <a target="" onclick="trackClick(this);" href="http://prodwip.mobil.com/Canada-English-LCW/carengineoils_products_mobil-1.aspx">Mobil Super&trade;</a>

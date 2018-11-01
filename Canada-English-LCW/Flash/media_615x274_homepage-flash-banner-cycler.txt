@@ -1,0 +1,11 @@
+<banners>
+
+<banner image="/Canada-English-LCW/Flash/en_switch.swf" link="http://www.mobil.ca/Canada-English-LCW/carengineoils_switch.aspx" tracking="PVL" type="SWF" thumbnail="" target="_self"></banner>
+
+<banner image="/Canada-English-LCW/Flash/615x274_pc-11-ca-eg.swf" link="/Canada-English-LCW/heavydutyengineoils_api-spec-change.aspx" tracking="CVL" type="SWF" thumbnail="/mexico-spanish-lcw/Flash/50x40_pc-11_oildrop.png" target="_self"></banner>
+
+<banner image="/Canada-English-LCW/Flash/media_615x274_mobil-delvac-long-life.swf" link="http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1300-super-15w40.aspx" tracking="CVL" type="SWF" thumbnail="/Canada-English-LCW/Flash/media_50x40_mobil-delvac-long-life.jpg" target="_self"></banner> 
+
+
+</banners>
+

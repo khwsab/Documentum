@@ -1,0 +1,18 @@
+<banners>
+
+<banner image="Flash/Delvac90years615x274-v2.swf" link="/UK-English-LCW/heavydutyoils_products.aspx" tracking="CVL" type="SWF" thumbnail="/Shared-Images-LCW/50x40_90_Years_Shield_Colour_white-English.jpg" target="_self"></banner>
+
+
+<banner image="Flash/uk_loyalty_q1_2015_en_617x274.swf" link="http://www.esso.co.uk/loyalty-program" tracking="MOT" type="SWF" thumbnail="flash/media_50x40_fuelprogress.jpg" target="_self"></banner>
+ 
+
+<banner image="Flash/media_615x274_product-selector.swf" link="/UK-English-LCW/which-oil.aspx" tracking="ALR" type="SWF" thumbnail="Flash/media_50x40_alr.jpg" target="_self"></banner>
+  
+
+<banner image="Flash/mobil_fuels_617x274_en-UK_v3.swf" link="http://www.exxonmobil.co.uk/" tracking="MOT" type="SWF" thumbnail="Flash/50x40_ELH-UK-LCW-thumb.jpg" target="_self"></banner>
+
+
+<banner image="Flash/exxon_synergy_fuels_wipers_615x274.swf" link="http://www.esso.co.uk/synergy" tracking="MOT" type="SWF" thumbnail="flash/media_50x40_fuelprogress.jpg" target="_self"></banner>
+
+
+</banners>

@@ -12,7 +12,7 @@
         "selector": "selector1"
     }, {      
         "slide": "slide2",
-        "link": "http://www.mobil.co.uk/UK-English-LCW/vanengineoils.aspx",
+        "link": "http://staging-lubes.khwstech.co.uk/UK-English-LCW/vanengineoils.aspx",
         "img": "html5/images/615x274_light-duty-uk-2.jpg",
         "main": "",
         "title": "",
@@ -22,7 +22,7 @@
         "selector": "selector2"
     }, {        
         "slide": "slide3",
-        "link": "http://www.mobil.co.uk/UK-English-LCW/heavydutyoils_energy-efficiency-guide.aspx",
+        "link": "http://staging-lubes.khwstech.co.uk/UK-English-LCW/heavydutyoils_energy-efficiency-guide.aspx",
         "img": "html5/images/615x274_uk-energy-guide.png",
         "main": "",
         "title": "",

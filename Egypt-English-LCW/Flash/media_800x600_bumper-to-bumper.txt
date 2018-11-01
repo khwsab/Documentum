@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<translations>
+
+	<common>
+	
+		<skip_movie>Skip Movie</skip_movie>>
+		<enter>Enter</enter>
+		<read_more>Read more</read_more>
+		<intro_headline><![CDATA[Bumper to bumper |recommendations |for your truck]]></intro_headline>
+		<intro_copy><![CDATA[Mobil Delvac synthetic products are the right choice for you.<br><br>Our range of synthetic automatic transmission fluid and gearbox oils has been specially developed for heavy Commercial Vehicle applications and to help provide maximum protection even under the most punishing conditions.<br><br>Combined with an extensive range of synthetic engine oils, Mobil Delvac offer you a product to meet your CV lubricant requirements.]]></intro_copy>
+	
+	</common>
+	
+	
+	
+	<navigation>
+	
+	
+	
+		<item>
+			<title><![CDATA[Engine<br> Oils]]></title>
+			<intro_copy>Mobil Delvac™ engine lubricants cover heavy, medium and light commercial vehicle applications, and can help to achieve long engine life with extended service intervals. </intro_copy>
+			<products>Mobil Delvac 1™ SHC 5W-40, Mobil Delvac MX™ 15W-40, Mobil Delvac™ 1300 Series</products>
+			<label_coords>330, 324</label_coords>
+			<zoom_to>-292, -560</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[Power steering <br>fluids]]></title>
+			<intro_copy>Mobil ATF™ lubricants can help to ensure long service life, improved gearbox cleanliness, a silky smooth gear change and long gearbox life under some of the harshest operating conditions.</intro_copy>
+			<products>Mobil ATF™ 320, Mobil ATF™ 220</products>
+			<label_coords>293, 364</label_coords>
+			<zoom_to>-292, -560</zoom_to>
+		</item>
+				
+		<item>
+			<title><![CDATA[Lubricating <br>greases]]></title>
+			<intro_copy>Mobil™ high-performance greases can provide first-rate stability against oxidisation and moisture intrusion as well as excellent corrosion protection and flow characteristics, even at very low temperatures.</intro_copy>
+			<products>Mobilgrease XHP™ 220, Mobilgrease™ MP, Mobilith SHC™ Series, Mobilux™ EP Series</products>
+			<label_coords>418, 239</label_coords>
+			<zoom_to>-292, -560</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[Manual and <br> automatic transmission]]></title>
+			<intro_copy>Mobil™ transmission oils include synthetic products and can offer excellent protection against high-temperature and high-speed wear, whilst also providing outstanding cold temperature performance.</intro_copy>
+			<products>Mobilube 1 SHC™ 75W-90, Mobilube™ HD Multi-Grade Series</products>
+			<label_coords>410, 290</label_coords>
+			<zoom_to>-292, -560</zoom_to>
+	</item>
+		
+	
+		
+	</navigation>
+
+
+
+	
+	<products>
+	
+	<!--Engine Oils--> 
+	
+		<item>
+			<product_name>Mobil Delvac 1™ SHC 5W-40</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobil-delvac-1-shc-5w40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac 1 SHC 5W-40 is a very high performance, synthetic diesel engine oil that provides excellent lubrication including long drain capability, helping towards long engine life for diesel engines operating in severe applications. The advanced technology behind this product delivers exceptional performance in turbo-charged as well as older naturally aspirated engines. ]]></product_description>
+			<product_link><![CDATA[http://www.mobilegypt.com/Egypt-English-LCW/heavydutyoils_products_engine-oils_mobil-delvac-1-shc-5w40.aspx]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil Delvac MX™ 15W-40</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224__Mobil-Delvac-MX-15W-40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac MX 15W-40 is an extra high performance diesel engine oil that provides excellent lubrication of today's diesel engines promoting long engine life. As a result, this product meets or exceeds the requirements of virtually all major European and American engine manufacturers. This extra high performance has been proven in the field in a wide variety of industries, applications, and mixed fleets.]]></product_description>
+			<product_link><![CDATA[http://www.mobilegypt.com/Egypt-English-LCW/heavydutyoils_products_engine-oils_mobil-delvac-mx-15w-40.aspx]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil Delvac™ 1300 Series</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobil-delvac-1300-series.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac™ 1340 and 1350 are high performance monograde diesel engine oils formulated from advanced technology base oils and a balanced additive system. They are specifically engineered for performance in intercooled, turbo-charged engines operating under severe on and off-highway conditions. Mobil Delvac 1300 monogrades are used in a wide range of applications where a monograde lubricant is recommended. ]]></product_description>
+			<product_link><![CDATA[http://www.mobilegypt.com/Egypt-English-LCW/heavydutyoils_products_engine-oils_mobil-delvac-1300-series.aspx]]></product_link>
+		</item>
+		
+		<!--End of Engine Oils--> 
+		
+		
+		
+		<!--Power steering fluids--> 
+		
+		<item>
+			<product_name>Mobil ATF™ 320</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobil-atf-320.png</image_name>
+			<product_description><![CDATA[</li> Mobil ATF 320 is recommended for most passenger car and commercial automatic transmissions. It is also suitable for power steering systems, hydraulic applications and some manual transmissions where an automatic transmission fluid is specified.]]></product_description>
+			<product_link><![CDATA[http://www.mobilegypt.com/Egypt-English-LCW/heavydutyoils_products_power-steering_mobil-atf-320.aspx]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil ATF™ 220</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobil-atf-220.png</image_name>
+			<product_description><![CDATA[</li> Mobil ATF 220 is a high performance, fluid for automatic transmissions in older vehicles specifying Dexron IID. It is also used as a hydraulic fluid in unique applications.]]></product_description>
+			<product_link><![CDATA[http://www.mobilegypt.com/Egypt-English-LCW/heavydutyoils_products_power-steering_mobil-atf-220.aspx]]></product_link>
+		</item>
+		
+		
+		<!--End of Power steering fluids--> 
+		
+		
+		
+		<!--Start of Lubricating Greases--> 
+		
+		<item>
+			<product_name>Mobilgrease XHP™ 220</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_grease-gun-placeholder.png</image_name>
+			<product_description><![CDATA[</li> Mobilgrease XHP™ 220 greases are extended service lithium complex greases intended for a wide variety of applications and severe operating conditions. These greases were designed to outperform conventional products by applying cutting edge, proprietary, lithium complex manufacturing technology. ]]></product_description>
+			<product_link><![CDATA[http://www.mobilegypt.com/Egypt-English-LCW/heavydutyoils_products_greases_mobilgrease-xhp-220-series.aspx]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobilgrease™ MP</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_grease-gun-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobilgrease MP is a high quality, multipurpose, NLGI 2 grade, lithium hydroxystearate grease based on an ISO VG 150 mineral oil. It is formulated to provide added protection against rusting and water washout in general purpose automotive applications at moderate temperatures and loads. ]]></product_description>
+			<product_link><![CDATA[http://www.mobilegypt.com/Egypt-English-LCW/heavydutyoils_products_greases_mobilgrease-mp.aspx]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobilith SHC™ Series</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_grease-gun-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobilith SHC™ Series greases are superior performance products designed for a wide variety of applications at extremes of temperature. They combine the unique features of synthetic base fluids with those of a high quality lithium complex thickener.]]></product_description>
+			<product_link><![CDATA[http://www.mobilegypt.com/Egypt-English-LCW/heavydutyoils_products_greases_mobilith-shc-series.aspx]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobilux™ EP Series</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_grease-gun-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobilux EP 0, 1, 2, 3, 460, 004 and 023 products are a high performance family of five general-purpose industrial greases and two special-duty semi-fluid greases. These lithium hydroxystearate greases are formulated to provide extra protection against wear, rusting and water washout. ]]></product_description>
+			<product_link><![CDATA[http://www.mobilegypt.com/Egypt-English-LCW/heavydutyoils_products_greases_mobilux-ep-series.aspx]]></product_link>
+		</item>
+		
+		<!--End of Lubricating Greases--> 
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		<!--Start of manual and automatic transmission--> 
+		
+		
+		
+		<item>
+			<product_name>Mobilube 1 SHC™ 75W-90</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_transmission-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobilube 1 SHC 75W-90 is a fully synthetic, high performance commercial gear lubricant formulated using advanced base oils and the latest technology additive system. This lubricant is engineered for heavy duty manual transmissions and rear axles where operations require gear lubricants with excellent load-carrying capability over wide operating temperatures and where extreme pressures and shock loading are expected. ]]></product_description>
+			<product_link><![CDATA[http://www.mobilegypt.com/Egypt-English-LCW/heavydutyoils_products_transmission_mobilube-1-shc-75w90.aspx]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobilube™ HD Multi-Grade Series</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobilube-hd-80W-90.png</image_name>
+			<product_description><![CDATA[</li>Mobilube™ HD 80W-90, HD-A 85W-90 and HD 85W-140 are commercial gear lubricants formulated from high performance base oils and an advanced additive system. These lubricants are engineered for heavy-duty axles and final drives where extreme pressures and shock loading are expected. ]]></product_description>
+			<product_link><![CDATA[http://www.mobilegypt.com/Egypt-English-LCW/heavydutyoils_products_rear-axle_mobilube-hd-multi-grade-series.aspx]]></product_link>
+		</item>
+		
+		<!--End of manual and automatic transmission--> 
+	
+	</products>
+
+</translations>

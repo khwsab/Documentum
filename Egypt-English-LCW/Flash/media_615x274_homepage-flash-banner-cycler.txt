@@ -1,0 +1,12 @@
+<banners>
+
+<banner image="Flash/Delvac90years615x274-eg2.swf" link="/Egypt-English-LCW/heavydutyoils_products.aspx" tracking="MOT" type="SWF" thumbnail="/Shared-Images-LCW/50x40_90_Years_Shield_Colour_white-English.jpg" target="_self"></banner>
+
+<banner image="Flash/media_615x274_delvac-alr-egypt.swf" link="/Egypt-English-LCW/heavydutyoils.aspx" tracking="MOT" type="SWF" thumbnail="/Shared-Images-LCW/media_50x40_cvl-banner.png" target="_self"></banner>
+
+<banner image="Flash/media_617x274_delvac-1le-egypt.swf" link="/Egypt-English-LCW/heavydutyoils_products_engine-oils_mobil-delvac-1-shc-5w40.aspx" tracking="MOT" type="SWF" thumbnail="/Shared-Images-LCW/media_50x40_shc.png" target="_self"></banner>
+  
+ 
+</banners>
+
+

@@ -1,0 +1,7 @@
+<banners>
+
+<banner image="/Canada-French-LCW/Flash/fr_changez.swf" link="/Canada-French-LCW/heavydutyengineoils_api-spec-change.aspx" tracking="CVL" type="SWF" thumbnail="/mexico-spanish-lcw/Flash/50x40_pc-11_oildrop.png" target="_self"></banner>
+
+<banner image="/Canada-French-LCW/Flash/615x274_pc-11-ca-fr.swf" link="/Canada-French-LCW/heavydutyengineoils_api-spec-change.aspx" tracking="CVL" type="SWF" thumbnail="/mexico-spanish-lcw/Flash/50x40_pc-11_oildrop.png" target="_self"></banner>
+
+</banners>

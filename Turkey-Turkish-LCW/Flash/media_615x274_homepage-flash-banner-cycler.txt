@@ -1,0 +1,13 @@
+<banners>
+
+<banner image="Flash/615x274_mobil110yearsv3.swf" link="/Turkey-Turkish-LCW/mobil-110-years.aspx" tracking="PVL" type="SWF" thumbnail="/Images/50x40_110-thumb.jpg" target="_self"></banner>
+
+<banner image="Flash/615x274_delvac90years-tr.swf" link="/Turkey-Turkish-LCW/heavydutyoils_products.aspx" tracking="CVL" type="SWF" thumbnail="/Shared-Images-LCW/50x40_90_Years_Shield_Colour_white-English.jpg" target="_self"></banner>
+
+<banner image="Flash/media_615x274_alr.swf" link="/Turkey-Turkish-LCW/whichoil.aspx" tracking="ALR" type="SWF" thumbnail="Flash/media_50x40_alr.jpg" target="_self"></banner>
+
+<banner image="Flash/615x274-Delvac-1-LE-5w30-TR.swf" link="/Turkey-Turkish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx" tracking="SMS" type="SWF" thumbnail="/Shared-Images-LCW/50x40_eame.jpg" target="_self"></banner>
+
+<banner image="Flash/615x274_banner_turco.swf" link="/Turkey-Turkish-LCW/heavydutyoils_mobil-delvac-fuel-saving-millbrook.aspx" tracking="SMS" type="SWF" thumbnail="/Shared-Images-LCW/50x40_eame.jpg" target="_self"></banner>
+ 
+</banners>

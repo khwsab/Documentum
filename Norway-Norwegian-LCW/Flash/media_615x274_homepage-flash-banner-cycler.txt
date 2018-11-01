@@ -1,0 +1,13 @@
+<banners>
+
+<banner image="Flash/615x274_esso_explore_no_2017.SWF" link="http://www.esso.no/explore" tracking="MOT" type="SWF" thumbnail="/UK-English-LCW/flash/media_50x40_fuelprogress.jpg" target="_self"></banner>
+
+<banner image="Flash/Delvac90years615x274-no.swf" link="/Norway-Norwegian-LCW/heavydutyoils_products.aspx" tracking="ALR" type="SWF" thumbnail="/Shared-Images-LCW/50x40_90_Years_Shield_Colour_white-English.jpg" target="_self"></banner>
+
+<banner image="Flash/Esso_Mastercard_flashbox_615x274_NOR.SWF" link="http://www.esso.no/esso-mastercard" tracking="MOT" type="SWF" thumbnail="/UK-English-LCW/flash/media_50x40_fuelprogress.jpg" target="_self"></banner>
+
+<banner image="Flash/media_615x274_cvl-product-selector-norway.swf" link="/Norway-Norwegian-LCW/heavydutyoils_mobil-delvac-product-selector.aspx" tracking="CVL" type="SWF" thumbnail="/Shared-Images-LCW/media_50x40_cvl-banner.png" target="_self"></banner>
+
+<banner image="Flash/615x274-delvac-1-le-5w30-no.swf" link="/Norway-Norwegian-LCW/heavydutyoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx" tracking="MOT" type="SWF" thumbnail="/Shared-Images-LCW/50x40_eame.jpg" target="_self"></banner>
+
+</banners>

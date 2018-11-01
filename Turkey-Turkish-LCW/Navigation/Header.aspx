@@ -80,7 +80,7 @@ string isCurrent(string url){
             </li>
         </ul>
     </div>
-    <div style="visibility: Visible;display=none;" id="search">
+    <div style="visibility: Hidden;display=none;" id="search">
         <form onsubmit="javascript: return CheckInput()" name="frmSimpleSearch" method="get" action="/Search/Search.aspx">
             <div>
                 <script type="text/javascript">quickEditForm("0915881d8204a867", "/Content",true,"../forms/LCWHeaderSettings","","630px","700px","Search And Language Settings","","pencil.gif","");</script><span style="padding-right:30px" class="barbgleftSumbit"><span class="barbgrightSubmit"><input value="oturum açma" type="button" onclick="location.href='/Turkey-Turkish-LCW/login.aspx'" class="middleSubmitBtn"></span></span><label for="searchTerms">ARAMA</label><input value="anahtar sözcükler" type="text" onClick="javascript: clearBox();" name="q" maxlength="50" id="qt"><input value="mobil|ledr" type="hidden" name="site"><input value="/imports/lcw_xom" type="Hidden" name="css"><input type="hidden" name="BCL" value="/Turkey-Turkish-LCW/Navigation"><input value="global" type="Hidden" name="km"><input value="tr" type="hidden" name="la"><input value="lang_tr" type="hidden" name="lr"><input value="xml_no_dtd" type="Hidden" name="output"><input value="default_frontend" type="Hidden" name="client"><input value="description" type="Hidden" name="getfields"><input value="n" type="Hidden" name="show_km"><input value="inurl:mobil inurl:/Turkey-Turkish-LCW OR inurl:/Turkey-Turkish/Lubes/PDS" type="hidden" name="as_q"><input value="0" type="Hidden" name="filter"><input value="10" type="Hidden" name="num"><input value="UTF-8" type="Hidden" name="ie"><input value="UTF-8" type="Hidden" name="oe"><span class="barbgleftSumbit"><span class="barbgrightSubmit"><input value="ARAMA" type="submit" class="middleSubmitBtn"></span></span>
@@ -151,7 +151,7 @@ string isCurrent(string url){
 				<div id="search-nav">
 					<div id="menu"></div>
 					<div style="display:none;" id="menuContainer">
-						<div id="temp"></div>
+						<!-- <div id="temp"></div> -->
 						<div id="mobileMenuHeaderContainer">
 							<div id="mobileMenuBack">
 								<span class="mobileIconImg"></span>

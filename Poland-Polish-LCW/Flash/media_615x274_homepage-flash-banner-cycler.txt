@@ -1,0 +1,20 @@
+<banners>
+
+<banner image="Flash/615x274_energy-guide-pl.swf" link="/Poland-Polish-LCW/heavydutyoils_energy-efficiency-guide.aspx" tracking="ALR" type="SWF" thumbnail="" target="_self"></banner>
+
+<banner image="Flash/617x274-Delvac-1-le-5w30-pl-v2.swf" link="
+/Poland-Polish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx" tracking="ALR" type="SWF" thumbnail="/Shared-Images-LCW/50x40_eame.jpg" target="_self"></banner>
+
+
+<banner image="Flash/media_615x274_alr.swf" link="/Poland-Polish-LCW/which-oil.aspx" tracking="ALR" type="SWF" thumbnail="Flash/media_50x40_alr.jpg" target="_self"></banner>
+
+<banner image="Flash/media_615x274_cvl-product-selector.swf" link="http://www.mobil1.pl/sportach-motorowych/get-personal.aspx?utm_source=getpersonal&utm_medium=lcw&utm_content=banner&utm_campaign=getpersonal" tracking="CVL" type="SWF" thumbnail="/Shared-Images-LCW/media_50x40_cvl-banner.png" target="_self"></banner>
+
+
+<banner image="Flash/media_615x274_dexos2.swf" link="/Poland-Polish-LCW/carengineoils_dexos-2-approved-mobil-synthetic-lubricants.aspx" tracking="PVL" type="SWF" thumbnail="Flash/media_50x40_dexos2.jpg" target="_self"></banner>
+
+
+
+</banners>
+
+

@@ -100,7 +100,7 @@
                             <div class="frame01BR clrfix">
                                 <div style="padding-right: 55px;" class="content">
                                     <h2>
-                                        <a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href=".mx/Mexico-Spanish-LCW/heavydutyengineoils_ck4-o-fa4.aspx">¿CK-4 o FA-4?<span></span></a>
+                                        <a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href=/heavydutyengineoils_ck4-o-fa4.aspx">¿CK-4 o FA-4?<span></span></a>
                                     </h2>
                                     <p xmlns="">Queremos que aproveche<br>
 al máximo estas mejoras <br>
@@ -178,11 +178,11 @@ sus camiones</p>
                         <div class="subfeature csingle cright">
                             <div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href=".mx/mexico-spanish-lcw/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx">Recomendaciones de defensa a defensa para su vehículo<span></span></a>
+                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href=/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx">Recomendaciones de defensa a defensa para su vehículo<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href=".mx/mexico-spanish-lcw/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx" title="Recomendaciones de defensa a defensa para su vehículo" target="_blank" onclick="trackClick(this);"><img title="Lubricante para eje trasero" src="../Canada-English-LCW/Images/bumper_to_bumper.png" longdesc="" class="floatimgleft" border="0" alt="Lubricante para eje trasero"></a></div>
+                                <div class="img60 left"><a href=/Mexico-Spanish-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx" title="Recomendaciones de defensa a defensa para su vehículo" target="_blank" onclick="trackClick(this);"><img title="Lubricante para eje trasero" src="../Canada-English-LCW/Images/bumper_to_bumper.png" longdesc="" class="floatimgleft" border="0" alt="Lubricante para eje trasero"></a></div>
                                 <p>Las principales razones para elegir productos de la familia Mobil Delvac&trade;</p>
                             </div>
                         </div>

@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<translations>
+
+	<common>
+	
+		<skip_movie>Hopp over video</skip_movie>>
+		<enter>Se mer</enter>
+		<read_more>Les mer</read_more>
+		<intro_headline><![CDATA[Anbefalinger |for hele |kjøretøyet ditt]]></intro_headline>
+		<intro_copy><![CDATA[Mobil Delvacs syntetiske produkter er det riktige valget for deg.<br><br>Vårt spekter av syntetiske oljer for både automatkasser og manuelle girkasser er spesielt utviklet for tyngre kjøretøy, og for å gi beskyttelse selv under de vanskeligste forhold. <br><br>Kombinert med et bredt utvalg av syntetiske motoroljer kan Mobil Delvac dermed dekke spekteret av smøreprodukter som trengs til ditt tyngre kjøretøy. ]]></intro_copy>
+	
+	</common>
+	
+	
+	
+	<navigation>
+	
+		
+		<item>
+			<title><![CDATA[motoroljeprodukter]]></title>
+			<intro_copy>MobilDelvac™ motorsmøremidler finnes for tyngre, middels tunge og lette yrkeskjøretøy, og kan hjelpe deg med å oppnå en lang driftstid med lange serviceintervaller.</intro_copy>
+			<products>Mobil Delvac 1™ LE 5W-30, Mobil Delvac 1™ 5W-40, Mobil Delvac™ XHP LE 10W-40, Mobil Delvac™ XHP Extra 10W-40, Mobil Delvac MX™ ESP 10W-30, Mobil Delvac MX™ ESP 15W-40</products>
+			<label_coords>224, 287</label_coords>
+			<zoom_to>-180, -526</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[servostyring]]></title>
+			<intro_copy>Mobil ATF™ smøremidler kan bidra til å sikre lang brukstid, renere girkasse, et silkemykt girskift og lang levetid for girkassen under alle driftsforhold.</intro_copy>
+			<products>Mobil ATF™ 320, Mobil ATF™ 220</products>
+			<label_coords>333, 344</label_coords>
+			<zoom_to>-394, -591</zoom_to>
+		</item>
+				
+		<item>
+			<title><![CDATA[smørefett]]></title>
+			<intro_copy>Mobils smørefettprodukter med høy ytelse kan gi førsteklasses stabilitet mot oksidering og inntrengning av fuktighet, i tillegg til glimrende korrosjonsbeskyttelse og smøreegenskaper, selv i svært lave temperaturer.</intro_copy>
+			<products>Mobilgrease XHP™ 220</products>
+			<label_coords>562, 254</label_coords>
+			<zoom_to>-856, -459</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[smøremiddel <br>for bakaksel]]></title>
+			<intro_copy>Mobil Delvac™ smøremidler er spesialutviklet for girkasser, aksler og sluttdrev på lastebiler som brukes selv under de mest krevende forhold.</intro_copy>
+			<products>Mobilube 1 SHC™ 75W-90, Mobil Delvac™ Synthetic Gear Oil 75W-90</products>
+			<label_coords>491, 228</label_coords>
+			<zoom_to>-697, -426</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[manuell og <br>automatisk girkasse]]></title>
+			<intro_copy>Mobil™ giroljer inkluderer syntetiske produkter og kan tilby glimrende beskyttelse mot høy temperatur og høye hastigheter, og samtidig enestående ytelse i lave temperaturer.</intro_copy>
+			<products>Mobil Delvac™ Synthetic ATF, Mobilube 1 SHC™ 75W-90, Mobil Delvac™ Synthetic Gear Oil 75W-90</products>
+			<label_coords>356, 261</label_coords>
+			<zoom_to>-450, -468</zoom_to>
+	</item>
+		
+		
+		
+	</navigation>
+
+
+
+	
+	<products>
+	
+	<!--Engine Oils--> 
+	
+		<item>
+			<product_name>Mobil Delvac 1™ LE 5W-30</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-1-le-5w30.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac 1 LE 5W-30 er en helsyntetisk dieselmotorolje for store maskiner med førsteklasses ytelse og lav askeproduksjon som bidrar til å forlenge både motorens og utslippsystemets levetid, samtidig som den gir lange oljeskiftintervaller og potensial for god drivstofføkonomi for moderne dieselmotorer, inkludert motorer med partikkelfilter.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.no/Norway-Norwegian-LCW/heavydutyoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx?WT.mc_id=Mobil-Delvac-1-LE-5W-30]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil Delvac 1™ 5W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-1-5w40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac 1 5W-40 er en helsyntetisk olje med suveren ytelse for høyt belastede dieselmotorer. Den bidrar til å forlenge motorens levetid samtidig som den gir mulighet for lange oljeskiftintervaller og drivstofføkonomi for moderne dieselmotorer som opererer under krevende forhold. Mobil Delvac 1™ bruker siste nytt i teknologi for å tilby eksepsjonell god ytelse i moderne lavutslippsmotorer, inkludert motorer med kjøling så vel som eldre, godt vedlikeholdte motorer. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.no/Norway-Norwegian-LCW/heavydutyoils_products_engine-oils_mobil-delvac-1-5W40.aspx?WT.mc_id=Mobil-Delvac-1-5W-40]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil Delvac™ XHP LE 10W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-1-5w40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac XHP LE 10W-40 er en syntetisk dieselmotorolje med ekstra høy ytelse, utviklet for smøring av moderne motorer med høy ytelse og lavt utslipp som brukes under krevende kjøreforhold. Denne motoroljen er fremstilt av effektive baseoljer som gir fremragende flyteevne ved lave temperaturer, opprettholdelse av viskositeten ved høye temperaturer og flyktighetskontroll. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.no/Norway-Norwegian-LCW/heavydutyoils_products_engine-oils_mobil-delvac-xhp-le-10w40.aspx?WT.mc_id=Mobil-Delvac-XHP-LE-10W-40?WT.mc_id=Mobil-Delvac-XHP-Extra-10W-40]]></product_link>
+		</item>
+		
+	<item>
+			<product_name>Mobil Delvac™ XHP Extra 10W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-xhp-extra-10w40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac XHP Extra 10W-40 er en syntetisk motorolje med ekstra høy ytelse for tyngre dieselmotorer, og er spesielt utviklet for å gi enestående smøring av moderne dieselmotorer under krevende kjøreforhold. Oljen er basert på syntetiske baseoljer som gir ypperlig flyteevne ved lave temperaturer, opprettholdelse av viskositeten ved høye temperaturer, lav flyktighet og forbedret drivstofføkonomi. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.no/Norway-Norwegian-LCW/heavydutyoils_products_engine-oils_mobil-delvac-xhp-extra-10w40.aspx?WT.mc_id=Mobil-Delvac-XHP-Extra-10W-40]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil Delvac MX™ ESP 10W-30</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-mx-esp-10w30.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac MX ESP 10W-30 er en dieselmotorolje med ekstra høy ytelse som bidrar til å forlenge motorens levetid i de mest krevende bruksområdene på og utenfor motorveiene. Samtidig gir den enestående yteevne i moderne, høyeffektsmotorer med lave utslipp. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.no/Norway-Norwegian-LCW/heavydutyoils_products_engine-oils_mobil-delvac-mx-esp-10w30.aspx?WT.mc_id=Mobil-Delvac-MX-ESP-10W-30]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil Delvac MX™ ESP 15W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-mx-esp-15w40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac MX ESP 15W-40 er dieselmotorolje med ekstra høy ytelse som bidrar til å forlenge motorens levetid under de mest krevende forhold på og utenfor landeveien, samtidig som den gir enestående ytelse i moderne, høyeffektive motorer med lavt utslipp, inkludert motorer med resirkulering av eksosgass (EGR) og etterbehandlingssystem med partikkelfilter og dieseloksidasjonskatalysator (DOC). ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.no/Norway-Norwegian-LCW/heavydutyoils_products_engine-oils_mobil-delvac-mx-esp-15w40.aspx?WT.mc_id=Mobil-Delvac-MX-ESP-15W-40]]></product_link>
+		</item>
+		
+		
+		<!--End of Engine Oils--> 
+		
+		
+		
+		<!--Power steering fluids--> 
+		
+		<item>
+			<product_name>Mobil ATF™ 320</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-atf-320.png</image_name>
+			<product_description><![CDATA[</li> Mobil ATF 320 er en olje for automatgirkasser med ekstra høy ytelse. Mobil ATF 320 anbefales for de fleste automatgir i passasjerbiler og kommersielle kjøretøyer. Den passer også for servostyringssystemer, hydraulisk utstyr og enkelte manuelle gir som krever automatgirolje.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.no/Norway-Norwegian-LCW/heavydutyoils_products_power-steering_mobil-atf-320.aspx?WT.mc_id=Mobil-ATF-320]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil ATF™ 220</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-atf-220.png</image_name>
+			<product_description><![CDATA[</li> Mobil ATF 220 er en automatgirolje med høy ytelse beregnet for eldre kjøretøyer som skal ha Dexron IID. Den brukes også i enkelte tilfeller som hydraulikkvæske.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.no/Norway-Norwegian-LCW/heavydutyoils_products_power-steering_mobil-atf-220.aspx?WT.mc_id=Mobil-ATF-220]]></product_link>
+		</item>
+		
+		
+		<!--End of Power steering fluids--> 
+		
+		
+		
+		<!--Start of Lubricating Greases--> 
+		
+		<item>
+			<product_name>Mobilgrease XHP™ 220</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_grease-gun-placeholder.png</image_name>
+			<product_description><![CDATA[</li> Produktene i Mobilgrease XHP™ 220-serien er litiumkomplekssmørefett med ekstra høy ytelse. De er beregnet på et bredt spekter av bruksområder og driftsforhold. Produktene er utviklet for å overgå konvensjonelle produkter, ved bruk av ledende litiumkompleksproduksjonsteknologi. De er utviklet for utmerket høytemperatursytelse, svært god adhesjon, strukturell stabilitet og høy vannbestandighet.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.no/Norway-Norwegian-LCW/heavydutyoils_products_greases_mobil-grease-xhp-222.aspx?WT.mc_id=Mobilgrease-XHP-222-MINE]]></product_link>
+		</item>
+		
+		<!--End of Lubricating Greases--> 
+		
+		
+		
+		
+		
+		
+		<!--Start of Rear axle lubricants--> 
+		
+		<item>
+			<product_name>Mobil Delvac™ Synthetic ATF</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_axel-placeholder.png</image_name>
+			<product_description><![CDATA[</li> Mobil Delvac Synthetic ATF er en helsyntetisk olje som anbefales av Allison Transmission, Inc. og som er godkjent sammen med Allison TES-295. Oljen er designet for å imøtekomme de høye krav til moderne automatgirkasser som utsettes for tung belastning. Den syntetisk baserte oljesammensetningen gir utmerket ytelse selv under de strengeste driftsforhold. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.no/Norway-Norwegian-LCW/heavydutyoils_products_rear-axle_mobil-delvac-synthetic-atf.aspx?WT.mc_id=Mobil-Delvac-Synthetic-ATF]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobilube 1 SHC™ 75W-90</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobilube-1-shc-75w90.png</image_name>
+			<product_description><![CDATA[</li> Mobilube 1 SHC 75W-90 er en syntetisk transmisjonsolje med enestående ytelse laget av syntetiske baseoljer og det nyeste innen tilsetninger. Denne oljen er laget for manuelle girkasser og bakaksler i tung drift hvor det er påkrevet med giroljer som har utmerkede lastbærende egenskaper. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.no/Norway-Norwegian-LCW/heavydutyoils_products_rear-axle_mobilube-1-shc-75w90.aspx?WT.mc_id=Mobilube-1-SHC-75W-90]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil Delvac™ Synthetic Gear Oil 75W-90</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_axel-placeholder.png</image_name>
+			<product_description><![CDATA[</li> Mobil Delvac syntetisk girolje 75W-90 er et helsyntetisk smøremiddel for drivlinjer som er utviklet for å imøtekomme svært strenge krav for lengre skiftintervall og garanti. Dette produktet er laget for bruk i tunge drivlinjer som krever girolje med utmerket lastbæringsevne hvor ekstremt trykk og sjokkbelastning forventes.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.no/Norway-Norwegian-LCW/heavydutyoils_products_rear-axle_mobil-delvac-synthetic-gear-oil-75w90.aspx?WT.mc_id=Mobil-Delvac-Synthetic-Gear-Oil-75W-90]]></product_link>
+		</item>
+		
+		
+		
+		<!--End of Rear axle lubricants--> 
+		
+		
+		
+		
+		<!--Start of manual and automatic transmission--> 
+		
+		<item>
+			<product_name>Mobilube 1 SHC™ 75W-90</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobilube-1-shc-75w90.png</image_name>
+			<product_description><![CDATA[</li>Mobilube 1 SHC 75W-90 er en syntetisk transmisjonsolje med enestående ytelse laget av syntetiske baseoljer og det nyeste innen tilsetninger. Denne oljen er laget for manuelle girkasser og bakaksler i tung drift hvor det er påkrevet med giroljer som har utmerkede lastbærende egenskaper.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.no/Norway-Norwegian-LCW/heavydutyoils_products_rear-axle_mobilube-1-shc-75w90.aspx?WT.mc_id=Mobilube-1-SHC-75W-90]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil Delvac™ Synthetic Gear Oil 75W-90</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_transmission-placeholder.png</image_name>
+			<product_description><![CDATA[</li> Mobil Delvac syntetisk girolje 75W-90 er et helsyntetisk smøremiddel for drivlinjer som er utviklet for å imøtekomme svært strenge krav for lengre skiftintervall og garanti. Dette produktet er laget for bruk i tunge drivlinjer som krever girolje med utmerket lastbæringsevne hvor ekstremt trykk og sjokkbelastning forventes.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.no/Norway-Norwegian-LCW/heavydutyoils_products_rear-axle_mobil-delvac-synthetic-gear-oil-75w90.aspx?WT.mc_id=Mobil-Delvac-Synthetic-Gear-Oil-75W-90]]></product_link>
+		</item>
+		
+			
+			<!--End of manual and automatic transmission--> 
+	
+	</products>
+
+</translations>

@@ -1,5 +1,4 @@
-﻿
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="https://www.w3.org/1999/xhtml" xml:lang="it" lang="it">
 <head>
 	<meta http-equiv="X-UA-Compatible" content="IE=8">
@@ -235,7 +234,7 @@
 <div>
 						<h2>Lubrificanti industria</h2>
 						<ul>
-							<li><a href="/ind/italian/">Mobil™ Industrial Lubricants</a></li>
+							<li><a href="https://www.mobilindustrial.com/ind/italian/">Mobil™ Industrial Lubricants</a></li>
 							<li><a href="https://www.exxonmobil.com/marinelubes-en/default.aspx">ExxonMobil marine lubricants (EN)</a></li>
 							<li><a href="https://www.exxonmobil.com/lubes/exxonmobil/emal/index.html">ExxonMobil aviation lubricants (EN)</a></li>
 							<li><a href="https://www.exxonmobilchemical.com/">ExxonMobil petrochemicals (EN)</a></li>
