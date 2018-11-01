@@ -1,0 +1,9 @@
+.nodetitle { font-family:Mobil; font-size:16px; color: #FBB800; text-align:left;}
+
+
+.nodeproduct { font-family:HelveticaNeueBold; font-size:14px; color: #ffffff; text-align:left;}
+.nodelegal{ font-family:HelveticaNeue; font-size:11px; color: #ffffff; text-align:left;}
+.nodecopyheader{font-family:HelveticaNeue;font-size:14px;color:#FBB800;text-align:left;}
+.nodecopy{font-family:HelveticaNeue;font-size:12px;color:#FFFFFF;text-align:left;}
+.highlight{color:#FBB800;}
+.bottomlink{font-family:HelveticaNeue;font-size:12px; color:#FBB800;}

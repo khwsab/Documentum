@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<translations>
+
+	<common>
+	
+		<skip_movie>Video overslaan</skip_movie>>
+		<enter>Ga verder</enter>
+		<read_more>Lees meer</read_more>
+		<intro_headline><![CDATA[Bumper-tot- |bumperaanbevelingen |voor uw truck]]></intro_headline>
+		<intro_copy><![CDATA[De synthetische producten van Mobil Delvac zijn de juiste keuze voor u.<br><br>Ons assortiment van synthetische oliën voor automatische transmissies en versnellingsbakken is speciaal ontwikkeld voor intensief gebruikte bedrijfsvoertuigen en biedt bescherming in de meest veeleisende omstandigheden.<br><br>Gecombineerd met een uitgebreid aanbod van synthetische motoroliën biedt Mobil Delvac u een product dat beantwoordt aan alle smeermiddeleisen van uw bedrijfsvoertuig.]]></intro_copy>
+	
+	</common>
+	
+	
+	
+	<navigation>
+	
+		
+		<item>
+			<title><![CDATA[Mobil Delvac™ <br>dieselmotoroliën]]></title>
+			<intro_copy>Mobil Delvac motorsmeermiddelen omvatten toepassingen voor zware, middelzware en lichte vrachtauto's en kunnen belangrijk bijdragen tot een lange levensduur van de motor met verlengde verversingsintervallen.</intro_copy>
+			<products>Mobil Delvac 1™ LE 5W-30, Mobil Delvac 1™ 5W-40, Mobil Delvac 1™ SHC 5W-40, Mobil Delvac™ XHP Ultra 5W-30, Mobil Delvac™ XHP LE 10W-40, Mobil Delvac™ XHP Extra 10W-40</products>
+			<label_coords>330, 324</label_coords>
+			<zoom_to>-292, -560</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[producten voor <br>stuurbekrachtiging]]></title>
+			<intro_copy>ATF smeermiddelen dragen bij tot een lange levensduur van de mechanische onderdelen, houden de tandwielkast schoon, bevorderen soepel en snel schakelen en verlengen de levensduur van tandwielkast, zelfs onder zeer zware  bedrijfsomstandigheden.</intro_copy>
+			<products>Mobil ATF™ 320, Mobil ATF™ 220</products>
+			<label_coords>293, 364</label_coords>
+			<zoom_to>-292, -560</zoom_to>
+		</item>
+				
+		<item>
+			<title><![CDATA[Mobil™ <br>vetten]]></title>
+			<intro_copy>De high-performance vetten van Mobil kunnen zorgen voor een eerste klas stabiliteit tegen oxidatie en het binnendringen van vocht evenals een uitstekende corrosiebescherming en vloeikarakteristiek, zelfs bij zeer lage temperaturen.</intro_copy>
+			<products>Mobil™ Chassis Grease LBZ, Mobilgrease XHP™ 222</products>
+			<label_coords>418, 239</label_coords>
+			<zoom_to>-292, -560</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[achteras-smeermiddelen]]></title>
+			<intro_copy>Mobil Delvac™ smeermiddelen zijn speciaal ontwikkeld voor trucktransmissies, assen en transmissiesystemen die onder de zwaarste omstandigheden moeten werken.</intro_copy>
+			<products>Mobilube 1 SHC™ 75W-90, Mobil Delvac™ Synthetic Gear Oil 75W-90, Mobilube™ HD-A 85W-90, Mobilube™ HD-N 80W-140</products>
+			<label_coords>450, 265</label_coords>
+			<zoom_to>-292, -560</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[Mobilube™ versnellingsbak <br>wielsmeermiddelen]]></title>
+			<intro_copy>Mobil™ transmissieoliën omvatten synthetische producten die een uitstekende bescherming tegen slijtage bieden bij hoge temperaturen en hoge snelheden terwijl ze ook bij lage temperaturen voortreffelijk op hun taak berekend zijn.</intro_copy>
+			<products>Mobilube XHP™ 75W-80, Mobilube™ GX-A 80W, Mobilube™ GX 80W-90</products>
+			<label_coords>410, 290</label_coords>
+			<zoom_to>-292, -560</zoom_to>
+		</item>
+		
+	</navigation>
+
+
+
+	
+	<products>
+	
+	<!--Engine Oils--> 
+	
+	
+		<item>
+			<product_name>Mobil Delvac 1™ LE 5W-30</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-1-le-5w30.png</image_name>
+			<product_description><![CDATA[</br></li>Mobil Delvac 1™ LE 5W-30 is een volledig synthetische heavy-duty diesel motorolie die geavanceerde bescherming van de motor in moderne voertuigen met lage uitlaatgasemissies combineert met een grotere mogelijke brandstofbesparing1 en andere duurzaamheid gerelateerde voordelen zoals duurzaamheid van de motor, bescherming van het uitlaatsysteem en langere verversingsintervallen.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.nl/Benelux-Dutch-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx]]></product_link>
+		</item>
+		
+		
+		<item>
+			<product_name>Mobil Delvac 1™ 5W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-1-5w40.png</image_name>
+			<product_description><![CDATA[</br></li>Mobil Delvac 1 5W-40 is een volledig synthetische high performance zware motorolie voor dieselmotoren en bevordert een bijdrage aan een lange levensduur van de motor en biedt tegelijkertijd verlengde verversingsintervallen voor moderne dieselmotoren in zware toepassingen. Mobil Delvac 1 5W-40 biedt uitstekende prestaties in moderne lage emissie motoren, inclusief koelunits, en in goed onderhouden oudere motoren.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.nl/Benelux-Dutch-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-5w40.aspx]]></product_link>
+		</item>
+		
+		
+		<item>
+			<product_name>Mobil Delvac 1™ SHC 5W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-1-shc-5w40.png</image_name>
+			<product_description><![CDATA[</br></li>Mobil Delvac 1 SHC 5W-40 is een superieur presterende, volledig synthetische dieselmotorolie die voor een uitstekende smering zorgt, de motorlevensduur verlengt en de mogelijkheid biedt tot lang doorrijden zonder olie te verversen, speciaal voor dieselmotoren die voor het zware werk worden ingezet.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.nl/Benelux-Dutch-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-shc-5w40.aspx]]></product_link>
+		</item>
+		
+		
+		<item>
+			<product_name>Mobil Delvac™ XHP Ultra 5W-30</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-xhp-5w30.png</image_name>
+			<product_description><![CDATA[</br></li>Mobil Delvac™ XHP Ultra is een extra high performance synthetische motorolie voor dieselmotoren en biedt een uitstekende bescherming en brandstofbesparing voor moderne zware dieselmotoren in zware toepassingen in het transport.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.nl/Benelux-Dutch-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-ultra-5w30.aspx]]></product_link>
+		</item>
+		
+		
+		<item>
+			<product_name>Mobil Delvac™ XHP LE 10W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-xhp-le-10w40.png</image_name>
+			<product_description><![CDATA[</br></li>Mobil Delvac XHP LE 10W-40 is een synthetische, extra high performance motorolie voor dieselmotoren, die geformuleerd is voor smering van moderne motoren met hoge prestaties en lage emissies in zware toepassingen.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.nl/Benelux-Dutch-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-le-10w40.aspx]]></product_link>
+		</item>
+		
+		
+		<item>
+			<product_name>Mobil Delvac™ XHP Extra 10W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-xhp-extra-10w40.png</image_name>
+			<product_description><![CDATA[</br></li>Mobil Delvac XHP Extra 10W-40 is een synthetische extra high performance motorolie voor dieselmotoren ontworpen op uitstekende smering van moderne dieselmotoren in zware toepassingen in het transport en de aannemerij.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.nl/Benelux-Dutch-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-extra-10w40.aspx]]></product_link>
+		</item>
+		
+		<!--End of Engine Oils--> 
+		
+		
+		<!--Power steering fluids--> 
+		
+		<item>
+			<product_name>Mobil ATF™ 320</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-atf-320.png</image_name>
+			<product_description><![CDATA[</br></li>Mobil ATF 320 is een extra high performance vloeistof voor automatische transmissies.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.nl/Benelux-Dutch-LCW/heavydutyengineoils_products_power-steering_mobil-atf-320.aspx]]></product_link>
+		</item>
+		
+		
+		<item>
+			<product_name>Mobil ATF™ 220</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-atf-220.png</image_name>
+			<product_description><![CDATA[</br></li>Mobil ATF 220 is een prima vloeistof voor automatische transmissies in oudere voertuigen die een Dexron IID specificatie vereisen. Daarnaast wordt het gebruikt als hydraulisch medium in beperkte toepassingen.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.nl/Benelux-Dutch-LCW/heavydutyengineoils_products_power-steering_mobil-atf-220.aspx]]></product_link>
+		</item>
+		
+		<!--End of Power steering fluids--> 
+		
+		
+		<!--Start of Lubricating Greases--> 
+		
+		
+		<item>
+			<product_name>Mobil™ Chassis Grease LBZ</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_grease-gun-placeholder.png</image_name>
+			<product_description><![CDATA[</br></li>Mobil Chassis Grease LBZ is een half vloeibaar smeervet op basis van synthetische oliën met een consistentie conform NLGI 00. Dit smeervet werd speciaal ontwikkeld voor centrale smeersystemen van bedrijfsvoertuigen. Het product bevat antioxidanten, corrosieremmers en hoge druk en anti-slijtage additieven.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.nl/Benelux-Dutch-LCW/heavydutyengineoils_products_greases_mobil-chassis-grease-lbz.aspx]]></product_link>
+		</item>
+		
+		
+		<item>
+			<product_name>Mobilgrease XHP™ 222</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_grease-gun-placeholder.png</image_name>
+			<product_description><![CDATA[</br></li>Mobilgrease XHP™ 220 serie smeervetten zijn lithium-complex smeervetten bedoeld voor een verlengde service met een breed toepassingsgebied en in uiteenlopende bedrijfsomstandigheden. Deze smeervetten overtreffen conventionele smeervetten door het gebruik van onze gepatenteerde toonaangevende lithium-complex productietechnologie.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.nl/Benelux-Dutch-LCW/heavydutyengineoils_products_greases_mobilgrease-xhp-222.aspx]]></product_link>
+		</item>
+		
+		<!--End of Lubricating Greases-->
+		
+		
+		<!--Start of Rear axle lubricants--> 
+	
+	
+		<item>
+			<product_name>Mobilube 1 SHC™ 75W-90</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobilube-1-shc-75w90.png</image_name>
+			<product_description><![CDATA[</br></li>Mobilube 1 SHC 75W-90 is een volledig synthetisch, goed presterend versnellingsbaksmeermiddel samengesteld uit hoogwaardige basisoliën en de laatste technologie additievensysteem.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.nl/Benelux-Dutch-LCW/heavydutyengineoils_products_rear-axle_mobilube-1-shc-75w90.aspx]]></product_link>
+		</item>
+	
+	
+		<item>
+			<product_name>Mobil Delvac™ Synthetic Gear Oil 75W-90</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-synthetic-gear-oil-ls-75w90.png</image_name>
+			<product_description><![CDATA[</br></li>Mobil Delvac Synthetische Transmissieolie 75W-90 is een volledig synthetische olie voor aandrijfsystemen ontworpen om aan de zeer veeleisende vereisten van verlengde service intervallen en garanties te voldoen.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.nl/Benelux-Dutch-LCW/heavydutyengineoils_products_rear-axle_mobil-delvac-synthetic-gear-oil-75w90.aspx]]></product_link>
+		</item>
+	
+	
+		<item>
+			<product_name>Mobilube™ HD-A 85W-90</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-synthetic-gear-oil-ls-75w90.png</image_name>
+			<product_description><![CDATA[</br></li>Mobilube HD-A 85W-90 is een  transmissie-olie voor zwaarbelaste toepassingen, samengesteld uit hoogwaardige basisoliën en een vooruitstrevend additieven pakket.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.nl/Benelux-Dutch-LCW/heavydutyengineoils_products_rear-axle_mobilube-hd-a-85w90.aspx]]></product_link>
+		</item>
+	
+	
+		<item>
+			<product_name>Mobilube™ HD-N 80W-140</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_axel-placeholder.png</image_name>
+			<product_description><![CDATA[</br></li>Mobilube HD-N 80W-140 is een hoogwaardige tandwielolie samengesteld uit geselecteerde basisoliën en een vooruitstrevend additievensysteem.  Deze olie werd samengesteld voor toepassing in zwaar belaste transmissies, assen en eindaandrijvingen waar hoge drukken en schokbelasting kunnen optreden.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.nl/Benelux-Dutch-LCW/heavydutyengineoils_products_rear-axle_mobilube-hd-n-80w140.aspx]]></product_link>
+		</item>
+		
+		<!--End of Rear axle lubricants--> 
+		
+		
+		<!--Start of manual and automatic transmission--> 
+
+	
+	
+		<item>
+			<product_name>Mobilube XHP™ 75W-80</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_transmission-placeholder.png</image_name>
+			<product_description><![CDATA[</br></li>Mobilube XHP 75W-80 is een hoogwaardige olie voor handgeschakelde versnellingsbakken en werd ontwikkeld voor toepassing in  hedendaagse zwaarbelaste handgeschakelde versnellingsbakken van Europese fabrikanten in bedrijfs- en personenwagens.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.nl/Benelux-Dutch-LCW/heavydutyengineoils_products_transmission_mobilube-xhp-75w80.aspx]]></product_link>
+		</item>
+	
+	
+		<item>
+			<product_name>Mobilube™ GX 80W-90</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_transmission-placeholder.png</image_name>
+			<product_description><![CDATA[</br></li>Mobilube GX 80W-90 en 80W-140 zijn hoogwaardige, heavy-duty oliën voor versnellingsbakken samengesteld uit  hoge kwaliteit basisoliën en een vooruitstrevend additieven systeem.  Deze smeermiddelen werden ontwikkeld voor heavy-duty versnellingsbakken, assen en eindaandrijvingen waar bescherming tegen slijtage en invreten vereist is. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.nl/Benelux-Dutch-LCW/heavydutyengineoils_products_transmission_mobilube-gx-a-80w.aspx]]></product_link>
+		</item>
+	
+	
+		<item>
+			<product_name>Mobilube™ GX-A 80W</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobilube-gx-a-80w.png</image_name>
+			<product_description><![CDATA[</br></li>Mobilube GX-A 80W is een versnellingsbakolie samengesteld uit hoogwaardige basisoliën en een geavanceerd additievensysteem. Deze olie is ontwikkeld voor commerciële versnellingsbakken, assen en eindaandrijvingen waar bescherming tegen slijtage en invreten vereist is.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.nl/Benelux-Dutch-LCW/heavydutyengineoils_products_transmission_mobilube-gx-80w90.aspx]]></product_link>
+		</item>
+		
+		
+		<!--End of manual and automatic transmission--> 
+	
+	
+		
+	
+	</products>
+
+</translations>

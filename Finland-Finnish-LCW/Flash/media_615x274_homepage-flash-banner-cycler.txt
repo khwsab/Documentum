@@ -1,0 +1,11 @@
+<banners>
+
+<banner image="Flash/Delvac90years615x274-fi.swf" link="/Finland-Finnish-LCW/heavydutyoils_products.aspx" tracking="CVL" type="SWF" thumbnail="/Shared-Images-LCW/50x40_90_Years_Shield_Colour_white-English.jpg" target="_self"></banner>
+
+<banner image="Flash/media_615x274_alr.swf" link="/Finland-Finnish-LCW/oilselectortool.aspx" tracking="ALR" type="SWF" thumbnail="Flash/media_50x40_alr.jpg" target="_self"></banner>
+ 
+<banner image="Flash/media_615x274_cvl-product-selector.swf" link="/Finland-Finnish-LCW/heavydutyoils_mobil-delvac-product-selector.aspx" tracking="CVL" type="SWF" thumbnail="/Shared-Images-LCW/media_50x40_cvl-banner.png" target="_self"></banner>
+
+<banner image="Flash/615x274-delvac-1-le-5w30-fi.swf" link="/Finland-Finnish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx" tracking="CVL" type="SWF" thumbnail="/Shared-Images-LCW/50x40_eame.jpg" target="_self"></banner>
+
+</banners>

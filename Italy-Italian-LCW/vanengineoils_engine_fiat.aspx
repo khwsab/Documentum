@@ -89,11 +89,11 @@
                             </strong>
                             <br>
 
-                            <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-p-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics P 5W-30 </a>è un olio motore sintetico a basso contenuto di ceneri, con approvazione del produttore, che offre una lunga durata del motore e un'eccellente protezione contro morchie e usura. <br>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-p-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics P 5W-30 </a>è un olio motore sintetico a basso contenuto di ceneri, con approvazione del produttore, che offre una lunga durata del motore e un'eccellente protezione contro morchie e usura. <br>
 
                             <br>
 
-                            <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-p-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics P 5W-30 </a>offre un'eccellente lubrificazione ai motori diesel e a benzina soggetti alle impegnative condizioni di guida tipiche del traffico cittadino. ExxonMobil consiglia questi prodotti per i motori europei montati su diversi veicoli commerciali leggeri, compresi quelli prodotti da Fiat. <br>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-p-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics P 5W-30 </a>offre un'eccellente lubrificazione ai motori diesel e a benzina soggetti alle impegnative condizioni di guida tipiche del traffico cittadino. ExxonMobil consiglia questi prodotti per i motori europei montati su diversi veicoli commerciali leggeri, compresi quelli prodotti da Fiat. <br>
 
                             <br>
 
@@ -109,11 +109,11 @@ Gli oli completamente sintetici come Mobil Delvac&trade; circolano nei motori Fi
 
                             </strong>
                             <br>
-ExxonMobil consiglia <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-p-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics P 5W-30 </a>per condizioni di guida normali e occasionalmente impegnative, compresa la guida in città. <br>
+ExxonMobil consiglia <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-p-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics P 5W-30 </a>per condizioni di guida normali e occasionalmente impegnative, compresa la guida in città. <br>
 
                             <br>
 
-                            <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-p-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics P 5W-30</a> è formulato con oli base ad alte prestazioni e con un mix bilanciato di additivi di qualità superiore, per contribuire alle prestazioni ottimali dei motori diesel e benzina attuali, ma anche dei modelli meno recenti. Con una protezione dall'usura migliorata e una maggiore stabilità all'ossidazione termica, questo lubrificante contribuisce a prolungare la vita e a conservare l'efficienza dei sistemi di riduzione delle emissioni, come i filtri antiparticolato per motori diesel (DPF) Fiat e i convertitori catalitici. <br>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-p-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics P 5W-30</a> è formulato con oli base ad alte prestazioni e con un mix bilanciato di additivi di qualità superiore, per contribuire alle prestazioni ottimali dei motori diesel e benzina attuali, ma anche dei modelli meno recenti. Con una protezione dall'usura migliorata e una maggiore stabilità all'ossidazione termica, questo lubrificante contribuisce a prolungare la vita e a conservare l'efficienza dei sistemi di riduzione delle emissioni, come i filtri antiparticolato per motori diesel (DPF) Fiat e i convertitori catalitici. <br>
 
                             <br>
 

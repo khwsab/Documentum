@@ -108,7 +108,7 @@
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href=".mx/Mexico-Spanish-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx" class="">Haga clic aquí &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href=/Mexico-Spanish-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx" class="">Haga clic aquí &gt;</a>
                         </p>
 
                         <p xmlns="">&nbsp;</p>
@@ -137,7 +137,7 @@
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href=".mx/Mexico-Spanish-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx" class="">Haga clic aquí &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href=/Mexico-Spanish-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx" class="">Haga clic aquí &gt;</a>
                             <br>
 &nbsp;</p>
 
@@ -198,7 +198,7 @@
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href=".mx/Mexico-Spanish-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx" class="">Haga clic aquí &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href=/Mexico-Spanish-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx" class="">Haga clic aquí &gt;</a>
                             <br>
 &nbsp;</p>
 
@@ -274,7 +274,7 @@ Mobil Delvac&trade; ELC </strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href=".mx/Mexico-Spanish-LCW/heavydutyengineoils_products_other-products-mobil-delvac-extended-life.aspx" class="">Haga clic aquí &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href=/Mexico-Spanish-LCW/heavydutyengineoils_products_other-products-mobil-delvac-extended-life.aspx" class="">Haga clic aquí &gt;</a>
                         </p>
 
                         <p xmlns="">&nbsp;</p>
@@ -303,7 +303,7 @@ Mobil Delvac&trade; ELC </strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href=".mx/Mexico-Spanish-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx" class="">Haga clic aquí &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href=/Mexico-Spanish-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx" class="">Haga clic aquí &gt;</a>
                             <br>
 &nbsp;</p>
 
@@ -330,7 +330,7 @@ Mobil Delvac&trade; ELC </strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href=".mx/Mexico-Spanish-LCW/heavydutyengineoils_products_power-steering_mobil-delvac-synthetic-transmission-fluid-50.aspx" class="">Haga clic aquí &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href=/Mexico-Spanish-LCW/heavydutyengineoils_products_power-steering_mobil-delvac-synthetic-transmission-fluid-50.aspx" class="">Haga clic aquí &gt;</a>
                         </p>
 
                         <p xmlns="">
@@ -380,7 +380,7 @@ Mobil Delvac&trade; ELC </strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href=".mx/Mexico-Spanish-LCW/heavydutyengineoils_products_greases_mobilith-shc-007.aspx" class="">Haga clic aquí &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href=/heavydutyengineoils_products_greases_mobilith-shc-007.aspx" class="">Haga clic aquí &gt;</a>
                         </p>
 
                         <p xmlns="">
@@ -398,7 +398,7 @@ Mobil ATF&trade; D/M</strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href=".mx/Mexico-Spanish-LCW/carengineoils_products_transmission-fluids_mobil-atf-dm.aspx" class="">Haga clic aquí &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href=/Mexico-Spanish-LCW/carengineoils_products_transmission-fluids_mobil-atf-dm.aspx" class="">Haga clic aquí &gt;</a>
                         </p>
 
                         <p xmlns="">&nbsp;</p>
@@ -426,7 +426,7 @@ Mobil ATF&trade; D/M</strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href=".mx/Mexico-Spanish-LCW/heavydutyengineoils_products_power-steering_mobil-delvac-synthetic-transmission-fluid-50.aspx" class="">Haga clic aquí &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href=/Mexico-Spanish-LCW/heavydutyengineoils_products_power-steering_mobil-delvac-synthetic-transmission-fluid-50.aspx" class="">Haga clic aquí &gt;</a>
                         </p>
 
                         <p xmlns="">
@@ -465,7 +465,7 @@ Mobilith SHC&trade; 007</strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href=".mx/Mexico-Spanish-LCW/heavydutyengineoils_products_greases_mobilith-shc-007.aspx" class="">Haga clic aquí &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href=/Mexico-Spanish-LCW/heavydutyengineoils_products_greases_mobilith-shc-007.aspx" class="">Haga clic aquí &gt;</a>
                         </p>
                     </div>
                 </div>

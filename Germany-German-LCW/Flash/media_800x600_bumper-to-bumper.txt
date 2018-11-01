@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<translations>
+
+	<common>
+	
+		<skip_movie>Überspringen</skip_movie>>
+		<enter>Weiter</enter>
+		<read_more>Lesen Sie mehr...</read_more>
+		<intro_headline><![CDATA[Komplettlösungen  |für Nutzfahrzeuge –|Produkt Wegweiser]]></intro_headline>
+		<intro_copy><![CDATA[Komplettlösungen für Nutzfahrzeuge - Empfehlungen für Ihr Nutzfahrzeug
+Mit Mobil Delvac™ Produkte treffen Sie stets die richtige Wahl. Mobil Getriebeöle für automatische und Schaltgetriebe wurden speziell für den Gebrauch in Nutzfahrzeugen entwickelt und schützen das Getriebe selbst unter härtesten Bedingungen. Zusammen mit dem breiten Angebot an Motorenölen bieten Ihnen Mobil Devac Produkte, die alle Anforderungen Ihres Nutzfahrzeugs erfüllen.]]></intro_copy>
+	
+	</common>
+	
+	
+	
+	<navigation>
+	
+	
+	
+		<item>
+			<title><![CDATA[Mobil Delvac™<br>Dieselmotorenöle]]></title>
+			<intro_copy>Die leistungsstarken Mobil Delvac Motorenöle können die Motorlebensdauer und Serviceintervalle von leichten, mittelschweren und schweren Nutzfahrzeugen verlängern.</intro_copy>
+			<products>Mobil Delvac 1™ LE 5W-30, Mobil Delvac 1™ 5W-40, Mobil Delvac 1™ SHC 5W-40, Mobil Delvac™ XHP Ultra    5W-30, Mobil Delvac™ XHP LE     10W-40, Mobil Delvac™ XHP Extra 10W-40, Mobil Delvac MX™ ESP     15W-40, Mobil Delvac MX™ 15W-40</products>
+			<label_coords>224, 287</label_coords>
+			<zoom_to>-180, -526</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[Produkte für<br>Servolenkung]]></title>
+			<intro_copy>ATF-Schmierstoffe von Mobil Delvac™ sind in der Lage, selbst unter schwierigsten Betriebsbedingungen die Lebensdauer des Getriebes zu verlängern, es sauberer zu halten und dadurch die Schalteigenschaften zu verbessern.</intro_copy>
+			<products>Mobil ATF™ 320, Mobil ATF™ 220</products>
+			<label_coords>333, 344</label_coords>
+			<zoom_to>-394, -591</zoom_to>
+		</item>
+		
+	   <item>
+			<title><![CDATA[Schmierfette<br> von Mobil™]]></title>
+			<intro_copy>Die Hochleistungsschmierfette von Mobil Delvac™ bieten erstklassige Oxidationsstabilität sowie Schutz vor Korrosion und eindringender Feuchtigkeit. Selbst bei sehr niedrigen Temperaturen behalten sie optimale Schmiereigenschaften.</intro_copy>
+			<products>Mobil™ Chassis Grease LBZ, Mobilgrease XHP™ 220 Reihe</products>
+			<label_coords>562, 254</label_coords>
+			<zoom_to>-856, -459</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[Hinterachsschmierstoffe]]></title>
+			<intro_copy>Mobil Delvac™ Schmierstoffe für LKW-Hinterachsen  und Endantriebe sind speziell entwickelt um auch extremen Einsatzbedingungen standzuhalten.</intro_copy>
+			<products>Mobilube 1 SHC™ 75W-90, Mobil Delvac™ Synthetic Gear Oil 75W-90, Mobilube™ HD-A 85W-90</products>
+			<label_coords>491, 228</label_coords>
+			<zoom_to>-697, -426</zoom_to>
+		</item>  
+		
+		<item>
+			<title><![CDATA[Schalt- und <br>Automatikgetriebe]]></title>
+			<intro_copy>Mobil Delvac™ Getriebeöle sind Hochleistungsprodukte. Auch bei hohen Temperaturen und Drehzahlen bieten sie hervorragenden Schutz vor Verschleiß. Gleichzeitig sorgen sie für optimale Leistung bei niedrigen Temperaturen.</intro_copy>
+			<products>Mobil Delvac™ Synthetic ATF, Mobilube XHP™ 75W-80, Mobilube™ GX-A 80W, Mobilube™ GX 80W-90, Mobilfluid™ 422, Mobilfluid™ 424, Mobilfluid™ 426 </products>
+			<label_coords>356, 261</label_coords>
+			<zoom_to>-450, -468</zoom_to>
+	</item>
+		
+		
+	</navigation>
+
+
+
+	
+	<products>
+    
+	
+	<!--Engine Oils--> 
+			
+		<item>
+			<product_name>Mobil Delvac 1™ LE 5W-30</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-1-le-5w30-german.png?WT.mc_id=Mobil-Delvac-1-LE-5W-30</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac 1 LE 5W-30 ist ein Hochleistungsöl für moderne emissionsarme Dieselmotoren. Es verbindet ausgezeichneten Motorenschutz mit erhöhtem Kraftstoffeinsparungspotenzial und weiteren Nachhaltigkeitsvorteilen wie lange Motorenlebensdauer, Schutz der Abgasreinigungssysteme und Einsatzmöglichkeit für verlängerte Ölwechselintervalle.
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx?WT.mc_id=Mobil-Delvac-1-5W-40]]></product_link>
+		</item>
+		
+		
+		<item>
+			<product_name>Mobil Delvac 1™ 5W-40</product_name>
+			<image_name>http://www.mobil.com//Shared-Images-LCW/product_165x224_mobil-delvac-1-shc-5w40.png?WT.mc_id=Mobil-Delvac-15W-40</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac 1 5W-40 ist ein Motorenöl für moderne Dieselmotoren, das selbst unter schwersten Betriebsbedingungen zu einer längeren Motorenlebensdauer, verlängerten Ölwechselintervallen und einer Kraftstoffeinsparung beiträgt.
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-5w40.aspx?WT.mc_id=Mobil-Delvac-15W-40]]></product_link>
+		</item>
+		
+		
+		<item>
+			<product_name>Mobil Delvac 1™ SHC 5W-40 </product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-1-5w40.png?WT.mc_id=Mobil-Delvac-1-SHC-5W-40</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac 1 SHC 5W-40 ist ein Hochleistungs-Dieselmotorenöl, das für ausgezeichnete Schmierung auch bei langen Ölwechselintervallen sorgt. Es unterstützt eine lange Lebensdauer von Dieselmotoren, die unter erschwerten Betriebsbedingungen laufen. 
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-shc-5w40.aspx?WT.mc_id=Mobil-Delvac-1-SHC-5W-40]]></product_link>
+		</item>
+		
+		
+		<item>
+			<product_name>Mobil Delvac™ XHP Ultra    5W-30 </product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-xhp-5w30.png?WT.mc_id=Mobil-Delvac-XHP-Ultra-5W-30</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac XHP Ultra ist ein Hochleistungsmotorenöl für moderne, leistungsstarke Dieselmotoren in Nutzfahrzeugen. Fortschrittliche Grundöltechnologie zusammen mit einem maßgeschneidertem Wirkstoffpaket sichern ein hohes Leistungsvermögen für den Einsatz unter schwersten Betriebsbedingungen.
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-ultra-5w30.aspx?WT.mc_id=Mobil-Delvac-XHP-Ultra-5W-30]]></product_link>
+		</item>
+		
+		
+		<item>
+			<product_name>Mobil Delvac™ XHP LE     10W-40 </product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-xhp-le-10w40.png?WT.mc_id=Mobil-Delvac-XHP-LE-10W-40</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac XHP LE 10W-40 ist ein leistungsstarkes Dieselmotorenöl zur Schmierung moderner, emissionsarmer Hochleistungsmotoren in anspruchsvollen Anwendungen. Dieses Motorenöl wird mit Grundölen höchster Leistungsniveaus hergestellt, die sich durch hervorragendes Fließverhalten bei tiefen Temperaturen, einen hohen Viskositätsindex sowie niedrigen Verdampfungsverlust auszeichnen.
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-le-10w40.aspx?WT.mc_id=Mobil-Delvac-XHP-LE-10W-40]]></product_link>
+		</item>
+		
+		
+		<item>
+			<product_name>Mobil Delvac™ XHP Extra 10W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-xhp-extra-10w40.png?WT.mc_id=Mobil-Delvac-XHP-Extra-10W-40</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac XHP Extra 10W-40 ist ein Motorenöl für die optimale Versorgung moderner Hochleistungs-Dieselmotoren in Kraft-und Nutzfahrzeugen. Es wurde für die optimale Versorgung  moderner Hochleistungs-Dieselmotoren in Kraft- und Nutzfahrzeugen konzipiert. Die als Basis für das Diesel-Motorenöl verwendeten Hochleistungsöle  garantieren auch bei niedrigen Temperaturen hervorragende Fließeigenschaften,  bei hohen Temperaturen ein beibehalten der Viskosität und helfen den Kraftstoffverbrauch zu reduzieren.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-extra-10w40.aspx?WT.mc_id=Mobil-Delvac-XHP-Extra-10W-40
+]]></product_link>
+		</item>
+		
+		
+		<item>
+			<product_name>Mobil Delvac MX™ ESP     15W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-mx-esp-15w40.png?WT.mc_id=Mobil-Delvac-MX-ESP-15W-40</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac MX ESP 15W-40 ist ein Hochleistungsöl für Dieselmotoren, das zu einer verlängerten Lebensdauer unter extremsten Einsatzbedingungen in Nutzfahrzeugen und Baumaschinen beiträgt. Es bietet außergewöhnliche Leistung in modernen, emissionsarmen Hochleistungsmotoren, auch mit Abgasrückführungssystemen (EGR) und Abgasnachbehandlungssystemen mit Dieselpartikelfiltern (DPFs) oder Dieseloxidationskatalysatoren (DOCs).]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-mx-esp-15w40.aspx?WT.mc_id=Mobil-Delvac-MX-ESP-15W-40]]></product_link>
+		</item>
+		
+		
+		<item>
+			<product_name>Mobil Delvac MX™ 15W-40 </product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224__Mobil-Delvac-MX-15W-40.png?WT.mc_id=Mobil-Delvac-MX-15W-40</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac MX 15W-40 ist ein Hochleistungsöl für Dieselmotoren, das eine hervorragende Schmierung moderner Dieselmotoren gewährleistet und zu einer verlängerten Lebensdauer des Motors beiträgt. Dieses Produkt erfüllt oder übertrifft die Anforderungen praktisch aller führenden europäischen und amerikanischen Motorenhersteller. Sein hohes Leistungsvermögen hat sich in der Praxis in vielen Industriezweigen, Anwendungen und gemischten Fuhrparks bewiesen.
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-mx-15w40.aspx?WT.mc_id=Mobil-Delvac-MX-15W-40]]></product_link>
+		</item>
+		
+        <!--End of Engine Oils--> 
+        
+        
+        <!--Power steering fluids--> 
+		
+		<item>
+			<product_name>Mobil ATF™ 320</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-atf-320.png?WT.mc_id=Mobil-ATF-320</image_name>
+			<product_description><![CDATA[</li>Mobil ATF 320 wird für die meisten Pkw- und Lkw- Automatikgetriebe empfohlen. Darüber hinaus eignet es sich für Servolenkungen, für hydraulische Systeme und eine Reihe von Handschaltgetrieben, für die ein ATF spezifiziert ist.
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_power-steering_mobil-atf-320.aspx?WT.mc_id=Mobil-ATF-320]]></product_link>
+		</item>
+	
+	
+		<item>
+			<product_name>Mobil ATF™ 220</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-atf-220.png?WT.mc_id=Mobil-ATF-220</image_name>
+			<product_description><![CDATA[</li>Mobil ATF 220 ist ein Hochleistungs-Automatik-Transmission-Fluid für ältere Fahrzeuge, für die Dexron IID vorgeschrieben ist. Es kann auch als Hydraulikfluid in bestimmten Anwendungen verwendet werden.
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_power-steering_mobil-atf-220.aspx?WT.mc_id=Mobil-ATF-220]]></product_link>
+		</item>
+		
+	
+	    <!--End of Power steering fluids--> 
+          
+          
+        
+	    <!--Start of Lubricating Greases--> 
+          
+          
+		<item>
+			<product_name>Mobil™ Chassis Grease LBZ</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_grease-gun-placeholder.png?WT.mc_id=Mobil-Chassis-Grease-LBZ</image_name>
+			<product_description><![CDATA[</li>Mobil Chassis Grease LBZ ist ein Fließfett auf der Basis synthetischer Grundöle in der Konsistenzgruppe NLGI 00. Es wurde speziell für Zentralschmieranlagen in Nutzfahrzeugen entwickelt. Das Produkt enthält Antioxidantien, Korrosionshemmer und Additive für extreme Druckverhältnisse und zum Schutz vor Verschleiß.
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_greases_mobil-chassis-grease-lbz.aspx?WT.mc_id=Mobil-Chassis-Grease-LBZ]]></product_link>
+		</item>
+	
+	
+		<item>
+			<product_name>Mobilgrease XHP™ 220 Reihe</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_grease-gun-placeholder.png?WT.mc_id=Mobilgrease-XHP-222-MINE</image_name>
+			<product_description><![CDATA[</li>Mobilgrease XHP 220 Schmierfette sind mit einer Lithium-Komplex-Seife formuliert. Sie eignen sich für verlängerte Serviceintervalle bei einer Vielzahl unterschiedlicher Anwendungen unter hohen mechanischen Belastungen. Diese Schmierfette basieren auf einer bahnbrechenden, urheberrechtlich geschützten Lithiumkomplex-Technologie und bringen erheblich bessere Leistungen als konventionelle Produkte. 
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_greases_mobilgrease-xhp-220-reihe.aspx?WT.mc_id=Mobilgrease-XHP-222-MINE]]></product_link>
+		</item>
+	
+          
+		<!--End of Lubricating Greases--> 
+          
+          
+          
+        <!--Start of Rear axle lubricants--> 
+          
+
+		<item>
+			<product_name>Mobilube 1 SHC™ 75W-90</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobilube-1-shc-75w90.png?WT.mc_id=Mobilube-1-SHC-75W-90</image_name>
+			<product_description><![CDATA[</li>Mobilube 1 SHC 75W-90 ist ein aus synthetischen Grundölen und einem Additivsystem neuester Technologie hergestelltes Kraftfahrzeuggetriebeöl für Handschaltgetriebe und Achsgetriebe. Es ist geeignet für hervorragende Lasttragfähigkeit bei weitem Temperatureinsatzbereich, für hohe Drücke und Stoßbelastung.
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_rear-axle_mobilube-1-shc-75w90.aspx?WT.mc_id=Mobilube-1-SHC-75W-90]]></product_link>
+		</item>
+	    
+		<item>
+			<product_name>Mobil Delvac™ Synthetic Gear Oil 75W-90</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_axel-placeholder.png?WT.mc_id=Mobil-Delvac-Synthetic-Gear-Oil-75W-90</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac Synthetic Gear Oil 75W-90 ist ein vollsynthetischer Getriebeschmierstoff für Antriebsstränge, der konzipiert wurde, um die hohen Leistungsanforderungen an verlängerte Ölwechselintervalle und Garantieanforderungen zu erfüllen. Das Getriebeöl wurde zum Einsatz in Hochleistungs-Antriebssträngen entwickelt, die Getriebeschmierstoffe mit hervorragendem Lasttragevermögen erfordern, und wenn extrem hohe Drücke und Stoßbelastungen erwartet werden.
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_rear-axle_mobil-delvac-synthetic-gear-oil-75w90.aspx?WT.mc_id=Mobil-Delvac-Synthetic-Gear-Oil-75W-90]]></product_link>
+		</item>
+	
+		<item>
+			<product_name>Mobilube™ HD-A 85W-90</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_axel-placeholder.png?WT.mc_id=Mobilube-HD-A-85W-90</image_name>
+			<product_description><![CDATA[</li>Mobilube HD-A 85W-90 ist ein KFZ-Getriebeöl, hergestellt aus Grundölen hoher Qualität und einem ausgewogenen Additivsystem. Das Schmiermittel wurde für gewerbliche Antriebe und Endantriebe entwickelt, bei denen hohe Drücke und Stoßbelastungen erwartet werden. Sie werden von ExxonMobil für Anwendungen empfohlen, die API GL-5 Qualitätsniveau erfordern.
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_rear-axle_mobilube-hd-a-85w90.aspx?WT.mc_id=Mobilube-HD-A-85W-90]]></product_link>
+		</item>
+		
+        
+        <!--End of Rear axle lubricants--> 
+        
+       
+        
+       <!--Start of manual and automatic transmission--> 
+	
+	 
+		<item>
+			<product_name>Mobil Delvac™ Synthetic ATF</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224__mobil-delvac-synthetic-atf.png?WT.mc_id=Mobil-Delvac-Synthetic-ATF</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac Synthetic ATF ist ein vollsynthetischer Schmierstoff für Automatikgetriebe, welcher von Allison Transmission Inc. empfohlen wird und gemäß der Allison TES-295 Spezifikation freigegeben ist. Der Schmierstoff ist so konzipiert, dass er den anspruchsvollen Anforderungen moderner Hochleistungs-Automatikgetriebe entspricht.
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_transmission_mobil-delvac-synthetic-atf.aspx?WT.mc_id=Mobil-Delvac-Synthetic-ATF]]></product_link>
+		</item>
+	
+		<item>
+			<product_name>Mobilube XHP™ 75W-80</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_packshot-placeholder-4l.png?WT.mc_id=Mobilube-XHP-75W-80</image_name>
+			<product_description><![CDATA[</li>Mobilube XHP 75W-80 ist ein Hochleistungs-Schaltgetriebeöl, das für moderne, stark belastete Schaltgetriebe von Nutzfahrzeugen und PKW entwickelt wurde. Dieses Getriebeöl ist aus hochwertigen Grundölen und einem Additivpaket neuester Technologie formuliert, um eine noch bessere Schaltbarkeit, Tieftemperaturfließfähigkeit und Viskositätsstabilität bei hohen Temperaturen zu ermöglichen.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_transmission_mobilube-xhp-75w80.aspx?WT.mc_id=Mobilube-XHP-75W-80]]></product_link>
+		</item>
+	
+		<item>
+			<product_name>Mobilube™ GX-A 80W</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_packshot-placeholder-4l.png?WT.mc_id=Mobilube-GX-A-80W</image_name>
+			<product_description><![CDATA[</li>Mobilube GX-A 80W ist ein Getriebeschmiermittel für Kraftfahrzeuge. Es wurde mit Hochleistungs-Grundölen und einem fortschrittlichen Additivsystem entwickelt. Dieses Getriebeöl wurde für den Einsatz in Kraftübertragungen, Achsen und Endantrieben von Nutzfahrzeugen entwickelt, in denen Abrieb- und Verschleißschutz von besonderer Bedeutung ist.
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_transmission_mobilube-gx-a-80w.aspx?WT.mc_id=Mobilube-GX-A-80W]]></product_link>
+		</item>
+        
+        
+        <item>
+			<product_name>Mobilube™ GX 80W-90</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224__Mobilube-GX-A-80.png?WT.mc_id=Mobilube-GX-80W-90</image_name>
+			<product_description><![CDATA[</li>Hochleistungs-Getriebeöl, das aus hochwertigen Grundölen und einem innovativen Additivsystem hergestellt wird. Besonders für den Einsatz in Getrieben, Achsen und Endantrieben von Nutzfahrzeugen geeignet, bei denen ein guter Verschleißschutz erforderlich ist. Bietet hervorragende Leistung bei Anforderungen nach API GL-4.
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_transmission_mobilube-gx-80w90.aspx?WT.mc_id=Mobilube-GX-80W-90]]></product_link>
+		</item>
+        
+        <item>
+			<product_name>Mobilfluid™ 422</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_packshot-placeholder-4l.png?WT.mc_id=Mobilfluid-422</image_name>
+			<product_description><![CDATA[</li>Spezialgetriebeöl für bestimmte Traktorentypen, bei denen Schalt- und Achsgetriebe, Hydraulik und „nasse Bremsen“ ein gemeinsames Ölsystem haben. Besonders empfohlen für JCB und Steyr Serie 900-Traktoren.
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_transmission_mobilfluid-422.aspx?WT.mc_id=Mobilfluid-422]]></product_link>
+		</item>
+        
+        <item>
+			<product_name>Mobilfluid™ 424</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_packshot-placeholder-4l.png?WT.mc_id=Mobilfluid-424</image_name>
+			<product_description><![CDATA[</li>Mobilfluid 424 ist eine vielseitig einsetzbare, extra high performance Kraftübertragungsflüssigkeit, die die Anforderungen an Getriebeöle und Hydraulikflüssigkeiten erfüllt oder übertrifft. Die fortschrittliche Technologie von Mobilfluid 424 ist maßgeschneidert für eine optimale Leistungsfähigkeit und einen sehr breiten Anwendungsbereich in Land- und Baumaschinen.
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_transmission_mobilfluid-424.aspx?WT.mc_id=Mobilfluid-424]]></product_link>
+		</item>
+        
+        <item>
+			<product_name>Mobilfluid™ 426</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_packshot-placeholder-4l.png?WT.mc_id=Mobilfluid-426</image_name>
+			<product_description><![CDATA[</li>Spezialgetriebeöl für bestimmte Traktorentypen, bei denen Schalt- und Achsgetriebe, Hydraulik und „nasse Bremsen“ ein gemeinsames Ölsystem haben.
+			]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.de/Germany-German-LCW/heavydutyengineoils_products_transmission_mobilfluid-426.aspx?WT.mc_id=Mobilfluid-426]]></product_link>
+		</item>
+        
+        
+         !--End of manual and automatic transmission--> 
+        
+	</products>
+
+</translations>

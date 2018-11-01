@@ -1,0 +1,13 @@
+<banners>
+
+<banner image="Flash/615x274_delvac90years-fr.swf" link="/France-French-LCW/heavydutyengineoils_products.aspx" tracking="ALR" type="SWF" thumbnail="/Shared-Images-LCW/50x40_90_Years_Shield_Colour_white-English.jpg" target="_self"></banner>
+
+<banner image="Flash/615x274_fr_esso_f1.swf" link="http://carburant.esso.fr/summer-promotion" tracking="ALR" type="SWF" thumbnail="/flash/media_50x40_fuelprogress.jpg" target="_self"></banner>
+
+<banner image="Flash/media_615x274_alr.swf" link="/France-French-LCW/which-oil.aspx" tracking="ALR" type="SWF" thumbnail="Flash/media_50x40_alr.jpg" target="_self"></banner>
+
+<banner image="Flash/fuel_economy_fr.swf" link="/France-French-LCW/heavydutyengineoils_mobil-delvac-fuel-saving-millbrook.aspx" tracking="CVL" type="SWF" thumbnail="/Flash/50x40-save-fuel.png" target="_self"></banner>
+
+<banner image="/France-French-LCW/Flash/dist_endless_road_trip_615x274_fr.SWF" link="http://www.mobil1.fr/les-sports-mecaniques/le-long-voyage.aspx?utm_source=mobil-home&utm_medium=mobil&utm_content=homepage-banner&utm_campaign=endless-road-trip <http://www.mobil1.fr/les-sports-mecaniques/le-long-voyage.aspx?utm_source=mobil-home&utm_medium=mobil&utm_content=homepage-banner&utm_campaign=endless-road-trip>"tracking="PVL" type="SWF" thumbnail="/benelux-dutch-lcw/flash/media_50x40_motorsport.jpg" target="_self"></banner>
+
+</banners>

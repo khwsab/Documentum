@@ -1,8 +1,4 @@
 
-<%@ Import Namespace="System" %>
-<%@ Import Namespace="System.Web" %>
-<%@ Import Namespace="System.IO" %>
-<%@ Import Namespace="EUCookie" %>
 
 <a id="modalOldBrowserDialogueTrigger" href="#modalOldBrowserDialogue"></a>
 <a id="modalCookieDialogueTrigger" href="#modalCookieDialogue"></a>
@@ -147,7 +143,7 @@ string isCurrent(string url){
 				<div id="search-nav">
 					<div id="menu"></div>
 					<div style="display:none;" id="menuContainer">
-						<div id="temp"></div>
+						<!-- <div id="temp"></div>-->
 						<div id="mobileMenuHeaderContainer">
 							<div id="mobileMenuBack">
 								<span class="mobileIconImg"></span>

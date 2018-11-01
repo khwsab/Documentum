@@ -1,7 +1,6 @@
 <html>
 <head>
-<meta http-equiv="refresh" content="0; url=
-https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=it-IT&amp;renderMap=true&amp;renderButton=true"> 
+<meta http-equiv="refresh" content="0; url="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=it-IT&amp;renderMap=true&amp;renderButton=true">
 </head>
 </html>
 

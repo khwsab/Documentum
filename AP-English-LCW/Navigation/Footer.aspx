@@ -77,5 +77,4 @@
 </div>
 </div>
 <!-- WRAPPER END (Not required when input) --></div>
-<!--#include virtual="/Imports/LCW_WT_FooterScript.html"-->
 <!-- googleon: index -->

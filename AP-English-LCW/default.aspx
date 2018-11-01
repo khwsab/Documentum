@@ -1,8 +1,3 @@
-
-			
-  <%@ Page Language="C#" AutoEventWireup="false" Inherits="XOM.Common.Web.XOMPage" %>
-  <%@ Register TagPrefix="XOM" Namespace="XOM.Common.Web" Assembly="XOMCommon" %>
-  <%@ Register Src="Navigation/Header.ascx" TagName="Header" TagPrefix="xom" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
     <head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Mobil&trade; Engine Oil Asia Pacific Home | Mobil&trade; Asia Pacific</title>

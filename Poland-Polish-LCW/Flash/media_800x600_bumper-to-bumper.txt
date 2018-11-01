@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<translations>
+
+	<common>
+	
+		<skip_movie>Pomiń film</skip_movie>>
+		<enter>Dalej</enter>
+		<read_more>Dowiedź się więcej</read_more>
+		<intro_headline><![CDATA[Od silnika po łożyska - |rekomendacje dla|pojazdu ciężarowego]]></intro_headline>
+		<intro_copy><![CDATA[Syntetyczne oleje Mobil Delvac to właściwy wybór dla Ciebie.<br><br>Specjalnie opracowany asortyment syntetycznych olejów do przekładni automatycznych i skrzyń biegów do zastosowań w pojazdach użytkowych pomaga w zapewnieniu ochrony nawet w najbardziej wymagających warunkach.<br><br>Mobil Delvac to szeroka oferta olejów, w tym syntetycznych olejów silnikowych, spełniających wymagania Twojej ciężarówki.]]></intro_copy>
+	
+	</common>
+	
+	
+	
+	<navigation>
+	
+	
+	
+		<item>
+			<title><![CDATA[Oleje silnikowe<br> Mobil Delvac]]></title>
+			<intro_copy>Asortyment olejów silnikowych Mobil Delvac do ciężkich, średnich i lekkich pojazdów użytkowych umożliwia wydłużenie okresu eksploatacji, jak również okresów pomiędzy przeglądami.</intro_copy>
+			<products>Mobil Delvac 1™ LE 5W-30, Mobil Delvac 1™ 5W-40, Mobil Delvac 1™ SHC 5W-40, Mobil Delvac™ XHP LE       10W-40, Mobil Delvac™ XHP Extra 10W-40, Mobil Delvac MX™ Extra    10W-40, Mobil Delvac MX™ ESP    15W-40</products>
+		<label_coords>224, 287</label_coords>
+		<zoom_to>-180, -526</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[Wspomaganie układu<br> kierowniczego]]></title>
+			<intro_copy>Mobil™ ATF - oleje do przekładni automatycznych pomagają wydłużyć okresy pomiędzy przeglądami, zapewniają utrzymanie wnętrza skrzyni biegów w czystości, płynną zmianę biegów i z całą pewnością przyczynią się do przedłużenia żywotności skrzyń biegów eksploatowanych nawet w najcięższych warunkach pracy.</intro_copy>
+			<products>Mobil ATF™ 320, Mobil ATF™ 220</products>
+			<label_coords>333, 344</label_coords>
+			<zoom_to>-394, -591</zoom_to>
+		</item>
+				
+		<item>
+			<title><![CDATA[Smary]]></title>
+			<intro_copy>Wysokiej jakości smary Mobil zapewniają wysoki poziom ochrony przed utlenianiem, zawilgoceniem i korozją, a także doskonałą płynność, nawet w bardzo niskich temperaturach.</intro_copy>
+			<products>Mobil™ Chassis Grease LBZ, Mobilgrease XHP™ 222</products>
+			<label_coords>562, 254</label_coords>
+			<zoom_to>-856, -459</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[Oleje<br> przekładniowe]]></title>
+			<intro_copy>Środki smarne Mobil Delvac™ zostały specjalnie opracowane do skrzyń biegów, osi i przekładni głównych samochodów ciężarowych, pracujących nawet w najbardziej wymagających warunkach.</intro_copy>
+			<products>Mobilube 1 SHC™ 75W-90, Mobil Delvac™ Synthetic Gear Oil 75W-90, Mobilube™ HD-A 85W-90, Mobilube™ HD-N 80W-140</products>
+			<label_coords>356, 261</label_coords>
+			<zoom_to>-450, -468</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[Ręczne i automatyczne<br> skrzynie biegów]]></title>
+			<intro_copy>Wśród olejów przekładniowych Mobil™ znajdują się produkty syntetyczne, które oferują znakomitą ochronę przed przyspieszonym zużyciem, zachowanie trwałego filmu olejowego w warunkach wysokich temperatur, jednocześnie zapewniając skuteczne smarowanie elementów przekładni w skrajnie niskich temperaturach.</intro_copy>
+			<products>Mobilube 1 SHC™ 75W-90, Mobilube™ XHP 75W-80, Mobilube™ GX-A 80W, Mobilube™ GX 80W-90</products>
+			<label_coords>491, 228</label_coords>
+			<zoom_to>-697, -426</zoom_to>
+	</item>
+		
+	
+		
+	</navigation>
+
+
+
+	
+	<products>
+	
+	<!--Engine Oils--> 
+	
+		<item>
+			<product_name>Mobil Delvac 1™ LE 5W-30</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobil-delvac-1-le-5w30.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac 1 LE 5W-30 to w pełni syntetyczny, wysokowydajny olej do wysokoobciążonych silników Diesla, który łączy w sobie zaawansowaną technologię ochrony silnika w nowoczesnych pojazdach niskoemisyjnych z większymi możliwościami w zakresie oszczędności paliwa oraz innymi korzyściami związanymi ze stabilnym funkcjonowaniem silnika, takim jak trwałość, ochrona systemu emisji i wydłużone okresy między wymianami oleju. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx?WT.mc_id=Mobil-Delvac-1-LE-5W-30]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil Delvac 1™ 5W-40</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobil-delvac-1-5w40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac 1 5W-40 jest w pełni syntetycznym olejem o najwyższej jakości do wysokoobciążonych silników Diesla, który przyczynia się do zwiększenia trwałości silnika zapewniając dłuższy przebieg między wymianami oleju oraz ekonomię zużycia paliwa w silnikach najnowszej generacji pracujących w trudnych warunkach.  ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-1-5w40.aspx?WT.mc_id=Mobil-Delvac-1-LE-5W-30]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil Delvac 1™ SHC 5W-40</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobil-delvac-1-shc-5w40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac 1 SHC 5W-40 to doskonałej jakości, w pełni syntetyczny olej do silników Diesla. Zapewnia doskonałe smarowanie, dłuższe okresy między wymianami oleju i wydłużenie żywotności wysokoprężnych silników eksploatowanych nawet w najcięższych warunkach. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-1-shc-5w40.aspx?WT.mc_id=Mobil-Delvac-1-SHC-5W-40]]></product_link>
+		</item>
+		
+			<item>
+			<product_name>Mobil Delvac™ XHP LE       10W-40</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobil-delvac-xhp-le-10w40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac XHP LE 10W-40 to najwyższej jakości syntetyczny olej silnikowy przeznaczony do smarowania wysokoobciążonych nowoczesnych silników Diesla z niską emisją spalin w sprzęcie pracującym w trudnych warunkach. Produkt ten został opracowany z wykorzystaniem wysokiej jakości olejów bazowych, które zapewniają doskonałą płynność oleju w niskich temperaturach, trwały film olejowy w wysokich temperaturach oraz niską lotność.  ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-xhp-le-10w40.aspx?WT.mc_id=Mobil-Delvac-XHP-LE-10W-40]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil Delvac™ XHP Extra 10W-40</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobil-delvac-xhp-extra-10w40.png</image_name>
+			<product_description><![CDATA[</li>Najwyższej jakości, stworzony w oparciu o technologie syntetyczną, olej silnikowy Mobil Delvac XHP Extra 10W-40 przeznaczony jest do smarowania wysokoobciążonych silników wysokoprężnych najnowszej generacji.  ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-xhp-extra-10w40.aspx?WT.mc_id=Mobil-Delvac-XHP-Extra-10W-40]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil Delvac MX™ Extra    10W-40</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224-Mobil-Delvac-MX-Extra-10W-40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac MX Extra 10W-40 to najwyższej jakości, wykonany w technologii syntetycznej olej do wysokoobciążonych silników, który zapewnia doskonałe smarowanie współczesnych silników Diesla, a także silników benzynowych. Jego funkcja polega na utrzymaniu czystości i wydłużeniu żywotności silnika. W rezultacie produkt ten jest zalecany przez ExxonMobil do silników zarówno europejskich, japońskich jak i amerykańskich producentów.  ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-mx-extra-10w40.aspx?WT.mc_id=Mobil-Delvac-MX-Extra-10W-40 ]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil Delvac MX™ ESP    15W-40</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobil-delvac-mx-esp-15w40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac MX ESP 15W-40 to najwyższej jakości olej do silników Diesla pozwalający na przedłużenie żywotności silnika w najbardziej nawet wymagających warunkach eksploatacji zarówno na drogach jak i w zastosowaniach przemysłowych. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-mx-esp-15w40.aspx?WT.mc_id=Mobil-Delvac-MX-ESP-15W-40]]></product_link>
+		</item>
+		
+		<!--End of Engine Oils--> 
+		
+		
+		
+		<!--Power steering fluids--> 
+		
+		<item>
+			<product_name>Mobil ATF™ 320</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobil-atf-320.png</image_name>
+			<product_description><![CDATA[</li>Doskonałej jakości olej do przekładni automatycznych zalecany do większości pojazdów osobowych i użytkowych z automatyczną skrzynia biegów.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_power-steering_mobi-atf-320.aspx?WT.mc_id=Mobil-ATF-320]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobil ATF™ 220</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobil-atf-220.png</image_name>
+			<product_description><![CDATA[</li>Mobil ATF 220 to wysokiej jakości płyn przeznaczony do stosowania w automatycznych skrzyniach biegów, do których zalecane są płyny spełniające wymagania klasyfikacji GM Dexron IID. Jest też używany w niektórych ręcznych przekładniach samochodowych, układach wspomagania układów kierowniczych i układach hydraulicznych.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_power-steering_mobil-atf-220.aspx?WT.mc_id=Mobil-ATF-220]]></product_link>
+		</item>
+	
+		<!--End of Power steering fluids--> 
+	
+	
+	
+		<!--Start of Lubricating Greases--> 
+		
+		<item>
+			<product_name>Mobil™ Chassis Grease LBZ</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_grease-gun-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobil Chassis Grease LBZ to półpłynny smar na bazie olejów syntetycznych o klasie konsystencji NLGI 00. Jest on przeznaczony do centralnych systemów smarowania szczególnie w pojazdach użykowych i w transporcie samochodowym. Produkt zawiera antyutleniacze, inhibitory przeciwkorozyjne oraz pakiet przeciwzużyciowych dodatków w tym typu EP.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_greases_mobil-chassis-grease-lbz.aspx?WT.mc_id=Mobil-Chassis-Grease-LBZ]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobilgrease XHP™ 222</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_grease-gun-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Smary serii Mobilgrease XHP™ 220 są smarami zagęszczonymi kompleksem litowym, o wydłużonym działaniu, mającymi szereg zastosowań i przeznaczonymi do pracy w ciężkich warunkach eksploatacyjnych. Smary te zostały zaprojektowane tak, aby prześcignąć produkty konwencjonalne poprzez zastosowanie najnowszej technologii produkcji kompleksu litowego.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_greases_mobil-grease-xhp-222-seria.aspx?WT.mc_id=Mobilgrease-XHP-222]]></product_link>
+		</item>
+		
+		<!--End of Lubricating Greases--> 
+		
+		
+		<!--Start of Rear axle lubricants--> 
+		
+		
+		<item>
+			<product_name>Mobilube 1 SHC™ 75W-90</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobilube-1-shc-75w90.png</image_name>
+			<product_description><![CDATA[</li>Mobilube 1 SHC 75W-90 to najwyższej jakości, w pełni syntetyczny, olej przekładniowy opracowany w oparciu o syntetyczne oleje bazowe i najnowszą technologię dodatków uszlachetniających.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_rear-axle_mobilube-1-shc-75w90.aspx?WT.mc_id=Mobilube-1-SHC-75W-90]]></product_link>
+		</item>
+
+		<item>
+			<product_name>Mobil Delvac™ Synthetic Gear Oil 75W-90</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobil-delvac-gear-oil-75w90.png</image_name>
+			<product_description><![CDATA[</li>Olej przekładniowy Mobil Delvac Synthetic Gear Oil 75W-90 jest w pełni syntetycznym środkiem smarnym utworzonym na bazie olejów syntetycznych i nowoczesnych domieszek. Jest on przeznaczony do użytku w przekładniach dla taboru kolejowego i zapewnia doskonałą nośność tam, gdzie występują ekstremalne ciśnienia i obciążenia udarowe. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_rear-axle_mobil-delvac-synthetic-gear-oil-75w90.aspx?WT.mc_id=Mobil-Delvac-Synthetic-Gear-Oil-75W-90]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobilube™ HD-A 85W-90</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobilube-hd-a-85w90.png</image_name>
+			<product_description><![CDATA[</li>Mobilube HD-A 85W-90 to olej do wysokoobciążonych przekładni samochodowych opracowany na bazie wysokorafinowanego oleju mineralnego wzbogaconego specjalnie dobranym pakietem dodatków uszlachetniających. Olej ten jest przeznaczony do użycia w samochodowych układach transmisyjnych, wałach osiowych i przekładniach głównych, w których występują ekstremalnie wysokie ciśnienia oraz obciążenia udarowe. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_rear-axle_mobilube-hd-a-85w90.aspx?WT.mc_id=Mobilube-HD-A-85W-90]]></product_link>
+		</item>
+		
+		<item>
+			<product_name>Mobilube™ HD-N 80W-140</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_soot-control-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobilube HD-N 80W-140 to wysokiej jakości olej przekładniowy przeznaczony do stosowania w pojazdach użytkowych, stworzony z wyselekcjonowanych olejów bazowych i nowoczesnego pakietu dodatków uszlachetniających. Olej ten doskonale sprawdza się w wysokoobciążonych skrzyniach biegów, mostach napędowych i przekładniach głównych, gdzie mogą występować przeciążenia oraz obciążenia udarowe.  ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_rear-axle_mobilube-hd-n-80w140.aspx?WT.mc_id=Mobilube-HD-N-80W-140]]></product_link>
+		</item>
+		
+		
+		<!--End of Rear axle lubricants--> 
+		
+		
+		<!--Manual and Automatic transmission--> 
+		
+		<item>
+			<product_name>Mobilube 1 SHC™ 75W-90</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobilube-1-shc-75w90.png</image_name>
+			<product_description><![CDATA[</li>Mobilube 1 SHC 75W-90 to najwyższej jakości, w pełni syntetyczny, olej przekładniowy opracowany w oparciu o syntetyczne oleje bazowe i najnowszą technologię dodatków uszlachetniających. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_rear-axle_mobilube-1-shc-75w90.aspx?WT.mc_id=Mobilube-1-SHC-75W-90]]></product_link>
+		</item>
+	
+	    <item>
+			<product_name>Mobilube™ XHP 75W-80</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_soot-control-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobilube XHP 75W-80 to wysokiej jakości olej przekładniowy opracowany w technologii syntetycznej przeznaczony do stosowania w wysoko obciążonych ręcznych skrzyniach biegów pojazdów ciężarowych i samochodów osobowych. ]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_transmission_mobilube-xhp-75w80.aspx?WT.mc_id=Mobilube-XHP-75W-80]]></product_link>
+		</item>
+	
+	    <item>
+			<product_name>Mobilube™ GX-A 80W</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_mobilube-gx-a-80w.png</image_name>
+			<product_description><![CDATA[</li>Mobilube GX-A 80W jest motoryzacyjnym olejem przekładniowym, utworzonym na bazie olejów bazowych o wysokiej jakości i wzbogaconym pakietem dodatków uszlachetniających. Olej ten został opracowany na użytek stosowanych w motoryzacji układów transmisyjnych, wałów osiowych i napędów głównych, gdzie wymagana jest ochrona przeciw zużyciu oraz zatarciu.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_transmission_mobilube-gx-a-80w.aspx?WT.mc_id=Mobilube-GX-A-80W]]></product_link>
+		</item>
+	
+		<item>
+			<product_name>Mobilube™ GX 80W-90</product_name>
+			<image_name>http://www.khws-staging.co.uk/BtoB/Shared-Images-LCW/product_165x224_soot-control-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobilube GX 80W-90, to wysokiej jakości samochodowe oleje przekładniowe, opracowane na bazie najwyższej jakości mineralnych olejów bazowych z pakietem nowoczesnych dodatków uszlachetniających. Oleje te przewidziane są dla wysokoobciążonych przekładni samochodowych, jak i mostów napędowych, przekładni głównych, gdzie ważna jest ochrona przeciwzużyciowa i przeciwzatarciowa.]]></product_description>
+			<product_link><![CDATA[http://www.mobil.pl/Poland-Polish-LCW/heavydutyoils_products_transmission_mobilube-gx-80w90.aspx?WT.mc_id=Mobilube-GX-80W-90]]></product_link>
+		</item>
+	
+		<!--End of Manual and Automatic transmission--> 
+	
+	</products>
+
+</translations>

@@ -89,11 +89,11 @@
 
                             <br>
 
-                            <u><a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx" class="">Mobil Delvac&trade; 1 LE 5W-30 </a></u>è un olio completamente sintetico ad altissime prestazioni per motori diesel, a basso contenuto di ceneri solfatate, fosforo e zolfo, conforme alle specifiche DAF per intervalli di sostituzione prolungati, che può contribuire al risparmio di carburante¹ e a prolungare gli intervalli di sostituzione. <br>
+                            <u><a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx" class="">Mobil Delvac&trade; 1 LE 5W-30 </a></u>è un olio completamente sintetico ad altissime prestazioni per motori diesel, a basso contenuto di ceneri solfatate, fosforo e zolfo, conforme alle specifiche DAF per intervalli di sostituzione prolungati, che può contribuire al risparmio di carburante¹ e a prolungare gli intervalli di sostituzione. <br>
 
                             <br>
 
-                            <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-esp-10w40.aspx" class=""><u>Mobil Delvac&trade; XHP ESP 10W-40</u> </a>è un olio sintetico ad altissime prestazioni per motori diesel, a basso contenuto di ceneri solfatate, fosforo e zolfo, conforme alle specifiche DAF per intervalli di sostituzione prolungati, che offre una protezione avanzata al motore e all'impianto di scarico in applicazioni stradali gravose. <br>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-esp-10w40.aspx" class=""><u>Mobil Delvac&trade; XHP ESP 10W-40</u> </a>è un olio sintetico ad altissime prestazioni per motori diesel, a basso contenuto di ceneri solfatate, fosforo e zolfo, conforme alle specifiche DAF per intervalli di sostituzione prolungati, che offre una protezione avanzata al motore e all'impianto di scarico in applicazioni stradali gravose. <br>
 
                             <br>
 
@@ -117,7 +117,7 @@ Gi oli completamente sintetici come Mobil Delvac&trade; 1 circolano nei motori D
                             </strong>
                             <br>
 
-                            <u><a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx" class="">Mobil Delvac&trade; 1 LE 5W-30 </a></u>e <u><a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-esp-10w40.aspx" class="">Mobil Delvac&trade; XHP ESP 10W-40 </a></u>proteggono l'impianto di scarico e contengono speciali additivi formulati per massimizzare la durata e mantenere l'efficienza dei sistemi di riduzione delle emissioni, come i filtri antiparticolato per diesel (DPF) di DAF. Il DPF viene utilizzato per rispettare i requisiti previsti dalle norme sulle emissioni Euro IV, V e VI. <br>
+                            <u><a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx" class="">Mobil Delvac&trade; 1 LE 5W-30 </a></u>e <u><a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-esp-10w40.aspx" class="">Mobil Delvac&trade; XHP ESP 10W-40 </a></u>proteggono l'impianto di scarico e contengono speciali additivi formulati per massimizzare la durata e mantenere l'efficienza dei sistemi di riduzione delle emissioni, come i filtri antiparticolato per diesel (DPF) di DAF. Il DPF viene utilizzato per rispettare i requisiti previsti dalle norme sulle emissioni Euro IV, V e VI. <br>
 
                             <br>
 

@@ -1,0 +1,11 @@
+<banners>
+
+<banner image="Flash/media_615x274_md_90th_anniversary.swf"link="heavydutyoils_history-of-mobil-delvac.aspx" tracking="heavydutyoils" type="SWF" thumbnail="Flash/media_50x40_md_90th_anniversary.jpg" target="_self"></banner>
+
+<banner image="Flash/media_615x274_acpt.swf"link="aptc-app.aspx" tracking="industrialspecialty" type="SWF" thumbnail="Flash/media_50x40-acpt.jpg" target="_self"></banner>
+
+<banner image="Flash/media_615x274_cvl-product-selector-banner.swf" link="heavydutyoils.aspx" tracking="carengineoils_locator" type="SWF" thumbnail="Flash/media_50x40_cvl-product-selector.jpg" target="_self"></banner>
+
+<banner image="Flash/media_615x274_industrial_specialty-banner.swf" link="industrialspecialty.aspx" tracking="industrialspecialty" type="SWF" thumbnail="Flash/media_50x40_industrial_specialty.jpg" target="_self"></banner>
+
+</banners>

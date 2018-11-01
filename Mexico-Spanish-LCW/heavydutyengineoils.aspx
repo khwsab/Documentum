@@ -100,7 +100,7 @@
                             <div class="frame01BR clrfix">
                                 <div style="padding-right: 55px;" class="content">
                                     <h2>
-                                        <a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href=".mx/mexico-spanish-lcw/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx">Recomendaciones <br>
+                                        <a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href=/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx">Recomendaciones <br>
 de defensa a <br>
 defensa para su <br>
 vehiculo<br>
@@ -213,11 +213,11 @@ vehiculo<br>
                         <div class="subfeature csingle cright">
                             <div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href=".mx/mexico-spanish-lcw/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx">Recomendaciones de defensa a defensa para su vehículo<span></span></a>
+                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href=/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx">Recomendaciones de defensa a defensa para su vehículo<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href=".mx/mexico-spanish-lcw/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx" title="Recomendaciones de defensa a defensa para su vehículo" target="_blank" onclick="trackClick(this);"><img title="Multimedia" src="../Canada-English-LCW/Images/bumper_to_bumper.png" longdesc="" class="floatimgleft" border="0" alt="Multimedia"></a></div>
+                                <div class="img60 left"><a href=/Mexico-Spanish-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx" title="Recomendaciones de defensa a defensa para su vehículo" target="_blank" onclick="trackClick(this);"><img title="Multimedia" src="../Canada-English-LCW/Images/bumper_to_bumper.png" longdesc="" class="floatimgleft" border="0" alt="Multimedia"></a></div>
                                 <p>Por más de 90 años, la gran mayoría de las flotillas más exitosas y profesionales del transporte independientes han confiado en los productos Mobil Delvac.</p>
                             </div>
                         </div>

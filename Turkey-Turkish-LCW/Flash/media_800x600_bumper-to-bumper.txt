@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<translations>
+
+	<common>
+	
+		<skip_movie>Videoyu geç</skip_movie>>
+		<enter>Giriş</enter>
+		<read_more>Daha fazla bilgi</read_more>
+		<intro_headline><![CDATA[Kamyonunuz için |tampondan tampona| ürün tavsiyeleri]]></intro_headline>
+		<intro_copy><![CDATA[Mobil Delvac™ sentetik ürünleri sizin için doğru tercihtir.<br><br>Sentetik otomatik şanzıman sıvıları ve vites kutusu yağları serimiz, Ağır Hizmet Ticari Araçlarda kullanılmak üzere ve en zorlu koşullarda bile koruma sağlayabilmek için özel olarak geliştirilmiştir.<br><br>Kapsamlı bir sentetik motor yağları serisi ile birlikte, Mobil Delvac size ticari araçlarınızın tüm yağlama gereksinimlerini karşılayacak ürünler sunar.]]></intro_copy>
+	
+	</common>
+	
+	
+	
+	<navigation>
+	
+	
+	
+		<item>
+			<title><![CDATA[Motor <br> yağları]]></title>
+			<intro_copy>Mobil Delvac™ motor yağları ağır, orta ve hafif ticari araçlarda kullanıma uygundur ve uzatılmış servis aralıkları ile uzun çalışma ömrü elde etmenize yardımcı olur. </intro_copy>
+			<products>Mobil Delvac 1™ LE 5W-30, Mobil Delvac 1™ 5W-40, Mobil Delvac XHP™ Extra 10W-40, Mobil Delvac XHP™ LE     10W-40, Mobil Delvac MX™ 15W-40, Mobil Delvac Super™ 20W-50</products>
+			<label_coords>224, 287</label_coords>
+			<zoom_to>-180, -526</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[Dişli<br> yağları]]></title>
+			<intro_copy>Mobil™ otomotiv dişli yağları en zorlu koşullar ve ortamlarda çalışan ağır ticari ve arazi taşıtlarının şanzımanları, dingilleri ve son dişlileri için özel olarak geliştirilmiştir.</intro_copy>
+			<products>Mobilube 1 SHC™ 75W-90, Mobil Delvac™ Synthetic Gear Oil 75W-140, Mobilube™ LS 85W-90, Mobilube™ HD 80W-90     85W-140, Mobilube™ HD-A 85W-90, Mobiltrans™ MBT 75W-90</products>
+			<label_coords>491, 228</label_coords>
+			<zoom_to>-697, -426</zoom_to>
+		</item>
+				
+		<item>
+			<title><![CDATA[Düz ve otomatik<br> şanzıman yağları]]></title>
+			<intro_copy>Mobil™ şanzıman yağları, yüksek sıcaklıklarda ve yüksek devirde aşınmaya karşı mükemmel koruma ve aynı zamanda düşük sıcaklıklarda da mükemmel akıcılık sağlayan sentetik ürünler içerir.</intro_copy>
+			<products>Mobil Delvac™ Synthetic ATF, Mobilfluid™ 422, Mobilfluid™ 426, Mobil ATF SHC™, Mobil ATF™ 320, Mobil ATF™ 220</products>
+			<label_coords>356, 261</label_coords>
+			<zoom_to>-450, -468</zoom_to>
+		</item>
+		
+		<item>
+			<title><![CDATA[Mobil™ <br>gresleri]]></title>
+			<intro_copy>Mobil’in yüksek performanslı gresleri oksidasyona ve rutubetlenmeye karşı birinci sınıf dayanıklılık gösterir.  Aynı zamanda paslanma ve korozyona karşı mükemmel  koruma sağlar ve çok düşük sıcaklıklarda bile mükemmel akıcılık sergiler.</intro_copy>
+			<products>Mobilgrease XHP™ 220 Serisi, Mobilgrease™ Special, Mobilux™ EP Serisi</products>
+			<label_coords>562, 254</label_coords>
+			<zoom_to>-856, -459</zoom_to>
+		</item>
+		
+
+	
+		
+	</navigation>
+
+
+
+	
+	<products>
+	
+	<!--Engine Oils--> 
+	
+		<item>
+			<product_name>Mobil Delvac 1™ LE 5W-30</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-1-le-5w30.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac 1 LE 5W-30 modern düşük emisyonlu araçlar için gelişmiş motor koruması ile birlikte artırılmış yakıt tasarrufu potansiyeli ve emisyon sistemi koruması, uzun yağ ve motor ömrü gibi diğer sürdürülebilirlik faydalarını bir araya getiren tam sentetik ağır hizmet dizel motor yağıdır.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx?WT.mc_id=Mobil-Delvac-1-LE-5W-30]]></product_link>
+		</item>
+		<item>
+			<product_name>Mobil Delvac 1™ 5W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-1-5w40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac 1 5W-40 yüksek performanslı tam sentetik ağır hizmet motor yağıdır. Ağır şartlar altında çalışan modern dizel motorlarda uzun motor ömrü ve uzun yağ değişim aralıkları sağlanmasına yardımcı olur. Mobil Delvac 1 5W-40 aralarında soğutmalı ünitelerin de bulunduğu düşük emisyonlu yeni motorlarda olduğu kadar iyi bakım görmüş nispeten eski motorlarda da üstün performans gösterir.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-1-5W40.aspx?WT.mc_id=Mobil-Delvac-1-5W-40]]></product_link>
+		</item>
+		<item>
+			<product_name>Mobil Delvac XHP™ Extra 10W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-xhp-extra-10w40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac XHP Extra 10W-40, zorlu yol ve arazi şartlarında çalışan modern, yüksek performanslı dizel motorların etkili yağlanmasını sağlamak üzere tasarlanmış ekstra yüksek performanslı sentetik dizel motor yağıdır. Bu dizel motor yağı, düşük sıcaklıklarda mükemmel akıcılık, yüksek sıcaklıklarda viskozitesini koruma, buharlaşma kontrolü ve yakıt ekonomisi faydaları sağlayan yüksek performanslı baz yağlar kullanılarak geliştirilmiştir.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-xhp-extra-10w40.aspx?WT.mc_id=Mobil-Delvac-XHP-Extra-10W-40]]></product_link>
+		</item>
+		<item>
+			<product_name>Mobil Delvac XHP™ LE     10W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-delvac-xhp-le-10w40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac XHP LE 10W-40, ağır şartlarda çalışan modern, yüksek performanslı ve düşük emisyonlu dizel motorların etkili yağlanmasını sağlamak üzere tasarlanmış ekstra yüksek performanslı sentetik dizel motor yağıdır. Mobil Delvac XHP LE 10W-40, düşük sıcaklıklarda mükemmel akıcılık, yüksek sıcaklıklarda viskozitesini koruma ve buharlaşma kontrolü faydaları sağlayan yüksek performanslı baz yağlar kullanılarak geliştirilmiştir.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-xhp-le-10w40.aspx?WT.mc_id=Mobil-Delvac-XHP-LE-10W-40]]></product_link>
+		</item>
+		<item>
+			<product_name>Mobil Delvac MX™ 15W-40</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224__Mobil-Delvac-MX-15W-40.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac MX 15W-40, mükemmel yağlama sağlayarak günümüz dizel motorlarının ömrünü uzatan ekstra yüksek performanslı dizel motor yağıdır. Bunun sonucu olarak bu ürün önde gelen tüm Avrupalı ve Amerikalı motor üreticilerinin şartnamelerini karşılamakta veya aşmaktadır. Mobil Delvac MX 15W-40’ın ekstra yüksek performansı çeşitli endüstrilerde, karma filolarda ve uygulamalarda kanıtlanmıştır.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-mx-15w-40.aspx?WT.mc_id=Mobil-Delvac-MX-15W-40]]></product_link>
+		</item>
+		<item>
+			<product_name>Mobil Delvac Super™ 20W-50</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_packshot-placeholder-4l.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac Super 10W-30, 15W-40 ve 20W-50 zorlu karayolu ve arazi hizmetlerinde çalışan dizel motorlar için kanıtlanmış koruma sağlayan yüksek performanslı, ağır hizmet motor yağlarıdır. Mobil Delvac Super Multigrade motor yağları, taşımacılık, inşaat ve tarım sektörlerinde bulunan çok çeşitli ağır hizmet uygulamalarında ve çalışma şartlarında kullanılmak üzere tavsiye edilir. Ayrıca benzinli motorlar için de uygundurlar.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-super-20w50.aspx?WT.mc_id=Mobil-Delvac-Super-20W-50]]></product_link>
+		</item>
+		
+		
+		<!--End of Engine Oils--> 
+		
+		<item>
+			<product_name>Mobilube 1 SHC™ 75W-90</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobilube-1-shc-75w90.png</image_name>
+			<product_description><![CDATA[</li>Mobilube 1 SHC 75W-90, ileri teknoloji ürünü baz yağlar ve son teknoloji ürünü katık sistemiyle formüle edilmiş, tam sentetik, yüksek performanslı ticari dişli yağıdır. Bu ürün, geniş sıcaklık aralıklarında mükemmel yük taşıma kapasiteli dişli yağları gerektiren uygulamalarda, aşırı basınç ve darbeli yüke maruz kalması beklenen ağır hizmet düz şanzımanlar ve arka akslar için tasarlanmıştır. ]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_gear-oils_mobilube-1-shc-75w90.aspx?WT.mc_id=Mobilube-1-SHC-75W-90]]></product_link>
+		</item>
+		<item>
+			<product_name>Mobil Delvac™ Synthetic Gear Oil 75W-140</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_transmission-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac Synthetic Gear Oil 75W-140, Scania STO 1:0 ve API GL-5 de dahil olmak üzere zorlu performans şartnamelerini karşılamak üzere formüle edilmiş, tam sentetik güç aktarma organı yağıdır. Bu ürün, aşırı basınç ve darbeli yüke maruz kalması beklenen, nispeten yüksek viskoziteli ve mükemmel yük taşıma kapasiteli dişli yağları gerektiren ağır hizmet güç aktarma organlarında kullanılmak üzere tasarlanmıştır.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_gear-oils_mobil-delvac-synthetic-gear-oil-75w140.aspx?WT.mc_id=Mobil-Delvac-Synthetic-Gear-Oil-75W-140]]></product_link>
+		</item>
+		<item>
+			<product_name>Mobilube™ LS 85W-90</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_transmission-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobilube LS 85W-90, sınırlı kayma özellikli diferansiyeller için seçilmiş baz yağlar ve gelişmiş katık sistemiyle özel olarak formüle edilmiş ekstra yüksek performanslı dişli yağıdır. Bu yağ, ExxonMobil tarafından darbeli yük ve aşırı basınca maruz kalan ağır hizmet tipi diferansiyeller, akslar ve son tahrik üniteleri gibi API GL-5 düzeyinde performans gerektiren uygulamalar için tavsiye edilmektedir.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_gear-oils_mobilube-ls-85w90.aspx?WT.mc_id=Mobilube-LS-85W-90 ]]></product_link>
+		</item>
+		<item>
+			<product_name>Mobilube™ HD 80W-90     85W-140</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_transmission-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobilube HD 80W-90 ve 85W-140, yüksek performanslı baz yağlar ile gelişmiş bir katık sisteminden formüle edilmiş dişli yağlarıdır. Bu yağlar aşırı basınç ve darbeli yüke maruz kalan son tahrik üniteleri ile ağır hizmet tipi akslar için tasarlanmıştır. ExxonMobil tarafından API GL-5 servisinin gerektiği uygulamalar için tavsiye edilir.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_gear-oils_mobilube-hd-serisi.aspx?WT.mc_id=Mobilube-HD Serisi]]></product_link>
+		</item>
+		<item>
+			<product_name>Mobilube™ HD-A 85W-90</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_transmission-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobilube HD-A 85W-90 yüksek performanslı baz yağlar ve gelişmiş  katık sistemiyle formüle edilmiş ağır hizmet dişli yağıdır. Bu yağ, aşırı basınç ve darbeli yüke maruz kalan ticari şanzımanlar, akslar ve son tahrik üniteleri için tasarlanmıştır ve ExxonMobil tarafından API GL-5 servisinin gerektiği uygulamalar için tavsiye edilmektedir.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_gear-oils_mobilube-hd-a-85w90.aspx?WT.mc_id=Mobilube-HD-A-85W-90]]></product_link>
+		</item>
+		<item>
+			<product_name>Mobiltrans™ MBT 75W-90</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_transmission-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobiltrans MBT, SAE 75W-90 sınıfında düz şanzımanlar için tasarlanmış tam sentetik şanzıman yağıdır. Mobiltrans™ MBT 75W-90 sıcaklık değişimlerinde viskozitesini mükemmel koruma özelliğine sahiptir.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_gear-oils_mobiltrans-mbt-75w90.aspx?WT.mc_id=Mobiltrans-MBT-75W-90]]></product_link>
+		</item>
+		
+		<!--Power steering fluids--> 
+		
+
+		
+		<!--Start of Lubricating Greases--> 
+		
+		<item>
+			<product_name>Mobil Delvac™ Synthetic ATF</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_transmission-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobil Delvac Synthetic ATF, Allison TES-295 şartnamesine göre onaylanmış ve Allison Transmission, Inc. tarafından tavsiye edilen tam sentetik bir sıvıdır. Sıvı, modern ağır hizmet otomatik şanzımanlarının zorlu gerekliliklerini karşılayacak şekilde tasarlanmıştır. Sentetik baz yağ bileşimi en zorlu çalışma koşullarının bazılarında dahi mükemmel performans sağlar.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_transmission_mobil-delvac-synthetic-atf.aspx?WT.mc_id=Mobil-Delvac-Synthetic-ATF]]></product_link>
+		</item>
+		<item>
+			<product_name>Mobilfluid™ 422</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_transmission-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobilfluid 422, güç aktarma organı ve hidrolik yağ şartnamelerini karşılamak veya aşmak üzere tasarlanmış ekstra yüksek performanslı, çok amaçlı traktör yağıdır. Bu ürün, tarım alanlarında ve endüstride kullanılan traktörler ve diğer hareketli ekipmanların güç aktarma organlarında, tahrik ünitelerinde, hidrolik sistemlerinde ve özellikle yağ banyolu fren sistemlerinde  yağ ekleme veya yağ değiştirme amacıyla formüle edilmiştir. ]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_transmission_mobilfluid-422.aspx?WT.mc_id=Mobilfluid-422]]></product_link>
+		</item>
+		<item>
+			<product_name>Mobilfluid™ 426</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_transmission-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobilfluid 426 güç aktarma organları ve hidrolik yağ şartnamelerini karşılamak veya aşmak üzere tasarlanmış ekstra yüksek performanslı çok amaçlı traktör yağıdır. Mobilfluid™ 426’nın ileri teknolojisi pek çok farklı ortam ve çalışma koşullarındaki zirai ve ticari traktörlerin performanslarını optimize etmek üzere tasarlanmıştır. ]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_transmission_mobilfluid-426.aspx?WT.mc_id=Mobilfluid-426]]></product_link>
+		</item>
+		<item>
+			<product_name>Mobil ATF SHC™</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-atf-shc.png</image_name>
+			<product_description><![CDATA[</li>Mobil ATF SHC, zorlu koşullar altında, yüksek sıcaklık ve ağır yük uygulamalarında çalışan otomatik şanzımanların taleplerini karşılamak için tasarlanmış üstün performanslı sentetik otomatik şanzıman yağıdır. Doğal olarak sahip olduğu yüksek viskozite indeksi ve kararlılığı ile Mobil ATF SHC™ yüksek sıcaklıklarda ısıl bozunmaya karşı koruma sağlar, –40ºC'ye kadar olan ortam sıcaklıklarında benzersiz bir performans sergiler.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_transmission_mobilfluid-atf-shc.aspx?WT.mc_id=Mobil-ATF-SHC]]></product_link>
+		</item>
+		<item>
+			<product_name>Mobil ATF™ 320</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-atf-320.png</image_name>
+			<product_description><![CDATA[</li>Mobil ATF 320 ekstra yüksek performanslı otomatik şanzıman sıvısıdır.
+Mobil ATF™ 320 bir çok binek otomobil ve ticari araç otomatik şanzımanları için önerilir. Bu yağ aynı zamanda hidrolik direksiyon sistemleri, hidrolik uygulamalar ve otomatik şanzıman yağının kullanılması istenen bazı düz şanzımanlar için de uygundur.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_transmission_mobi-atf-320.aspx?WT.mc_id=Mobil-ATF-320]]></product_link>
+		</item>
+		<item>
+			<product_name>Mobil ATF™ 220</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_mobil-atf-220.png</image_name>
+			<product_description><![CDATA[</li>Mobil ATF 220, Dexron IID kullanılması istenen araçların otomatik şanzımanlarında kullanılan yüksek performanslı yağdır. Ayrıca özel uygulamalarda hidrolik sıvı olarak da kullanılır.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_transmission_mobil-atf-220.aspx?WT.mc_id=Mobil-ATF-220]]></product_link>
+		</item>
+		
+		<!--End of Lubricating Greases--> 
+		
+		
+		<!--Start of Rear axle lubricants--> 
+		
+		<item>
+			<product_name>Mobilgrease XHP™ 220 Serisi</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_grease-gun-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobilgrease XHP 220 serisi ürünler çok geniş uygulama alanları ve çalışma koşulları altında kullanılan uzun hizmet ömürlü lityum kompleksi greslerdir. Bu gresler öncü nitelikte en yeni özel lityum kompleks imalat teknolojisi uygulanarak geleneksel ürünlerin üzerinde performans sağlamak amacıyla tasarlanmıştır. Bu ürünler, yüksek sıcaklıklarda mükemmel yapışma, yapısal kararlılık ve su kirliliğine karşı dayanım performansı sağlamak üzere formüle edilmişlerdir.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_greases_mobil-grease-xhp-220-serisi.aspx?WT.mc_id=Mobilgrease-XHP-220-Serisi]]></product_link>
+		</item>
+		<item>
+			<product_name>Mobilgrease™ Special</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_grease-gun-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobilgrease Special üstün kaliteli aşırı basınç lityum hidroksistearat gresidir. Aşınma, pas ve korozyon, su ile yıkanma ve yüksek sıcaklık altında oksidasyona karşı koruma sağlamak için formüle edilmiştir. İçinde ayrıca aşınmaya karşı ilave koruma amacıyla molibden disülfit bulunur.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_greases_mobil-grease-special.aspx?WT.mc_id=Mobilgrease-Special]]></product_link>
+		</item>
+		<item>
+			<product_name>Mobilux™ EP Serisi</product_name>
+			<image_name>http://www.mobil.com/Shared-Images-LCW/product_165x224_grease-gun-placeholder.png</image_name>
+			<product_description><![CDATA[</li>Mobilux EP 0, 1, 2, 3, 460, 004 ve 023, beş genel amaçlı endüstriyel gres ve iki yarı akışkan özel uygulama gresinden oluşan yüksek performanslı bir ürün grubudur. Bu lityum hidroksistearat gresler, aşınma, paslanma ve su ile yıkanıp gitmeye karşı ekstra koruma sağlamak için formüle edilmiştir. 00'dan 3'e uzanan NLGI sınıflarında ve ISO VG 150, 320 ve 460 baz yağ viskozitelerinde mevcuttur.]]></product_description>
+			<product_link><![CDATA[http://www.mobiloil.com.tr/Turkey-Turkish-LCW/heavydutyoils_products_greases_mobilux-ep-serisi.aspx?WT.mc_id=Mobilux-EP-Serisi]]></product_link>
+		</item>
+		
+		
+		
+		<!--End of Rear axle lubricants--> 
+		
+		
+		
+		
+		<!--Start of manual and automatic transmission--> 
+		
+		
+		
+		
+		
+			<!--End of manual and automatic transmission--> 
+	
+	</products>
+
+</translations>

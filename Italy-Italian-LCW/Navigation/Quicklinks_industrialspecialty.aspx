@@ -6,10 +6,10 @@
     </div>
     <ul>
         <li>
-            <a title="" target="_self" onclick="trackClick(this);" href="/ind/english/productselector.aspx" class="">trovate i lubrificanti più adatti alle vostre applicazioni industriali - Looble<sup>SM</sup></a>
+            <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobilindustrial.com/ind/english/productselector.aspx" class="">trovate i lubrificanti più adatti alle vostre applicazioni industriali - Looble<sup>SM</sup></a>
         </li>
         <li>
-            <a title="" target="_self" onclick="trackClick(this);" href="/ind/italian/mobilshc.aspx" class="">Mobil SHC&trade;</a>
+            <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobilindustrial.com/ind/italian/mobilshc.aspx" class="">Mobil SHC&trade;</a>
         </li>
         <li>
             <a title="" target="_self" onclick="trackClick(this);" href="/Italy-Italian-LCW/buy.aspx" class="">dove acquistare</a>

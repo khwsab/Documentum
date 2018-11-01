@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<parts>
+	<part>
+		<nodepositioning x1="274" y1="400" x2="270" y2="950" halign="-.95" valign="-.95" xzoom="350" yzoom="-290"/>
+		<title>Engine</title>
+		<item>
+		<subhead>Extend Your Engine Life</subhead>
+		
+		<products>
+			<product>
+				<name>Mobil Delvac™ 1 ESP 0W-40 Synthetic Engine Oil</name>
+			
+				
+				<bullets>
+					<bullet>State-of-the-art lubricant technology delivers exceptional year-round performance</bullet>
+					<bullet>Formulated for reliable cold-weather starts in sub-zero temperatures and safe cold-morning warm-ups with less risk of metal-to-metal contact</bullet>
+					<bullet>Exceptional protection against engine wear, even under high-load conditions</bullet>
+					<bullet>API-licensed CJ-4 for low-emission engines, including those with Diesel Particulate Filters (DPFs)</bullet>
+				</bullets>
+				
+				
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-mobil-delvac-1-esp-0w40.swf</thumb>
+				<click_thrucopy>Learn More></click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-esp-0w40.aspx</click_thrulink>
+			</product>
+			
+			<product>
+				<name>Mobil Delvac™ 1 ESP 5W-40 Synthetic Engine Oil</name>
+				<!--<copy><![CDATA[Mobil Delvac 1300 Super features patented Trimer technology for superb performance and extended engine life. Formulated to exceed the requirements of API CJ-4, Mobil Delvac 1300 Super delivers outstanding corrosive and abrasive wear protection, oil consumption and deposit control, and superior resistance to thickening due to soot.]]></copy>-->
+				
+				<bullets>
+					<bullet>Promotes increased engine life, with the potential for extended oil drains and greater fuel economy</bullet>
+					<bullet>Exceptional performance in low-emission engines, including those with Diesel Particulate Filters (DPFs)</bullet>
+					<bullet>Superb cold-weather performance</bullet>
+				</bullets>
+				
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-mobil-delvac-1-esp-5w40.swf</thumb>
+				<click_thrucopy>Learn More></click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-esp-5w40.aspx</click_thrulink>
+			</product>
+			
+			<product>
+				<name>Mobil Delvac™ 1300 Super 10W-30 and 15W-40</name>
+				<bullets>
+					<bullet>Extra-high performance formulation promotes extended engine life, even under severe conditions</bullet>
+					<bullet>Meets or exceeds API CJ-4 and OEM performance requirements for late-model low-emission engines</bullet>
+					<bullet>Recommended for a wide range of heavy-duty applications, on highway and off</bullet>
+				</bullets>
+				
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-mobil-delvac-1300-super-10w30.swf</thumb>
+				<click_thrucopy>Learn More></click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_engine-oils.aspx</click_thrulink>
+			</product>
+		</products>
+		
+		<partclip intro="true">engine</partclip>
+		
+		</item>
+	</part>
+	
+	
+	<part>
+		<nodepositioning x1="607" y1="261" x2="1200" y2="420" halign="-.5" valign="-1" xzoom="-820" yzoom="0"/>
+		<title>Fifth Wheel</title>
+		<subhead>Protect from Rust and Corrosion</subhead>
+		
+		<products>
+			<product>
+				<name>Mobil Delvac™ Xtreme Grease</name>
+				<!--<copy><![CDATA[Mobil Delvac 1300 Super features patented Trimer technology for superb performance and extended engine life. Formulated to exceed the requirements of API CJ-4, Mobil Delvac 1300 Super delivers outstanding corrosive and abrasive wear protection, oil consumption and deposit control, and superior resistance to thickening due to soot.]]></copy>-->
+				
+				<bullets>
+					<bullet>Excellent resistance to wear and water intrusion</bullet>
+					<bullet>Excellent stay-in-place properties at high temperatures and under high loads</bullet>
+					<bullet>High performance with up to 30,000-mile service intervals</bullet>
+				</bullets>
+				
+				
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-xtremegrease.swf</thumb>
+				<click_thrucopy>Learn More ></click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx</click_thrulink>
+			</product>
+		</products>
+		
+		<partclip intro="true">fifthwheel</partclip>
+
+	</part>
+	
+	<part>
+		<nodepositioning x1="613" y1="310" x2="1280" y2="950" halign="0" valign="-1" xzoom="-1100" yzoom="-200"/>
+		<title>Universal Joints</title>
+		<subhead>Protect from Rust and Corrosion</subhead>
+		<products>
+			<product>
+				<name>Mobil Delvac™ Xtreme Grease</name>
+				
+				
+				<bullets>
+					<bullet>Excellent resistance to wear and water intrusion</bullet>
+					<bullet>Excellent stay-in-place properties at high temperatures and under high loads</bullet>
+					<bullet>High performance with up to 30,000-mile service intervals</bullet>
+				</bullets>
+				
+				
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-xtremegrease.swf</thumb>
+				<click_thrucopy>Learn More ></click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx</click_thrulink>
+			</product>
+			<product>
+				<name>Mobil™ Unirex EP 2</name>				
+				
+				<bullets>
+					<bullet>Exceptional resistance to water washout and sprayoff; water resistance also helps resist ice formation in bearings on cold overnight stops</bullet>
+					<bullet>Excellent performance at high and low temperatures; dependable low-temperature torque keeps bearings rolling freely, even on severe cold-morning start-ups</bullet>
+					<bullet>Outstanding cohesive qualities hold the grease together for long-term protection</bullet>
+					<bullet>Carries National Lubricating Grease Institute (NLGI) designation as a GC-LB grease</bullet>
+					<bullet>Powerful resistance to corrosion</bullet>
+					<bullet>Ideal for a wide range of mobile equipment, including Canadian road-transport vehicles in severe service</bullet>
+				</bullets>
+				
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-mobilgrease-cartridge-unirex-ep2.swf</thumb>
+				<click_thrucopy>Learn More ></click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_greases_unirex-ep-2.aspx</click_thrulink>
+			</product>
+			
+				<product>
+				<name>Mobilgrease XHP™ 222</name>				
+				
+				<bullets>
+					<bullet>Ideal for general chassis lubrication</bullet>
+					<bullet>Excellent rust and corrosion protection</bullet>
+					<bullet>Extended life in high-temperature service</bullet>
+					
+				</bullets>
+				
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-mobilgrease-xhp-222.swf</thumb>
+				<click_thrucopy>Learn More >
+				</click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_greases_mobilgrease-xhp-222.aspx</click_thrulink>
+			</product>
+		</products>
+		<partclip intro="true">universaljoint</partclip>
+
+	</part>
+	
+	
+
+	
+	<part>
+		<nodepositioning x1="390" y1="370" x2="600" y2="750" halign="-.3" valign="-1" xzoom="-300" yzoom="100"/>
+		<title>Greasing Points: Tie Rod Ends, Spring Pin Bushings, &#xD;King Pins and Chassis</title>
+		<subhead>High-Performing Protection</subhead>
+		<products>
+			<product>
+				<name>Mobil Delvac™ Xtreme Grease</name>
+				<bullets>
+					<bullet>Excellent resistance to wear and water intrusion</bullet>
+					<bullet>Excellent stay-in-place properties at high temperatures and under high loads</bullet>
+					<bullet>High performance with up to 30,000-mile service intervals</bullet>
+				</bullets>
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-xtremegrease.swf</thumb>
+				<click_thrucopy>Learn More ></click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx</click_thrulink>
+			</product>
+			<product>
+				<name>Mobil™ Unirex EP 2</name>
+				<bullets>
+					<bullet>Exceptional resistance to water washout and sprayoff; water resistance also helps resist ice formation in bearings on cold overnight stops</bullet>
+					<bullet>Excellent performance at high and low temperatures; dependable low-temperature torque keeps bearings rolling freely, even on severe cold-morning start-ups</bullet>
+					<bullet>Outstanding cohesive qualities hold the grease together for long-term protection</bullet>
+					<bullet>Carries National Lubricating Grease Institute (NLGI) designation as a GC-LB grease</bullet>
+					<bullet>Powerful resistance to corrosion</bullet>
+					<bullet>Ideal for a wide range of mobile equipment, including Canadian road-transport vehicles in severe service Mobil Delvac Synthetic Transmission Fluid 50</bullet>
+				</bullets>
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-mobilgrease-cartridge-unirex-ep2.swf</thumb>
+				<click_thrucopy>Learn More ></click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_greases_unirex-ep-2.aspx</click_thrulink>
+			</product>
+			
+				<product>
+				<name>Mobilgrease XHP™ 222</name>
+				<bullets>
+					<bullet>Ideal for general chassis lubrication</bullet>
+					<bullet>Excellent rust and corrosion protection</bullet>
+					<bullet>Extended life in high-temperature service</bullet>					
+				</bullets>
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-mobilgrease-xhp-222.swf</thumb>
+				<click_thrucopy>Learn More >
+				</click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_greases_mobilgrease-xhp-222.aspx</click_thrulink>
+			</product>
+			
+		</products>
+		<partclip intro="true">transmission</partclip>
+	
+	</part>
+	
+	
+	<part>
+		<nodepositioning x1="365" y1="440" x2="580" y2="860" halign="-1" valign="-1" xzoom="50" yzoom="-400"/>
+		<title>Clutch Throw-Out Bearings</title>
+		<subhead>Protect from Rust and Corrosion</subhead>
+		<products>
+			<product>
+				<name>Mobil Delvac™ Xtreme Grease</name>
+				
+				
+				<bullets>
+					<bullet>Excellent resistance to wear and water intrusion</bullet>
+					<bullet>Excellent stay-in-place properties at high temperatures and under high loads</bullet>
+					<bullet>High performance with up to 30,000-mile service intervals</bullet>
+				</bullets>
+				
+				
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-xtremegrease.swf</thumb>
+				<click_thrucopy>Learn More >
+				</click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx</click_thrulink></product>
+			
+			<product>
+				<name>Mobilgrease XHP™ 222</name>
+			
+				
+				<bullets>
+					<bullet>Ideal for general chassis lubrication</bullet>
+					<bullet>Excellent rust and corrosion protection</bullet>
+					<bullet>Extended life in high-temperature service</bullet>
+				</bullets>
+				
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-mobilgrease-xhp-222.swf</thumb>
+				<click_thrucopy>Learn More >
+				</click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_greases_mobilgrease-xhp-222.aspx</click_thrulink>
+			</product>
+		</products>
+		
+		<partclip intro="true">clutch</partclip>
+
+	</part>
+	
+	
+	<part>
+		<nodepositioning x1="418" y1="515" x2="720" y2="1000" halign="0" valign="-.5" xzoom="-550" yzoom="-445"/>
+		<title>Steer Axle Wheel Bearings</title>
+		<subhead>Leak No More</subhead>
+		<products>
+			<product>
+				<name>Mobilith SHC™ 007</name>
+				<bullets>
+					<bullet>Synthetic basestock fluids deliver excellent low-temperature pumpability and very low starting and running torque</bullet>
+					<bullet>Lithium complex thickeners provide excellent adhesion, structural stability and resistance to water</bullet>
+					<bullet>Extended service intervals with regular fill level and maintenance inspections</bullet>
+				</bullets>
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-mobilgrease-logo.swf</thumb>
+				<click_thrucopy>Learn More ></click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_greases_mobilith-shc-007.aspx</click_thrulink>
+			</product>
+			<product>
+				<name>Mobil™ Unirex EP 2</name>
+				<bullets>
+					<bullet>Exceptional resistance to water washout and sprayoff; water resistance also helps resist ice formation in bearings on cold overnight stops</bullet>
+					<bullet>Excellent performance at high and low temperatures; dependable low-temperature torque keeps bearings rolling freely, even on severe cold-morning start-ups</bullet>
+					<bullet>Outstanding cohesive qualities hold the grease together for long-term protection</bullet>
+					<bullet>Carries National Lubricating Grease Institute (NLGI) designation as a GC-LB grease</bullet>
+					<bullet>Powerful resistance to corrosion</bullet>
+					<bullet>Ideal for a wide range of mobile equipment, including Canadian road-transport vehicles in severe service</bullet>
+				</bullets>
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-mobilgrease-cartridge-unirex-ep2.swf</thumb>
+				<click_thrucopy>Learn More ></click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_greases_unirex-ep-2.aspx</click_thrulink>
+				<!-- <click_thrulink>http://www.mobil.us/USA-English-LCW/heavydutyengineoils_products_transmission-fluid_mobil-delvac-synthetic-transmission-fluid-50.aspx</click_thrulink>
+ -->
+			</product>
+			
+			<product>
+				<name>Mobil Delvac™ Synthetic Transmission Fluid 50</name>
+				<bullets>
+					<bullet>Approved by major OEMs for extended warranties</bullet>
+					<bullet>Reduced wear and longer gear life over conventional automotive transmission fluids through outstanding load carrying, antiwear and EP performance</bullet>
+					<bullet>Excellent viscosity control for improved fuel economy and long equipment life</bullet>
+					
+				</bullets>
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-synthetic-transmission-fluid-50.swf</thumb>
+				<click_thrucopy>Learn More ></click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_mobil-delvac-synthetic-transmission-fluid-50.aspx</click_thrulink>
+
+
+
+
+
+
+				<!-- <click_thrulink>http://www.mobil.us/USA-English-LCW/heavydutyengineoils_products_transmission-fluid_mobil-delvac-synthetic-transmission-fluid-50.aspx</click_thrulink>
+ -->			</product>
+			
+		</products>
+		<partclip intro="true">steeringbearings</partclip>
+	
+	</part>	
+	
+	
+		<part>
+		<nodepositioning x1="460" y1="450" x2="700" y2="840" halign="-.1" valign="-1" xzoom="-500" yzoom="-440"/>
+		<title>Transmission</title>
+		<subhead>Smooth Running Transmission</subhead>
+		<products>
+			<product>
+				<name>Mobil Delvac™ Synthetic Transmission Fluid 50</name>
+				<bullets>
+					<bullet>Approved by major OEMs for extended warranties</bullet>
+					<bullet>Reduced wear and longer gear life over conventional automotive transmission fluids through outstanding load carrying, antiwear and EP performance</bullet>
+					<bullet>Excellent viscosity control for improved fuel economy and long equipment life</bullet>
+				</bullets>
+								
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-synthetic-transmission-fluid-50.swf</thumb>
+				<click_thrucopy>Learn More ></click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_mobil-delvac-synthetic-transmission-fluid-50.aspx</click_thrulink>
+				<!--<click_thrulink>http://www.mobil.us/USA-English-LCW/heavydutyengineoils_products_transmission-fluid_mobil-delvac-synthetic-transmission-fluid-50.aspx</click_thrulink>-->
+			</product>
+			
+		</products>
+		<partclip intro="true">transmission</partclip>
+
+	</part>
+	
+	<part>
+		<nodepositioning x1="570" y1="400" x2="1200" y2="780" halign="0" valign="-.9" xzoom="-1000" yzoom="-350"/>
+		<title>Differential/Final Drive*</title>
+		<subhead>Performance Under Pressure</subhead>
+		<products>
+			<product>
+				<name>Mobil Delvac™ Synthetic Gear Oil 75W-90 &#xD;and 80W-140</name>
+				<bullets>
+					<bullet>Approved by major OEMs for extended warranties</bullet>
+					<bullet>Extended gear life due to high film strength and improved low-temperature properties</bullet>
+					<bullet>Improved fuel efficiency over conventional automotive gear lubricants</bullet>
+				</bullets>
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-synthetic-transmission-fluid-50.swf</thumb>
+				<click_thrucopy>Learn More ></click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_rear-axle.aspx</click_thrulink>
+			</product>
+		</products>
+		<legal>*Driven wheel bearings are lubricatedwith differential fluid.</legal>
+		<partclip intro="true">differential</partclip>
+	</part>		
+	
+	
+	
+	<part>
+		<nodepositioning x1="380" y1="488" x2="540" y2="1090" halign="-1" valign="0" xzoom="95" yzoom="-920"/>
+		<title>Manual Steering Gear</title>
+		<subhead>Leak No More</subhead>
+		<products>
+			<product>
+				<name>Mobilith SHC™ 007</name>
+				<bullets>
+					<bullet>Synthetic basestock fluids deliver excellent low-temperature pumpability and very low starting and running torque</bullet>
+					<bullet>Lithium complex thickeners provide excellent adhesion, structural stability and resistance to water</bullet>
+					<bullet>Extended service intervals with regular fill level and maintenance inspections</bullet>
+				</bullets>
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-mobilgrease-logo.swf</thumb>
+				<click_thrucopy>Learn More ></click_thrucopy>
+				<click_thrulink>http://www.mobil.ca/Canada-English-LCW/heavydutyengineoils_products_greases_mobilith-shc-007.aspx</click_thrulink>
+			</product>
+			<!--product>
+				<name>Mobil™ ATF D/M</name>
+				<bullets>
+					<bullet>Provides protection against rusting and corrosion</bullet>
+					<bullet>Contains an effective anti-foaming agent</bullet>
+					<bullet>Retains adequate lubricating body for severe hot-weather service without thickening excessively at low starting temperatures</bullet>
+				</bullets>
+				<thumb>Flash/media_800x600_mobil-delvac-bumper-to-bumper-bumper-atf.swf</thumb>
+				<click_thrucopy>Learn More ></click_thrucopy>
+				<!-- <click_thrulink>http://www.mobil.com/USA-English-LCW/carengineoils_products_car-care_mobil-atf-dm.aspx </click_thrulink> 
+-->			</product-->
+		</products>
+		<partclip intro="true">steeringgear</partclip>
+	</part>			
+</parts>
+
+
+
+

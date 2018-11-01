@@ -89,11 +89,11 @@
 
                             <br>
 
-                            <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-m-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics M 5W-30 </a>è un olio motore sintetico a basso contenuto di ceneri, con approvazione MB 229.31, 229.51 e 229.52, che offre un'eccellente protezione del motore contro morchie e usura, per una lunga durata.<br>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-m-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics M 5W-30 </a>è un olio motore sintetico a basso contenuto di ceneri, con approvazione MB 229.31, 229.51 e 229.52, che offre un'eccellente protezione del motore contro morchie e usura, per una lunga durata.<br>
 
                             <br>
 
-                            <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-m-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics M 5W-30</a> offre un'eccellente lubrificazione ai motori diesel e a benzina soggetti alle impegnative condizioni di guida tipiche del traffico cittadino. ExxonMobil consiglia questi prodotti per i motori europei montati su diversi veicoli commerciali leggeri, compresi quelli prodotti da Mercedes Benz. <br>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-m-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics M 5W-30</a> offre un'eccellente lubrificazione ai motori diesel e a benzina soggetti alle impegnative condizioni di guida tipiche del traffico cittadino. ExxonMobil consiglia questi prodotti per i motori europei montati su diversi veicoli commerciali leggeri, compresi quelli prodotti da Mercedes Benz. <br>
 
                             <br>
 
@@ -102,11 +102,11 @@
 
                             <br>
 
-                            <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/vanengineoils_mobil-delvac-light-commercial-vehicle-e-10w-40.aspx" class="">Mobil Delvac&trade; Light Commercial Vehicle E 10W-40</a> è un olio motore semi-sintetico, con approvazione MB 229.1, che offre un'eccellente protezione del motore contro morchie e usura, per una lunga durata.<br>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/vanengineoils_mobil-delvac-light-commercial-vehicle-e-10w-40.aspx" class="">Mobil Delvac&trade; Light Commercial Vehicle E 10W-40</a> è un olio motore semi-sintetico, con approvazione MB 229.1, che offre un'eccellente protezione del motore contro morchie e usura, per una lunga durata.<br>
 
                             <br>
 
-                            <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/vanengineoils_mobil-delvac-light-commercial-vehicle-e-10w-40.aspx" class="">Mobil Delvac&trade; Light Commercial Vehicle E 10W-40</a> garantisce un'eccellente lubrificazione ai motori diesel e a benzina soggetti a condizioni di guida impegnative, come quelle del traffico cittadino. ExxonMobil consiglia questo prodotto per i motori europei montati su diversi veicoli commerciali leggeri tradizionali. <br>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/vanengineoils_mobil-delvac-light-commercial-vehicle-e-10w-40.aspx" class="">Mobil Delvac&trade; Light Commercial Vehicle E 10W-40</a> garantisce un'eccellente lubrificazione ai motori diesel e a benzina soggetti a condizioni di guida impegnative, come quelle del traffico cittadino. ExxonMobil consiglia questo prodotto per i motori europei montati su diversi veicoli commerciali leggeri tradizionali. <br>
 
                             <br>
 
@@ -122,11 +122,11 @@ Gli oli completamente sintetici e semi-sintetici come Mobil Delvac&trade; circol
                             <br>
 
                             <br>
-ExxonMobil consiglia <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-m-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics M 5W-30 </a>e <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/vanengineoils_mobil-delvac-light-commercial-vehicle-e-10w-40.aspx" class="">Mobil Delvac&trade; Light Commercial Vehicle E 10W-40</a> per condizioni di guida normali e occasionalmente impegnative, compresa la guida in città. <br>
+ExxonMobil consiglia <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-m-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics M 5W-30 </a>e <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/vanengineoils_mobil-delvac-light-commercial-vehicle-e-10w-40.aspx" class="">Mobil Delvac&trade; Light Commercial Vehicle E 10W-40</a> per condizioni di guida normali e occasionalmente impegnative, compresa la guida in città. <br>
 
                             <br>
 
-                            <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-m-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics M 5W-30</a>, <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-v-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics V 5W-30 </a>e <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/vanengineoils_mobil-delvac-light-commercial-vehicle-e-10w-40.aspx" class="">Mobil Delvac&trade; Light Commercial Vehicle E 10W-40</a> sono formulati con oli base ad alte prestazioni e con un mix bilanciato di additivi di qualità superiore, per contribuire alle prestazioni ottimali dei motori diesel e benzina attuali, ma anche dei modelli meno recenti. Con una protezione dall'usura migliorata e una maggiore stabilità all'ossidazione termica, questo lubrificante contribuisce a prolungare la vita e a conservare l'efficienza dei sistemi di riduzione delle emissioni, come i filtri antiparticolato per motori diesel (DPF) Mercedes Benz. <br>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-m-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics M 5W-30</a>, <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/vanengineoils_mobil-delvac-city-logistics-v-5w-30.aspx" class="">Mobil Delvac&trade; City Logistics V 5W-30 </a>e <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/vanengineoils_mobil-delvac-light-commercial-vehicle-e-10w-40.aspx" class="">Mobil Delvac&trade; Light Commercial Vehicle E 10W-40</a> sono formulati con oli base ad alte prestazioni e con un mix bilanciato di additivi di qualità superiore, per contribuire alle prestazioni ottimali dei motori diesel e benzina attuali, ma anche dei modelli meno recenti. Con una protezione dall'usura migliorata e una maggiore stabilità all'ossidazione termica, questo lubrificante contribuisce a prolungare la vita e a conservare l'efficienza dei sistemi di riduzione delle emissioni, come i filtri antiparticolato per motori diesel (DPF) Mercedes Benz. <br>
 
                             <br>
 

@@ -1,0 +1,19 @@
+<banners>
+
+<banner image="Flash/615x274_esso_loyalty_2017.swf" link="http://www.esso.co.uk/loyalty-program" tracking="CVL" type="SWF" thumbnail="flash/media_50x40_fuelprogress.jpg" target="_self"></banner>
+
+<banner image="Flash/Delvac90years615x274-v2.swf" link="/UK-English-LCW/heavydutyoils_products.aspx" tracking="CVL" type="SWF" thumbnail="/Shared-Images-LCW/50x40_90_Years_Shield_Colour_white-English.jpg" target="_self"></banner>
+ 
+
+<banner image="Flash/615x274_esso_synergy.swf" link="http://www.esso.co.uk/explore/index.php#video" tracking="MOT" type="SWF" thumbnail="flash/media_50x40_fuelprogress.jpg" target="_self"></banner>
+ 
+
+<banner image="Flash/media_615x274_product-selector.swf" link="/UK-English-LCW/which-oil.aspx" tracking="ALR" type="SWF" thumbnail="Flash/media_50x40_alr.jpg" target="_self"></banner>
+  
+
+<banner image="Flash/mobil_fuels_617x274_en-UK_v3.swf" link="http://www.exxonmobil.co.uk/" tracking="MOT" type="SWF" thumbnail="Flash/50x40_ELH-UK-LCW-thumb.jpg" target="_self"></banner>
+
+
+<banner image="/UK-English-LCW/Flash/endless_road_trip_615x274_uk.swf" link="http://www.mobil1.co.uk/motorsports/endless-road-trip.aspx?utm_source=mobil-home&utm_medium=mobil&utm_content=homepage-banner&utm_campaign=endless-road-trip <http://www.mobil1.co.uk/motorsports/endless-road-trip.aspx?utm_source=mobil-home&utm_medium=mobil&utm_content=homepage-banner&utm_campaign=endless-road-trip>" tracking="PVL" type="SWF" thumbnail="/UK-English-lcw/Flash/media_50x40_motorsport.jpg" target="_self"></banner>
+
+</banners>
