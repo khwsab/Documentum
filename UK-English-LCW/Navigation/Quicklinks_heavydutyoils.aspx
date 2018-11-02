@@ -25,7 +25,7 @@
             <a title="" target="" onclick="trackClick(this);" href="/UK-English-LCW/heavydutyoils_mobil-delvac-express.aspx" class="">Mobil Delvac&trade; Express</a>
         </li>
         <li>
-            <a target="_blank" onclick="trackClick(this);" href="http://pds.exxonmobil.com/pdssearch/search.aspx">product data sheets</a>
+            <a target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds/?language=en">product data sheets</a>
         </li>
         <li>
             <a target="_blank" onclick="trackClick(this);" href="http://www.msds.exxonmobil.com/psims/psims.aspx">material safety data sheets</a>

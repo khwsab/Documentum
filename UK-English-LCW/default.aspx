@@ -176,7 +176,7 @@
                             </li>
     
                             <li>
-                                <a title="" target="_blank" onclick="trackClick(this);" href="http://pds.exxonmobil.com/pdssearch/search.aspx" class="">product data sheets</a>
+                                <a title="" target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds/?language=en" class="">product data sheets</a>
                             </li>
     
                             <li>
