@@ -299,7 +299,7 @@
                         </ul>
 
                         <p xmlns="">
-                            <u><strong>MOTA? Veri Gizlili?i Politikas?</strong></u>
+                            <u><strong>MOTA&#350; Veri Gizlili&#287;i Politikas&#305;</strong></u>
                             <br>
 &nbsp;</p>
 
