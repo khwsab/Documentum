@@ -217,7 +217,7 @@
 					
 				<p class="callout"><strong>Söker du MSDS eller PDS? Prova dessa länkar:</strong> 
 					<a href="https://www.msds.exxonmobil.com/psims/psims.aspx" target="_blank">Säkerhetsdatablad</a> | 
-					<a href="https://www.exxonmobil.com/pdssearch/search.aspx?chooseLanguage=sv&CountryValue=Sweden" target="_blank" >Produktdatablad</a>
+					<a href="https://www.exxonmobil.com/pds/?language=se" target="_blank" >Produktdatablad</a>
 				</p>
 					
 				<div class="linkset">
@@ -282,7 +282,7 @@
 						<ul>
 							<li><a href="https://www.mobiloil.se/Sweden-Swedish-LCW/which-oil.aspx">Mobil produktv&auml;ljare</a></li>
 							<li><a href="https://www.msds.exxonmobil.com/psims/psims.aspx"target="_blank">S&auml;kerhetsdatablad</a></li>
-							<li><a href="https://www.exxonmobil.com/pdssearch/search.aspx?chooseLanguage=sv&CountryValue=Sweden" target="_blank">Produktdatablad</a></li>
+							<li><a href="https://www.exxonmobil.com/pds/?language=se" target="_blank">Produktdatablad</a></li>
 							<li><a href="https://www.signumoilanalysis.com/signum-english/">Signum&#x2120; Oil Analysis</a></li>
 							<li><a href="https://www.exxonmobil.com/Corporate/">ExxonMobil Hem</a></li>
 						</ul>
