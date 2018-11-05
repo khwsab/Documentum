@@ -15,7 +15,7 @@
             <a title="" target="" onclick="trackClick(this);" href="http://www.exxonmobil.fi" class="">tietoja meistä</a>
         </li>
         <li>
-            <a target="_blank" onclick="trackClick(this);" href="http://pds.exxonmobil.com/pdssearch/search.aspx">tuotetietosivut</a>
+            <a target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds/?language=fi">tuotetietosivut</a>
         </li>
         <li>
             <a target="_blank" onclick="trackClick(this);" href="http://www.msds.exxonmobil.com/psims/psims.aspx?language=FI&amp;brand=XOM&amp;lstext=Suomi&amp;languageselectedvalue=14">käyttöturvallisuustiedotteet</a>

@@ -219,7 +219,7 @@
 
 				<p class="callout"><strong>Looking for a MSDS or PDS? Try these links:</strong>
 					<a href="https://www.msds.exxonmobil.com/psims/psims.aspx" target="_blank">Material Safety Data Sheets</a> |
-					<a href="https://www.exxonmobil.com/pdssearch/search.aspx?chooseLanguage=en&CountryValue=UK" target="_blank">Product Data Sheets</a>
+					<a href="https://www.exxonmobil.com/pds/?language=en" target="_blank">Product Data Sheets</a>
 				</p>
 
 				<div class="linkset">
@@ -299,7 +299,7 @@
 						<h2>Other Resources</h2>
 						<ul>
 							<li><a href="https://www.mobil.co.uk/UK-English-LCW/which-oil.aspx">Which oil</a></li>
-							<li><a href="https://www.exxonmobil.com/pdssearch/search.aspx?chooseLanguage=en&CountryValue=UK" target="_blank">Product Data Sheets</a></li>
+							<li><a href="https://www.exxonmobil.com/pds/?language=en" target="_blank">Product Data Sheets</a></li>
 							<li><a href="https://www.msds.exxonmobil.com/psims/psims.aspx" target="_blank">Material Safety Data Sheets</a></li>
 							<li><a href="https://www.mobil.co.uk/UK-English-LCW/carengineoils_dexos-2-approved-mobil-synthetic-lubricants.aspx">dexos2&trade;</a></li>
 							<li><a href="https://www.signumoilanalysis.com/signum-english/">Signum<sup>SM</sup> Oil Analysis</a></li>

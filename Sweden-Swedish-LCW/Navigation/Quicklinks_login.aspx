@@ -15,7 +15,7 @@
             <a title="" target="" onclick="trackClick(this);" href="http://www.exxonmobil.com/Corporate/about.aspx" class="">om oss</a>
         </li>
         <li>
-            <a title="" target="_blank" onclick="trackClick(this);" href="http://www.exxonmobil.com/pdssearch/search.asp?chooseLanguage=en&CountryValue=Sweden" class="">produktdatablad</a>
+            <a title="" target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds/?language=se" class="">produktdatablad</a>
         </li>
         <li>
             <a target="_self" onclick="trackClick(this);" href="http://www.msds.exxonmobil.com/psims/psims.aspx">s&auml;kerhetsdatablad</a>
