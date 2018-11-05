@@ -15,7 +15,7 @@
             <a title="" target="" onclick="trackClick(this);" href="http://www.exxonmobil.fi" class="">tietoja meist&auml;</a>
         </li>
         <li>
-            <a title="" target="_blank" onclick="trackClick(this);" href="http://www.exxonmobil.com/pdssearch/search.asp?chooseLanguage=fi&CountryValue=Finland" class="">tuotetietosivut</a>
+            <a title="" target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds/?language=fi" class="">tuotetietosivut</a>
         </li>
     </ul>
 </div>
