@@ -1,0 +1,4 @@
+<banners>
+<banner image="Flash/media_615x274_aw_exxon_cvl_online_promotion.swf" link="heavydutyengineoils_promotion.aspx?WT.mc_id=NCP&WT.mc_ev=CVL_homepage-banner" tracking="PVL" type="SWF" thumbnail="" target=""></banner>
+<banner image="Flash/media_615x274_md-anniversary.swf" link="heavydutyengineoils_history-of-mobil-delvac.aspx" tracking="CVL" type="SWF" thumbnail="Flash/media_50x40_md-anniversary.JPG" target=""></banner>
+</banners>

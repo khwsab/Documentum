@@ -1,0 +1,13 @@
+<banners>
+
+<banner image="/Germany-German-LCW/Flash/615x274_esso_tchiba_de.SWF" link="https://www.esso.de/promotions" tracking="DEX" type="SWF" thumbnail="flash/media_50x40_fuelprogress.jpg" target="_self"></banner>
+
+<banner image="Flash/615x274_delvac-90-years-v2-de.swf" link="/Germany-German-LCW/heavydutyengineoils.aspx" tracking="PVL" type="SWF" thumbnail="
+/Shared-Images-LCW/50x40_90_Years_Shield_Colour_white-English.jpg" target="_self"></banner>
+
+<banner image="Flash/media_615x274_alr.swf" link="/Germany-German-LCW/which-oil.aspx" tracking="ALR" type="SWF" thumbnail="Flash/media_50x40_alr.jpg" target="_self"></banner>
+
+<banner image="/Germany-German-LCW/Flash/media_615x274-alr-de.swf" link="/Germany-German-LCW/heavydutyengineoils_which-oil.aspx" tracking="CVL" type="SWF" thumbnail="/Shared-Images-LCW/media_50x40_cvl-banner.png" target="_self"></banner>
+
+
+</banners>

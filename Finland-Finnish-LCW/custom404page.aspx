@@ -217,7 +217,7 @@
 					
 				<p class="callout"><strong>Haetko käyttäturvallisuustiedotetta tai tuotetietosivuja? Kokeile näitä linkkejä:</strong> 
 					<a href="https://www.msds.exxonmobil.com/psims/psims.aspx" target="_blank">Käyttöturvallisuustiedotteet</a> | 
-					<a href="https://www.exxonmobil.com/pdssearch/search.aspx?chooseLanguage=fi&CountryValue=Finland" target="_blank">Tuotetietosivut</a>
+					<a href="https://www.exxonmobil.com/pds/?language=fi" target="_blank">Tuotetietosivut</a>
 				</p>
 					
 				<div class="linkset">
@@ -285,7 +285,7 @@
 							<li><a href="https://www.signumoilanalysis.com/signum/index.html">Signum<sup>SM</sup> -&ouml;ljyanalyysi &#91;EN&#93;</a></li>
 							<li><a href="https://www.exxonmobil.fi/Finland-Finnish/PA/">ExxonMobil Homepage</a></li>
 							<li><a target="_blank" href="https://www.msds.exxonmobil.com/psims/psims.aspx?language=FI&brand=XOM&lstext=Suomi&languageselectedvalue=14">K&auml;ytt&ouml;turvallisuustiedotteet</a></li>
-							<li><a target="_blank" href="https://www.exxonmobil.com/pdssearch/search.aspx?chooseLanguage=fi&CountryValue=Finland">Tuoteselostekirjasto</a></li>
+							<li><a target="_blank" href="https://www.exxonmobil.com/pds/?language=fi">Tuoteselostekirjasto</a></li>
 						</ul>
 					</div>
 				</div> <!-- .linkset -->

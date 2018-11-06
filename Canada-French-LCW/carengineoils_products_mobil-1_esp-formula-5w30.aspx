@@ -1,5 +1,5 @@
 
-
+			
   <%@ Page Language="C#" AutoEventWireup="false" Inherits="XOM.Common.Web.XOMPage" %>
   <%@ Register TagPrefix="XOM" Namespace="XOM.Common.Web" Assembly="XOMCommon" %>
 
@@ -31,7 +31,7 @@
       <script type="text/javascript" src="/Imports/js/scriptaculous.js"></script>
       <script type="text/javascript" src="/Imports/js/lightview.js"></script>
       <script type="text/javascript" src="/Imports/js/toggleContent.js"></script>
-
+    
         <script type="text/javascript">
     var PAGE_ID="0915881d81796736";
     </script>
@@ -174,7 +174,101 @@
                                     <p xmlns="">
                                         <strong>L'huile Mobil 1 ESP Formula 5W-30 a reçu les homologations d'équipementiers suivantes :&nbsp;&nbsp;</strong>
                                         <br>
-BMW Longlife 04 <br>
-Chrysler MS-11106 <br>
-GM dexos2 <br>
-Peugeot/Citroe
+BMW Longlife 04<br>
+Chrysler MS-11106<br>
+GM dexos2<br>
+Peugeot/Citroën Automobiles B71 2290<br>
+Peugeot/Citroën Automobiles B71 2297</p>
+
+                                    <p xmlns="">
+                                        <strong>L'huile Mobil 1 ESP Formula 5W-30 respecte ou surpasse les exigences des spécifications :&nbsp;&nbsp;</strong>
+                                        <br>
+ACEA C2, C3&nbsp; <br>
+JASO DL-1</p>
+
+                                    <p xmlns="">
+                                        <strong>Selon la Pétrolière Impériale, l'huile Mobil 1 ESP Formula 5W-30 présente le niveau de qualité suivant :&nbsp;&nbsp; </strong>
+                                        <br>
+API CF</p>
+                                </div>
+                                <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Caractéristiques Content">
+                                    <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
+                                        <thead>
+                                            <tr>
+                                                <th width="" scope="col" height="" class="standard">Mobil 1 ESP Formula 5W-30</th><th width="" scope="col" height="" class="standard">&nbsp;</th>
+                                            </tr>
+                                        </thead><tbody><tr>
+                                            <td width="" height="" class="standard">Grade SAE 5W-30</td><td width="" height="" class="standard">&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">Viscosité, cSt (ASTM D445)</td><td width="" height="" class="standard">&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">@ 40 ºC</td><td width="" height="" class="standard">72,8</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">@ 100 ºC</td><td width="" height="" class="standard">12,1</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">Indice de viscosité</td><td width="" height="" class="standard">164</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">Cendres sulfatées, % poids (ASTM D874)</td><td width="" height="" class="standard">0,6</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">Viscosité HTHS, mPa s @ 150 ºC (ASTM D4683)</td><td width="" height="" class="standard">3,58</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">Point d'écoulement, ºC (ASTM D 97)</td><td width="" height="" class="standard">-45</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">Point d'éclair (ºC, ASTM D 92)</td><td width="" height="" class="standard">254</td>
+                                        </tr>
+                                        <tr>
+                                            <td width="" height="" class="standard">Masse volumique @15,6 ºC (ASTM D 4052)</td><td width="" height="" class="standard">0,850</td>
+                                        </tr></tbody></table>
+                                </div>
+                            </td>
+                            <td valign="top" style="width: 10px; background-image:url('/Images/Tabs/box_Right.png'); background-repeat: repeat-y; background-color: #ffffff;" class="rightBorder">
+                                <img src="/Images/Tabs/boxNoFade_RightUpper.png" alt=""/>
+                            </td>
+                        </tr>
+                        <tr id="tabsLower">
+                            <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerLeft">
+                                <img src="/Images/Tabs/box_LeftLower.png" alt=""/>
+                            </td>
+                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle"> </td>
+                            <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerRight">
+                                <img src="/Images/Tabs/box_RightLower.png" alt=""/>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <div style="clear:both;width:100%;position:relative;"><!--#include file="Navigation/Footer.aspx" --></div>
+        </div><script type="text/javascript">  
+        var tabsdiv = document.getElementById("divTabs");
+        var tabs, tabId;
+ 
+        //Get parameter
+        var parameters = location.search;
+        var index = parameters.indexOf('tabIndex=');
+        if (index != -1){
+          
+          var tabIndex = parameters.charAt(index+9);
+          if(tabsdiv.childNodes.length == 1)
+          {
+            tabs = tabsdiv.childNodes[0];
+          }else
+          {
+            tabs = tabsdiv.childNodes[1];
+          }
+          if(tabs.childNodes.length >= tabIndex)
+          {
+            tabId = tabs.childNodes[tabIndex-1].id;
+            showTab(tabId);        
+            location.href = location.href+"#"+ tabId;
+          }
+        }
+      </script></body>
+</html>

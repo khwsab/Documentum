@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>EXX4574-01 Infographic Widget</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	</head>
+	<body>
+
+		<!-- Wrapper div where the widget will be loaded -->
+		<div id="widget-wrapper"></div>
+
+		<!-- Path to the widget script -->
+		<script src="js/widget-infographic.js"></script>
+
+		<!-- Widget initialsation script -->
+		<script>
+			jQuery(function() {
+				new Infographics({
+					// ID of widget wrapper div
+					id: 'widget-wrapper', 
+
+					// Path to JSON config file
+					config: 'json/nl/widget-infographic.json',
+
+					// Infographic items
+					infographics: [1, 2, 3],
+
+					// Intro section [optional]
+					intro: {
+						title: 'Mobil Delvac 1™ LE 5W-30-motorolie helpt Nederlands transportbedrijf om brandstof te besparen',
+						image: 'img/nl/top-banner.jpg',
+						objective: 'Brandstofverbruik verminderen en emissieniveaus verlagen'
+					},
+
+					// Custom text block section(s) [optional]
+					details: ['situation', 'recommendation', 'results']
+				});
+			});
+		</script>
+
+	</body>
+</html>

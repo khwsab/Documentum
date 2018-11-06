@@ -189,8 +189,7 @@
                                     <p xmlns="">
                                         <strong>Mobil 1 Fuel Economy 0W-30 voldoet aan of overtreft de vereisten van:&nbsp;&nbsp; <br>
 
-                                        </strong>ACEA A1/B1, A5/B5 <br>
-API SJ</p>
+                                        </strong>ACEA A1/B1, A5/B5</p>
 
                                     <p xmlns="">
                                         <strong>Volgens ExxonMobil heeft Mobil 1 Fuel Economy 0W-30 het volgende kwaliteitsniveau:&nbsp;&nbsp; </strong>

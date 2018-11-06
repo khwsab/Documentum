@@ -88,7 +88,7 @@
 
                             <br>
 
-                            <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-mx-extra-10w40.aspx" class="">Mobil Delvac&trade; MX Extra 10W-40&nbsp;</a> sono oli motore per veicoli pesanti approvati da Renault e conformi alle specifiche Renault RLD-2; offrono una lubrificazione eccellente per i moderni motori diesel sottoposti ad applicazioni gravose, tenendoli puliti e favorendone una lunga durata. <br>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-mx-extra-10w40.aspx" class="">Mobil Delvac&trade; MX Extra 10W-40&nbsp;</a> sono oli motore per veicoli pesanti approvati da Renault e conformi alle specifiche Renault RLD-2; offrono una lubrificazione eccellente per i moderni motori diesel sottoposti ad applicazioni gravose, tenendoli puliti e favorendone una lunga durata. <br>
 
                             <br>
 
@@ -97,11 +97,11 @@
 
                             <br>
 
-                            <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx" class="">Mobil Delvac&trade; 1 LE 5W-30 </a>è un olio completamente sintetico per motori diesel, a basso contenuto di ceneri solfatate, fosforo e zolfo, approvato da Renault e conforme alle specifiche RLD-2 e RLD-3, che può contribuire al risparmio di carburante¹ e a prolungare gli intervalli di sostituzione. <br>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx" class="">Mobil Delvac&trade; 1 LE 5W-30 </a>è un olio completamente sintetico per motori diesel, a basso contenuto di ceneri solfatate, fosforo e zolfo, approvato da Renault e conforme alle specifiche RLD-2 e RLD-3, che può contribuire al risparmio di carburante¹ e a prolungare gli intervalli di sostituzione. <br>
 
                             <br>
 
-                            <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-esp-10w40.aspx" class="">Mobil Delvac&trade; XHP ESP 10W-40</a> è un olio sintetico a basso contenuto di ceneri solfatate, fosforo e zolfo, approvato e conforme alle specifiche Renault RLD-2 e RLD-3, che offre una protezione avanzata al motore e all'impianto di scarico. <br>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-esp-10w40.aspx" class="">Mobil Delvac&trade; XHP ESP 10W-40</a> è un olio sintetico a basso contenuto di ceneri solfatate, fosforo e zolfo, approvato e conforme alle specifiche Renault RLD-2 e RLD-3, che offre una protezione avanzata al motore e all'impianto di scarico. <br>
 
                             <br>
 
@@ -110,7 +110,7 @@
 
                             <br>
 
-                            <a title="" target="" onclick="trackClick(this);" href="https://www.mobil.com/Italian-IT/Commercial-Vehicle-Lube/pds/GLXXMobil-Delvac-MX-ESP-10W30" class="">Mobil Delvac&trade; MX ESP 10W-30</a> è un olio ad altissime prestazioni per motori diesel, conforme alle specifiche Renault RLD-3 e RLD-4, che contribuisce a massimizzare la durata del motore nelle più dure applicazioni su strada e fuori strada. <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-mx-esp-15w40.aspx" class="">Mobil Delvac&trade; MX ESP 15W-40</a> è un olio ad altissime prestazioni per motori diesel, conforme alle specifiche Renault RLD-3 e RLD-4, che offre un'eccellente lubrificazione dei moderni motori diesel favorendone una lunga durata. <br>
+                            <a title="" target="" onclick="trackClick(this);" href="https://www.mobil.com/Italian-IT/Commercial-Vehicle-Lube/pds/GLXXMobil-Delvac-MX-ESP-10W30" class="">Mobil Delvac&trade; MX ESP 10W-30</a> è un olio ad altissime prestazioni per motori diesel, conforme alle specifiche Renault RLD-3 e RLD-4, che contribuisce a massimizzare la durata del motore nelle più dure applicazioni su strada e fuori strada. <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-mx-esp-15w40.aspx" class="">Mobil Delvac&trade; MX ESP 15W-40</a> è un olio ad altissime prestazioni per motori diesel, conforme alle specifiche Renault RLD-3 e RLD-4, che offre un'eccellente lubrificazione dei moderni motori diesel favorendone una lunga durata. <br>
 
                             <br>
 
@@ -119,7 +119,7 @@
 
                             <br>
 
-                            <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-5w40.aspx" class="">Mobil Delvac&trade; 1 5W-40 </a>e <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-extra-10w40.aspx" class="">Mobil Delvac&trade; XHP EXTRA 10W-40 </a>sono oli motore completamente sintetici per motori diesel conformi alle specifiche Renault RXD. <a title="" target="" onclick="trackClick(this);" href="/lubes.mobil.com/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-5w40.aspx" class="">Mobil Delvac&trade; 1 5W-40</a> e <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-extra-10w40.aspx" class="">Mobil Delvac&trade; XHP EXTRA 10W-40 </a>offrono prestazioni eccezionali e un'ottima protezione sia alle alte che alle basse temperature. <br>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-5w40.aspx" class="">Mobil Delvac&trade; 1 5W-40 </a>e <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-extra-10w40.aspx" class="">Mobil Delvac&trade; XHP EXTRA 10W-40 </a>sono oli motore completamente sintetici per motori diesel conformi alle specifiche Renault RXD. <a title="" target="" onclick="trackClick(this);" href="/lubes.mobil.com/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-5w40.aspx" class="">Mobil Delvac&trade; 1 5W-40</a> e <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-extra-10w40.aspx" class="">Mobil Delvac&trade; XHP EXTRA 10W-40 </a>offrono prestazioni eccezionali e un'ottima protezione sia alle alte che alle basse temperature. <br>
 
                             <br>
 
@@ -143,7 +143,7 @@ Gli oli completamente sintetici come Mobil Delvac&trade; 1 circolano nei motori 
                             </strong>
                             <br>
 
-                            <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx" class="">Mobil Delvac&trade; 1 LE 5W-30</a> e <a title="" target="" onclick="trackClick(this);" href="/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-esp-10w40.aspx" class="">Mobil Delvac&trade; XHP ESP 10W-40 </a>proteggono l'impianto di scarico e contengono speciali additivi formulati per prolungare la durata e mantenere l'efficienza dei sistemi di riduzione delle emissioni, come i filtri antiparticolato per diesel (DPF) di Renault. Il DPF si utilizza per rispettare i requisiti previsti dalle norme sulle emissioni Euro IV, V e VI. <br>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx" class="">Mobil Delvac&trade; 1 LE 5W-30</a> e <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Italy-Italian-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-esp-10w40.aspx" class="">Mobil Delvac&trade; XHP ESP 10W-40 </a>proteggono l'impianto di scarico e contengono speciali additivi formulati per prolungare la durata e mantenere l'efficienza dei sistemi di riduzione delle emissioni, come i filtri antiparticolato per diesel (DPF) di Renault. Il DPF si utilizza per rispettare i requisiti previsti dalle norme sulle emissioni Euro IV, V e VI. <br>
 
                             <br>
 

@@ -217,31 +217,19 @@ Mobil 1 Extended Performance 5W-30 is approved for GM dexos1</p>&#160;</div>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Specs Content">
                                     <p xmlns="">
-
-                                        <table width="100%" summary="" class="standard" cellspacing="0" border="0">
-                                            <thead>
-                                                <tr>
-                                                    <th width="" scope="col" height="" class="standard"><strong>Mobil 1 Extended Performance 5W-20 meets or exceeds the requirements of:</strong></th><th width="" scope="col" height="" class="standard">&nbsp;</th>
-                                                </tr>
-                                            </thead><tbody><tr>
-                                                <td width="" height="" class="standard"><strong>ILSAC</strong></td><td width="" height="" class="standard">GF-5</td>
-                                            </tr>
-                                            <tr>
-                                                <td width="" height="" class="standard"><strong>API</strong></td><td width="" height="" class="standard">SN,SM,SL,SJ</td>
-                                            </tr>
-                                            <tr>
-                                                <td width="" height="" class="standard"><strong>Ford</strong></td><td width="" height="" class="standard">WSS-M2C945-A</td>
-                                            </tr>
-                                            <tr>
-                                                <td width="" height="" class="standard"><strong>Ford</strong></td><td width="" height="" class="standard">WSS-M2C930-A</td>
-                                            </tr></tbody></table>
-
+                                        <strong>Mobil 1 Extended Performance 5W-20 meets or exceeds the requirements of:</strong>
+                                        <br>
+                                        <p>ILSAC GF-5<br>
+                                            API SN, SM, SL, SJ<br>
+                                            Ford WSS-M2C945-A<br>
+                                            Ford WSS-M2C930-A
+                                        </p>
                                     </p>
 
                                     <p xmlns="">
                                         <strong>Mobil 1 Extended Performance 5W-20 has the following builder approvals: <br>
 
-                                        </strong>General Motors dexos1&trade; (license number GB1C1002015)&nbsp;</p>
+                                        </strong>dexos1™ Gen 2  (License number D10106GH015)&nbsp;</p>
 
                                     <p xmlns="">
                                         <strong>According to Imperial Oil, Mobil 1 Extended Performance 5W-20 is of the following quality level: </strong>

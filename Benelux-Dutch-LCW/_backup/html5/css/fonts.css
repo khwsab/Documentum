@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'EM Print Light';
+  src: url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-Light.eot");
+  src: url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-Light.eot?#iefix") format("embedded-opentype"), url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-Light.woff") format("woff"), url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-Light.ttf") format("truetype"); }
+@font-face {
+  font-family: 'EM Print Regular';
+  src: url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-Regular.eot");
+  src: url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-Regular.eot?#iefix") format("embedded-opentype"), url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-Regular.woff") format("woff"), url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-Regular.ttf") format("truetype"); }
+@font-face {
+  font-family: 'EM Print Regular Italic';
+  src: url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-RegularItalic.eot");
+  src: url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-RegularItalic.eot?#iefix") format("embedded-opentype"), url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-RegularItalic.woff") format("woff"), url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-RegularItalic.ttf") format("truetype"); }
+@font-face {
+  font-family: 'EM Print Semibold';
+  src: url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-Semibold.eot");
+  src: url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-Semibold.eot?#iefix") format("embedded-opentype"), url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-Semibold.woff") format("woff"), url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-Semibold.ttf") format("truetype"); }
+@font-face {
+  font-family: 'EM Print Semibold Italic';
+  src: url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-SemiboldItalic.eot");
+  src: url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-SemiboldItalic.eot?#iefix") format("embedded-opentype"), url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-SemiboldItalic.woff") format("woff"), url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-SemiboldItalic.ttf") format("truetype"); }
+@font-face {
+  font-family: 'EM Print Bold';
+  src: url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-Bold.eot");
+  src: url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-Bold.eot?#iefix") format("embedded-opentype"), url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-Bold.woff") format("woff"), url("/chem-english/html5/xom-chem-html-banners-2/fonts/EMprintW01-Bold.ttf") format("truetype"); }

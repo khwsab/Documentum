@@ -6,10 +6,10 @@
     </div>
     <ul>
         <li>
-            <a title="" target="" onclick="trackClick(this);" href="/IND/English/products_mobil-shc.aspx" class="">Mobil&trade; SHC</a>
+            <a title="" target="" onclick="trackClick(this);" href="http://www.mobilindustrial.com/IND/English/products_mobil-shc.aspx" class="">Mobil&trade; SHC</a>
         </li>
         <li>
-            <a title="" target="" onclick="trackClick(this);" href="/IND/english" class="">Mobil&trade; Industrial</a>
+            <a title="" target="" onclick="trackClick(this);" href="http://www.mobilindustrial.com/IND/english" class="">Mobil&trade; Industrial</a>
         </li>
         <li>
             <a title="" target="_blank" onclick="trackClick(this);" href="http://www.exxonmobil.nl/pdssearch/search.aspx?chooseLanguage=nl&amp;CountryValue=Netherlands" class="">product informatie bladen</a>

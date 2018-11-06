@@ -220,7 +220,7 @@
 					
 				<p class="callout"><strong>Søker du MSDS eller PDS ? Prøv disse linkene:</strong> 
 					<a href="https://www.msds.exxonmobil.com/psims/psims.aspx" target="_blank">Sikkerhetsdatablad</a> | 
-					<a href="https://www.exxonmobil.no/pdssearch/search.aspx?chooseLanguage=no&CountryValue=Norway" target="_blank">Produktdatablad</a>
+					<a href="https://www.exxonmobil.com/pds/?language=no" target="_blank">Produktdatablad</a>
 				</p>
 					
 				<div class="linkset">
@@ -300,7 +300,7 @@
 							<li><a href="https://www.mobil.no/Norway-Norwegian-LCW/oilselector.aspx">Mobil oljevelger</a></li>
 							<li><a href="https://www.fuelprogress.com/nb-no/">Mobil&trade; Fuel Progress</a></li>
 							<li><a href="https://www.msds.exxonmobil.com/psims/psims.aspx" target="_blank">HMS-datablad </a></li>
-							<li><a href="https://www.exxonmobil.com/pdssearch/search.aspx" target="_blank" >Produktdatablad</a></li>
+							<li><a href="https://www.exxonmobil.com/pds/?language=no" target="_blank" >Produktdatablad</a></li>
 							<li><a href="https://www.signumoilanalysis.com/signum-english/" >Signum&#x2120; Oil Analysis [EN]</a></li>
 							<li><a href="https://www.exxonmobil.com/Corporate/" >ExxonMobil Hjem [EN]</a></li>
 						</ul>

@@ -9,10 +9,10 @@
             <a title="" target="" onclick="trackClick(this);" href="/UK-English-LCW/heavydutyengineoils_fleet-product-offer.aspx" class="">Fleet Product Offer</a>
         </li>
         <li>
-            <a title="" target="_blank" onclick="trackClick(this);" href="http://www.mobil.co.uk/UK-English-LCW/heavydutyoils_energy-efficiency-guide.aspx" class="">Report &ndash; Energy Efficiency Guide</a>
+            <a title="" target="_blank" onclick="trackClick(this);" href="http://staging-lubes.khwstech.co.uk/UK-English-LCW/heavydutyoils_energy-efficiency-guide.aspx" class="">Report &ndash; Energy Efficiency Guide</a>
         </li>
         <li>
-            <a title="" target="" onclick="trackClick(this);" href="http://www.mobil.co.uk/uk-english-lcw/TCO-Guide.aspx" class="">Insight &ndash; Total Cost of Ownership (TCO) Guide </a>
+            <a title="" target="" onclick="trackClick(this);" href="http://staging-lubes.khwstech.co.uk/uk-english-lcw/TCO-Guide.aspx" class="">Insight &ndash; Total Cost of Ownership (TCO) Guide </a>
         </li>
         <li>
             <a title="" target="" onclick="trackClick(this);" href="/UK-English-LCW/heavydutyoils_mobil-delvac-product-selector.aspx" class="">which oil for my van or lorry<br>
@@ -25,7 +25,7 @@
             <a title="" target="" onclick="trackClick(this);" href="/UK-English-LCW/heavydutyoils_mobil-delvac-express.aspx" class="">Mobil Delvac&trade; Express</a>
         </li>
         <li>
-            <a target="_blank" onclick="trackClick(this);" href="http://pds.exxonmobil.com/pdssearch/search.aspx">product data sheets</a>
+            <a target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds/?language=en">product data sheets</a>
         </li>
         <li>
             <a target="_blank" onclick="trackClick(this);" href="http://www.msds.exxonmobil.com/psims/psims.aspx">material safety data sheets</a>

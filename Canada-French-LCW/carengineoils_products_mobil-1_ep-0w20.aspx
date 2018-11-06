@@ -222,34 +222,20 @@ aux spécifications dexos1 (MC) certifié</p>&#160;</div>
                                     </ul>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Spécs Content">
-                                    <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
-                                        <thead>
-                                            <tr>
-                                                <th width="" scope="col" height="" class="standard">L'huile Mobil 1 Extended Performance 0W-20 atteint ou dépasse les exigences :</th><th width="" scope="col" height="" class="standard">&nbsp;</th>
-                                            </tr>
-                                        </thead><tbody><tr>
-                                            <td width="" height="" class="standard">ILSAC</td><td width="" height="" class="standard">GF-5</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">API</td><td width="" height="" class="standard">SN,SM,SL,SJ</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">ACEA</td><td width="" height="" class="standard">&nbsp;</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Ford</td><td width="" height="" class="standard">&nbsp;</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Ford</td><td width="" height="" class="standard">WSS-M2C947-A</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Honda /Acura</td><td width="" height="" class="standard">&nbsp;</td>
-                                        </tr></tbody></table>
+                                    <strong>L'huile Mobil 1 Extended Performance 0W-20 atteint ou dépasse les exigences :</strong>
+                                    <br>
+                                    <p>ILSAC GF-5<br>
+                                        API SN, SM, SL, SJ<br>
+                                        API SN PLUS<br>
+                                        API SN PLUS RESOURCE CONSERVING<br>
+                                        FORD WSS-M2C947-A<br>
+                                        FORD WSS-M2C947-B1
+                                    </p>
 
                                     <p xmlns="">
                                         <strong>L'huile Mobil 1 Extended Performance 0W-20 a reçu les approbations de constructeurs suivantes : <br>
 
-                                        </strong>General Motors dexos1&trade; (licence number GB1D1009015)</p>
+                                        </strong>General Motors dexos1™ Gen 2  (License number D10105GH015)</p>
 
                                     <p xmlns="">
                                         <strong>Selon la Pétrolière Impériale, l'huile Mobil 1 Extended Performance 0W-20 est du niveau de qualité :&nbsp;</strong>

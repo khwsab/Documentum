@@ -24,10 +24,10 @@
             <a target="_blank" onclick="trackClick(this);" href="https://www.youtube.com/user/OfficialMobilDelvac">Mobil Delvac&trade; - YouTube</a>
         </li>
         <li>
-            <a target="" onclick="trackClick(this);" href=".mx/mexico-spanish-lcw/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx">Recomendaciones de defensa a defensa para su vehículo</a>
+            <a target="" onclick="trackClick(this);" href=/Mexico-Spanish-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx">Recomendaciones de defensa a defensa para su vehículo</a>
         </li>
         <li>
-            <a target="" onclick="trackClick(this);" href=".mx/Mexico-Spanish-LCW/heavydutyengineoils_ck4-o-fa4.aspx">¿CK-4 o FA-4?</a>
+            <a target="" onclick="trackClick(this);" href=/Mexico-Spanish-LCW/heavydutyengineoils_ck4-o-fa4.aspx">¿CK-4 o FA-4?</a>
         </li>
     </ul>
 </div>

@@ -15,7 +15,7 @@
             <a title="" target="_self" onclick="trackClick(this);" href="/UK-English-LCW/buy_find-a-distributor.aspx" class="">find an ExxonMobil Distributor</a>
         </li>
         <li>
-            <a target="_blank" onclick="trackClick(this);" href="http://pds.exxonmobil.com/pdssearch/search.aspx">product data sheets</a>
+            <a target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds/?language=en">product data sheets</a>
         </li>
         <li>
             <a target="_blank" onclick="trackClick(this);" href="http://www.msds.exxonmobil.com/psims/psims.aspx">material safety data sheets</a>

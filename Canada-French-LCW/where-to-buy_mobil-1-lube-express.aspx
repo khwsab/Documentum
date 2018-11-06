@@ -323,17 +323,7 @@ Si vous avez des questions ou des commentaires relativement au programme, veuill
                                         <p>Web: <a title="" target="_blank" onclick="trackClick(this);" href="http://www.langleymobil1.com" class="">www.langleymobil1.com</a>
                                         </p>
 
-                                    </td><td width="50%" height="" class="standard">
-
-                                        <p>Mobil 1 Lube Express <br>
-            1400 Dogwood Street <br>
-
-                                            <strong>Campbell River</strong>
-                                            <br>
-            British Columbia, V9W 6P1<br>
-            778-346-4111</p>
-
-                                    </td><td width="50%" height="" class="standard">&nbsp;</td>
+                                    </td>
                                 </tr>
                                 <tr>
                                     <td width="50%" height="" class="standard">Mobil 1 Lube Express - Mission<br>
@@ -342,13 +332,16 @@ Si vous avez des questions ou des commentaires relativement au programme, veuill
                                         <strong>Mission</strong>
                                         <br>
             British Columbia, V2V 1A8<br>
-            604-820-0708&nbsp;</td><td width="50%" height="" class="standard">Mobil 1 Lube Express - Burnaby<br>
+            604-820-0708&nbsp;</td>
+            <td width="50%" height="" class="standard">Mobil 1 Lube Express - Burnaby<br>
             6869 Canada Way<br>
 
                                         <strong>Burnaby</strong>
                                         <br>
             British Columbia, V5E 3R3<br>
             604-521-8900</td>
+                                </tr>
+                                <tr>
                                     <td width="50%" height="" class="standard">
 
                                         <p>Mobil 1 Lube Express <br>
@@ -399,6 +392,19 @@ Si vous avez des questions ou des commentaires relativement au programme, veuill
                                         </p>
 
                                     </td>
+                                </tr>
+                            <tr>
+                                    <td width="50%" height="" class="standard">
+
+                                        <p>Mobil 1 Lube Express <br>
+            1400 Dogwood Street <br>
+
+                                            <strong>Campbell River</strong>
+                                            <br>
+            British Columbia, V9W 6P1<br>
+            778-346-4111</p>
+
+                                    </td><td width="50%" height="" class="standard">&nbsp;</td>
                                 </tr></tbody></table>
 
                         </p>

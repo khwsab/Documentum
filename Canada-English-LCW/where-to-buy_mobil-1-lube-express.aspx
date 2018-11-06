@@ -376,7 +376,7 @@ For questions or comments regarding the program please write to us at <a title="
             British Columbia, V9W 6P1<br>
             778-346-4111</p>
 
-                                    </td><td width="50%" height="" class="standard">&nbsp;</td>
+                                    </td>
                                     <td width="50%" height="" class="standard">
                                         <br>
 
@@ -388,7 +388,10 @@ For questions or comments regarding the program please write to us at <a title="
                                         <br>
             British Columbia, V2V 1A8<br>
             604-820-0708&nbsp;<br>
-            &nbsp;</td><td width="50%" height="" class="standard"><strong>Ballanger Investments</strong>
+            &nbsp;</td>
+        </tr>
+        <tr>
+            <td width="50%" height="" class="standard"><strong>Ballanger Investments</strong>
                                         <br>
             6869 Canada Way<br>
 
@@ -396,26 +399,7 @@ For questions or comments regarding the program please write to us at <a title="
                                         <br>
             British Columbia, V5E 3R3<br>
             604-521-8900</td>
-                                </tr>
-                                <tr>
                                     <td width="50%" height="" class="standard">
-
-                                        <p>
-                                            <br>
-
-                                            <strong>Wells Management Ltd.&nbsp;<br>
-
-                                            </strong>2474 W. Railway Street<br>
-
-                                            <strong>Abbotsford<br>
-
-                                            </strong>British Columbia, V2S 2E5<br>
-            604-853-2770<br>
-            Web: <a title="" target="" onclick="trackClick(this);" href="http://www.abbotsfordmobil1.com" class="">www.abbotsfordmobil1.com</a>
-                                            <br>
-            &nbsp;</p>
-
-                                    </td><td width="50%" height="" class="standard">
 
                                         <p>
                                             <strong>Go Lube Ltd.&nbsp;</strong>
@@ -458,7 +442,28 @@ For questions or comments regarding the program please write to us at <a title="
                                         </p>
 
                                     </td>
-                                </tr></tbody></table>
+                                </tr>
+                            <tr>
+                                <td width="50%" height="" class="standard">
+
+                                    <p>
+                                        <br>
+
+                                        <strong>Wells Management Ltd.&nbsp;<br>
+
+                                        </strong>2474 W. Railway Street<br>
+
+                                        <strong>Abbotsford<br>
+
+                                        </strong>British Columbia, V2S 2E5<br>
+        604-853-2770<br>
+        Web: <a title="" target="" onclick="trackClick(this);" href="http://www.abbotsfordmobil1.com" class="">www.abbotsfordmobil1.com</a>
+                                        <br>
+        &nbsp;</p>
+
+                                </td>
+                                <td width="50%" height="" class="standard">&nbsp;</td>
+                            </tr></tbody></table>
 
                         </p>
 

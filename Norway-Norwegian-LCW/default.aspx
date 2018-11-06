@@ -161,7 +161,7 @@ Mobil fortsetter å utvikle nye produkter og løsninger innen smøremidler for å bi
                             </li>
     
                             <li>
-                                <a title="" target="" onclick="trackClick(this);" href="http://pds.exxonmobil.com/pdssearch/Search.aspx?chooseLanguage=no&amp;CountryValue=Norway" class="">Produktdatablad</a>
+                                <a title="" target="" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds/?language=no" class="">Produktdatablad</a>
                             </li>
 
                         </ul></div><div class="lowerSection"></div></div></div>

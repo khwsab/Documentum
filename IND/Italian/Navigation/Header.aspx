@@ -138,7 +138,7 @@ HeaderText="contattaci";
 				<div id="search-nav">
 					<div id="menu"></div>
 					<div style="display:none;" id="menuContainer">
-						<div id="temp"></div>
+						<!-- <div id="temp"></div> -->
 						<div id="mobileMenuHeaderContainer">
 							<div id="mobileMenuBack">
 								<span class="mobileIconImg"></span>

@@ -1,0 +1,15 @@
+<banners>
+
+<banner image="Flash/615x274_flashbanner_delvac_casa.swf" link="http://www.promocionesmobil.com" tracking="PVL" type="SWF" thumbnail="Flash/50x40_pc-11_oildrop.png"></banner>
+
+<banner image="Flash/615x274_pc-11.swf" link="/Mexico-Spanish-LCW/heavydutyengineoils_api-spec-change.aspx" tracking="PVL" type="SWF" thumbnail="Flash/50x40_pc-11_oildrop.png"></banner>
+
+<banner image="Flash/615x274_mexico-maintenance.swf" link="http://www.mobil.com.mx/Mexico-Spanish-LCW/buy_mobil-oil-express.aspx" tracking="PVL" type="SWF" thumbnail="flash/media_50x40_abudabiwinner.jpg"></banner>
+
+<banner image="Flash/media_615x274_mobil-delvac-super.swf" link="/Mexico-Spanish-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1300-super-15w40.aspx" tracking="MOT" type="SWF" thumbnail="Flash/media_50x40_cvl-selector.jpg" target="_self"></banner>
+
+<banner image="Flash/media_615x274_40thMexico.swf" link="/Mexico-Spanish-LCW/carengineoils_products_mobil-1.aspx" tracking="PVL" type="SWF" thumbnail="Flash/media_50x40_40th.png" target="_self"></banner>
+
+
+</banners>
+

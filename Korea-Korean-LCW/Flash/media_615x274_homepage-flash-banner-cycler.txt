@@ -1,0 +1,8 @@
+<banners>
+
+<banner 
+image="/Korea-Korean-LCW/Flash/media_615x274_cvl-product-selector.swf" link="heavydutyoils.aspx" tracking="CVL" type="SWF" thumbnail="Flash/media_50x40_cvl-product-selector.jpg" target="_parent"></banner>
+
+<banner  
+image="/Korea-Korean-LCW/Flash/media_615x274_lube.swf" link="industrialspecialty.aspx" tracking="PVL" type="SWF" thumbnail="Flash/media_50x40_lube.jpg" target="_self"></banner>
+</banners>

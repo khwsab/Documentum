@@ -80,7 +80,7 @@
                         <div id="flashvidpad">
                             <div id="flashVideoTop"/>
                         </div>
-                        <img xmlns="" src=".mx/mexico-spanish-lcw/yee-estatico-440x270.jpg">
+                        <img xmlns="" src="/mexico-spanish-lcw/yee-estatico-440x270.jpg">
                         <p/>
                         <h1>Lubricantes Mobil&trade;: Perfeccionando la ciencia de la protección</h1>
                         <h2>Productos</h2>

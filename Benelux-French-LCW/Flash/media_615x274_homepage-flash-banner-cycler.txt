@@ -1,0 +1,19 @@
+<banners>
+
+<banner image="Flash/615x274_esso_synergy.swf" link="http://www.esso.lu/explore/#video" tracking="MOT" type="SWF" thumbnail="/Shared-Images-LCW/media_50x40_fuelprogress.jpg" target="_self"></banner>
+
+<banner image="Flash/media_615x274_supreme-diesel.swf" link="http://www.fuelprogress.com/fr-be/supreme-fuel.html" tracking="MOT" type="SWF" thumbnail="/Shared-Images-LCW/media_50x40_supreme-diesel.jpg" target="_self"></banner>
+
+
+<banner image="Flash/Delvac90years615x274-fr.swf" link="http://www.mobil.be/Benelux-French-LCW/heavydutyengineoils.aspx" tracking="ALR" type="SWF" thumbnail="
+/Shared-Images-LCW/50x40_90_Years_Shield_Colour_white-English.jpg" target="_self"></banner>
+
+  
+<banner image="Flash/media_615x274_fuel-efficiency.swf" link="http://www.fuelprogress.com/" tracking="CVL" type="SWF" thumbnail="/UK-English-LCW/Flash/media_50x40_fuelprogress.jpg" target="_self"></banner>
+
+
+<banner image="Flash/be_cycling-lcw-flashbox_-_617x274_-french.swf" link="http://esso.be/bestofbelgium" tracking="CVL" type="SWF" thumbnail="/UK-English-LCW/Flash/media_50x40_fuelprogress.jpg"></banner>
+
+<banner image="/Benelux-French-LCW/Flash/dist_endless_road_trip_615x274_fr.SWF" link="http://www.mobil-1.be/les-sports-mecaniques/le-long-voyage.aspx?utm_source=mobil-home&utm_medium=mobil&utm_content=homepage-banner&utm_campaign=endless-road-trip <http://www.mobil-1.be/les-sports-mecaniques/le-long-voyage.aspx?utm_source=mobil-home&utm_medium=mobil&utm_content=homepage-banner&utm_campaign=endless-road-trip>" tracking="PVL" type="SWF" thumbnail="/benelux-dutch-lcw/flash/media_50x40_motorsport.jpg" target="_self"></banner>
+
+</banners>

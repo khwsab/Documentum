@@ -162,7 +162,7 @@ Etsi sopiva öljy raskaaseen ajoneuvoosi <a title="" target="" onclick="trackClic
                             </li>
     
                             <li>
-                                <a title="" target="_blank" onclick="trackClick(this);" href="http://pds.exxonmobil.com/pdssearch/search.aspx" class="">Tuotetietosivut</a>
+                                <a title="" target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds/?language=fi" class="">Tuotetietosivut</a>
                             </li>
     
                             <li>

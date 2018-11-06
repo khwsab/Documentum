@@ -65,7 +65,7 @@ string isCurrent(string url){
         <input value="0" type="hidden" name="NUM_FALLBACKS" id="NUM_FALLBACKS"><input name="CURRENT_PAGE" id="CURRENT_PAGE" type="hidden" value="<%=Request.Url.AbsoluteUri.Substring(Request.Url.AbsoluteUri.LastIndexOf("/")+1)%>" /><input value="" type="hidden" name="REQUESTED_LANG" id="REQUESTED_LANG"><input value="French" type="hidden" name="CURRENT_LANG" id="CURRENT_LANG"><input name="BASE_URL" id="BASE_URL" type="hidden" value="<%=Request.Url.AbsoluteUri.Substring(0,Request.Url.AbsoluteUri.LastIndexOf("/")+1)%>" /><ul>
             <li style="border: medium none ;">Francais</li>
             <li style="padding-right: 10px;">
-                <a target="" onclick="javascript:selectLanguage('English');" href="#">English</a>
+                <a target="" onclick="javascript:selectLanguage('English');" href="/canada-english-lcw/default.aspx">English</a>
             </li>
         </ul>
         <script type="text/javascript">document.getElementById("NUM_FALLBACKS").value=0;</script>
@@ -150,7 +150,7 @@ string isCurrent(string url){
 				<div id="search-nav">
 					<div id="menu"></div>
 					<div style="display:none;" id="menuContainer">
-						<div id="temp"></div>
+						<!-- <div id="temp"></div> -->
 						<div id="mobileMenuHeaderContainer">
 							<div id="mobileMenuBack">
 								<span class="mobileIconImg"></span>
