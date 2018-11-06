@@ -9,10 +9,10 @@
             <a title="" target="" onclick="trackClick(this);" href="/UK-English-LCW/heavydutyengineoils_fleet-product-offer.aspx" class="">Fleet Product Offer</a>
         </li>
         <li>
-            <a title="" target="_blank" onclick="trackClick(this);" href="http://staging-lubes.khwstech.co.uk/UK-English-LCW/heavydutyoils_energy-efficiency-guide.aspx" class="">Report &ndash; Energy Efficiency Guide</a>
+            <a title="" target="_blank" onclick="trackClick(this);" href="/UK-English-LCW/heavydutyoils_energy-efficiency-guide.aspx" class="">Report &ndash; Energy Efficiency Guide</a>
         </li>
         <li>
-            <a title="" target="" onclick="trackClick(this);" href="http://staging-lubes.khwstech.co.uk/uk-english-lcw/TCO-Guide.aspx" class="">Insight &ndash; Total Cost of Ownership (TCO) Guide </a>
+            <a title="" target="" onclick="trackClick(this);" href="/uk-english-lcw/TCO-Guide.aspx" class="">Insight &ndash; Total Cost of Ownership (TCO) Guide </a>
         </li>
         <li>
             <a title="" target="" onclick="trackClick(this);" href="/UK-English-LCW/heavydutyoils_mobil-delvac-product-selector.aspx" class="">which oil for my van or lorry<br>
