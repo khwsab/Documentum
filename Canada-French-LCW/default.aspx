@@ -165,7 +165,7 @@ Que vous soyez intéressé par <a title="" target="" onclick="trackClick(this);" h
                             </li>
     
                             <li>
-                                <a title="" target="_blank" onclick="trackClick(this);" href="http://pds.exxonmobil.com/pdssearch/search.aspx" class="">fiches techniques</a>
+                                <a title="" target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds?language=fr-FR" class="">fiches techniques</a>
                             </li>
     
                             <li>

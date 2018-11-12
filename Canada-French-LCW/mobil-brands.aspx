@@ -95,7 +95,7 @@
                             <div class="frame01BR clrfix">
                                 <div style="padding-right: 55px;" class="content">
                                     <h2>
-                                        <a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://www.exxonmobil.com/pdssearch/search.aspx?chooseLanguage=fr&amp;CountryValue=Canada">Finches techniques<span></span></a>
+                                        <a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds?language=fr-FR">Finches techniques<span></span></a>
                                     </h2>
                                     <p xmlns="">Voir la liste complète des PDS pour le Canada</p>
                                 </div>
