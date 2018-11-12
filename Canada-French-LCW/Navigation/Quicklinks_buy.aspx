@@ -18,7 +18,7 @@
             <a title="" target="_self" onclick="trackClick(this);" href="" class="">Mobil&trade; Industrial Lubricants</a>
         </li>
         <li>
-            <a target="_blank" onclick="trackClick(this);" href="http://pds.exxonmobil.com/pdssearch/search.aspx">fiches techniques</a>
+            <a target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds?language=fr-FR">fiches techniques</a>
         </li>
         <li>
             <a target="_self" onclick="trackClick(this);" href="http://www.msds.exxonmobil.com/psims/psims.aspx?language=FR&amp;brand=iol&amp;lstext=French&amp;languageselectedvalue=1">fiches signalétiques</a>

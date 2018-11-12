@@ -110,7 +110,7 @@
                             <div class="frame01BR clrfix">
                                 <div style="padding-right: 55px;" class="content">
                                     <h2>
-                                        <a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://www.exxonmobil.com/pdssearch/search.aspx?chooseLanguage=en&amp;CountryValue=Canada">
+                                        <a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds/?language=en">
                                             <br>
 Product Data Sheet<span></span></a>
                                     </h2>

@@ -96,7 +96,7 @@ distributor in your area</p>
                             <div class="frame01BR clrfix">
                                 <div style="padding-right: 55px;" class="content">
                                     <h2>
-                                        <a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://www.exxonmobil.com/pdssearch/search.aspx?chooseLanguage=en&amp;CountryValue=Canada">Product Data Sheet<span></span></a>
+                                        <a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds/?language=en">Product Data Sheet<span></span></a>
                                     </h2>
                                     <p xmlns="">View a complete PDS listing for Canada</p>
                                 </div>

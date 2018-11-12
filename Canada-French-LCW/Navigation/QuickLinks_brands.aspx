@@ -18,7 +18,7 @@
             <a title="" target="" onclick="trackClick(this);" href="/IND/french" class="">Mobil&trade; Industrial</a>
         </li>
         <li>
-            <a title="" target="_blank" onclick="trackClick(this);" href="http://www.exxonmobil.com/pdssearch/search.aspx?chooseLanguage=fr&amp;CountryValue=Canada" class="">fiches techniques</a>
+            <a title="" target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds?language=fr-FR" class="">fiches techniques</a>
         </li>
         <li>
             <a target="_self" onclick="trackClick(this);" href="http://www.msds.exxonmobil.com/psims/psims.aspx?language=FR&amp;brand=iol&amp;lstext=French&amp;languageselectedvalue=1">fiches signalétiques</a>
