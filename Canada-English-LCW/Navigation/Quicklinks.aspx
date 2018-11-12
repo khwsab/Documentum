@@ -12,7 +12,7 @@
             <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobilindustrial.com" class="">Mobil&trade; Industrial Lubricants</a>
         </li>
         <li>
-            <a title="" target="_blank" onclick="trackClick(this);" href="http://www.exxonmobil.com/pdssearch/search.aspx?chooseLanguage=en&amp;CountryValue=Canada" class="">Product Data Sheets</a>
+            <a title="" target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds/?language=en" class="">Product Data Sheets</a>
         </li>
         <li>
             <a target="_blank" onclick="trackClick(this);" href="http://www.msds.exxonmobil.com/psims/psims.aspx?brand=iol">Material Safety Data Sheets</a>
