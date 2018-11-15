@@ -116,13 +116,13 @@
 											moderno motore a gas naturale.
 										</p><br><br>
 										<p>Per saperne di piu?</p>
-										<img src="Images/mobil-pegasus-piston.jpg">
+										<img src="Images/mobil-pegasus-piston.jpeg">
 										<div class="buttonBL">
 											<div class="buttonTL">
 												<div class="buttonTR"></div>
 											</div>
 											<div class="buttonBR clrfix">
-												<div class="bttnpad"><a title="This link will open a new window." target="_new" href="https://www.mobilindustrial.com/ind/italian/products_mo bil-pegasus-1005.aspx">Per
+												<div class="bttnpad"><a title="This link will open a new window." target="_new" href="https://www.mobilindustrial.com/ind/italian/products_mobil-pegasus-1005.aspx">Per
 														saperne di più</a></div>
 											</div>
 										</div>
