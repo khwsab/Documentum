@@ -79,8 +79,8 @@
                             </h3>
                             <div class="">&#160;</div>
                         </div>
-                        <div class="item clrfix"><a xmlns="" target="_blank" onclick="trackClick(this);" href="http://prodwip.mobil.com/Canada-French-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-extreme.aspx#"><img src="../Canada-English-LCW/Images/Delvac-Extreme-10W-40_60x60.png" height="60" width="60"></a>
-                            <h3><a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://prodwip.mobil.com/Canada-French-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-extreme.aspx#">Mobil Delvac&trade; Extreme 10W-30, 15W-40<span></span></a>
+                        <div class="item clrfix"><a xmlns="" target="_blank" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-extreme.aspx#"><img src="../Canada-English-LCW/Images/Delvac-Extreme-10W-40_60x60.png" height="60" width="60"></a>
+                            <h3><a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-extreme.aspx#">Mobil Delvac&trade; Extreme 10W-30, 15W-40<span></span></a>
                             </h3>
                             <div class="marginLeft75">&#160;</div>
                         </div>
@@ -99,8 +99,8 @@
                             </h3>
                             <div class="marginLeft75">&#160;</div>
                         </div>
-                        <div class="item clrfix"><a xmlns="" target="_blank" onclick="trackClick(this);" href="http://prodwip.mobil.com/Canada-French-LCW/heavydutyengineoils_products_mobil-delvac-elc-series.aspx"><img src="../Canada-English-LCW/Images/rsz_dummy_pack.png" height="60" width="60"></a>
-                            <h3><a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://prodwip.mobil.com/Canada-French-LCW/heavydutyengineoils_products_mobil-delvac-elc-series.aspx">Mobil Delvac&trade; ELC Series<span></span></a>
+                        <div class="item clrfix"><a xmlns="" target="_blank" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_mobil-delvac-elc-series.aspx"><img src="../Canada-English-LCW/Images/rsz_dummy_pack.png" height="60" width="60"></a>
+                            <h3><a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_mobil-delvac-elc-series.aspx">Mobil Delvac&trade; ELC Series<span></span></a>
                             </h3>
                             <div class="marginLeft75">&#160;</div>
                         </div>
