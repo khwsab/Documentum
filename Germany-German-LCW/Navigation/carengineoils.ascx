@@ -50,9 +50,9 @@
                             <asp:panel visible="false" id="L1_2_L2_1_L3_2" Runat="server">
                                 <ul>
                                     <li class="endpoint">
-                                        <asp:HyperLink runat="server" id="aL1_2_L2_1_L3_2" NavigateUrl="/Germany-German-LCW/carengineoils_products_mobil-1-esp-formula-5w30.aspx">Mobil 1 ESP 5W-30</asp:HyperLink>
+                                        <asp:HyperLink runat="server" id="aL1_2_L2_1_L3_2" NavigateUrl="/Germany-German-LCW/carengineoils_products_mobil-1-esp-5w30.aspx">Mobil 1 ESP 5W-30</asp:HyperLink>
                                     </li>
-                                </ul><% Response.Write((aL1_2_L2_1_L3_2.CssClass == "selected") ? "<script type=\"text/javascript\">addFallback(3,\"carengineoils_products_mobil-1-esp-formula-5w30.aspx\")</script>" : ""); %></asp:panel>
+                                </ul><% Response.Write((aL1_2_L2_1_L3_2.CssClass == "selected") ? "<script type=\"text/javascript\">addFallback(3,\"carengineoils_products_mobil-1-esp-5w30.aspx\")</script>" : ""); %></asp:panel>
                             <asp:panel visible="false" id="L1_2_L2_1_L3_3" Runat="server">
                                 <ul>
                                     <li class="endpoint">
