@@ -100,7 +100,7 @@
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/where-to-buy.aspx"><img width="60" title="" src="../Canada-English-LCW/Images/teaser_60x60_where-to-buy.png" longdesc="" height="60" border="0" alt="Where to buy"></a>†</div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/where-to-buy.aspx"><img width="60" title="" src="../Canada-English-LCW/Images/teaser_60x60_where-to-buy.png" longdesc="" height="60" border="0" alt="Where to buy"></a>ù</div>
                         <h2>
                             <a title="" target="_self" href="/Canada-English-LCW/where-to-buy.aspx">Buy this product</a>
                         </h2>
@@ -109,7 +109,7 @@
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/carengineoils_dexos-1-approved-mobil-synthetic-lubricants.aspx"><img width="60" title="dexos 1 approved" src="../Canada-English-LCW/Images/teaser_60x60_dexos-1.jpg" longdesc="" height="60" border="0" alt="dexos 1 approved"></a>†</div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/carengineoils_dexos-1-approved-mobil-synthetic-lubricants.aspx"><img width="60" title="dexos 1 approved" src="../Canada-English-LCW/Images/teaser_60x60_dexos-1.jpg" longdesc="" height="60" border="0" alt="dexos 1 approved"></a>ù</div>
                         <h2>
                             <a title="" target="_self" href="/Canada-English-LCW/carengineoils_dexos-1-approved-mobil-synthetic-lubricants.aspx">dexos1&trade; approved</a>
                         </h2>
@@ -119,7 +119,7 @@ Mobil 1 Extended Performance 5W-30 is approved for GM dexos1</p>&#160;</div>
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/carengineoils_products_mobil-1_5w20.aspx"><img width="60" title="Mobil 1 5W-20" src="../Canada-English-LCW/Images/teaser_60x60_mobil-1-5w20.jpg" longdesc="" height="60" border="0" alt="Mobil 1 5W-20"></a>†</div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/carengineoils_products_mobil-1_5w20.aspx"><img width="60" title="Mobil 1 5W-20" src="../Canada-English-LCW/Images/teaser_60x60_mobil-1-5w20.jpg" longdesc="" height="60" border="0" alt="Mobil 1 5W-20"></a>ù</div>
                         <h2>
                             <a title="" target="_self" href="/Canada-English-LCW/carengineoils_products_mobil-1_5w20.aspx">Mobil 1&trade; 5W-20</a>
                         </h2>
@@ -128,7 +128,7 @@ Mobil 1 Extended Performance 5W-30 is approved for GM dexos1</p>&#160;</div>
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/carengineoils_products_mobil-1_5w30.aspx"><img width="60" title="Mobil 1 5W-30" src="../Canada-English-LCW/Images/teaser_60x60_mobil-1-5w30.jpg" longdesc="" height="60" border="0" alt="Mobil 1 5W-30"></a>†</div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/carengineoils_products_mobil-1_5w30.aspx"><img width="60" title="Mobil 1 5W-30" src="../Canada-English-LCW/Images/teaser_60x60_mobil-1-5w30.jpg" longdesc="" height="60" border="0" alt="Mobil 1 5W-30"></a>ù</div>
                         <h2>
                             <a title="" target="_self" href="/Canada-English-LCW/carengineoils_products_mobil-1_5w30.aspx">Mobil 1&trade; 5W-30</a>
                         </h2>
@@ -137,9 +137,9 @@ Mobil 1 Extended Performance 5W-30 is approved for GM dexos1</p>&#160;</div>
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/carengineoils_products_mobil-1_ep-10w30.aspx"><img width="60" title="Mobil 1 EP 10W-30" src="../Canada-English-LCW/Images/teaser_60x60_mobil-1-ep-10W30.jpg" longdesc="" height="60" border="0" alt="Mobil 1 EP 10W-30"></a>†</div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/carengineoils_products_mobil-1_ep-10w-30.aspx"><img width="60" title="Mobil 1 EP 10W-30" src="../Canada-English-LCW/Images/teaser_60x60_mobil-1-ep-10W30.jpg" longdesc="" height="60" border="0" alt="Mobil 1 EP 10W-30"></a>ù</div>
                         <h2>
-                            <a title="" target="_self" href="/Canada-English-LCW/carengineoils_products_mobil-1_ep-10w30.aspx">Mobil&trade; EP 10W-30</a>
+                            <a title="" target="_self" href="/Canada-English-LCW/carengineoils_products_mobil-1_ep-10w-30.aspx">Mobil&trade; EP 10W-30</a>
                         </h2>
                         <div class="relatedContent">
                             <p xmlns="">&nbsp;&nbsp;</p>&#160;</div>
@@ -148,7 +148,7 @@ Mobil 1 Extended Performance 5W-30 is approved for GM dexos1</p>&#160;</div>
                 <div id="mainContent_thin"><!-- googleoff: all -->
                     <script type="text/javascript">quickEditForm('0915881d81d448ec', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
-                        <div style="float:left" id="flash">†</div>
+                        <div style="float:left" id="flash">ù</div>
                         <h1>Mobil 1&trade; Extended Performance 0W-20</h1>
                         <p xmlns="" align="left">
                             <a title="" target="" onclick="trackClick(this);" href="/Canada-French-LCW/carengineoils_products_mobil-1_ep-0w20.aspx" class="lightview"><img src="../Canada-French-LCW/Images/product_120x150_mobil-1-ep-0w20-4l.png" height="150" width="120" alt="Mobil 1 Extended Performance 0W-20" title="Mobil 1 Extended Performance 0W-20" align="left" border="15" hspace="5"></a>
@@ -232,7 +232,7 @@ Mobil 1 Extended Performance 5W-30 is approved for GM dexos1</p>&#160;</div>
                                         <strong>Mobil 1 Extended Performance 0W-20 has the following builder approvals: </strong><strong>
                                             <br>
 
-                                        </strong>General Motors dexos1ô Gen 2 †(License number D10105GH015)</p>
+                                        </strong>General Motors dexos1ù Gen 2 ù(License number D10105GH015)</p>
 
                                     <p xmlns="">
                                         <strong>According to ExxonMobil, Mobil 1 Extended Performance 0W-20 is of the following quality level: </strong>
@@ -252,10 +252,10 @@ Mobil 1 Extended Performance 5W-30 is approved for GM dexos1</p>&#160;</div>
                                                 <td width="" height="" class="standard">SAE Grade</td><td width="" height="" class="standard">0W-20</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Viscosity @ 100∫C, cSt (ASTM D445)</td><td width="" height="" class="standard">8.6</td>
+                                                <td width="" height="" class="standard">Viscosity @ 100ùC, cSt (ASTM D445)</td><td width="" height="" class="standard">8.6</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Viscosity, @ 40∫C, cSt&nbsp; (ASTM D445)</td><td width="" height="" class="standard">44.9</td>
+                                                <td width="" height="" class="standard">Viscosity, @ 40ùC, cSt&nbsp; (ASTM D445)</td><td width="" height="" class="standard">44.9</td>
                                             </tr>
                                             <tr>
                                                 <td width="" height="" class="standard">Viscosity Index</td><td width="" height="" class="standard">173</td>
@@ -264,16 +264,16 @@ Mobil 1 Extended Performance 5W-30 is approved for GM dexos1</p>&#160;</div>
                                                 <td width="" height="" class="standard">Sulfated Ash, wt% (ASTM D874)</td><td width="" height="" class="standard">0.8</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">HTHS Viscosity, mPa&bull;s @ 150∫C (ASTM D4683)</td><td width="" height="" class="standard">2.7</td>
+                                                <td width="" height="" class="standard">HTHS Viscosity, mPa&bull;s @ 150ùC (ASTM D4683)</td><td width="" height="" class="standard">2.7</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Pour Point, ∫C (ASTM D97)</td><td width="" height="" class="standard">-54</td>
+                                                <td width="" height="" class="standard">Pour Point, ùC (ASTM D97)</td><td width="" height="" class="standard">-54</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Flash Point, ∫C (ASTM D92)</td><td width="" height="" class="standard">235</td>
+                                                <td width="" height="" class="standard">Flash Point, ùC (ASTM D92)</td><td width="" height="" class="standard">235</td>
                                             </tr>
                                             <tr>
-                                                <td width="" height="" class="standard">Density @15.6 ∫C g/ml (ASTM D4052)</td><td width="" height="" class="standard">0.839</td>
+                                                <td width="" height="" class="standard">Density @15.6 ùC g/ml (ASTM D4052)</td><td width="" height="" class="standard">0.839</td>
                                             </tr></tbody></table>
                                     </p>
                                 </div>
@@ -286,7 +286,7 @@ Mobil 1 Extended Performance 5W-30 is approved for GM dexos1</p>&#160;</div>
                             <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerLeft">
                                 <img src="/Images/Tabs/box_LeftLower.png" alt=""/>
                             </td>
-                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle">†</td>
+                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle">ù</td>
                             <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerRight">
                                 <img src="/Images/Tabs/box_RightLower.png" alt=""/>
                             </td>

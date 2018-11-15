@@ -62,9 +62,9 @@
                             <asp:panel visible="false" id="L1_1_L2_1_L3_5" Runat="server">
                                 <ul>
                                     <li class="endpoint">
-                                        <asp:HyperLink runat="server" id="aL1_1_L2_1_L3_5" NavigateUrl="http://prodwip.mobil.com/Canada-French-LCW/heavydutyengineoils_products_mobil-delvac-elc-series.aspx#">Mobil Delvac&trade; ELC Series</asp:HyperLink>
+                                        <asp:HyperLink runat="server" id="aL1_1_L2_1_L3_5" NavigateUrl="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_mobil-delvac-elc-series.aspx#">Mobil Delvac&trade; ELC Series</asp:HyperLink>
                                     </li>
-                                </ul><% Response.Write((aL1_1_L2_1_L3_5.CssClass == "selected") ? "<script type=\"text/javascript\">addFallback(3,\"http://prodwip.mobil.com/Canada-French-LCW/heavydutyengineoils_products_mobil-delvac-elc-series.aspx#\")</script>" : ""); %></asp:panel>
+                                </ul><% Response.Write((aL1_1_L2_1_L3_5.CssClass == "selected") ? "<script type=\"text/javascript\">addFallback(3,\"http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_mobil-delvac-elc-series.aspx#\")</script>" : ""); %></asp:panel>
                             <asp:panel visible="false" id="L1_1_L2_1_L3_6" Runat="server">
                                 <ul>
                                     <li class="endpoint">
@@ -170,9 +170,9 @@
                             <asp:panel visible="false" id="L1_1_L2_4_L3_5" Runat="server">
                                 <ul>
                                     <li class="endpoint">
-                                        <asp:HyperLink runat="server" id="aL1_1_L2_4_L3_5" NavigateUrl="http://prodwip.mobil.com/Canada-French-LCW/heavydutyoils_products_greases_mobil-centaur-moly-series.aspx#">Mobil Centaur&trade; Moly Series</asp:HyperLink>
+                                        <asp:HyperLink runat="server" id="aL1_1_L2_4_L3_5" NavigateUrl="http://lubes.mobil.com/Canada-French-LCW/heavydutyoils_products_greases_mobil-centaur-moly-series.aspx#">Mobil Centaur&trade; Moly Series</asp:HyperLink>
                                     </li>
-                                </ul><% Response.Write((aL1_1_L2_4_L3_5.CssClass == "selected") ? "<script type=\"text/javascript\">addFallback(3,\"http://prodwip.mobil.com/Canada-French-LCW/heavydutyoils_products_greases_mobil-centaur-moly-series.aspx#\")</script>" : ""); %></asp:panel>
+                                </ul><% Response.Write((aL1_1_L2_4_L3_5.CssClass == "selected") ? "<script type=\"text/javascript\">addFallback(3,\"http://lubes.mobil.com/Canada-French-LCW/heavydutyoils_products_greases_mobil-centaur-moly-series.aspx#\")</script>" : ""); %></asp:panel>
                         </ul><% Response.Write((aL1_1_L2_4.CssClass == "selected") ? "<script type=\"text/javascript\">addFallback(2,\"heavydutyengineoils_products_greases.aspx\")</script>" : ""); %></asp:panel>
                     <asp:panel visible="false" id="L1_1_L2_5" Runat="server">
                         <ul>

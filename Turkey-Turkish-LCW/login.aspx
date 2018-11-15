@@ -119,12 +119,12 @@ DNet&lsquo;e eri&#351;im için buraya t&#305;klay&#305;n.</p>
                         <div class="subfeature csingle cright">
                             <div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="" target="_self" onclick="trackClick(this);" href="../Turkey-Turkish-LCW/contactus_contact.aspx?CountryCode=TR&amp;Language=Turkish">kay&#305;t olmak m&#305; istiyorsunuz?<span></span></a>
+                                    <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=tr-TR">kay&#305;t olmak m&#305; istiyorsunuz?<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="../Turkey-Turkish-LCW/contactus_contact.aspx?CountryCode=TR&amp;Language=Turkish" title="kay&#305;t olmak m&#305; istiyorsunuz?" target="_self" onclick="trackClick(this);"><img title="kay&#305;t olmak m&#305; istiyorsunuz?" src="../Shared-Images-LCW/teaser_60x60_customer-support_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="kay&#305;t olmak m&#305; istiyorsunuz?"></a></div>
-                                <p>Kay&#305;tl&#305; kullan&#305;c&#305; de&#287;il misiniz? O zaman birçok önemli bilgiyi kaç&#305;r&#305;yorsunuz! &#350;irketinizin <a title="" target="" onclick="trackClick(this);" href="/Turkey-Turkish-LCW/contactus_contact.aspx?CountryCode=TR&amp;Language=Turkish" class="">ana irtibat</a> ki&#351;isinden sizi hemen bugün kaydetmesini isteyin.</p>
+                                <div class="img60 left"><a href="http://www.mobil.com/contact-us?lang=tr-TR" title="kay&#305;t olmak m&#305; istiyorsunuz?" target="_self" onclick="trackClick(this);"><img title="kay&#305;t olmak m&#305; istiyorsunuz?" src="../Shared-Images-LCW/teaser_60x60_customer-support_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="kay&#305;t olmak m&#305; istiyorsunuz?"></a></div>
+                                <p>Kay&#305;tl&#305; kullan&#305;c&#305; de&#287;il misiniz? O zaman birçok önemli bilgiyi kaç&#305;r&#305;yorsunuz! &#350;irketinizin <a title="" target="" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=tr-TR" class="">ana irtibat</a> ki&#351;isinden sizi hemen bugün kaydetmesini isteyin.</p>
                             </div>
                         </div>
                     </div>

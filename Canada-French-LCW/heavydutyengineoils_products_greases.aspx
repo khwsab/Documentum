@@ -94,8 +94,8 @@
                             </h3>
                             <div class="marginLeft75">&#160;</div>
                         </div>
-                        <div class="item clrfix"><a xmlns="" target="_blank" onclick="trackClick(this);" href="http://prodwip.mobil.com/Canada-French-LCW/heavydutyoils_products_greases_mobil-centaur-moly-series.aspx"><img src="../Canada-English-LCW/Images/rsz_dummy_pack.png" height="60" width="60"></a>
-                            <h3><a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://prodwip.mobil.com/Canada-French-LCW/heavydutyoils_products_greases_mobil-centaur-moly-series.aspx">Mobil Centaur&trade; Moly Series<span></span></a>
+                        <div class="item clrfix"><a xmlns="" target="_blank" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyoils_products_greases_mobil-centaur-moly-series.aspx"><img src="../Canada-English-LCW/Images/rsz_dummy_pack.png" height="60" width="60"></a>
+                            <h3><a xmlns="" title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyoils_products_greases_mobil-centaur-moly-series.aspx">Mobil Centaur&trade; Moly Series<span></span></a>
                             </h3>
                             <div class="marginLeft75">&#160;</div>
                         </div>

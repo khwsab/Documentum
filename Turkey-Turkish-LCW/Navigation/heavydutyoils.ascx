@@ -74,9 +74,9 @@
                             <asp:panel visible="false" id="L1_1_L2_1_L3_6" Runat="server">
                                 <ul>
                                     <li class="endpoint">
-                                        <asp:HyperLink runat="server" id="aL1_1_L2_1_L3_6" NavigateUrl="/Turkey-Turkish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-mx-15w40.aspx">Mobil Delvac MX 15W-40</asp:HyperLink>
+                                        <asp:HyperLink runat="server" id="aL1_1_L2_1_L3_6" NavigateUrl="/Turkey-Turkish-LCW/heavydutyoils_products_engine-oils_mobil-delvac-mx-15w-40.aspx">Mobil Delvac MX 15W-40</asp:HyperLink>
                                     </li>
-                                </ul><% Response.Write((aL1_1_L2_1_L3_6.CssClass == "selected") ? "<script type=\"text/javascript\">addFallback(3,\"heavydutyoils_products_engine-oils_mobil-delvac-mx-15w40.aspx\")</script>" : ""); %></asp:panel>
+                                </ul><% Response.Write((aL1_1_L2_1_L3_6.CssClass == "selected") ? "<script type=\"text/javascript\">addFallback(3,\"heavydutyoils_products_engine-oils_mobil-delvac-mx-15w-40.aspx\")</script>" : ""); %></asp:panel>
                             <asp:panel visible="false" id="L1_1_L2_1_L3_7" Runat="server">
                                 <ul>
                                     <li class="endpoint">
