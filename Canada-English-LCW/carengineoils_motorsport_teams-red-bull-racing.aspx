@@ -170,7 +170,7 @@ Birth: 19 January 1989<br>
                                         </strong><strong>Website: </strong><strong><a title="" target="" onclick="trackClick(this);" href="https://www.danielricciardo.com" class="">danielricciardo.com</a></strong>
                                     </p>
                                     <p xmlns="">
-                                        <strong>Twitter : <a title="" target="" onclick="trackClick(this);" href="https://twitter.com/DaienlRicciardo" class="">@danielricciardo</a></strong>
+                                        <strong>Twitter : <a title="" target="" onclick="trackClick(this);" href="https://twitter.com/DanielRicciardo" class="">@danielricciardo</a></strong>
                                         <br>
                                         <br>
                                         <img src="../Canada-English-LCW/Images/120x80_daniel_ricciardo.jpg" height="80" width="120" alt="Daniel Ricciardo" title="Daniel Ricciardo" border="0" hspace="0"></p>

@@ -127,9 +127,9 @@
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/carengineoils_products_mobil-1_ep-10w30.aspx"><img width="60" title="Mobil 1 10W-30" src="../Canada-English-LCW/Images/teaser_60x60_mobil-1-ep-10W30.jpg" longdesc="" height="60" border="0" alt="Mobil 1 10W-30"></a> </div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/carengineoils_products_mobil-1_ep-10w-30.aspx"><img width="60" title="Mobil 1 10W-30" src="../Canada-English-LCW/Images/teaser_60x60_mobil-1-ep-10W30.jpg" longdesc="" height="60" border="0" alt="Mobil 1 10W-30"></a> </div>
                         <h2>
-                            <a title="" target="_self" href="/Canada-English-LCW/carengineoils_products_mobil-1_ep-10w30.aspx">Mobil 1&trade; EP 10W-30</a>
+                            <a title="" target="_self" href="/Canada-English-LCW/carengineoils_products_mobil-1_ep-10w-30.aspx">Mobil 1&trade; EP 10W-30</a>
                         </h2>
                         <div class="relatedContent">
                             <p xmlns="">&nbsp;&nbsp;</p>&#160;</div>

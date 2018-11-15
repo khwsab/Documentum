@@ -86,10 +86,10 @@
                         </div>
                         <div class="imageViewerWrap">
                             <span class="imgtitle">
-                                <a title="" target="_self" href="/Canada-English-LCW/carengineoils_products_mobil-1_ep-10w30.aspx">Mobil 1&trade; EP 5W-20</a>
+                                <a title="" target="_self" href="/Canada-English-LCW/carengineoils_products_mobil-1_ep-10w-30.aspx">Mobil 1&trade; EP 5W-20</a>
                             </span>
                             <div class="bigSingle"><div class="articleimgFloatLeft">
-                                <a target="_self" href="/Canada-English-LCW/carengineoils_products_mobil-1_ep-10w30.aspx">
+                                <a target="_self" href="/Canada-English-LCW/carengineoils_products_mobil-1_ep-10w-30.aspx">
                                     <img width="60" title="Mobil 1 EP 10W-30" src="/Canada-English-LCW/Images/teaser_60x60_mobil-1-ep-10W30.jpg" alt="Mobil 1 EP 10W-30"/>
                                 </a></div>
                                 <div class="bigimagecaption">Mobil 1 Extended Performance 5W-20 ia an advanced synthetic engine oils designed to keep your engines running like new and protect critical engine parts for 25,000 km between oil changes.&#160;</div>

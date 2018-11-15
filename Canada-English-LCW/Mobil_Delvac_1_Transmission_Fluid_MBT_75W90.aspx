@@ -96,7 +96,7 @@
                     <script type="text/javascript">quickEditForm('0915881d8207b3b6', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash">
-                            <img xmlns="" src="http://prodwip.mobil.com/Canada-English-LCW/Images/Delvac_1_Transmission_Fluid_MBT_75W-90.jpg" height="150" width="120"> </div>
+                            <img xmlns="" src="http://lubes.mobil.com/Canada-English-LCW/Images/Delvac_1_Transmission_Fluid_MBT_75W-90.jpg" height="150" width="120"> </div>
                         <h1>Mobil Delvac&trade; 1 Transmission Fluid MBT 75W-90</h1>
                         <p xmlns="">Mobil Delvac&trade; 1 Transmission Fluid MBT is an SAE 75W-90, fully synthetic manual transmission oil.&nbsp; Mobil Delvac 1 Transmission Fluid MBT 75W-90 has excellent viscosity/temperature characteristics.</p>
                     </div>
