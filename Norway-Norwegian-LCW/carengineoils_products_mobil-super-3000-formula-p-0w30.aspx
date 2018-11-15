@@ -99,9 +99,9 @@
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_blank" onclick="trackClick(this);" href="http://Norway-Norwegian-LCW/carengineoils_mobil-lubricant-selector.aspx"></a> </div>
+                            <a xmlns="" target="_blank" onclick="trackClick(this);" href="https://lubes.mobil.com/norway-norwegian-lcw/carengineoils_mobil-lubricant-selector.aspx"></a> </div>
                         <h2>
-                            <a title="This link will open a new window." target="_blank" href="http://Norway-Norwegian-LCW/carengineoils_mobil-lubricant-selector.aspx">Mobil&trade; oljevelger?</a>
+                            <a title="This link will open a new window." target="_blank" href="https://lubes.mobil.com/norway-norwegian-lcw/carengineoils_mobil-lubricant-selector.aspx">Mobil&trade; oljevelger?</a>
                         </h2>
                         <div class="relatedContent">
                             <p xmlns="">Sjekk hvilken Mobil-olje som er riktig for bilen din med vårt verktøy &rdquo;Mobil Oljevelger&rdquo;.</p>&#160;</div>
