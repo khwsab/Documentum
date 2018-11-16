@@ -105,7 +105,7 @@
 									<div class="content img75">
 										<h2></h2>
 										<p>
-											<a title="This link will open a new window." target="_new" href="https://www.mobilindustrial.com/ind/italian/products_mo_bil-pegasus-1005.aspx">
+											<a href="https://www.mobilindustrial.com/ind/italian/products_mobil-pegasus-1005.aspx">
 												Mobil Pegasus™ 1005
 											</a><br><br>
 											Aiutate il vostro motore a gas a raggiungere
@@ -122,7 +122,7 @@
 												<div class="buttonTR"></div>
 											</div>
 											<div class="buttonBR clrfix">
-												<div class="bttnpad"><a title="This link will open a new window." target="_new" href="https://www.mobilindustrial.com/ind/italian/products_mobil-pegasus-1005.aspx">Per
+												<div class="bttnpad"><a href="https://www.mobilindustrial.com/ind/italian/products_mobil-pegasus-1005.aspx">Per
 														saperne di più</a></div>
 											</div>
 										</div>
