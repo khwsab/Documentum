@@ -70,7 +70,7 @@
 					<div class="relatedimg150X68"><a href="products_mobil-shc.aspx"><img xmlns="" title="Mobil SHC" src="/IND/English/Images/150x68_sidecallouts_mobilSHC.jpg"
 							 longdesc="" border="0" alt="Mobil SHC">
 							<p xmlns=""><a title="" target="" href="products_mobil-shc.aspx"></a><br>
-								Mobil SHC&trade;<br><a target="" href="http://www.exxonmobil.com/pdssearch/Search.aspx?chooseLanguage=it">Schede
+								Mobil SHC&trade;<br><a target="" href="https://www.exxonmobil.com/pds?language=it">Schede
 									tecniche dei prodotti (PDS)</a><br><a title="This link will open a new window." target="_new" href="http://www.msds.exxonmobil.com/psims/psims.aspx">Schede
 									di igiene e sicurezza dei prodotti (MSDS)</a></p>
 						</a></div>
@@ -97,7 +97,7 @@
 				<p xmlns=""><span style=" font-size: x-large;"><b>industriale</b></span></p>
 				<p xmlns=""><b><span style=" font-size: large;">Trovate i lubrificanti Mobil&trade; adatti alle vostre esigenze</span></b></p>
 				<p xmlns="">Se il prodotto che state cercando non è presente nel seguente elenco, vi invitiamo a consultare <a
-					 target="" href="http://www.exxonmobil.com/pdssearch/search.aspx?chooseLanguage=it">le schede tecniche prodotti
+					 target="" href="https://www.exxonmobil.com/pds?language=it">le schede tecniche prodotti
 						(PDS)</a> e <a title="This link will open a new window." target="_new" href="http://www.msds.exxonmobil.com/IntApps/psims/psims.aspx">me
 						schede di igiene e sicurezza (MSDS)</a> e disponibili on line.</p>
 				<p xmlns="">Per avere informazioni sulle applicazioni e la disponibilità dei prodotti, potete contattare un

@@ -86,7 +86,7 @@
 							<li><a title="This link will open a new window." target="_new" href="/Apps/ILS/default_EN.aspx">selettore
 									prodotti Looble<sup>SM</sup></a> (EN)</li>
 							<li><a title="" href="contactus_technical-help-desks.aspx">help desk tecnico</a></li>
-							<li><a href="http://www.exxonmobil.com/pdssearch/search.aspx?chooseLanguage=it">schede tecniche dei prodotti
+							<li><a href="https://www.exxonmobil.com/pds?language=it">schede tecniche dei prodotti
 									(PDS)</a></li>
 							<li><a title="This link will open a new window." target="_new" href="http://www.msds.exxonmobil.com/psims/psims.aspx">schede
 									di igiene e sicurezza dei prodotti (MSDS)</a></li>
