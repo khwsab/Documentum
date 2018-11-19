@@ -5,13 +5,13 @@
 
 <%@ Register Src="Navigation/carengineoils.ascx" TagName="Navigation" TagPrefix="xom" %><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl" lang="nl">
     <head><meta http-equiv="X-UA-Compatible" content="IE=8">
-        <title>Mobil&trade; en Benelux | Motoroliï¿½n | Producten | Mobil 1&trade; ESP 5W-30</title>
-        <meta name="keywords" content="ESP 5W-30, motor olie, motor oliï¿½n, smeermiddel mobil 1 esp,&nbsp; motoroliï¿½n, synthetisch, syntetisch, synthetische stoffen, smeermiddelen, smering, smeer, olie, oliï¿½n, vet, vetten, consistentvet, mobil, exxonmobil, exxon, Mobil1, Mobil 1, BP, Shell, motorsport, F1, 1, Lewis Hamilton, McLaren, castrol"/>
+        <title>Mobil&trade; en Benelux | Motoroliën | Producten | Mobil 1&trade; ESP 5W-30</title>
+        <meta name="keywords" content="ESP 5W-30, motor olie, motor oliën, smeermiddel mobil 1 esp,&nbsp; motoroliën, synthetisch, syntetisch, synthetische stoffen, smeermiddelen, smering, smeer, olie, oliën, vet, vetten, consistentvet, mobil, exxonmobil, exxon, Mobil1, Mobil 1, BP, Shell, motorsport, F1, 1, Lewis Hamilton, McLaren, castrol"/>
         <meta name="description" content="&nbsp;Meer informatie over ESP 5W-30"/>
         <meta name="date" content="2011-09-01"/>
         <meta name="language" content="nl"/>
         <meta http-equiv="Content-Language" content="nl"/>
-        <meta name="WT.ti" content="Mobil&trade; en Benelux | Motoroliï¿½n | Producten | Mobil 1&trade; ESP 5W-30"/>
+        <meta name="WT.ti" content="Mobil&trade; en Benelux | Motoroliën | Producten | Mobil 1&trade; ESP 5W-30"/>
         <meta name="WT.cg_n" content="PVL;ProductDetail"/>
         <meta name="WT.cg_s" content="Mobil 1"/>
         <meta name="WT.si_n" content="confirmation"/>
@@ -102,7 +102,7 @@
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="http://essofuelfinder.com"><img src="../Shared-Images-LCW/teaser_90x90_esso-station_eame.png" height="60" width="60" alt="Esso stations" title="Esso stations" align="middle" border="0" hspace="0"></a>ï¿½</div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="http://essofuelfinder.com"><img src="../Shared-Images-LCW/teaser_90x90_esso-station_eame.png" height="60" width="60" alt="Esso stations" title="Esso stations" align="middle" border="0" hspace="0"></a> </div>
                         <h2>
                             <a title="" target="_self" href="http://essofuelfinder.com">Esso&trade; stations</a>
                         </h2>
@@ -111,16 +111,16 @@
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Benelux-Dutch-LCW/buy.aspx"><img width="60" title="vind een distributeur" src="../Benelux-Dutch-LCW/Images/teaser_60x60_map_bnl.png" longdesc="" height="60" border="0" alt="vind een distributeur"></a>ï¿½</div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Benelux-Dutch-LCW/buy.aspx"><img width="60" title="vind een distributeur" src="../Benelux-Dutch-LCW/Images/teaser_60x60_map_bnl.png" longdesc="" height="60" border="0" alt="vind een distributeur"></a> </div>
                         <h2>
                             <a title="" target="_self" href="/Benelux-Dutch-LCW/buy.aspx">vind een distributeur</a>
                         </h2>
                         <div class="relatedContent">
-                            <p xmlns="">Koop Mobil 1&trade; ESP Formula 5W-30 bij een van de Strategische Distributeurs</p>&#160;</div>
+                            <p xmlns="">Koop Mobil 1&trade; ESP 5W-30 bij een van de Strategische Distributeurs</p>&#160;</div>
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Benelux-Dutch-LCW/carengineoils_which-oil.aspx"><img width="60" title="welke olie?" src="../Shared-Images-LCW/teaser_60x60_mobil-1-selector_eame.jpg" longdesc="" height="60" border="0" alt="welke olie?"></a>ï¿½</div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Benelux-Dutch-LCW/carengineoils_which-oil.aspx"><img width="60" title="welke olie?" src="../Shared-Images-LCW/teaser_60x60_mobil-1-selector_eame.jpg" longdesc="" height="60" border="0" alt="welke olie?"></a> </div>
                         <h2>
                             <a title="" target="_self" href="/Benelux-Dutch-LCW/carengineoils_which-oil.aspx">welke olie?</a>
                         </h2>
@@ -132,9 +132,9 @@
                     <script type="text/javascript">quickEditForm('0915881d8206f72f', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash">
-                            <img xmlns="" src="../Shared-Images-LCW/product_120x150_mobil-1-esp-5w30_eame.jpg" height="150" width="120" alt="Mobil 1 ESP 5W-30" title="Mobil 1 ESP 5W-30" border="0" hspace="0">ï¿½</div>
+                            <img xmlns="" src="../Shared-Images-LCW/product_120x150_mobil-1-esp-5w30_eame.jpg" height="150" width="120" alt="Mobil 1 ESP 5W-30" title="Mobil 1 ESP 5W-30" border="0" hspace="0"> </div>
                         <h1>Mobil 1&trade; ESP 5W-30</h1>
-                        <p xmlns="">Mobil 1&trade; ESP 5W-30 is een synthetische motorolie met geavanceerde performance, ontworpen om een uitzonderlijk reinigingsvermogen, hoogstaande bescherming tegen slijtage en uitstekende algemene prestaties te bieden. Mobil 1 ESP 5W-30 is vakkundig geformuleerd om de efficiï¿½ntie van emissiereductiesystemen te behouden en de levensduur te helpen verlengen, en dit zowel in diesel- en benzinemotor aangedreven auto's. Mobil 1 ESP 5W-30 overtreft de eisen van talrijke toonaangevende auto- en industrie fabrikantennormen die van toepassing zijn op nieuwere, moderne personenwagens met diesel- en benzinemotoren.</p>
+                        <p xmlns="">Mobil 1&trade; ESP 5W-30 is een synthetische motorolie met geavanceerde performance, ontworpen om een uitzonderlijk reinigingsvermogen, hoogstaande bescherming tegen slijtage en uitstekende algemene prestaties te bieden. Mobil 1 ESP 5W-30 is vakkundig geformuleerd om de efficiëntie van emissiereductiesystemen te behouden en de levensduur te helpen verlengen, en dit zowel in diesel- en benzinemotor aangedreven auto's. Mobil 1 ESP 5W-30 overtreft de eisen van talrijke toonaangevende auto- en industrie fabrikantennormen die van toepassing zijn op nieuwere, moderne personenwagens met diesel- en benzinemotoren.</p>
                     </div>
                     <table style="width: 454px   " id="tblTabs" cellspacing="0px" cellpadding="0" border="0">
                         <tr id="tabNav">
@@ -169,7 +169,7 @@
                                         <table width="100%" summary="" class="standard" cellspacing="0" border="0">
                                             <thead>
                                                 <tr>
-                                                    <th width="" scope="col" height="" class="standard">Eigenschappen</th><th width="" scope="col" height="" class="standard">Voordelen en potentiï¿½le besparingen</th>
+                                                    <th width="" scope="col" height="" class="standard">Eigenschappen</th><th width="" scope="col" height="" class="standard">Voordelen en potentiële besparingen</th>
                                                 </tr>
                                             </thead><tbody><tr>
                                                 <td width="" height="" class="standard">Laag asgehalte</td><td width="" height="" class="standard">Helpt de afzetting te verminderen van deeltjes in de roetdeeltjesfilters voor dieselmotoren</td>
@@ -198,7 +198,7 @@
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Toepassingen Content">
                                     <p xmlns="">Mobil 1 ESP 5W-30 wordt aanbevolen voor alle types moderne automotoren, vooral benzine- en dieselmotoren met hoge prestaties in de laatste nieuwe personenwagens, SUV's en lichte bestelwagens.</p>
                                     <ul xmlns="">
-                                        <li>Mobil 1 ESP 5W-30 is bijzonder geschikt voor extreme omstandigheden waar conventionele oliï¿½n vaak niet kunnen presteren.</li>
+                                        <li>Mobil 1 ESP 5W-30 is bijzonder geschikt voor extreme omstandigheden waar conventionele oliën vaak niet kunnen presteren.</li>
                                         <li>Mobil 1 ESP 5W-30 is niet aanbevolen voor tweetakt- of luchtvaartmotoren, tenzij specifiek goedgekeurd door de fabrikant.</li>
                                     </ul>
                                 </div>
@@ -242,16 +242,16 @@ Volkswagen (Diesel) 505 00 / 506 00</p>
                                             <td width="" height="" class="standard">Asgetal, gew %, ASTM D 874</td><td width="" height="" class="standard">0,8</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">HTHS viscositeit, mPas @ 150ï¿½C, ASTM D 4683</td><td width="" height="" class="standard">3,5</td>
+                                            <td width="" height="" class="standard">HTHS viscositeit, mPas @ 150°C, ASTM D 4683</td><td width="" height="" class="standard">3,5</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Stolpunt, ï¿½C, ASTM D 97</td><td width="" height="" class="standard">-48</td>
+                                            <td width="" height="" class="standard">Stolpunt, °C, ASTM D 97</td><td width="" height="" class="standard">-48</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Vlampunt, ï¿½C, ASTM D 92</td><td width="" height="" class="standard">239</td>
+                                            <td width="" height="" class="standard">Vlampunt, °C, ASTM D 92</td><td width="" height="" class="standard">239</td>
                                         </tr>
                                         <tr>
-                                            <td width="" height="" class="standard">Dichtheid @ 15ï¿½C, kg/l, ASTM D 4052</td><td width="" height="" class="standard">0,8458</td>
+                                            <td width="" height="" class="standard">Dichtheid @ 15°C, kg/l, ASTM D 4052</td><td width="" height="" class="standard">0,8458</td>
                                         </tr></tbody></table>
                                 </div>
                             </td>
@@ -263,7 +263,7 @@ Volkswagen (Diesel) 505 00 / 506 00</p>
                             <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerLeft">
                                 <img src="/Images/Tabs/box_LeftLower.png" alt=""/>
                             </td>
-                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle">ï¿½</td>
+                            <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/box_Lower.png'); background-repeat: repeat-x;" id="tabsLowerMiddle"> </td>
                             <td valign="top" style="width: 10px; height: 10px;" id="tabsLowerRight">
                                 <img src="/Images/Tabs/box_RightLower.png" alt=""/>
                             </td>
