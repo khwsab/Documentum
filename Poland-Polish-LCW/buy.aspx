@@ -72,7 +72,7 @@
                     </div><!-- googleon: all -->
                     <div id="mainFeature">
                         <h1>Gdzie kupi&#263;</h1>
-                        <p xmlns="">Dzi&#281;kujemy za zainteresowanie &#347;rodkami smarnymi Mobil&trade;. Wybierz najdogodniejsz&#261; opcj&#281; zakupu. Je&#347;li nie znajdziesz tego, czego szukasz, <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/contactus_contact.aspx?CountryCode=PL&amp;Language=Polish" class="">skontaktuj si&#281; z nami</a>, a do&#322;o&#380;ymy wszelkich stara&#324;, aby pomóc.</p>
+                        <p xmlns="">Dzi&#281;kujemy za zainteresowanie &#347;rodkami smarnymi Mobil&trade;. Wybierz najdogodniejsz&#261; opcj&#281; zakupu. Je&#347;li nie znajdziesz tego, czego szukasz, <a title="" target="" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=pl-PL" class="">skontaktuj si&#281; z nami</a>, a do&#322;o&#380;ymy wszelkich stara&#324;, aby pomóc.</p>
                         <p xmlns="">
                             <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/login.aspx" class="">Zaloguj si&#281;</a>, je&#347;li jeste&#347; zarejestrowanym partnerem.</p> </div>
             <div id="subfeatureCallouts">
@@ -118,7 +118,7 @@ z najbli&#380;szym dystrybutorem firmy ExxonMobil. Aby dowiedzie&#263; si&#281; 
                                 <p>Zarejestrowani klienci nabywaj&#261;cy &#347;rodki smarne mog&#261; korzysta&#263;&nbsp;<br>
 z naszego internetowego systemu zamawiania eOM, aby szybciej&nbsp;<br>
 i pro&#347;ciej przeprowadza&#263; swoje transakcje&nbsp;<br>
-z ExxonMobil. We wszystkie dni tygodnia, przez ca&#322;&#261; dob&#281; mo&#380;na zamawia&#263; &#347;rodki smarne i zarz&#261;dza&#263; swoimi kontami. eOM pozwala &#322;atwo uzyska&#263; informacje w czasie rzeczywistym. <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/contactus_contact.aspx?CountryCode=PL&amp;Language=Polish" class="">Skontaktuj si&#281;&nbsp;
+z ExxonMobil. We wszystkie dni tygodnia, przez ca&#322;&#261; dob&#281; mo&#380;na zamawia&#263; &#347;rodki smarne i zarz&#261;dza&#263; swoimi kontami. eOM pozwala &#322;atwo uzyska&#263; informacje w czasie rzeczywistym. <a title="" target="" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=pl-PL" class="">Skontaktuj si&#281;&nbsp;
 z nami</a>, aby dowiedzie&#263; si&#281; wi&#281;cej lub zarejestrowa&#263; si&#281;.</p>
                             </div>
                         </div>

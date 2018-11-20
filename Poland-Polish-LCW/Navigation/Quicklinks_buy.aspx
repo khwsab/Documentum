@@ -18,7 +18,7 @@
             <a title="" target="" onclick="trackClick(this);" href="http://www.mobil1.pl" class="">Mobil 1&trade;</a>
         </li>
         <li>
-            <a title="" target="_self" onclick="trackClick(this);" href="/Poland-Polish-LCW/contactus_contact.aspx?CountryCode=PL&amp;Language=Polish" class="">kontakt</a>
+            <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=pl-PL" class="">kontakt</a>
         </li>
     </ul>
 </div>

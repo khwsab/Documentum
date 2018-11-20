@@ -124,12 +124,12 @@ Kliknij, aby uzyska&#263; dost&#281;p do <a title="" target="" onclick="trackCli
                         <div class="subfeature csingle cright">
                             <div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="" target="_self" onclick="trackClick(this);" href="../Poland-Polish-LCW/contactus_contact.aspx?CountryCode=PL&amp;Language=Polish">chcesz si&#281; zarejestrowa&#263;?<span></span></a>
+                                    <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=pl-PL">chcesz si&#281; zarejestrowa&#263;?<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="../Poland-Polish-LCW/contactus_contact.aspx?CountryCode=PL&amp;Language=Polish" title="chcesz si&#281; zarejestrowa&#263;?" target="_self" onclick="trackClick(this);"><img title="Chcesz si&#281; zarejestrowa&#263;?" src="../Shared-Images-LCW/teaser_60x60_customer-support_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="Chcesz si&#281; zarejestrowa&#263;?"></a></div>
-                                <p>Nie jeste&#347; jeszcze zarejestrowanym u&#380;ytkownikiem? Tracisz du&#380;o wa&#380;nych informacji! Popro&#347; <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/contactus_contact.aspx?CountryCode=PL&amp;Language=Polish" class="">osob&#281; odpowiedzialn&#261; za kontakty</a>, aby jeszcze dzisiaj dokona&#322;a rejestracji.</p>
+                                <div class="img60 left"><a href="http://www.mobil.com/contact-us?lang=pl-PL" title="chcesz si&#281; zarejestrowa&#263;?" target="_self" onclick="trackClick(this);"><img title="Chcesz si&#281; zarejestrowa&#263;?" src="../Shared-Images-LCW/teaser_60x60_customer-support_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="Chcesz si&#281; zarejestrowa&#263;?"></a></div>
+                                <p>Nie jeste&#347; jeszcze zarejestrowanym u&#380;ytkownikiem? Tracisz du&#380;o wa&#380;nych informacji! Popro&#347; <a title="" target="" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=pl-PL" class="">osob&#281; odpowiedzialn&#261; za kontakty</a>, aby jeszcze dzisiaj dokona&#322;a rejestracji.</p>
                             </div>
                         </div>
                     </div>

@@ -27,7 +27,7 @@
             <a target="" onclick="trackClick(this);" href="/Canada-English-LCW/carengineoils_products_mobil-1.aspx">Mobil 1 </a>
         </li>
         <li>
-            <a target="" onclick="trackClick(this);" href="http://prodwip.mobil.com/Canada-English-LCW/carengineoils_products_mobil-1.aspx">Mobil Super&trade;</a>
+            <a target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-English-LCW/carengineoils_products_mobil-1.aspx">Mobil Super&trade;</a>
         </li>
         <li>
             <a target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-English-LCW/heavydutyengineoils_products.aspx">Mobil Delvac&trade;</a>

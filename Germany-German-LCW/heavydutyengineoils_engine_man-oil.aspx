@@ -131,7 +131,7 @@ Lkw, Schwerlasttransporter und andere Nutzfahrzeuge von MAN können von Mobil Del
                         </p>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="http://prodwip.mobil.com/Germany-German-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-ultra-5w30.aspx" class="">Mobil Delvac&trade; XHP Ultra 5W-30</a> ist ein Dieselmotorenöl mit besonders hoher Leistung und Freigabe MAN M 3377, das modernen Hochleistungs-Dieselmotoren in anspruchsvollen Anwendungen auf der Straße einen hervorragenden Schutz und Kraftstoffeinsparungen bietet.</p>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Germany-German-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-xhp-ultra-5w30.aspx" class="">Mobil Delvac&trade; XHP Ultra 5W-30</a> ist ein Dieselmotorenöl mit besonders hoher Leistung und Freigabe MAN M 3377, das modernen Hochleistungs-Dieselmotoren in anspruchsvollen Anwendungen auf der Straße einen hervorragenden Schutz und Kraftstoffeinsparungen bietet.</p>
 
                         <p xmlns="">Verwenden Sie unseren Öl-Wegweiser <a title="" target="" onclick="trackClick(this);" href="/Germany-German-LCW/heavydutyengineoils_which-oil.aspx" class="">&bdquo;Welches Öl&ldquo;</a>, um herauszufinden, welches Mobil Delvac Produkt für Ihr MAN-Nutzfahrzeug das richtige ist.</p>
 

@@ -98,9 +98,9 @@
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_blank" onclick="trackClick(this);" href="http://Norway-Norwegian-LCW/carengineoils_mobil-lubricant-selector.aspx"><img src="../Norway-Norwegian-LCW/Images/teaser_60x60_which-oil_nord.jpg" height="60" width="60" alt="Mobil Oljevelger for bilen din" title="Mobil Oljevelger for bilen din" align="left" border="0" hspace="0" class="imgFloatLeft"></a> </div>
+                            <a xmlns="" target="_blank" onclick="trackClick(this);" href="https://lubes.mobil.com/norway-norwegian-lcw/carengineoils_mobil-lubricant-selector.aspx"><img src="../Norway-Norwegian-LCW/Images/teaser_60x60_which-oil_nord.jpg" height="60" width="60" alt="Mobil Oljevelger for bilen din" title="Mobil Oljevelger for bilen din" align="left" border="0" hspace="0" class="imgFloatLeft"></a> </div>
                         <h2>
-                            <a title="This link will open a new window." target="_blank" href="http://Norway-Norwegian-LCW/carengineoils_mobil-lubricant-selector.aspx">Mobil&trade; oljevelger?</a>
+                            <a title="This link will open a new window." target="_blank" href="https://lubes.mobil.com/norway-norwegian-lcw/carengineoils_mobil-lubricant-selector.aspx">Mobil&trade; oljevelger?</a>
                         </h2>
                         <div class="relatedContent">
                             <p xmlns="">Sjekk hvilken Mobil-olje som er riktig for bilen din med vårt verktøy &rdquo;Mobil Oljevelger&rdquo;.</p>&#160;</div>

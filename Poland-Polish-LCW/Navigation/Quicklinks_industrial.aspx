@@ -24,7 +24,7 @@
             <a target="_blank" onclick="trackClick(this);" href="http://www.msds.exxonmobil.com/psims/psims.aspx?language=PL&amp;brand=XOM&amp;lstext=Polski&amp;languageselectedvalue=11">karty charakterystyki bezpiecze&#324;stwa (MSDS)</a>
         </li>
         <li>
-            <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/contactus_contact.aspx?CountryCode=PL&amp;Language=Polish" class="">kontakt</a>
+            <a title="" target="" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=pl-PL" class="">kontakt</a>
         </li>
     </ul>
 </div>
