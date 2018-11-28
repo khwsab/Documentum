@@ -209,7 +209,7 @@
 					</td>
 				</tr>
 			</table>
-		</div><a href="/IND/Turkish/default.aspx"><img title="" src="../Images/headerlogo_86x30_mobil-logo_gbl.jpg" longdesc=""
+		</div><a href="/IND/Turkish/default.aspx"><img title="" src="Images/headerlogo_86x30_mobil-logo_gbl.jpg" longdesc=""
 			 id="logo" border="0" alt="Mobil Industrial Lubricants"></a>
 		<div style="width:200px; visibility: Visible;height:1.4em;" id="search">
 			<form onSubmit="javascript: return CheckInput()" name="frmSimpleSearch" method="get" action="./Search.aspx" style="display:none;"><label
@@ -315,7 +315,7 @@
 					</tr>
 				</table>
 			</asp:panel>
-		</div><a href="/IND/Turkish/default.aspx"><img title="" src="../Images/headerlogo_86x30_mobil-logo_gbl.jpg" longdesc=""
+		</div><a href="/IND/Turkish/default.aspx"><img title="" src="Images/headerlogo_86x30_mobil-logo_gbl.jpg" longdesc=""
 			 id="logo" border="0" alt="Mobil Industrial Lubricants"></a>
 		<div style="width:200px; visibility: Visible;height:1.4em;" id="search">
 			<form onSubmit="javascript: return CheckInput()" name="frmSimpleSearch" method="get" action="./Search.aspx" style="display:none;"><input
