@@ -204,7 +204,7 @@ HeaderText="contattaci";
 								</tr>
 							</table>
 						</div>
-						<a href="/ind/italian/default.aspx"><img title="" src="/IND/English/Images/153x25_header_mobil_il.gif" longdesc="" id="logo" border="0" alt="Mobil Industrial Lubricants"></a>
+						<a href="/ind/italian/default.aspx"><img title="" src="../Images/headerlogo_86x30_mobil-logo_gbl.jpg" longdesc="" id="logo" border="0" alt="Mobil"></a>
 						<div style="width:200px; visibility: Visible; height:1.4em;" id="search">
 							<form onSubmit="javascript: return CheckInput()" name="frmSimpleSearch" method="get" action="./Search.aspx" style="display: none;">
 								<label for="searchTerms">search terms</label>
@@ -308,7 +308,7 @@ HeaderText="contattaci";
 												</tr>
 											</table>
 										</asp:panel>
-									</div><a href="/ind/italian/default.aspx"><img title="" src="/IND/English/Images/153x25_header_mobil_il.gif" longdesc="" id="logo" border="0" alt="Mobil Industrial Lubricants"></a>
+									</div><a href="/ind/italian/default.aspx"><img title="" src="../Images/headerlogo_86x30_mobil-logo_gbl.jpg" longdesc="" id="logo" border="0" alt="Mobil Industrial Lubricants"></a>
 									
 									<div style="width:200px; visibility: Visible; height: 1.4em;" id="search">
 										<form onSubmit="javascript: return CheckInput()" name="frmSimpleSearch" method="get" action="./Search.aspx" style="display:none;">

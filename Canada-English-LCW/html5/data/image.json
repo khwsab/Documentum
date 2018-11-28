@@ -1,9 +1,8 @@
 {
-
-    "slider": [{     
+    "slider": [{
         "slide": "slide1",
-        "link": "http://lubes.mobil.ca/Canada-English-LCW/Save_Fuel-With-Mobil-1-Oil-Change.aspx",
-        "img": "html5/images/English-NIP14-Banner.JPG",
+        "link": "https://lubes.mobil.com/Canada-English-LCW/YEE.aspx",
+        "img": "html5/images/yee_banner_617x275_en.jpg",
         "main": "",
         "title": "",
         "subtitle": "",
@@ -12,5 +11,3 @@
         "selector": "selector1"
     }]
 }
-
-

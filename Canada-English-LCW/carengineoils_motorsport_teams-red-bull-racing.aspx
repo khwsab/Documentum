@@ -118,8 +118,6 @@
 
                         <p xmlns="">Our dedicated Mobil 1&trade; engineers strive to protect Aston Martin Red Bull Racing&rsquo;s engine against the high temperatures reached at maximum performance. What we learn on the track is applied when developing Mobil 1&trade; motor oils that protect the engine in your car.</p>
 
-                        <p xmlns="">Mobil 1&trade; is Aston Martin Red Bull Racing&rsquo;s official lubricant partner. We supply the Formula One® team with Mobil 1&trade; racing oils while providing world-class engineering support throughout the race season.</p>
-
                         <p xmlns="">
                             <a title="" target="" onclick="trackClick(this);" href="/Canada-English-LCW/Flash/amrbr_boxer_en.mp4" class=""><img src="../Canada-French-LCW/Images/boxersdoc.png" height="201" width="440" alt="RBR" title="RBR" border="0" hspace="0"></a>
                         </p>
@@ -149,7 +147,7 @@
                             </td>
                             <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/boxNoFade_Upper.png'); background-repeat: repeat-x; background-color: #ffffff;" class="midBorder">
                                 <div style="width:434px; white-space:normal; padding-top:10px;display:block " class="divTabContent" id="The drivers Content">
-                                    <p xmlns="">Daniel Ricciardo and Max Verstappen know that Mobil 1&trade; lubricants help to reduce friction and wear in all the moving parts of their cars. What does this mean to them? More power in their hands and increased engine reliability on the track.</p>
+                                    <p xmlns="">Max Verstappen knows that Mobil 1&trade; lubricants help to reduce friction and wear in all the moving parts of his car. What does this mean to him? More power in his hands and increased engine reliability on the track.</p>
                                     <p xmlns="">
                                         <strong>Max Verstappen<br>
 Birth: 30 September 1997<br>
@@ -164,18 +162,6 @@ Birth: 30 September 1997<br>
                                     <p xmlns="">Max Verstappen joined Aston Martin Red Bull Racing in 2016 after a ballistic ascent through the ranks of motorsport. From his first drive of a kart at the tender age of four and-a-half, Max learnt his trade well and, in his early teens, enjoyed a stellar career in regional and international karting, frequently punching well above his weight against more experienced rivals.</p>
                                     <p xmlns="">In his first eight races with Aston Martin Red Bull he achieved six top-five finishes, including four podiums.<br>
 He is the youngest driver to lead a lap during a Formula 1&trade; Grand Prix, the youngest driver to set the fastest lap during a Formula 1 Grand Prix and the youngest driver to win a Formula 1 Grand Prix.</p>
-                                    <p xmlns="">
-                                        <strong>Daniel Ricciardo<br>
-Birth: 19 January 1989<br>
-                                        </strong><strong>Website: </strong><strong><a title="" target="" onclick="trackClick(this);" href="https://www.danielricciardo.com" class="">danielricciardo.com</a></strong>
-                                    </p>
-                                    <p xmlns="">
-                                        <strong>Twitter : <a title="" target="" onclick="trackClick(this);" href="https://twitter.com/DanielRicciardo" class="">@danielricciardo</a></strong>
-                                        <br>
-                                        <br>
-                                        <img src="../Canada-English-LCW/Images/120x80_daniel_ricciardo.jpg" height="80" width="120" alt="Daniel Ricciardo" title="Daniel Ricciardo" border="0" hspace="0"></p>
-                                    <p xmlns="">Since his debut 2014 season in the colours of Aston Martin Red Bull Racing, Daniel Ricciardo has broken into the ranks of grand prix winners, burnished his reputation as a mighty performer in qualifying and displayed a combination of strategic acumen and decisive overtaking skills that have propelled him to a string of impressive results.</p>
-                                    <p xmlns="">His three 2014 victories and five other podium finishes were enough to secure third place in the 2014 drivers&rsquo; championship. before an impressive victory in the 2016 Malaysian Grand Prix eventually helped him seal third in the drivers&rsquo; championship for the second time in three years.</p>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Race car Content">
                                     <p xmlns="">

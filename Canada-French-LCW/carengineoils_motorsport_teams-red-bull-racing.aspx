@@ -147,7 +147,7 @@
                             </td>
                             <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/boxNoFade_Upper.png'); background-repeat: repeat-x; background-color: #ffffff;" class="midBorder">
                                 <div style="width:434px; white-space:normal; padding-top:10px;display:block " class="divTabContent" id="Les pilotes Content">
-                                    <p xmlns="">Max Verstappen et Daniel Ricciardo savent que les lubrifiants Mobil 1&trade; permettent de limiter le frottement et l&rsquo;usure de toutes les pièces mobiles de leurs voitures. Qu&rsquo;est-ce que cela signifie, pour eux? Cela signifie plus de confiance dans leur voiture, davantage de puissance entre leurs mains et une meilleure fiabilité du moteur sur le circuit.&nbsp;</p>
+                                    <p xmlns="">Max Verstappen sait que les lubrifiants Mobil 1&trade; permettent de limiter le frottement et l&rsquo;usure de toutes les pi?ces mobiles de sa voiture. Qu&rsquo;est-ce que cela signifie, pour lui. Cela signifie plus de confiance dans sa voiture, davantage de puissance entre sa mains et une meilleure fiabilit? du moteur sur le circuit.</p>
                                     <p xmlns="">
                                         <strong>Max Verstappen<br>
 Date de naissance : 30 Septembre&nbsp;1997<br>
@@ -162,19 +162,6 @@ Date de naissance : 30 Septembre&nbsp;1997<br>
                                     <p xmlns="">Max a rejoint Aston Martin Red Bull Racing en 2016 après son ascension fulgurante dans les différents niveaux de la course automobile. Depuis ses premiers tours de circuit en karting à l&rsquo;âge de 4 ans et demi, Max n&rsquo;a cessé de progresser. Adolescent, il a connu une carrière extraordinaire dans le karting régional et international, en battant régulièrement des concurrents nettement plus expérimentés.</p>
                                     <p xmlns="">Au cours de ses 8 premières courses avec Aston Martin Red Bull, il a terminé 6 fois dans les 5 premiers, avec 4 podiums.<br>
 Il est le plus jeune pilote à mener un tour au cours d&rsquo;un Grand Prix de Formule 1&trade;, le plus jeune pilote à réaliser le meilleur tour en course au cours d&rsquo;un Grand Prix de Formule 1&trade; et le plus jeune pilote à rempoter un Grand Prix de Formule 1&trade;.</p>
-                                    <p xmlns="">
-                                        <strong>Daniel Ricciardo<br>
-Date de naissance : 19 janvier 1989<br>
-Site Internet&nbsp;: <a title="" target="" onclick="trackClick(this);" href="http://danielricciardo.com/" class="">danielricciardo.com</a></strong>
-                                    </p>
-                                    <p xmlns="">
-                                        <strong>Twitter : <a title="" target="" onclick="trackClick(this);" href="https://twitter.com/ricciardo" class="">@danielricciardo</a></strong>
-                                    </p>
-                                    <p xmlns="">
-                                        <br>
-                                        <img src="../Canada-English-LCW/Images/120x80_daniel_ricciardo.jpg" height="80" width="120" alt="Daniel Ricciardo" title="Daniel Ricciardo" align="left" border="0" hspace="0"></p>
-                                    <p xmlns="">Depuis sa première saison sous les couleurs d'Aston Martin Red Bull Racing en 2014, Daniel s&rsquo;est fait une place parmi les vainqueurs de Grand Prix, s&rsquo;est forgé une réputation d&rsquo;excellent compétiteur en qualifications, et a su afficher son sens de la stratégie et son art du dépassement de soi, lesquels lui ont valu une série de résultats impressionnants.</p>
-                                    <p xmlns="">Les 3 victoires en 2014 et ses 5 podiums ont suffi à lui assurer la 3e place du Championnat du monde des pilotes en 2014, avant que son incroyable victoire sur le Grand Prix de Malaisie 2016 ne lui permette de prendre place sur la 3e marche du podium du Championnat du monde des pilotes pour la seconde fois en 3 ans.</p>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Voiture de course Content">
                                     <p xmlns="">
@@ -223,7 +210,7 @@ Directeur technique</strong>
 
                                     <p xmlns="">Après avoir conduit Williams et McLaren aux plus hauts sommets avec plusieurs titres dans les années 1990, Adrian a rejoint Red Bull Racing en 2006 avec la même mission. Et il n&rsquo;a pas déçu les attentes.</p>
 
-                                    <p xmlns="">Lorsque la grande réforme des règles d&rsquo;aérodynamisme a été appliquée en 2009, les designers ont dû repartir de zéro. Adrian et son équipe ont sauté sur l&rsquo;occasion et ont remporté par la suite 4 championnats du monde des pilotes et 4 championnats du monde des constructeurs pour Red Bull Racing.</p>
+                                    <p xmlns="">Lorsque la grande réforme des règles d&rsquo;aérodynamisme a été appliquée en 2009, les designers ont dÿ repartir de zéro. Adrian et son équipe ont sauté sur l&rsquo;occasion et ont remporté par la suite 4 championnats du monde des pilotes et 4 championnats du monde des constructeurs pour Red Bull Racing.</p>
                                 </div>
                             </td>
                             <td valign="top" style="width: 10px; background-image:url('/Images/Tabs/box_Right.png'); background-repeat: repeat-y; background-color: #ffffff;" class="rightBorder">
