@@ -147,7 +147,7 @@
                             </td>
                             <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/boxNoFade_Upper.png'); background-repeat: repeat-x; background-color: #ffffff;" class="midBorder">
                                 <div style="width:434px; white-space:normal; padding-top:10px;display:block " class="divTabContent" id="Les pilotes Content">
-                                    <p xmlns="">Max Verstappen sait que les lubrifiants Mobil 1&trade; permettent de limiter le frottement et l&rsquo;usure de toutes les pi?ces mobiles de sa voiture. Qu&rsquo;est-ce que cela signifie, pour lui. Cela signifie plus de confiance dans sa voiture, davantage de puissance entre sa mains et une meilleure fiabilit? du moteur sur le circuit.</p>
+                                    <p xmlns="">Max Verstappen sait que les lubrifiants Mobil 1&trade; permettent de limiter le frottement et l&rsquo;usure de toutes les piéces mobiles de sa voiture. Qu&rsquo;est-ce que cela signifie, pour lui. Cela signifie plus de confiance dans sa voiture, davantage de puissance entre sa mains et une meilleure fiabilité du moteur sur le circuit.</p>
                                     <p xmlns="">
                                         <strong>Max Verstappen<br>
 Date de naissance : 30 Septembre&nbsp;1997<br>
