@@ -96,7 +96,7 @@
                     <script type="text/javascript">quickEditForm('0915881d8207d974', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash">
-                            <img xmlns="" src="../Shared-Images-LCW/product_120x150_mobil-super-3000-xe-5w30_eame.jpg" height="150" width="120" alt="Mobil 1 ESP 0W-30" title="Mobil 1 ESP 0W-30" align="left" border="0" hspace="0"> </div>
+                            <img xmlns="" src="../Italy-Italian-LCW/Images/fuel_economy-0w30.png" height="150" width="120" alt="Mobil 1 ESP 0W-30" title="Mobil 1 ESP 0W-30" align="left" border="0" hspace="0"> </div>
                         <h1>Mobil 1 Fuel Economy 0W-30</h1>
                         <p xmlns="">
                             <strong>Olio motore completamente sintetico all'avanguardia</strong>
