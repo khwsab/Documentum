@@ -200,7 +200,8 @@ ILSAC GF-5&nbsp; <br>
 Ford WSS-M2C947-A / B1</p>
 
                                     <p xmlns="">
-                                        <strong>Mobil 1 0W-20 is goedgekeurd door de volgende fabrikanten:&nbsp;&nbsp; </strong>General Motors Service Fill dexos1&trade; (licentienummer D1010GH015)</p>
+                                        <strong>Mobil 1 0W-20 is goedgekeurd door de volgende fabrikanten:&nbsp;&nbsp;</strong><br>
+                                        General Motors Service Fill dexos1&trade; (licentienummer D1010GH015)</p>
 
                                     <p xmlns="">
                                         <strong>Volgens ExxonMobil heeft Mobil 1 0W-20 Advanced Fuel Economy het volgende kwaliteitsniveau:&nbsp;&nbsp; <br>

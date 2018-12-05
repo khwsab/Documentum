@@ -98,7 +98,7 @@
                     <div id="topSec">
                         <div style="float:left" id="flash">
                             <img xmlns="" src="../Shared-Images-LCW/120x150_mobil-1_fs_0w40.jpg" height="150" width="120" alt="Mobil 1 FS 0W-40" title="Mobil 1 FS 0W-40" border="0" hspace="0"> </div>
-                        <h1><strong xmlns="">Mobil 1&trade; FS 0W40</strong>
+                        <h1><strong xmlns="">Mobil 1&trade; FS 0W-40</strong>
                         </h1>
                         <p xmlns="">Mobil 1&trade; is 's werelds toonaangevende merk voor synthetische motorolie die een ultieme prestatie en bescherming levert.</p>
 
@@ -117,7 +117,7 @@
                                             <a href="#" onclick="javascript:showTab('Toepassingen');">Toepassingen</a>
                                         </li>
                                         <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Specificaties">
-                                            <a href="#" onclick="javascript:showTab('Specificaties');">Specificaties</a>
+                                            <a href="#" onclick="javascript:showTab('Specificaties');">Specs</a>
                                         </li>
                                         <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Techn. Details">
                                             <a href="#" onclick="javascript:showTab('Techn. Details');">Techn. Details</a>
