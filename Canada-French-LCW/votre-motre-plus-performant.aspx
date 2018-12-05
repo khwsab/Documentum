@@ -88,7 +88,7 @@
                         <p xmlns="">
                             <strong>Redéfinir les limites</strong>
                             <br>
-16 000 kilomètres? Vous devez généralement changer d&rsquo;huile beaucoup plus vite. Vous avez l&rsquo;habitude d&rsquo;effectuer des changements d&rsquo;huile tous les 5 000 à 8 000 kilomètres; ce sont les limites. Cependant, les limites, les recommandations et les résultats ne sont pas les mêmes pour tous; ils peuvent être redéfinis.</p>
+25 000 kilomètres? Vous devez généralement changer d&rsquo;huile beaucoup plus vite. Vous avez l&rsquo;habitude d&rsquo;effectuer des changements d&rsquo;huile tous les 5 000 à 8 000 kilomètres; ce sont les limites. Cependant, les limites, les recommandations et les résultats ne sont pas les mêmes pour tous; ils peuvent être redéfinis.</p>
 
                         <p xmlns="">
                             <img src="../Canada-French-LCW/Images/yeefr2.jpg" height="86" width="464" alt="Mobil 1" title="Mobil 1" border="0" hspace="0"></p>
