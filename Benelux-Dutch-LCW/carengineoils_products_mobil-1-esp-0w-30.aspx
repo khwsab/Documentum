@@ -96,7 +96,7 @@
                     <script type="text/javascript">quickEditForm('0915881d82081e9a', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash">
-                            <img xmlns="" src="http://prodwip.mobil.com/Shared-Images-LCW/product_120x150_mobil-1-esp-0w30.png" height="150" width="120" alt="Mobil 1 ESP 0W-30" title="Mobil 1 ESP 0W-30" align="left" border="0" hspace="0"> </div>
+                            <img xmlns="" src="../Shared-Images-LCW/product_120x150_mobil-1-esp-0w30.png" height="150" width="120" alt="Mobil 1 ESP 0W-30" title="Mobil 1 ESP 0W-30" align="left" border="0" hspace="0"> </div>
                         <h1>Mobil 1 ESP 0W-30</h1>
                         <p xmlns="">Mobil 1&trade; ESP 0W-30 is een geavanceerde volledig synthetische motorolie ontworpen om een uitzonderlijk reinigingsvermogen, hoogstaande slijtagebescherming en uitstekende algemene prestaties te bieden. Mobil 1 ESP 0W-30 is vakkundig geformuleerd om de efficiëntie van emissiereductiesystemen te behouden en de levensduur te helpen verlengen in zowel diesel- als benzinemotor aangedreven voertuigen. Mobil 1 ESP 0W-30 voldoet aan of overtreft de eisen van talrijke toonaangevende auto- en industrie fabrikantennormen die van toepassing zijn op nieuwere, moderne personenwagens met diesel- en benzinemotoren.</p>
                     </div>

@@ -168,7 +168,7 @@
                                             <a href="#" onclick="javascript:showTab('Eigenschappen');">Eigenschappen</a>
                                         </li>
                                         <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Toepassingen2">
-                                            <a href="#" onclick="javascript:showTab('Toepassingen2');">Toepassingen2</a>
+                                            <a href="#" onclick="javascript:showTab('Toepassingen2');">Toepassingen</a>
                                         </li>
                                         <li onmouseover="if(this.className!='current')this.className='highlight'" onmouseout="if(this.className!='current')this.className=''" id="Specs">
                                             <a href="#" onclick="javascript:showTab('Specs');">Specs</a>

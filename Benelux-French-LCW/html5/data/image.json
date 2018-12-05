@@ -1,6 +1,6 @@
 {
 
-    "slider": [{   
+    "slider": [{
         "slide": "slide1",
         "link": "https://www.essoextras.com/Customer/default.aspx",
         "img": "html5/images/615x274_Esso-EE_Reminder_LCW_FR.jpg",
@@ -10,7 +10,7 @@
         "linkslide": "",
         "active": "active",
         "selector": "selector1"
-   }, {        
+    }, {
         "slide": "slide2",
         "link": "http://esso.be/zyliss",
         "img": "html5/images/615x274_esso_spring_promo_be_fr.jpg",
@@ -20,7 +20,7 @@
         "linkslide": "",
         "active": "active",
         "selector": "selector2"
-     }, {        
+    }, {
         "slide": "slide3",
         "link": "https://www.esso.be/fr/explore",
         "img": "html5/images/615x274_BE_FR_Esso_YBFE.jpg",
@@ -30,5 +30,15 @@
         "linkslide": "",
         "active": "active",
         "selector": "selector3"
+    }, {
+        "slide": "slide3",
+        "link": "https://www.essoextras.be/",
+        "img": "html5/images/Esso_EE_Q4_LCW_615x274_FR.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector4"
     }]
 }

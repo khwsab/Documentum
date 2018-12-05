@@ -96,7 +96,7 @@
                     <script type="text/javascript">quickEditForm('0915881d81ef3471', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash">
-                            <img xmlns="" src="../Shared-Images-LCW/120x150_ESP_x2_0w20.jpg" height="150" width="120" alt="ESP x2 0w20" title="ESP x2 0w20" border="0" hspace="0"> </div>
+                            <img xmlns="" src="../UK-English-LCW/Images/120x150_ESP_x2_0w20.png" height="150" width="120" alt="ESP x2 0w20" title="ESP x2 0w20" border="0" hspace="0"> </div>
                         <h1>Mobil 1&trade; ESP x2 0W-20</h1>
                         <p xmlns="">Mobil 1&trade;&nbsp;ESP x2 0W-20 is an advanced full synthetic engine oil specifically designed to provide outstanding engine cleanliness, wear protection, strong durability and advanced fuel economy* to keep your engine running like new.&nbsp; Mobil 1 ESP x2 0W-20 is our latest technology combining durability and protection with a low viscosity, low friction engine oil that was designed in cooperation with key European Original Equipment Manufacturers (OEMs). Mobil 1 ESP x2 0W-20 has been expertly engineered to help prolong the life and maintain the efficiency of emission systems in new emerging diesel and gasoline powered European vehicles that require SAE 0W-20 viscosity grades.</p>
 
