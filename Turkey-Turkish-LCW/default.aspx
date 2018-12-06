@@ -214,7 +214,7 @@ Mobil ya&#287;lar&#305;, günümüzün mü&#351;teri profilinin taleplerini kar&#351;
                             </li>
     
                             <li>
-                                <a title="" target="_blank" onclick="trackClick(this);" href="http://pds.exxonmobil.com/pdssearch/search.aspx" class="">Ürün bilgi formlar&#305;</a>
+                                <a title="" target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds/" class="">Ürün bilgi formlar&#305;</a>
                             </li>
 
                         </ul></div><div class="lowerSection"></div></div></div>
