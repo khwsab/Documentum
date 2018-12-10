@@ -129,7 +129,7 @@
                     <script type="text/javascript">quickEditForm('0915881d82077c67', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash">
-                            <img xmlns="" src="../Norway-Norwegian-LCW/Images/151x226_esp_5w30_de.png" height="170" width="85" alt="Mobil 1 ESP Formula 5W-30" title="Mobil 1 ESP Formula 5W-30" border="0" hspace="0"> </div>
+                            <img xmlns="" src="../Norway-Norwegian-LCW/Images/151x226_esp_5w30_de.png" alt="Mobil 1 ESP Formula 5W-30" title="Mobil 1 ESP Formula 5W-30" border="0" hspace="0"> </div>
                         <h1>Mobil 1&trade; ESP 5W-30</h1>
                         <p xmlns="">
                             <br>

@@ -132,7 +132,7 @@
                 <div id="mainContent_thin"><!-- googleoff: all -->
                     <script type="text/javascript">quickEditForm('0915881d8153f3f8', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
-                        <div style="float:left" id="flash"><img xmlns="" src="../Shared-Images-LCW/product_120x150_mobil-super-3000-0w30.png" height="150" width="120" alt="Mobil Super 3000 Formula P 0W-30" title="Mobil Super 3000 Formula P 0W-30" border="0" hspace="0"> </div>
+                        <div style="float:left" id="flash"><img xmlns="" src="../Shared-Images-LCW/product_120x150_mobil-super-3000-0w30.png" alt="Mobil Super 3000 Formula P 0W-30" title="Mobil Super 3000 Formula P 0W-30" border="0" hspace="0"> </div>
                         <h1>Mobil Super&trade; 3000 Formula P 0W-30</h1>
                         <p xmlns="">
                             <strong>Huile moteur haute performance</strong>
