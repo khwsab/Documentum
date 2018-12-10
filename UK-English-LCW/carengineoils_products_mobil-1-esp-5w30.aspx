@@ -155,7 +155,7 @@ from your nearest Esso Service Station</p>&#160;</div>
                     <script type="text/javascript">quickEditForm('0915881d82078907', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash">
-                            <img xmlns="" src="../UK-English-LCW/Images/151x226_esp_5w30_de.png" height="170" width="85" alt="Mobil 1 ESP Formula 5W-30" title="Mobil 1 ESP Formula 5W-30" border="0" hspace="0"> </div>
+                            <img xmlns="" src="../UK-English-LCW/Images/151x226_esp_5w30_de.png" alt="Mobil 1 ESP Formula 5W-30" title="Mobil 1 ESP Formula 5W-30" border="0" hspace="0"> </div>
                         <h1>Mobil 1&trade; ESP 5W-30</h1>
                         <p xmlns="">Mobil 1&trade; ESP 5W-30 is an advanced performance synthetic engine oil designed to help provide exceptional cleaning power, wear protection and overall performance. Mobil 1 ESP 5W-30 has been expertly engineered to help prolong the life and maintain the efficiency of emission systems in both diesel and gasoline powered automobiles. Mobil 1 ESP 5W-30 meets or exceeds the requirements of many leading industry and car manufacturers' standards required for newer modern diesel and gasoline powered passenger car engines.</p>
                     </div>
