@@ -128,7 +128,7 @@
                     <script type="text/javascript">quickEditForm('0915881d82078521', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash">
-                            <img xmlns="" src="../Italy-Italian-LCW/Images/151x226_esp_5w30_de.png" height="175" width="80" alt="Mobil 1 ESP Formula 5W-30" title="Mobil 1 ESP Formula 5W-30" border="0" hspace="0"> </div>
+                            <img xmlns="" src="../Italy-Italian-LCW/Images/151x226_esp_5w30_de.png" alt="Mobil 1 ESP Formula 5W-30" title="Mobil 1 ESP Formula 5W-30" border="0" hspace="0"> </div>
                         <h1>Mobil 1&trade; ESP 5W-30 - Sistema di Protezione Emissioni</h1>
                         <p xmlns="">Mobil 1 ESP 5W-30 è un olio motore sintetico ad elevate prestazioni sviluppato per contribuire ad ottenere un'eccezionale pulizia, protezione antiusura e prestazioni superiori. Mobil 1 ESP 5W-30 è stato sapientemente progettato per aiutare a prolungare la vita e mantenere l'efficienza degli impianti di emissione sia nelle macchine diesel che a benzina. Mobil 1 ESP 5W-30 SODDISFA o supera gli standard richiesti dalle principali industrie e costruttori di macchine per i motori diesel e benzina di nuova generazione.</p>
                     </div>
