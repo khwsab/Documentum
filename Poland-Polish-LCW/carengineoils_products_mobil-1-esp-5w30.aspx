@@ -126,7 +126,7 @@
                 <div id="mainContent_thin"><!-- googleoff: all -->
                     <script type="text/javascript">quickEditForm('0915881d82079519', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
-                        <div style="float:left" id="flash"><img xmlns="" src="../Poland-Polish-LCW/Images/151x226_esp_5w30_de.png" height="175" width="80" alt="Mobil 1 ESP Formula 5W-30" title="Mobil 1 ESP Formula 5W-30" border="0" hspace="0"> </div>
+                        <div style="float:left" id="flash"><img xmlns="" src="../Poland-Polish-LCW/Images/151x226_esp_5w30_de.png" alt="Mobil 1 ESP Formula 5W-30" title="Mobil 1 ESP Formula 5W-30" border="0" hspace="0"> </div>
                         <h1>Mobil 1&trade; ESP 5W-30</h1>
                         <p xmlns="">
                             <strong>Zaawansowany technologicznie, w pe&#322;ni syntetyczny olej silnikowy</strong>

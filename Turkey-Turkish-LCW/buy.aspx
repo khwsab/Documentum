@@ -72,7 +72,7 @@
                     <div id="mainFeature">
                         <p xmlns="">
                             <img src="../Turkey-Turkish-LCW/Images/article_150x150_map-tr.png" height="150" width="150" alt="Nereden Alabilirim" title="Nereden Alabilirim" align="left" border="0" hspace="0" class="imgFloatLeft"></p>
-                        <p xmlns="">Mobil&trade; ya&#287;lar&#305;na gösterdi&#287;iniz ilgiye te&#351;ekkür ederiz. Lütfen size en uygun sat&#305;n alma seçene&#287;ini belirleyin. Arad&#305;&#287;&#305;n&#305;z&#305; bulamazsan&#305;z <a title="" target="" onclick="trackClick(this);" href="/Turkey-Turkish-LCW/contactus_contact.aspx?CountryCode=TR&amp;Language=Turkish" class="">bize ula&#351;&#305;n</a>, size yard&#305;mc&#305; olmak için elimizden geleni yapal&#305;m.</p>
+                        <p xmlns="">Mobil&trade; ya&#287;lar&#305;na gösterdi&#287;iniz ilgiye te&#351;ekkür ederiz. Lütfen size en uygun sat&#305;n alma seçene&#287;ini belirleyin. Arad&#305;&#287;&#305;n&#305;z&#305; bulamazsan&#305;z <a title="" target="" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=tr-TR" class="">bize ula&#351;&#305;n</a>, size yard&#305;mc&#305; olmak için elimizden geleni yapal&#305;m.</p>
                         <p xmlns="">Önceden kay&#305;tl&#305; bir kanal orta&#287;&#305; iseniz <a title="" target="" onclick="trackClick(this);" href="/Turkey-Turkish-LCW/login.aspx" class="">oturum aç&#305;n</a>.</p> </div>
             <div id="subfeatureCallouts">
                     <div style="background-image:url(/Shared-Images-LCW/callout_224x135_map_gbl.jpg);" class="callout top">

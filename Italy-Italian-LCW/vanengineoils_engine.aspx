@@ -122,7 +122,7 @@
                             <div class="frame01BR clrfix">
                                 <div style="padding-right: 55px;" class="content">
                                     <h2>
-                                        <a xmlns="" title="" target="_self" onclick="trackClick(this);" href="../www.essofuelfinder.com/locator.php?lang=it_it">Localizzatore delle stazioni di servizio Esso<span></span></a>
+                                        <a xmlns="" title="" target="_self" onclick="trackClick(this);" href="http://www.essofuelfinder.com/locator.php?lang=it_it">Localizzatore delle stazioni di servizio Esso<span></span></a>
                                     </h2>
                                     <p xmlns="">Trovate la stazione di servizio Esso più vicina.</p>
                                 </div>

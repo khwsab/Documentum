@@ -90,7 +90,7 @@
                             </span>
                             <div class="bigSingle"><div class="articleimgFloatLeft">
                                 <a target="_self" href="/Canada-English-LCW/carengineoils_products_mobil-1_esp-formula-5w30.aspx">
-                                    <img width="60" title="Mobil 1 ESP 0W-30" src="http://prodwip.mobil.com/Canada-English-LCW/Images/60x60_mobil1-esp-5w30.png" alt="Mobil 1 ESP 0W-30"/>
+                                    <img width="60" title="Mobil 1 ESP 0W-30" src="http://lubes.mobil.com/Canada-English-LCW/Images/60x60_mobil1-esp-5w30.png" alt="Mobil 1 ESP 0W-30"/>
                                 </a></div>
                                 <div class="bigimagecaption">Mobil 1 ESP Formula 5W-30 is an advanced performance synthetic engine oil designed to help provide exceptional cleaning power, wear protection and overall performance.&#160;</div>
                             </div>

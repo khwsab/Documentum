@@ -214,7 +214,7 @@ Mobil ya&#287;lar&#305;, günümüzün mü&#351;teri profilinin taleplerini kar&#351;
                             </li>
     
                             <li>
-                                <a title="" target="_blank" onclick="trackClick(this);" href="http://pds.exxonmobil.com/pdssearch/search.aspx" class="">Ürün bilgi formlar&#305;</a>
+                                <a title="" target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds/" class="">Ürün bilgi formlar&#305;</a>
                             </li>
 
                         </ul></div><div class="lowerSection"></div></div></div>
@@ -265,7 +265,7 @@ Ye&#351;ilkoy, Istanbul</p>
                                     <div class="callbluepad">
                                         <div style="background-image: url(../Shared-Images-LCW/teaser_90x90_globe.png);" class="content img90">
                                             <h2>
-                                                <a title="" target="_self" onclick="trackClick(this);" href="../turkey-turkish-lcw/contactus_contact.aspx?CountryCode=TR&amp;Language=Turkish">Teknik destek servisi<span></span></a>
+                                                <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=tr-TR">Teknik destek servisi<span></span></a>
                                             </h2>
                                             <p>
                                                 <em>&#304;leti&#351;im formumuz arac&#305;l&#305;&#287;&#305;yla ya da a&#351;a&#287;&#305;daki numaradan bize ula&#351;abilirsiniz:</em>
@@ -279,7 +279,7 @@ Ye&#351;ilkoy, Istanbul</p>
                                                 </div>
                                                 <div class="buttonBR clrfix">
                                                     <div class="bttnpad">
-                                                        <a title="" target="_self" onclick="trackClick(this);" href="../turkey-turkish-lcw/contactus_contact.aspx?CountryCode=TR&amp;Language=Turkish">bize ula&#351;&#305;n<span></span></a>
+                                                        <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=tr-TR">bize ula&#351;&#305;n<span></span></a>
                                                     </div>
                                                 </div>
                                             </div>

@@ -121,9 +121,9 @@ mit dieser Freigabe</p>&#160;</div>
                     </div>
                     <div class="related">
                         <div style="float:left">
-                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Germany-German-LCW/carengineoils_products_mobil-1-esp-formula-5w30.aspx"><img width="60" title="Mobil 1 ESP Formula 5W-30" src="../Germany-German-LCW/Images/teaser_60x60_mobil-1-esp-formula-5w30.jpg" longdesc="" height="60" border="0" alt="Mobil 1 ESP Formula 5W-30"></a> </div>
+                            <a xmlns="" target="_self" onclick="trackClick(this);" href="../Germany-German-LCW/carengineoils_products_mobil-1-esp-5w30.aspx"><img width="60" title="Mobil 1 ESP Formula 5W-30" src="../Germany-German-LCW/Images/teaser_60x60_mobil-1-esp-formula-5w30.jpg" longdesc="" height="60" border="0" alt="Mobil 1 ESP Formula 5W-30"></a> </div>
                         <h2>
-                            <a title="" target="_self" href="/Germany-German-LCW/carengineoils_products_mobil-1-esp-formula-5w30.aspx">Mobil 1&trade; ESP Formula 5W-30</a>
+                            <a title="" target="_self" href="/Germany-German-LCW/carengineoils_products_mobil-1-esp-5w30.aspx">Mobil 1&trade; ESP Formula 5W-30</a>
                         </h2>
                         <div class="relatedContent">&#160;</div>
                     </div>

@@ -170,7 +170,7 @@ Etsi sopiva öljy raskaaseen ajoneuvoosi <a title="" target="" onclick="trackClic
                             </li>
     
                             <li>
-                                <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://prodwip.mobil.com/Finland-Finnish-LCW/Files/public_announcement_FL_2017.pdf">Yleisötiedote suuronnettomuuden varalta<img src="/Images/Icons/icon_pdf_whitespace.jpg" border="0" alt=""></a>
+                                <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://lubes.mobil.com/Finland-Finnish-LCW/Files/public_announcement_FL_2017.pdf">Yleisötiedote suuronnettomuuden varalta<img src="/Images/Icons/icon_pdf_whitespace.jpg" border="0" alt=""></a>
                             </li>
 
                         </ul></div><div class="lowerSection"></div></div></div>

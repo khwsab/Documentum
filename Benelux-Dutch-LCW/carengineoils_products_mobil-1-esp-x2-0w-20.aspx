@@ -96,7 +96,7 @@
                     <script type="text/javascript">quickEditForm('0915881d8208184c', '/Content',false,'../forms/LCWProductDetails','','825px','750px','Product Detail Overview','','pencil.gif','200px');</script><!-- googleon: all -->
                     <div id="topSec">
                         <div style="float:left" id="flash">
-                            <img xmlns="" src="../Shared-Images-LCW/product_90x90_mobil-pack_gbl.jpg" height="120" width="120" alt="Mobil Hydraulic 10W" title="Mobil Hydraulic 10W" border="0" hspace="0"> </div>
+                            <img xmlns="" src="html5/images/products_mobil-1-esp-x2-0w-20.png" height="120" width="120" alt="Mobil Hydraulic 10W" title="Mobil Hydraulic 10W" border="0" hspace="0"> </div>
                         <h1>Mobil 1 ESP&nbsp;x2 0W-20</h1>
                         <p xmlns="">Mobil 1&trade;&nbsp;ESP x2 0W-20 is een geavanceerde volledig synthetische motorolie specifiek ontwikkeld voor het bieden van een zeer schone motor, slijtagebescherming, sterke duurzaamheid en geavanceerde brandstofbesparing* om de motor als nieuw te laten lopen.&nbsp; Mobil 1 ESP x2 0W-20 is onze nieuwste technologie die duurzaamheid en bescherming combineert met een motorolie met lage viscositeit en lage wrijving die ontwikkeld is in samenwerkring met belangrijke Europese OEM's. Mobil 1 ESP x2 0W-20 is vakkundig geformuleerd om de efficiëntie van emissiereductiesystemen te behouden en de levensduur te helpen verlengen in opkomende diesel- en benzinemotor aangedreven Europese voertuigen die viscositeitsklasse SAE 0W-20 verlangen.<br>
 &nbsp;<br>

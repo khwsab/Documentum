@@ -1,6 +1,6 @@
 {
 
-    "slider": [{       
+    "slider": [{
         "slide": "slide1",
         "link": "https://www.essoextras.com/Customer/default.aspx",
         "img": "html5/images/615x274_Esso-EE_Reminder_LCW_NL.jpg",
@@ -10,7 +10,7 @@
         "linkslide": "",
         "active": "active",
         "selector": "selector1"
- }, {  
+    }, {
         "slide": "slide2",
         "link": "https://www.esso.nl/explore",
         "img": "html5/images/615x274_NL_DUTCH_Esso_YBFE.jpg",
@@ -20,7 +20,7 @@
         "linkslide": "",
         "active": "active",
         "selector": "selector2"
-     }, {  
+    }, {
         "slide": "slide3",
         "link": "https://www.esso.nl/stations",
         "img": "html5/images/615x274_esso-express-icecream.jpg",
@@ -30,7 +30,7 @@
         "linkslide": "",
         "active": "active",
         "selector": "selector3"
-     }, {        
+    }, {
         "slide": "slide4",
         "link": "http://www.mobil.nl/Benelux-Dutch-LCW/carengineoils_which-oil.aspx",
         "img": "html5/images/617x274__product-selector-benl.jpg",
@@ -40,5 +40,15 @@
         "linkslide": "",
         "active": "active",
         "selector": "selector4"
+    }, {
+        "slide": "slide5",
+        "link": "https://www.essoextras.nl/",
+        "img": "html5/images/Esso_EE_Q4_LCW_615x274_NL.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector5"
     }]
 }

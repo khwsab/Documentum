@@ -83,15 +83,15 @@
                         <p xmlns="">L&rsquo;huile avancée entièrement synthétique Mobil 1&trade; se transforme à un niveau moléculaire pour fournir des performances exceptionnelles et permettre la protection de votre moteur. Sa forme, sa conception et ses applications sont d&rsquo;une pure beauté. Il s&rsquo;agit bien de votre moteur, mais dans une forme évoluée</p>
 
                         <p xmlns="">
-                            <img style="height: 150px; width: 464px" src="../Canada-French-LCW/Images/yeefr1.JPG" alt="Mobil 1" title="Mobil 1" border="0" hspace="0"></p>
+                            <img style="height: 86px; width: 464px" src="../Canada-French-LCW/Images/yeefr1.JPG" alt="Mobil 1" title="Mobil 1" border="0" hspace="0"></p>
 
                         <p xmlns="">
                             <strong>Redéfinir les limites</strong>
                             <br>
-16 000 kilomètres? Vous devez généralement changer d&rsquo;huile beaucoup plus vite. Vous avez l&rsquo;habitude d&rsquo;effectuer des changements d&rsquo;huile tous les 5 000 à 8 000 kilomètres; ce sont les limites. Cependant, les limites, les recommandations et les résultats ne sont pas les mêmes pour tous; ils peuvent être redéfinis.</p>
+25 000 kilomètres? Vous devez généralement changer d&rsquo;huile beaucoup plus vite. Vous avez l&rsquo;habitude d&rsquo;effectuer des changements d&rsquo;huile tous les 5 000 à 8 000 kilomètres; ce sont les limites. Cependant, les limites, les recommandations et les résultats ne sont pas les mêmes pour tous; ils peuvent être redéfinis.</p>
 
                         <p xmlns="">
-                            <img src="../Canada-French-LCW/Images/yeefr2.jpg" height="150" width="464" alt="Mobil 1" title="Mobil 1" border="0" hspace="0"></p>
+                            <img src="../Canada-French-LCW/Images/yeefr2.jpg" height="86" width="464" alt="Mobil 1" title="Mobil 1" border="0" hspace="0"></p>
 
                         <p xmlns="">
                             <strong>Qui travaillent de concert</strong>
@@ -99,7 +99,7 @@
 L&rsquo;huile à moteur Mobil 1 est composée de plusieurs huiles. Sa formule avancée entièrement synthétique comprend un mélange exclusif d&rsquo;huiles de base synthétiques aux performances élevées qui travaillent ensemble pour aider à combattre l&rsquo;accumulation de boues et de dépôts, à réduire l&rsquo;usure et à contrôler la dégradation de l&rsquo;huile. C&rsquo;est pour cela que l&rsquo;huile à moteur Mobil 1 aide vos moteurs à fonctionner comme s&rsquo;ils étaient neufs.</p>
 
                         <p xmlns="">
-                            <img src="../Canada-French-LCW/Images/yeefr3.jpg" height="150" width="464" alt="Mobil 1" title="Mobil 1" border="0" hspace="0"></p>
+                            <img src="../Canada-French-LCW/Images/yeefr3.jpg" height="86" width="464" alt="Mobil 1" title="Mobil 1" border="0" hspace="0"></p>
 
                         <p xmlns="">
                             <strong>Vitesse du changement</strong>
@@ -107,7 +107,7 @@ L&rsquo;huile à moteur Mobil 1 est composée de plusieurs huiles. Sa formule avan
 Dans l&rsquo;univers des sports motorisés, le changement doit être rapide. Les moteurs sont destinés à parcourir des milliers de kilomètres dans des conditions fluctuantes et rudes. L&rsquo;huile à moteur Mobil 1 est capable de changer sa texture, de celle de l&rsquo;eau à celle du miel et vice-versa, en quelques microsecondes. La formulation avancée peut s&rsquo;adapter aux changements de conditions de votre moteur pour fournir des performances et une protection exceptionnelles.</p>
 
                         <p xmlns="">
-                            <img src="../Canada-French-LCW/Images/yeefr4.JPG" height="150" width="464" alt="Mobil 1" title="Mobil 1" border="0" hspace="0"></p>
+                            <img src="../Canada-French-LCW/Images/yeefr4.JPG" height="86" width="464" alt="Mobil 1" title="Mobil 1" border="0" hspace="0"></p>
 
                         <p xmlns="">
                             <strong>Démarrages en dessous de zéro<br>
@@ -115,7 +115,7 @@ Dans l&rsquo;univers des sports motorisés, le changement doit être rapide. Les m
                             </strong>Votre moteur est vulnérable lors du démarrage. C&rsquo;est le moment le plus important où l&rsquo;huile doit circuler. À basses températures, l&rsquo;écoulement de l&rsquo;huile à moteur peut être trop lent ou inexistant. L&rsquo;huile à moteur Mobil 1 s&rsquo;écoule à toutes les températures, aussi basses que -40 degrés. Votre voiture peut donc avoir la lubrification dont elle a immédiatement besoin lors du démarrage.</p>
 
                         <p xmlns="">
-                            <img src="../Canada-French-LCW/Images/yeefr5.JPG" height="150" width="464" alt="Mobil 1" title="Mobil 1" border="0" hspace="0"></p>
+                            <img src="../Canada-French-LCW/Images/yeefr5.JPG" height="86" width="464" alt="Mobil 1" title="Mobil 1" border="0" hspace="0"></p>
 
                         <p xmlns="">
                             <strong>Fonctionnement à haute température</strong>
@@ -123,7 +123,7 @@ Dans l&rsquo;univers des sports motorisés, le changement doit être rapide. Les m
 Une longue route. Jours d&rsquo;été torrides. Embouteillages. Dans de telles conditions, votre moteur chauffe. Cette chaleur extrême peut causer l&rsquo;oxydation et l&rsquo;épaississement des huiles à moteur, ainsi que la production de dépôts, qui peuvent affecter les performances de votre moteur. Performances exceptionnelles de l&rsquo;huile à moteur Mobil 1 et protection jusqu&rsquo;à 200 °C, même dans le cas des moteurs turbocompressés.</p>
 
                         <p xmlns="">
-                            <img src="../Canada-French-LCW/Images/yeefr6.JPG" height="150" width="464" alt="Mobil 1" title="Mobil 1" border="0" hspace="0"></p>
+                            <img src="../Canada-French-LCW/Images/yeefr6.JPG" height="86" width="464" alt="Mobil 1" title="Mobil 1" border="0" hspace="0"></p>
 
                         <p xmlns="">
                             <strong>Testée et éprouvée</strong>
@@ -131,7 +131,7 @@ Une longue route. Jours d&rsquo;été torrides. Embouteillages. Dans de telles con
 L&rsquo;huile à moteur Mobil 1 est testée en laboratoire et éprouvée sur la route. Jusqu&rsquo;à 20 000 heures de tests en laboratoire/sur le terrain et 804 650 km (500 000 milles) accompagnent chaque bouteille. Les performances de l&rsquo;huile à Mobil 1 procurent une puissante protection contre l&rsquo;usure, un démarrage à basses températures, des performances à température élevée et une superbe propreté du moteur. Aucune autre huile ne peut dépasser Mobil 1 en termes de performances globales.</p>
 
                         <p xmlns="">
-                            <a title="" target="_self" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/where-to-buy.aspx" class=""><img src="../Canada-French-LCW/Images/yeefr7.JPG" height="150" width="464" alt="Mobil1" title="Mobil1" border="0" hspace="0"></a>
+                            <a title="" target="_self" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/where-to-buy.aspx" class=""><img src="../Canada-French-LCW/Images/yeefr7.JPG" height="86" width="464" alt="Mobil1" title="Mobil1" border="0" hspace="0"></a>
                         </p>
                     </div>
                 </div>

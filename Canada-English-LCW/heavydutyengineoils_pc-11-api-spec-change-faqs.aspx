@@ -346,7 +346,7 @@ CK-4 oils have traditional HTHS viscosity. They provide performance benefits exc
 
                         <p xmlns="">Compared to their CK-4 counterparts, FA-4 oils will likely have more limited backward compatibility. Each engine OEM will define the backward compatibility of FA-4 oils for their product line. Consequently, fleets that have engines that fall within the backward compatibility standard set by the OEM will be able to use FA-4 oils across their entire fleet.</p>
 
-                        <p xmlns="">See our <a title="" target="" onclick="trackClick(this);" href="http://prodwip.mobil.com/Canada-English-LCW/heavydutyengineoils_ck4-or-fa4.aspx#" class="">OEM heavy-duty equipment chart </a>for API CK-4, API FA-4 product recommendations.</p>
+                        <p xmlns="">See our <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-English-LCW/heavydutyengineoils_ck4-or-fa4.aspx" class="">OEM heavy-duty equipment chart </a>for API CK-4, API FA-4 product recommendations.</p>
 
                         <p xmlns="">
                             <br>

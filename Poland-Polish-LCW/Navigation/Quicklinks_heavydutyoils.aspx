@@ -27,7 +27,7 @@
             <a title="" target="" onclick="trackClick(this);" href="/poland-polish-lcw/buy_distributor.aspx" class="">znajd&#378; dystrybutora ExxonMobil</a>
         </li>
         <li>
-            <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/contactus_contact.aspx?CountryCode=PL&amp;Language=Polish" class="">kontakt</a>
+            <a title="" target="" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=pl-PL" class="">kontakt</a>
         </li>
         <li>
             <a target="_blank" onclick="trackClick(this);" href="http://www.youtube.com/user/OfficialMobilDelvac">Mobil Delvac &ndash; YouTube</a>

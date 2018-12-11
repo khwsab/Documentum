@@ -99,7 +99,7 @@
                         </p>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="http://prodwip.mobil.com/Germany-German-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx" class="">Mobil Delvac 1&trade; LE 5W-30</a>&nbsp;ist ein Hochleistungsöl für Dieselmotoren mit niedriger SAPS, das die Freigaben Scania LDF-4 erfüllt und sowohl Potenzial zur Kraftstoffeinsparung als auch lange Ölwechselintervalle bietet.</p>
+                            <a title="" target="" onclick="trackClick(this);" href="https://lubes.mobil.com/Germany-German-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx" class="">Mobil Delvac 1&trade; LE 5W-30</a>&nbsp;ist ein Hochleistungsöl für Dieselmotoren mit niedriger SAPS, das die Freigaben Scania LDF-4 erfüllt und sowohl Potenzial zur Kraftstoffeinsparung als auch lange Ölwechselintervalle bietet.</p>
 
                         <p xmlns="">
                             <strong>Öle gemäß Scania LDF</strong>
