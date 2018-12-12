@@ -180,9 +180,7 @@ Peugeot/Citroën Automobiles B71 2290<br>
 Peugeot/Citroën Automobiles B71 2297</p>
 
                                     <p xmlns="">
-                                        <strong>Mobil 1 ESP Formula 5W-30 meets or exceeds the requirements of:&nbsp;&nbsp; <br>
-
-                                        </strong>ACEA C2, C3 <br>
+                                        <strong>Mobil 1 ESP Formula 5W-30 meets or exceeds the requirements of:&nbsp;&nbsp;</strong><br>
 JASO DL-1</p>
 
                                     <p xmlns="">
