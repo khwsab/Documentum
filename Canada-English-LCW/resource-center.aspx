@@ -104,7 +104,7 @@
                             <h3>Fuel Efficiencies: How to Maximize Saving</h3>
                             <div class="">
                                 <p xmlns="">
-                                    <a title=":: :: width: 680, height: 550" target="" onclick="trackClick(this);" href="/Canada-English-LCW/video/Fuel-Efficiencies-How-To-Maximise-Savings-Video.mp4" class="lightview"><img src="../Canada-English-LCW/Flash/Truck-Video-Thumbnail.jpg" height="60" width="60" alt="Quick reference chart" title="Quick reference chart" align="left" border="0" hspace="0" class="imgFloatLeft"></a>
+                                    <a title=":: :: width: 680, height: 550" target="_blank" onclick="trackClick(this);" href="https://lubes.mobil.com/canada-english-lcw/video/Fuel-Efficiencies-How-To-Maximise-Savings-Video.mp4" class="lightview"><img src="../Canada-English-LCW/Flash/Truck-Video-Thumbnail.jpg" height="60" width="60" alt="Quick reference chart" title="Quick reference chart" align="left" border="0" hspace="0" class="imgFloatLeft"></a>
                                 </p>
                                 <p xmlns="">Click thumbnail to watch video</p>
                             </div>
