@@ -161,7 +161,7 @@ Trovate&nbsp; l&rsquo;olio adatto per la vostra&nbsp; autovettura utilizzando l&
                                 <a title="" target="_self" onclick="trackClick(this);" href="http://essofuelfinder.it" class="">localizzatore delle stazioni di servizio Esso </a>
                             </li>
                             <li>
-                                <a title="" target="_self" onclick="trackClick(this);" href="http://pds.exxonmobil.com/pdssearch/search.aspx" class="">schede tecniche prodotti</a>
+                                <a title="" target="_self" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds" class="">schede tecniche prodotti</a>
                             </li>
                             <li>
                                 <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobilindustrial.com/ind/italian/products.aspx" class="">trovate i lubrificanti più adatti alle vostre applicazioni industriali - Looble<sup>SM</sup></a>
