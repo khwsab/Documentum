@@ -70,7 +70,7 @@
                         <script type="text/javascript">quickEditForm("0915881d8200009e", "/Content/Feature",true,"../forms/LCWLandingFeature","","790px","700px","Landing Page Feature and Subfeatures","","pencil.gif","210px");</script>
                     </div><!-- googleon: all -->
                     <div id="mainFeature">
-                        <h1>La nouvelle gamme d'huiles moteur Mobil Delvac Light Duty a été spécialement conçue pour vous aider dans votre activité professionnelle.</h1>
+                        <h1>La nouvelle gamme d'huiles moteur Mobil Delvac pour les véhicules utilitaires a été spécialement conçue pour vous aider dans votre activité professionnelle.</h1>
                         <p xmlns="">
                             <img src="../UK-English-LCW/Images/440x270_light-duty-landing-page.jpg" height="270" width="440" alt="La nouvelle gamme d'huiles moteur" title="La nouvelle gamme d'huiles moteur" border="0" hspace="0"></p>
                         <p xmlns="">Lorsque la prospérité de votre entreprise repose entre autres sur les performances et la fiabilité de votre véhicule, choisir la bonne huile moteur peut vous aider à faire LA différence entre vous et vos concurrents, en particulier dans des conditions difficiles de circulation, telles que la conduite en ville ou lorsqu'il y a des arrêts &amp; démarrages très fréquents.</p>
