@@ -181,9 +181,7 @@ Peugeot/Citroën Automobiles B71 2290<br>
 Peugeot/Citroën Automobiles B71 2297</p>
 
                                     <p xmlns="">
-                                        <strong>L'huile Mobil 1 ESP Formula 5W-30 respecte ou surpasse les exigences des spécifications :&nbsp;&nbsp;</strong>
-                                        <br>
-ACEA C2, C3&nbsp; <br>
+                                        <strong>L'huile Mobil 1 ESP Formula 5W-30 respecte ou surpasse les exigences des spécifications :&nbsp;&nbsp;</strong><br>
 JASO DL-1</p>
 
                                     <p xmlns="">

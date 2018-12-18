@@ -213,8 +213,7 @@ PSA B712290</p>
 
                                         <strong>Mobil 1 ESP 5W-30 meets or exceeds the requirements of:&nbsp;&nbsp; <br>
 
-                                        </strong>API SN, SM, SL, SJ&nbsp; <br>
-ACEA C2, C3</p>
+                                        </strong>API SN, SM, SL, SJ&nbsp;</p>
 
                                     <p xmlns="">
                                         <br>

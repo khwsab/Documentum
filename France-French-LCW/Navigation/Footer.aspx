@@ -11,7 +11,7 @@
 			<div class="footer"><!-- FOOTER -->
 				<div class="light-grey-section-top">
 					<div class="navigation">
-                        <p style="padding: 20px 0px 0px 25px; color: rgb(222, 222, 222);">*Lâ€™Ã©nergie est lÃ </p>
+                        <p style="padding: 20px 0px 0px 25px; color: rgb(222, 222, 222);">*L'énergie est là</p>
 						<p class="LiveText" id="navtext">
 						<a href="http://www.mobil.fr/France-French-LCW/carengineoils.aspx" class="nav-links">lubrifiants auto</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="http://www.mobil.fr/France-French-LCW/heavydutyengineoils.aspx" class="nav-links">lubrifiants transports, tp, agri</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="http://www.mobil.fr/France-French-LCW/which-oil.aspx" class="nav-links">quelle huile</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="http://www.mobil.fr/France-French-LCW/buy.aspx" class="nav-links">points de vente</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="http://www.mobil.fr/France-French-LCW/sitemap.aspx" class="nav-links">plan du site</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="http://www.mobil.com/contact-us?lang=fr-FR" class="nav-links">nous contacter</a>
 						</p>

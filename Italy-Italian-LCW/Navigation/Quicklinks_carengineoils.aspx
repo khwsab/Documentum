@@ -15,7 +15,7 @@
             <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobil1.it/competizioni-motoristiche.aspx" class="">Mobil 1 nelle competizioni motoristiche</a>
         </li>
         <li>
-            <a target="_blank" onclick="trackClick(this);" href="http://pds.exxonmobil.com/pdssearch/search.aspx">schede tecniche prodotti</a>
+            <a target="_blank" onclick="trackClick(this);" href="https://www.exxonmobil.com/pds">schede tecniche prodotti</a>
         </li>
         <li>
             <a target="_blank" onclick="trackClick(this);" href="http://www.msds.exxonmobil.com/IntApps/psims/psims.aspx">schede di igiene e sicurezza </a>
