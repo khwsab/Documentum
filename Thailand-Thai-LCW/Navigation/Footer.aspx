@@ -64,7 +64,7 @@
 					</div>
 					<div class="rightblock">
 						<p class="LiveText2">
-						<a href="http://corporate.exxonmobil.com/en/global-legal-pages/privacy-policy" class="linkz">&#3609;&#3650;&#3618;&#3610;&#3634;&#3618;&#3588;&#3623;&#3634;&#3617;&#3648;&#3611;&#3655;&#3609;&#3626;&#3656;&#3623;&#3609;&#3605;&#3633;&#3623;</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="http://www.esso.co.th/th-th/legal-pages/terms-and-conditions" class="linkz">&#3586;&#3657;&#3629;&#3585;&#3635;&#3627;&#3609;&#3604;&#3649;&#3621;&#3632;&#3648;&#3591;&#3639;&#3656;&#3629;&#3609;&#3652;&#3586;</a><br />&#169; Copyright 2017 Exxon Mobil Corporation. All Rights Reserved
+						<a href="http://corporate.exxonmobil.com/en/global-legal-pages/privacy-policy" class="linkz">&#3609;&#3650;&#3618;&#3610;&#3634;&#3618;&#3588;&#3623;&#3634;&#3617;&#3648;&#3611;&#3655;&#3609;&#3626;&#3656;&#3623;&#3609;&#3605;&#3633;&#3623;</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="http://www.esso.co.th/th-th/legal-pages/terms-and-conditions" class="linkz">&#3586;&#3657;&#3629;&#3585;&#3635;&#3627;&#3609;&#3604;&#3649;&#3621;&#3632;&#3648;&#3591;&#3639;&#3656;&#3629;&#3609;&#3652;&#3586;</a><br />&#169; Copyright 2019 Exxon Mobil Corporation. All Rights Reserved
 						</p>
 					</div>
 				</div>

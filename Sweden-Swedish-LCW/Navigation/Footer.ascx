@@ -65,7 +65,7 @@
 					</div>
 					<div class="rightblock">
 						<p class="LiveText2">
-						<a href="http://corporate.exxonmobil.com/en/global-legal-pages/privacy-policy_sweden-swedish" class="linkz">Integritetspolicy</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="http://www.exxonmobil.eu/en-eu/legal-pages/terms-and-conditions" class="linkz">Villkor och best&#228;mmelser</a><br />&#169; Copyright 2016 Exxon Mobil Corporation. All Rights Reserved
+						<a href="http://corporate.exxonmobil.com/en/global-legal-pages/privacy-policy_sweden-swedish" class="linkz">Integritetspolicy</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="http://www.exxonmobil.eu/en-eu/legal-pages/terms-and-conditions" class="linkz">Villkor och best&#228;mmelser</a><br />&#169; Copyright 2019 Exxon Mobil Corporation. All Rights Reserved
 						</p>
 					</div>
 				</div>

@@ -65,7 +65,7 @@
 					</div>
 					<div class="rightblock">
 						<p class="LiveText2">
-						<a href="http://corporate.exxonmobil.com/en/global-legal-pages/privacy-policy_finland-finnish" class="linkz">Tietosuojak&#228;yt&#228;nt&#246;</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="http://www.exxonmobil.fi/Global-All/Legal/TC_FI_Finnish.aspx" class="linkz">K&#228;ytt&#246;ehdot</a><br />&#169; Copyright 2017 Exxon Mobil Corporation. All Rights Reserved
+						<a href="http://corporate.exxonmobil.com/en/global-legal-pages/privacy-policy_finland-finnish" class="linkz">Tietosuojak&#228;yt&#228;nt&#246;</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="http://www.exxonmobil.fi/Global-All/Legal/TC_FI_Finnish.aspx" class="linkz">K&#228;ytt&#246;ehdot</a><br />&#169; Copyright 2019 Exxon Mobil Corporation. All Rights Reserved
 						</p>
 					</div>
 				</div>

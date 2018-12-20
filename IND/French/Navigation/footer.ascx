@@ -69,7 +69,7 @@
 					</div>
 					<div class="rightblock">
 						<p class="LiveText2">
-						<a href="http://corporate.esso.fr/fr-fr/legal-pages/donn%C3%A9es-personnelles" class="linkz">Confidentialite</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="http://corporate.esso.fr/fr-fr/legal-pages/notice-l%C3%A9gale" class="linkz">Notice L&#233;gale</a><br />&#169; Copyright 2017 Exxon Mobil Corporation. All Rights Reserved
+						<a href="http://corporate.esso.fr/fr-fr/legal-pages/donn%C3%A9es-personnelles" class="linkz">Confidentialite</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="http://corporate.esso.fr/fr-fr/legal-pages/notice-l%C3%A9gale" class="linkz">Notice L&#233;gale</a><br />&#169; Copyright 2019 Exxon Mobil Corporation. All Rights Reserved
 						</p>
 					</div>
 				</div>

@@ -69,7 +69,7 @@
 					</div>
 					<div class="rightblock">
 						<p class="LiveText2">
-						<a href="http://www.exxonmobil.it/it-it/pagine-legali/privacy-policy" class="linkz">Privacy</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="http://exxonmobil.com/Global-All/Legal/TC_Global_E2.aspx" class="linkz">Note Legali</a><br />&#169; Copyright 2017 Exxon Mobil Corporation. All Rights Reserved
+						<a href="http://www.exxonmobil.it/it-it/pagine-legali/privacy-policy" class="linkz">Privacy</a>&nbsp;&nbsp;&#183;&nbsp;&nbsp;<a href="http://exxonmobil.com/Global-All/Legal/TC_Global_E2.aspx" class="linkz">Note Legali</a><br />&#169; Copyright 2019 Exxon Mobil Corporation. All Rights Reserved
 						</p>
 					</div>
 				</div>
