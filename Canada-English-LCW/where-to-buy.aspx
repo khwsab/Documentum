@@ -74,7 +74,7 @@
                         <p xmlns="">
                             <img src="../Shared-Images-LCW/article_150x150_where_to_buy_gbl.jpg" height="150" width="150" alt="where to buy" title="where to buy" align="left" border="0" hspace="0" class="imgFloatLeft"></p>
 
-                        <p xmlns="">Thank you for your interest in Mobil&trade; products. Please, select the purchasing option most suitable to you. If you don't find what you're looking for. <a title="" target="_self" onclick="trackClick(this);" href="http://www.imperialoil.ca/Canada-English/contactus.aspx" class="">Contact us</a> and we will do our best to help you.</p> </div>
+                        <p xmlns="">Thank you for your interest in Mobil&trade; products. Please, select the purchasing option most suitable to you. If you don't find what you're looking for. <a title="" target="_self" onclick="trackClick(this);" href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form" class="">Contact us</a> and we will do our best to help you.</p> </div>
             <div id="subfeatureCallouts">
                     <div style="background-image:url(/Shared-Images-LCW/callout_224x135_map_gbl.jpg);" class="callout top">
                         <div class="frame01BL">
