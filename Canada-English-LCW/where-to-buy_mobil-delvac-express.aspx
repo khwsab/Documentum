@@ -84,15 +84,15 @@
                             <img src="../Shared-Images-LCW/article_150x150-mobil-delvac-express-entrance_eame.jpg" height="150" width="150" alt="Mobil Delvac Express" title="Mobil Delvac Express" align="left" border="0" hspace="0" class="imgFloatLeft">Mobil Delvac Express</h1>
 
                         <p xmlns="">
-                            <em>Mobil Delvac Express</em> est un programme conçu pour offrir sans rendez-vous une vidange d'huile rapide et facile pendant que vous attendez et un service d'entretien de premier ordre pour les véhicules utilitaires lourds.<br>
+                            The <em>Mobil Delvac Express</em> program is an innovative service for heavy-duty vehicles. Truck drivers can receive fast oil changes and top-notch maintenance service without scheduling an appointment.<br>
 
                             <br>
-Les conducteurs de camion ont l'assurance que les vérifications des fluides de leur véhicule seront effectuées par un technicien qualifié qui peut discuter avec eux des prochaines étapes et s'entendre mutuellement pour les travaux à effectuer.<br>
+                            Plus, truck drivers can be assured that their vehicle fluid checks will be performed by qualified technicians who can understand specific maintenance needs and develop a plan of action.<br>
 
                             <br>
-Le programme <em>Mobil Delvac Express</em> fait partie du soutien continu de Pétrolière Impériale auprès des conducteurs de camion en leur fournissant un service innovateur en vue d'aider les chauffeurs de véhicules utilitaires lourds et de camions commerciaux à réduire les coûts et à maintenir un rendement optimal sur la route.</p>
+The <em>Mobil Delvac Express</em> program is part of Imperial Oil's ongoing support for truck drivers, helping commercial and heavy-duty truck drivers reduce costs and maintain peak performance on the road</p>
 
-                        <p xmlns="">Pour toutes questions ou commentaires concernant le programme, veuillez nous <a title="" target="" onclick="trackClick(this);" href="/Canada-French-LCW/contactus_contact.aspx?CountryCode=CA&amp;Language=French" class="">contactez-nous</a>.</p>
+                        <p xmlns="">For any questions or comments about the program, please <a title="" target="" onclick="trackClick(this);" href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form" class="">contact us</a>.</p>
 
                         <p xmlns="">
 
