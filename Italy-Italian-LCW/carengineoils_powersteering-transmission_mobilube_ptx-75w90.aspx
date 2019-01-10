@@ -13,7 +13,7 @@
         <meta http-equiv="Content-Language" content="it"/>
         <meta name="WT.ti" content="Mobil&trade; in Italia |&nbsp;Lubrificanti&nbsp; per servosterzo e trasmissioni| &nbsp;Mobilube&trade; PTX 75W-90"/>
         <meta name="WT.cg_n" content="ProductDetail"/>
-        <meta name="WT.cg_s" content=""/><link rel="canonical" href="<%="http://www.mobil.com"+Request.ServerVariables.Get("URL")%>" />
+        <meta name="WT.cg_s" content=""/><link rel="canonical" href="<%="http://lubes.mobil.com"+Request.ServerVariables.Get("URL")%>" />
         <link type="text/css" rel="stylesheet" media="all" href="/Imports/LCW_xom.css"/>
         <link type="text/css" rel="stylesheet" media="print" href="/Imports/LCW_xom_print.css"/>
         <link type="text/css" title="medium" rel="stylesheet" href="/Imports/LCW_xom_web_medium.css"/>
