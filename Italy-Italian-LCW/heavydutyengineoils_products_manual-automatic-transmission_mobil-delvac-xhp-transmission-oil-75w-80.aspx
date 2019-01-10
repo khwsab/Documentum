@@ -13,7 +13,7 @@
         <meta name="WT.ti" content="Mobil&trade; Italia, Oli motore diesel Mobil Delvac&trade;,Trasmissione manuale e automatica Mobil Delvac&trade; XHP Transmission Oil 75W-80"/>
         <meta name="WT.cg_n" content="ProductDetail"/>
         <meta name="WT.cg_s" content=""/>
-					<link rel="canonical" href="<%="http://www.mobil.com"+Request.ServerVariables.Get("URL")%>" />
+					<link rel="canonical" href="<%="http://lubes.mobil.com"+Request.ServerVariables.Get("URL")%>" />
 	
         <link type="text/css" rel="stylesheet" media="all" href="/Imports/LCW_xom.css"/>
         <link type="text/css" rel="stylesheet" media="print" href="/Imports/LCW_xom_print.css"/>
