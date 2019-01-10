@@ -5,7 +5,7 @@
 <%@ Register Src="Navigation/motoroils.ascx" TagName="Navigation" TagPrefix="xom" %><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
     <head><meta http-equiv="X-UA-Compatible" content="IE=8">
         <title>Save Fuel With Mobil 1 Oil Change</title>
-        <meta http-equiv="refresh" content="0; url=https://lubes.mobil.com/Canada-French-LCW/carengineoils.aspx">
+        <meta http-equiv="refresh" content="0; url=https://lubes.mobil.com/Canada-English-LCW/carengineoils.aspx">
         <meta name="keywords" content="Save Fuel With Mobil 1 Oil Change"/>
         <meta name="description" content="Save Fuel With Mobil 1 Oil Change"/>
         <meta name="language" content="en"/>
