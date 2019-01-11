@@ -50,5 +50,15 @@
         "linkslide": "",
         "active": "active",
         "selector": "selector5"
+    },{        
+        "slide": "slide6",
+        "link": "https://www.esso.co.uk/v2/explore/banner.php",
+        "img": "html5/images/Esso_Statics_615x274_LCW.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector6"
     }]
 }
