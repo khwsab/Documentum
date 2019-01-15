@@ -1,7 +1,17 @@
 {
 
-    "slider": [{      
+    "slider": [{
         "slide": "slide1",
+        "link": "https://www.esso.co.uk/v2/explore/banner.php",
+        "img": "html5/images/Esso_Statics_615x274_LCW.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector1"
+    },{
+        "slide": "slide2",
         "link": "https://www.esso.co.uk/loyalty-program",
         "img": "html5/images/615x274_Esso_Q1_LoyaltyUK_LCW.jpg",
         "main": "",
@@ -9,9 +19,9 @@
         "subtitle": "",
         "linkslide": "",
         "active": "active",
-        "selector": "selector1"
-    }, {      
-        "slide": "slide2",
+        "selector": "selector2"
+    }, {
+        "slide": "slide3",
         "link": "http://staging-lubes.khwstech.co.uk/UK-English-LCW/vanengineoils.aspx",
         "img": "html5/images/615x274_light-duty-uk-2.jpg",
         "main": "",
@@ -19,9 +29,9 @@
         "subtitle": "",
         "linkslide": "",
         "active": "active",
-        "selector": "selector2"
-    }, {        
-        "slide": "slide3",
+        "selector": "selector3"
+    }, {
+        "slide": "slide4",
         "link": "http://staging-lubes.khwstech.co.uk/UK-English-LCW/heavydutyoils_energy-efficiency-guide.aspx",
         "img": "html5/images/615x274_uk-energy-guide.png",
         "main": "",
@@ -29,9 +39,9 @@
         "subtitle": "",
         "linkslide": "",
         "active": "active",
-        "selector": "selector3"
-    }, {        
-        "slide": "slide4",
+        "selector": "selector4"
+    }, {
+        "slide": "slide5",
         "link": "https://www.esso.co.uk/promo",
         "img": "html5/images/615x274_Flashbox-opt3.jpg",
         "main": "",
@@ -39,21 +49,11 @@
         "subtitle": "",
         "linkslide": "",
         "active": "active",
-        "selector": "selector4"
-    }, {        
-        "slide": "slide5",
+        "selector": "selector5"
+    }, {
+        "slide": "slide6",
         "link": "https://www.esso.co.uk/explore",
         "img": "html5/images/UK_Esso_YBFE_Mobil_615x274.jpg",
-        "main": "",
-        "title": "",
-        "subtitle": "",
-        "linkslide": "",
-        "active": "active",
-        "selector": "selector5"
-    },{        
-        "slide": "slide6",
-        "link": "https://www.esso.co.uk/v2/explore/banner.php",
-        "img": "html5/images/Esso_Statics_615x274_LCW.jpg",
         "main": "",
         "title": "",
         "subtitle": "",
