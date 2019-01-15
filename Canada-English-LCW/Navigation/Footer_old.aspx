@@ -8,7 +8,7 @@
                 <a target="_self" onclick="trackClick(this);" href="http://www.esso.ca">Esso</a>
             </li>
             <li class="noBorderR">
-                <a target="" onclick="trackClick(this);" href="http://www.imperialoil.ca/Canada-English/contactus.aspx" class="iconleft phone">Contact Us</a>
+                <a target="" onclick="trackClick(this);" href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form" class="iconleft phone">Contact Us</a>
             </li>
         </ul>
     </div>

@@ -12,7 +12,7 @@
             </li>
             <li></li>
             <li class="noBorderR">
-                <a onclick="trackClick(this);" href="http://www.imperialoil.ca/Canada-English/contactus.aspx" class="iconleft phone">Contact Us</a>
+                <a onclick="trackClick(this);" href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form" class="iconleft phone">Contact Us</a>
             </li>
         </ul>
     </div>

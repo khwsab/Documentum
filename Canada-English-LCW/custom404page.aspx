@@ -162,7 +162,7 @@
 					<li><a href="https://www.imperialoil.com/Canada-English/about_media_releases.aspx">news</a></li>
 					<li><a href="https://www.imperialoil.ca/Canada-English/about_investors.aspx">investors</a></li>
 					<li><a href="https://www.imperialoil.ca/Canada-English/workingwithus.aspx">careers</a></li>
-					<li><a href="https://www.imperialoil.ca/Canada-English/contactus.aspx">contact us</a></li>
+					<li><a href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form">contact us</a></li>
 				</ul>
 			</div>
 		</div>
@@ -267,7 +267,7 @@
 							<li><a href="https://www.mobil.ca/Canada-English-LCW/where-to-buy_mobil-1-lube-express.aspx">Mobil 1 Lube Express</a></li>
 							<li><a href="https://www.mobil.ca/Canada-English-LCW/where-to-buy_mobil-delvac-express.aspx">Mobil Delvac Express</a></li>
 							<li><a href="https://www.essostations.com/locator.php">Esso station locator</a></li>
-							<li><a href="https://www.imperialoil.ca/Canada-English/contactus.aspx">Contact Us</a></li>
+							<li><a href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form">Contact Us</a></li>
 						</ul>
 					</div>
 
@@ -314,7 +314,7 @@
                         <a href="https://www.imperialoil.ca/Canada-English/default.aspx">Imperial Oil</a>
 					</li>
 					<li class="noBorderR">
-						<a target="" href="https://www.imperialoil.ca/Canada-English/contactus.aspx" class="iconleft phone">Contact Us</a>
+						<a target="" href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form" class="iconleft phone">Contact Us</a>
 					</li>
 				</ul>
 			</div>
