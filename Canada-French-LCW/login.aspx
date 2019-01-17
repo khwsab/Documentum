@@ -137,7 +137,7 @@
                             </div>
                             <div xmlns="" class="padding">
                                 <div class="img60 left"><a href="../contactus_contact.aspx?CountryCode=CA&amp;Language=French" title="voulez-vous vous inscrire?" target="_self" onclick="trackClick(this);"><img title="voulez-vous vous inscrire?" src="../Shared-Images-LCW/teaser_60x60_customer-support_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="voulez-vous vous inscrire?"></a></div>
-                                <p>Vous n&rsquo;êtes pas un usager inscrit? Vous ratez l&rsquo;occasion d&rsquo;obtenir beaucoup de renseignements importants! Demandez à la <a title="" target="_blank" onclick="trackClick(this);" href="http://www.imperialoil.ca/Canada-Francais/contactus.aspx" class="">personne-ressource clé</a> de votre entreprise de vous inscrire aujourd&rsquo;hui.</p>
+                                <p>Vous n&rsquo;êtes pas un usager inscrit? Vous ratez l&rsquo;occasion d&rsquo;obtenir beaucoup de renseignements importants! Demandez à la <a title="" target="_blank" onclick="trackClick(this);" href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form" class="">personne-ressource clé</a> de votre entreprise de vous inscrire aujourd&rsquo;hui.</p>
                             </div>
                         </div>
                     </div>

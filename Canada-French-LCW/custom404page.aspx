@@ -162,8 +162,8 @@
 					<li><a href="https://www.mobil.ca/Canada-French-LCW/default.aspx">accueil</a></li>
 					<li><a href="https://www.limperiale.ca/Canada-Francais/about_media_releases.aspx">nouvelles</a></li>
 					<li><a href="https://ir.exxonmobil.com/phoenix.zhtml?c=115024&amp;p=irol-irhome">investisseurs</a></li>
-					<li><a href="https://www.imperialoil.ca/Canada-Francais/workingwithus.aspx">carrières</a></li>
-					<li><a href="https://www.imperialoil.ca/Canada-Francais/contactus.aspx">nous joindre</a></li>
+					<li><a href="https://www.imperialoil.ca/fr-ca/careers/working-with-us">carrières</a></li>
+					<li><a href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form">nous joindre</a></li>
 				</ul>
 			</div>
 		</div>
@@ -277,7 +277,7 @@
 							<li><a href="https://www.mobil.ca/Canada-French-LCW/where-to-buy_mobil-1-lube-express.aspx">Mobil 1 Lube Express™</a></li>
 							<li><a href="https://www.mobil.ca/Canada-French-LCW/where-to-buy_mobil-delvac-express.aspx">Mobil Delvac Express</a></li>
 							<li><a href="https://www.essostations.com/locator.php">Localisateur de station-service Esso</a></li>
-							<li><a href="https://www.imperialoil.ca/Canada-Francais/contactus.aspx">Nous joindre</a></li>
+							<li><a href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form">Nous joindre</a></li>
 						</ul>
 					</div>
 
@@ -312,7 +312,7 @@
 						<a href="https://www.imperialoil.com/Canada-Francais/default.aspx">L'Impériale</a>
 					</li>
 					<li>
-						<a href="https://www.imperialoil.ca/Canada-Francais/contactus.aspx" class="iconleft phone" >Nous joindre</a>
+						<a href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form" class="iconleft phone" >Nous joindre</a>
 					</li>
 				</ul>
 			</div>
