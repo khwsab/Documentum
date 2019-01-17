@@ -211,85 +211,121 @@
                                     <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
                                         <thead>
                                             <tr>
-                                                <th width="" scope="col" height="" class="standard">Mobil Super 1000 meets or exceeds the requirements of:</th><th width="" scope="col" height="" class="standard">5W-20</th><th width="" scope="col" height="" class="standard">5W-30</th><th width="" scope="col" height="" class="standard">10W-30</th>
+                                                <th width="" scope="col" height="" class="standard">Mobil Super 1000 meets or exceeds the requirements of:</th>
+                                                <th width="" scope="col" height="" class="standard">5W-20</th>
                                             </tr>
-                                        </thead><tbody><tr>
-                                            <td width="" height="" class="standard">API SN</td><td width="" height="" class="standard">X</td><td width="" height="" class="standard">X</td><td width="" height="" class="standard">X</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">API SM</td><td width="" height="" class="standard">X</td><td width="" height="" class="standard">X</td><td width="" height="" class="standard">X</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">API SL</td><td width="" height="" class="standard">X</td><td width="" height="" class="standard">X</td><td width="" height="" class="standard">X</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">API SJ</td><td width="" height="" class="standard">X</td><td width="" height="" class="standard">X</td><td width="" height="" class="standard">X</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">ILSAC GF-5</td><td width="" height="" class="standard">X</td><td width="" height="" class="standard">X</td><td width="" height="" class="standard">X</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Chrysler MS-6395</td><td width="" height="" class="standard">X</td><td width="" height="" class="standard">X</td><td width="" height="" class="standard">X</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Ford WSS-M2C945-A</td><td width="" height="" class="standard">X</td><td width="" height="" class="standard">&nbsp;</td><td width="" height="" class="standard">&nbsp;</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Ford WSS-M2C930-A</td><td width="" height="" class="standard">X</td><td width="" height="" class="standard">&nbsp;</td><td width="" height="" class="standard">&nbsp;</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Ford WSS-M2C946-A</td><td width="" height="" class="standard">&nbsp;</td><td width="" height="" class="standard">X&nbsp;</td><td width="" height="" class="standard">&nbsp;</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Ford WSS-M2C929-A</td><td width="" height="" class="standard">&nbsp;</td><td width="" height="" class="standard">X</td><td width="" height="" class="standard">&nbsp;</td>
-                                        </tr></tbody></table>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td width="" height="" class="standard">API SL</td>
+                                                <td width="" height="" class="standard">X</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">API SM</td>
+                                                <td width="" height="" class="standard">X</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">API SN</td>
+                                                <td width="" height="" class="standard">X</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">API SN PLUS</td>
+                                                <td width="" height="" class="standard">X</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">API SN PLUS RESOURCE CONSERVING</td>
+                                                <td width="" height="" class="standard">X</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">API SN Resource Conserving</td>
+                                                <td width="" height="" class="standard">X</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">ILSAC GF-5</td>
+                                                <td width="" height="" class="standard">X</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">Ford WSS-M2C945-A</td>
+                                                <td width="" height="" class="standard">X</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">Ford WSS-M2C945-B1</td>
+                                                <td width="" height="" class="standard">X</td>
+                                            </tr>
+                                        </tbody>
+                                        <thead>
+                                            <tr>
+                                                <th width="" scope="col" height="" class="standard">This product is recommended by Imperial Oil for use in applications requiring:</th>
+                                                <th width="" scope="col" height="" class="standard">5W-20</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td width="" height="" class="standard">Ford WSS-M2C930-A</td>
+                                                <td width="" height="" class="standard">X</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">GM 6094M</td>
+                                                <td width="" height="" class="standard">X</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Tech Details Content">
                                     <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
                                         <thead>
                                             <tr>
-                                                <th width="" scope="col" height="" class="standard">
-            
-                                                    <p>Mobil Super 1000</p>
-            
-                                                </th><th width="" scope="col" height="" class="standard">5W-20</th><th width="" scope="col" height="" class="standard">
-            
-                                                    <p>5W-30</p>
-            
-                                                </th><th width="" scope="col" height="" class="standard">10W-30</th>
+                                                <th width="" scope="col" height="" class="standard">Property</th>
+                                                <th width="" scope="col" height="" class="standard">5W-20</th>
+                                                <th width="" scope="col" height="" class="standard">5W-30</th>
+                                                <th width="" scope="col" height="" class="standard">10W-30</th>
                                             </tr>
-                                        </thead><tbody><tr>
-                                            <td width="" height="" class="standard">Specific Gravity</td><td width="" height="" class="standard">0.860</td><td width="" height="" class="standard">0.860</td><td width="" height="" class="standard">0.869</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Pour Point, °C</td><td width="" height="" class="standard">-31</td><td width="" height="" class="standard">-33</td><td width="" height="" class="standard">-33</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Flash Point, °C (°F), ASTM D 92</td><td width="" height="" class="standard">221</td><td width="" height="" class="standard">220</td><td width="" height="" class="standard">222</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Viscosity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td width="" height="" class="standard">&nbsp;</td><td width="" height="" class="standard">&nbsp;</td><td width="" height="" class="standard">&nbsp;</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">cSt at 40°C</td><td width="" height="" class="standard">49</td><td width="" height="" class="standard">62</td><td width="" height="" class="standard">69</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">cSt at 100°C</td><td width="" height="" class="standard">8.6</td><td width="" height="" class="standard">10.4</td><td width="" height="" class="standard">10.6</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">CCS, cP</td><td width="" height="" class="standard">5.880@ -30°C</td><td width="" height="" class="standard">6,440@ <br>
-            -30°C</td><td width="" height="" class="standard">6,040@ -25°C</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">MRV, cP</td><td width="" height="" class="standard">26,900@ -35°C</td><td width="" height="" class="standard">30,300@ <br>
-            -35°C</td><td width="" height="" class="standard">18,700@ -30°C</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Viscosity Index</td><td width="" height="" class="standard">152</td><td width="" height="" class="standard">157</td><td width="" height="" class="standard">141</td>
-                                        </tr>
-                                        <tr>
-                                            <td width="" height="" class="standard">Resource Conserving</td><td width="" height="" class="standard">Yes</td><td width="" height="" class="standard">Yes</td><td width="" height="" class="standard">Yes</td>
-                                        </tr></tbody></table>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td width="" height="" class="standard">Grade</td>
+                                                <td width="" height="" class="standard">SAE 5W-20</td>
+                                                <td width="" height="" class="standard">SAE 5W-30</td>
+                                                <td width="" height="" class="standard">SAE 10W-30</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">ASTM Color, ASTM D1500</td>
+                                                <td width="" height="" class="standard">3</td>
+                                                <td width="" height="" class="standard">1.5</td>
+                                                <td width="" height="" class="standard">3</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">Cold-Cranking Simulator, Apparent Viscosity @ -25 C, mPa.s, ASTM D5293</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                                <td width="" height="" class="standard">5500 max</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">Cold-Cranking Simulator, Apparent Viscosity @ -30 C, mPa.s, ASTM D5293</td>
+                                                <td width="" height="" class="standard">6600 max</td>
+                                                <td width="" height="" class="standard">6600 max</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">Density @ 15.6 C, g/ml, ASTM D4052</td>
+                                                <td width="" height="" class="standard">0.8586</td>
+                                                <td width="" height="" class="standard">0.858</td>
+                                                <td width="" height="" class="standard">0.8665</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">Kinematic Viscosity @ 100 C, mm2/s, ASTM D445</td>
+                                                <td width="" height="" class="standard">8.3/td>
+                                                <td width="" height="" class="standard">10.7</td>
+                                                <td width="" height="" class="standard">10.7</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">Kinematic Viscosity @ 40 C, mm2/s, ASTM D445</td>
+                                                <td width="" height="" class="standard">48.8</td>
+                                                <td width="" height="" class="standard">64</td>
+                                                <td width="" height="" class="standard">73</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                             </td>
                             <td valign="top" style="width: 10px; background-image:url('/Images/Tabs/box_Right.png'); background-repeat: repeat-y; background-color: #ffffff;" class="rightBorder">
