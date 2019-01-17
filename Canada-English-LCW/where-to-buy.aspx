@@ -180,9 +180,6 @@ Service Stations</p>
                                             <a title="" target="_blank" onclick="trackClick(this);" href="http://www.mrlube.com/en/Default.aspx" class="">Mr. Lube</a>
                                         </li>
                                         <li>
-                                            <a title="" target="_blank" onclick="trackClick(this);" href="http://www.lubecity.ca/" class="">Lube City</a>
-                                        </li>
-                                        <li>
                                             <a title="" target="" onclick="trackClick(this);" href="/Canada-English-LCW/where-to-buy_mobil-1-lube-express.aspx" class="">Mobil 1&trade; Lube Express</a>
                                         </li>
                                         <li>
