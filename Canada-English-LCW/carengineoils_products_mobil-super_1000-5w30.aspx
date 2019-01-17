@@ -185,24 +185,24 @@
                             <td valign="top" style="width: 435px; background-image:url('/Images/Tabs/boxNoFade_Upper.png'); background-repeat: repeat-x; background-color: #ffffff;" class="midBorder">
                                 <div style="width:434px; white-space:normal; padding-top:10px;display:block " class="divTabContent" id="Features &amp; Benefits Content">
                                     <ul xmlns="">
-    
+
                                         <li>Helps keep engines clean</li>
-    
+
                                         <li>Helps fuel efficiency</li>
-    
+
                                         <li>Helps reduce engine wear and corrosion</li>
-    
+
                                         <li>Meets or exceeds the latest industry specification (ILSAC GF-5 / API SN Resource Conserving)</li>
-    
+
                                         <li>Easy cold starting</li>
 
                                     </ul>
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Applications Content">
                                     <ul xmlns="">
-    
-                                        <li>Mobil Super 1000 5W-20, 5W-30 and 10W-30 are recommended for gasoline, propane and E-85 fueled cars and light duty trucks where an oil meeting API SN, SM, SL or SJ is required. They meet ILSAC GF-5 (Starburst Certification Symbol).</li>
-    
+
+                                        <li>Mobil Super 1000 5W-20, 5W-30 and 10W-30 are recommended for gasoline, propane and E-85 fueled cars and light duty trucks where an oil meeting API SN Plus, SN, SM, SL or SJ is required. They meet ILSAC GF-5 (Starburst Certification Symbol).</li>
+
                                         <li>Before using a Mobil Super 1000 motor oils, consult the owner's manual of the vehicle for the manufacturer's recommended viscosity grade and API Service Classification</li>
 
                                     </ul>
