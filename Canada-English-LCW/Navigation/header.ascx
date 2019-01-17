@@ -90,7 +90,7 @@ string isCurrent(string url){
                 <li><a onclick="trackClick(this);" target="" <% =isCurrent("/Canada-English-LCW/default.aspx#") %> href="/Canada-English-LCW/default.aspx#">home</a></li>
                 <li><a onclick="trackClick(this);" target="" <% =isCurrent("http://www.imperialoil.com/Canada-English/about_media_releases.aspx") %> href="http://www.imperialoil.com/Canada-English/about_media_releases.aspx">news</a></li>
                 <li><a onclick="trackClick(this);" target="" <% =isCurrent("http://www.imperialoil.ca/Canada-English/about_investors.aspx") %> href="http://www.imperialoil.ca/Canada-English/about_investors.aspx">investors</a></li>
-                <li><a onclick="trackClick(this);" target="" <% =isCurrent("http://www.imperialoil.ca/Canada-English/workingwithus.aspx") %> href="http://www.imperialoil.ca/Canada-English/workingwithus.aspx">careers</a></li>
+                <li><a onclick="trackClick(this);" target="" <% =isCurrent("https://www.imperialoil.ca/en-ca/careers/working-with-us") %> href="https://www.imperialoil.ca/en-ca/careers/working-with-us">careers</a></li>
                 <li><a onclick="trackClick(this);" target="" <% =isCurrent("https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form") %> href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form">contact us</a></li>
             </ul>
         </div>
