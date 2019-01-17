@@ -117,19 +117,6 @@ Mobil 1&trade; on Facebook</p>
                             </div>
                         </div>
                     </div>
-                    <div class="layoutRow clrfix">
-                        <div class="subfeature csingle cleft">
-                            <div xmlns="" class="headerbar">
-                                <h3>
-                                    <a title="" target="_self" onclick="trackClick(this);" href="../Canada-English-LCW/carengineoils_motorsport_tooned.aspx">TOONED<span></span></a>
-                                </h3>
-                            </div>
-                            <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="../Canada-English-LCW/carengineoils_motorsport_tooned.aspx" title="TOONED" target="_self" onclick="trackClick(this);"><img title="Tooned" src="../shared-images-lcw/motorsport/teaser_60x60_tooned.png" longdesc="" class="floatimgleft" border="0" alt="Tooned"></a></div>
-                                <p>TOONED presents the Mobil 1&trade; Story of Oil with Jenson, Kevin &amp; Tony</p>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div><!--#include file="Navigation/Footer.aspx" --></div>
     </body>
