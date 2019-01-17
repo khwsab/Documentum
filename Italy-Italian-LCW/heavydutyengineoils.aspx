@@ -71,11 +71,6 @@
                     <div style="z-index:450;">
                         <script type="text/javascript">quickEditForm("0915881d81da48e4", "/Content/Feature",true,"../forms/LCWLandingFeature","","790px","700px","Landing Page Feature and Subfeatures","","pencil.gif","210px");</script>
                     </div><!-- googleon: all -->
-                    <div style="width:65%; float:left;">
-                        <p xmlns="">
-                            <img src="./html5/images/Banner-Box-MobilDelvac.gif" alt="Mobil Delvac" title="Mobil Delvac" align="left" border="0" hspace="0" class="imgFloatLeft">
-                        </p>
-                    </div>
             <div id="subfeatureCallouts">
                     <div style="background-image:url(/Italy-Italian-LCW/Images/callout_244x135_italy-map.png.png);" class="callout top">
                         <div class="frame01BL">
@@ -108,7 +103,7 @@
                         </div>
                     </div>
             </div>
-            <div id="mainFeature" style="width: 100%;">
+            <div id="mainFeature">
                     <p xmlns="">
                         <img src="../Shared-Images-LCW/article_150x150_euro-truck_eame.jpg" height="150" width="150" alt="Mobil Delvac" title="Mobil Delvac" align="left" border="0" hspace="0" class="imgFloatLeft"></p>
 
