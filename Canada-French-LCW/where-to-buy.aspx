@@ -178,9 +178,6 @@ Utiliser le localisateur de distributeur pour trouver un distributeur autorisé d
                                             <a title="" target="_blank" onclick="trackClick(this);" href="http://www.mrlube.com/fr/Default.aspx" class="">Monsieur Lub</a>
                                         </li>
                                         <li>
-                                            <a title="" target="_blank" onclick="trackClick(this);" href="http://www.lubecity.ca/" class="">Lube City</a>
-                                        </li>
-                                        <li>
                                             <a title="" target="" onclick="trackClick(this);" href="/Canada-French-LCW/where-to-buy_mobil-1-lube-express.aspx" class="">Mobil 1 Lube Express&trade;</a>
                                         </li>
                                         <li>
