@@ -90,8 +90,8 @@ string isCurrent(string url){
                 <li><a onclick="trackClick(this);" target="" <% =isCurrent("/Canada-French-LCW/default.aspx") %> href="/Canada-French-LCW/default.aspx">accueil</a></li>
                 <li><a onclick="trackClick(this);" target="" <% =isCurrent("http://www.limperiale.ca/Canada-Francais/about_media_releases.aspx") %> href="http://www.limperiale.ca/Canada-Francais/about_media_releases.aspx">nouvelles</a></li>
                 <li><a onclick="trackClick(this);" target="" <% =isCurrent("http://www.imperialoil.ca/Canada-Francais/about_investors.aspx") %> href="http://www.imperialoil.ca/Canada-Francais/about_investors.aspx">investisseurs</a></li>
-                <li><a onclick="trackClick(this);" target="" <% =isCurrent("http://www.imperialoil.ca/Canada-Francais/workingwithus.aspx") %> href="http://www.imperialoil.ca/Canada-Francais/workingwithus.aspx">carrières</a></li>
-                <li><a onclick="trackClick(this);" target="" <% =isCurrent("http://www.imperialoil.ca/Canada-Francais/contactus.aspx") %> href="http://www.imperialoil.ca/Canada-Francais/contactus.aspx">nous joindre</a></li>
+                <li><a onclick="trackClick(this);" target="" <% =isCurrent("https://www.imperialoil.ca/fr-ca/careers/working-with-us") %> href="https://www.imperialoil.ca/fr-ca/careers/working-with-us">carrières</a></li>
+                <li><a onclick="trackClick(this);" target="" <% =isCurrent("https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form") %> href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form">nous joindre</a></li>
             </ul>
         </div>
     </div>
