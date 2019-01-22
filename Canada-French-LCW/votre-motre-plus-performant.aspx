@@ -131,7 +131,7 @@ Une longue route. Jours d&rsquo;été torrides. Embouteillages. Dans de telles con
 L&rsquo;huile à moteur Mobil 1 est testée en laboratoire et éprouvée sur la route. Jusqu&rsquo;à 20 000 heures de tests en laboratoire/sur le terrain et 804 650 km (500 000 milles) accompagnent chaque bouteille. Les performances de l&rsquo;huile à Mobil 1 procurent une puissante protection contre l&rsquo;usure, un démarrage à basses températures, des performances à température élevée et une superbe propreté du moteur. Aucune autre huile ne peut dépasser Mobil 1 en termes de performances globales.</p>
 
                         <p xmlns="">
-                            <a title="" target="_self" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/where-to-buy.aspx" class=""><img src="../Canada-French-LCW/Images/yeefr7.JPG" height="86" width="464" alt="Mobil1" title="Mobil1" border="0" hspace="0"></a>
+                            <a title="" target="_self" onclick="trackClick(this);" href="/Canada-French-LCW/where-to-buy.aspx" class=""><img src="../Canada-French-LCW/Images/yeefr7.JPG" height="86" width="464" alt="Mobil1" title="Mobil1" border="0" hspace="0"></a>
                         </p>
                     </div>
                 </div>

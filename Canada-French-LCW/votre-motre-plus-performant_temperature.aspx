@@ -99,7 +99,7 @@
 16 000 kilomètres? Vous devez généralement changer d&rsquo;huile beaucoup plus vite. Vous avez l&rsquo;habitude d&rsquo;effectuer des changements d&rsquo;huile tous les 5 000 à 8 000 kilomètres; ce sont les limites. Cependant, les limites, les recommandations et les résultats ne sont pas les mêmes pour tous; ils peuvent être redéfinis.</p>
 
                         <p xmlns="">
-                            <a title="" target="_self" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/where-to-buy.aspx" class=""><img src="../Canada-French-LCW/Images/French-CTA-v2.jpg" height="54" width="464" alt="Mobil1" title="Mobil1" border="0" hspace="0"></a>
+                            <a title="" target="_self" onclick="trackClick(this);" href="/Canada-French-LCW/where-to-buy.aspx" class=""><img src="../Canada-French-LCW/Images/French-CTA-v2.jpg" height="54" width="464" alt="Mobil1" title="Mobil1" border="0" hspace="0"></a>
                         </p>
 
                         <p xmlns="">
@@ -135,7 +135,7 @@ Une longue route. Jours d&rsquo;été torrides. Embouteillages. Dans de telles con
 L&rsquo;huile à moteur Mobil 1 est testée en laboratoire et éprouvée sur la route. Jusqu&rsquo;à 20 000 heures de tests en laboratoire/sur le terrain et 804 650 km (500 000 milles) accompagnent chaque bouteille. Les performances de l&rsquo;huile à Mobil 1 procurent une puissante protection contre l&rsquo;usure, un démarrage à basses températures, des performances à température élevée et une superbe propreté du moteur. Aucune autre huile ne peut dépasser Mobil 1 en termes de performances globales.</p>
 
                         <p xmlns="">
-                            <a title="" target="_self" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/where-to-buy.aspx" class=""><img src="../Canada-French-LCW/Images/yeefr7.JPG" height="150" width="464" alt="Mobil1" title="Mobil1" border="0" hspace="0"></a>
+                            <a title="" target="_self" onclick="trackClick(this);" href="/Canada-French-LCW/where-to-buy.aspx" class=""><img src="../Canada-French-LCW/Images/yeefr7.JPG" height="150" width="464" alt="Mobil1" title="Mobil1" border="0" hspace="0"></a>
                         </p>
                     </div>
                 </div>
