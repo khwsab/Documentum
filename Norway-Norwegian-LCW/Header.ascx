@@ -91,7 +91,7 @@ string isCurrent(string url){
                 <li><a onclick="trackClick(this);" target="" <% =isCurrent("http://www.exxonmobil.no/Norway-Norwegian/PA/news.aspx") %> href="http://www.exxonmobil.no/Norway-Norwegian/PA/news.aspx">nyheter</a></li>
                 <li><a onclick="trackClick(this);" target="" <% =isCurrent("http://ir.exxonmobil.com") %> href="http://ir.exxonmobil.com">investorer</a></li>
                 <li><a onclick="trackClick(this);" target="" <% =isCurrent("http://corporate.exxonmobil.com/en/company/careers") %> href="http://corporate.exxonmobil.com/en/company/careers">ledige stillinger</a></li>
-                <li><a onclick="trackClick(this);" target="" <% =isCurrent("Norway-Norwegian-LCW/contactus_contact.aspx?CountryCode=NO&amp;Language=Norwegian") %> href="/Norway-Norwegian-LCW/contactus_contact.aspx?CountryCode=NO&amp;Language=Norwegian">kontakt oss</a></li>
+                <li><a onclick="trackClick(this);" target="" <% =isCurrent("http://www.mobil.com/contact-us?lang=nb-NO") %> href="http://www.mobil.com/contact-us?lang=nb-NO">kontakt oss</a></li>
             </ul>
         </div>
     </div>

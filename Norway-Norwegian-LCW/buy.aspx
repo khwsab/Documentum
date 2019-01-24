@@ -76,7 +76,7 @@
 
                         <h1 xmlns="">Forhandlere</h1>
 
-                        <p xmlns="">Takk for din interesse i Mobil&trade; smøreprodukter. Velg hvilken innkjøpsmetode som passer best for deg. Hvis du ikke finner det du ser etter, <a title="" target="" onclick="trackClick(this);" href="/Norway-Norwegian-LCW/contactus_contact.aspx?CountryCode=NO&amp;Language=Norwegian" class="">kontakt oss</a> og vi vil gjøre det vi kan for å hjelpe deg.</p> </div>
+                        <p xmlns="">Takk for din interesse i Mobil&trade; smøreprodukter. Velg hvilken innkjøpsmetode som passer best for deg. Hvis du ikke finner det du ser etter, <a title="" target="" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=nb-NO" class="">kontakt oss</a> og vi vil gjøre det vi kan for å hjelpe deg.</p> </div>
             <div id="subfeatureCallouts">
                     <div style="background-image:url(/Norway-Norwegian-LCW/Images/callout_224x135_norway-map.jpg);" class="callout top">
                         <div class="frame01BL">
@@ -123,7 +123,7 @@ Esso&trade; bensinstasjon<span></span></a>
                             </div>
                             <div xmlns="" class="padding">
                                 <div class="img60 left"><a href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=nb-NO&amp;renderMap=true&amp;renderButton=false" title="finn en ExxonMobil-distributør" target="_new" onclick="trackClick(this);"><img title="finne leverandør" src="../Shared-Images-LCW/teaser_60x60_map_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="finne leverandør"></a></div>
-                                <p>Med et stort lager, kan leverandørene av ExxonMobil smøremidler tilby et stor utvalg av produkter til en rekke ulike bruksområder. Hvis du vil kontakte din nærmeste leverandør av ExxonMobil smøremidler, kan du bruke vår <a title="" target="_new" onclick="trackClick(this);" href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=nb-NO&amp;renderMap=true&amp;renderButton=false" class="">Distributor Locator tool</a>. Hvis du vil finne ut mer om tilbud fra Mobil&trade; gjennom våre leverandører og forhandlere, <a title="" target="" onclick="trackClick(this);" href="/Norway-Norwegian-LCW/contactus_contact.aspx?CountryCode=NO&amp;Language=Norwegian" class="">kontakt oss</a>.</p>
+                                <p>Med et stort lager, kan leverandørene av ExxonMobil smøremidler tilby et stor utvalg av produkter til en rekke ulike bruksområder. Hvis du vil kontakte din nærmeste leverandør av ExxonMobil smøremidler, kan du bruke vår <a title="" target="_new" onclick="trackClick(this);" href="https://www.mobil.com/industrial/lubricants-distributors/externallocator?culture=nb-NO&amp;renderMap=true&amp;renderButton=false" class="">Distributor Locator tool</a>. Hvis du vil finne ut mer om tilbud fra Mobil&trade; gjennom våre leverandører og forhandlere, <a title="" target="" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=nb-NO" class="">kontakt oss</a>.</p>
                             </div>
                         </div>
                         <div class="subfeature csingle cright"><!-- googleoff: all -->
