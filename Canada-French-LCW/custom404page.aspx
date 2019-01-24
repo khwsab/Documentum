@@ -162,7 +162,7 @@
 					<li><a href="https://www.mobil.ca/Canada-French-LCW/default.aspx">accueil</a></li>
 					<li><a href="https://www.limperiale.ca/Canada-Francais/about_media_releases.aspx">nouvelles</a></li>
 					<li><a href="https://ir.exxonmobil.com/phoenix.zhtml?c=115024&amp;p=irol-irhome">investisseurs</a></li>
-					<li><a href="https://www.imperialoil.ca/fr-ca/careers/working-with-us">carrières</a></li>
+					<li><a href="https://www.imperialoil.ca/fr-ca/careers/careers">carrières</a></li>
 					<li><a href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form">nous joindre</a></li>
 				</ul>
 			</div>
