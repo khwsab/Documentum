@@ -90,7 +90,7 @@ Les conducteurs de camion ont l'assurance que les vérifications des fluides de l
                             <br>
 Le programme <em>Mobil Delvac Express</em> fait partie du soutien continu de Pétrolière Impériale auprès des conducteurs de camion en leur fournissant un service innovateur en vue d'aider les chauffeurs de véhicules utilitaires lourds et de camions commerciaux à réduire les coûts et à maintenir un rendement optimal sur la route.</p>
 
-                        <p xmlns="">Pour toutes questions ou commentaires concernant le programme, veuillez nous <a title="" target="" onclick="trackClick(this);" href="/Canada-French-LCW/contactus_contact.aspx?CountryCode=CA&amp;Language=French" class="">contactez-nous</a>.</p>
+                        <p xmlns="">Pour toutes questions ou commentaires concernant le programme, veuillez nous <a title="" target="" onclick="trackClick(this);" href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form" class="">contactez-nous</a>.</p>
 
                         <p xmlns="">
 
