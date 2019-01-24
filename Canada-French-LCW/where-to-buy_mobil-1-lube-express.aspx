@@ -92,7 +92,7 @@
 
                         <p xmlns="">
                             <br>
-Si vous avez des questions ou des commentaires relativement au programme, veuillez communiquer avec nous par écrit à <a title="" target="" onclick="trackClick(this);" href="/Canada-French-LCW/contactus_contact.aspx?CountryCode=CA" class="">ici.</a>
+Si vous avez des questions ou des commentaires relativement au programme, veuillez communiquer avec nous par écrit à <a title="" target="" onclick="trackClick(this);" href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form" class="">ici.</a>
                         </p>
 
                         <p xmlns="">

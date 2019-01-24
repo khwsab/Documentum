@@ -202,7 +202,7 @@ Mobil fortsetter å utvikle nye produkter og løsninger innen smøremidler for å bi
                                     <div class="callbluepad">
                                         <div style="background-image: url(../Egypt-English-LCW/Images/teaser_90x90_globe.png);" class="content img90">
                                             <h2>
-                                                <a title="" target="_self" onclick="trackClick(this);" href="../norway-norwegian-lcw/contactus_contact.aspx?CountryCode=NO&amp;Language=Norwegian">Teknisk kundeservice<span></span></a>
+                                                <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=nb-NO">Teknisk kundeservice<span></span></a>
                                             </h2>
                                             <p>Ta kontakt enten ved å bruke Kontakt Oss-skjemaet eller ved å ringe: <br>
 
@@ -216,7 +216,7 @@ Mobil fortsetter å utvikle nye produkter og løsninger innen smøremidler for å bi
                                                 </div>
                                                 <div class="buttonBR clrfix">
                                                     <div class="bttnpad">
-                                                        <a title="" target="_self" onclick="trackClick(this);" href="../norway-norwegian-lcw/contactus_contact.aspx?CountryCode=NO&amp;Language=Norwegian">Kontakt oss<span></span></a>
+                                                        <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobil.com/contact-us?lang=nb-NO">Kontakt oss<span></span></a>
                                                     </div>
                                                 </div>
                                             </div>
