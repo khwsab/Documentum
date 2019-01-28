@@ -95,7 +95,7 @@ The Mobil 1 Lube Express Program can assist with re-imaging and can help improve
 At the heart of the program is the unsurpassed performance you get with the full line of premium-quality Mobil&trade; lubricant that customers know and can trust &ndash; from Mobil Super&trade;&nbsp;1000 and Mobil Super&trade;&nbsp;2000 to our entire line of Mobil 1 and Mobil 1&trade;&nbsp; Extended Performance synthetic motor oils.<br>
 
                             <br>
-For questions or comments regarding the program please write to us at <a title="" target="_self" onclick="trackClick(this);" href="/Canada-English-LCW/contactus_contact.aspx?CountryCode=CA" class="">here</a>.</p>
+For questions or comments regarding the program please write to us at <a title="" target="_self" onclick="trackClick(this);" href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form" class="">here</a>.</p>
 
                         <p xmlns="">
                             <strong>Mobil&nbsp;1 Lube Express:</strong>

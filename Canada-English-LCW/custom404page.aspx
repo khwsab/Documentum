@@ -161,7 +161,7 @@
 					<li><a href="https://www.mobil.ca/Canada-English-LCW/default.aspx#">home</a></li>
 					<li><a href="https://www.imperialoil.com/Canada-English/about_media_releases.aspx">news</a></li>
 					<li><a href="https://www.imperialoil.ca/Canada-English/about_investors.aspx">investors</a></li>
-					<li><a href="https://www.imperialoil.ca/en-ca/careers/working-with-us">careers</a></li>
+					<li><a href="https://www.imperialoil.ca/en-ca/careers/careers">careers</a></li>
 					<li><a href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form">contact us</a></li>
 				</ul>
 			</div>
