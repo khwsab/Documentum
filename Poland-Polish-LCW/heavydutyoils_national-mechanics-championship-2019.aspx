@@ -103,7 +103,7 @@
                         <p>Organizatorami Og&oacute;lnopolskich Mistrzostw Mechanik&oacute;w sa Miedzynarodowe Targi Poznanskie i Fundacja Cooperatio, zrzeszajaca ekspert&oacute;w, przedstawicieli organizacji branzowych i firm wsp&oacute;lpracujacych na rzecz bezpieczenstwa w ruchu drogowym oraz promujacych rozw&oacute;j edukacji technicznej. Partnerami Mistrzostw sa ExxonMobil &ndash; inicjator kategorii Mlody Mechanik, Akademia Praktycznych Umiejetnosci, Akademia Kierowcy, febi, Filtron, Kolejowe Zaklady Lacznosci oraz Uni-Trol. Z kolei kategorii Mlody Mechanik Maszyn Rolniczych patronuja firma Kramp, <em>producent ciagnik&oacute;w i maszyn rolniczych John Deere, </em>najwiekszy w Polsce miesiecznik rolniczy <em>TOP AGRAR oraz nowy magazyn rolniczy Profi.</em></p>
                         
                         <p xmlns="">
-                            <img src="../Poland-Polish-LCW/Images/Plakat2019.jpg" height="1000" title="Plakat 2019 Młody Mechanik" alt="Plakat 2019 Młody Mechanik" width="1414" border="0" hspace="0">
+                            <img src="../Poland-Polish-LCW/Images/Plakat2019.jpg" style="max-width: 100%;" title="Plakat 2019 Młody Mechanik" alt="Plakat 2019 Młody Mechanik" border="0" hspace="0">
                         </p>
                         
                         <div>
