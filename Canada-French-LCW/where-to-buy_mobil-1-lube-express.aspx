@@ -286,7 +286,7 @@ Si vous avez des questions ou des commentaires relativement au programme, veuill
                                     </td>
                                     <td width="" height="" class="standard">
 
-                                        <p>Coleman Lube and Oil<br>
+                                        <p>Coleman LubeandOil<br>
             20966 56th Ave&nbsp;2<br>
 
                                             <strong>Langley&nbsp;</strong>
