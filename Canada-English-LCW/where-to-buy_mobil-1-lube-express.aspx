@@ -231,21 +231,6 @@ For questions or comments regarding the program please write to us at <a title="
 
                                     </td>
                                 </tr>
-                                <tr>
-                                    <td width="50%" height="" class="standard">
-
-                                        <p>Mobil 1 Lube Express - Freedom Ford<br>
-            7505 75 Street<br>
-
-                                            <strong>Edmonton, </strong>
-                                            <br>
-            Alberta, T6C 4H8<br>
-            1 888-710-5954</p>
-
-                                        <p>&nbsp;</p>
-
-                                    </td>
-                                </tr>
                                 <tr></tr></tbody></table>
 
                         </p>
@@ -648,7 +633,8 @@ For questions or comments regarding the program please write to us at <a title="
             Ontario, L1S 2C9<br>
             905-427-6796</p>
 
-                                    </td><td width="50%" height="" class="standard">
+                                    </td>
+                                    <td width="50%" height="" class="standard">
 
                                         <p>Mobil 1 Lube Express<br>
             100 Chestnut Street West, <br>
@@ -659,8 +645,35 @@ For questions or comments regarding the program please write to us at <a title="
             905-655-3255</p>
 
                                     </td>
-                                </tr></tbody></table>
+                                </tr>
+                                <tr>
+                                    <td width="50%" height="" class="standard">
+                                        <p>Mobil 1 Lube Express&nbsp;<br>
+                                            11085 Creditview Road<br>
+                                            <strong>Brampton</strong><br>
+                                            Ontario, L7A 0G4<br>
+                                            905-495-4234 </p>
 
+                                    </td>
+                                    <td width="50%" height="" class="standard">
+                                        <p>Kandy Auto Enterprises Inc<br>
+                                            1000 Rountree Dairy Rd Unit #3<br>
+                                            <strong>Woodbridge</strong><br>
+                                            Ontario</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="50%" height="" class="standard">
+
+                                        <p>Mobil 1 Lube Express&nbsp;<br>
+                                        627 Danforth Rd<br>
+                                        <strong>Toronto</strong> <br>
+                                        Ontario, L1S 2C9<br>
+                                        905-427-6796</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
                         </p>
 
                         <p xmlns="">
@@ -700,12 +713,18 @@ For questions or comments regarding the program please write to us at <a title="
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td width="50%" height="" class="standard">Mobil 1 Lube Express<br>
-            Unity&nbsp;315 - 2nd Ave&nbsp;<br>
-
-                                        <strong>Unity&nbsp;</strong>
-                                        <br>
-            Saskatchewan,&nbsp;S0K 4L0</td><td width="50%" height="" class="standard">&nbsp;</td>
+                                    <td width="50%" height="" class="standard">
+                                        Mobil 1 Lube Express<br>
+                                        Unity&nbsp;315 - 2nd Ave&nbsp;<br>
+                                        <strong>Unity&nbsp;</strong><br>
+                                        Saskatchewan,&nbsp;S0K 4L0
+                                    </td>
+                                    <td width="50%" height="" class="standard">
+                                        Brad's Automotive<br>
+                                        1011 Osler Street<br>
+                                        <strong>Regina</strong><br>
+                                        Saskatchewan
+                                    </td>
                                 </tr></tbody></table>
 
                         </p>
