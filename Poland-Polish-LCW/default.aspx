@@ -138,7 +138,7 @@ Dobierz odpowiedni olej do Twojego pojazdu korzystaj&#261;c z naszego narz&#281;
                         </div><div class="middleSection"><ul xmlns="">
     
                             <li>
-                                <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/heavydutyoils_national-mechanics-championship-2019.aspx#" class="">Og&oacute;lnopolskie Mistrzostwa&nbsp;Mechanik�w </a>
+                                <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/heavydutyoils_national-mechanics-championship-2019.aspx#" class="">Og&oacute;lnopolskie Mistrzostwa&nbsp;Mechanik&oacute;w </a>
                             </li>
     
                             <li>
@@ -163,7 +163,7 @@ Dobierz odpowiedni olej do Twojego pojazdu korzystaj&#261;c z naszego narz&#281;
                                 <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobil.com/en/industrial/lubricants" class="">dobierz olej przemys&#322;owy dla Twoich potrzeb</a>&nbsp;</li>
     
                             <li>
-                                <a title="" target="_blank" onclick="trackClick(this);" href="http://www.exxonmobil.com/pds" class="">karty produkt�w</a>
+                                <a title="" target="_blank" onclick="trackClick(this);" href="http://www.exxonmobil.com/pds" class="">karty produkt&oacute;w</a>
                             </li>
     
                             <li>
