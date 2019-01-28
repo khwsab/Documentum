@@ -231,11 +231,8 @@
 
                                         </strong>780-791-5069</p>
 
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </p>
+                                        <p>Coleman LubeandOil<br>
+                                        20966 56th Ave&nbsp;2<br>
 
                 <p xmlns="">
 
