@@ -298,18 +298,18 @@
             <asp:panel visible="true" id="L1_7" Runat="server">
                 <ul>
                     <li>
-                        <asp:HyperLink runat="server" id="aL1_7" NavigateUrl="/Poland-Polish-LCW/heavydutyoils_national-mechanics-championship-2019.aspx">mistrzostwa mechanik&oacute;w 2019</asp:HyperLink>
+                        <asp:HyperLink runat="server" id="aL1_7" NavigateUrl="/Poland-Polish-LCW/heavydutyoils_national-mechanics-championship-2019.aspx">Mistrzostwa Mechanik&oacute;w 2019</asp:HyperLink>
                     </li>
                     <asp:panel visible="false" id="L1_7_L2_1" Runat="server">
                         <ul>
                             <li class="endpoint">
-                                <asp:HyperLink runat="server" id="aL1_7_L2_1" NavigateUrl="/Poland-Polish-LCW/heavydutyoils_national-mechanics-championship-2018.aspx">mistrzostwa mechanik&oacute;w 2018</asp:HyperLink>
+                                <asp:HyperLink runat="server" id="aL1_7_L2_1" NavigateUrl="/Poland-Polish-LCW/heavydutyoils_national-mechanics-championship-2018.aspx">Mistrzostwa Mechanik&oacute;w 2018</asp:HyperLink>
                             </li>
                         </ul><% Response.Write((aL1_7_L2_1.CssClass == "selected") ? "<script type=\"text/javascript\">addFallback(2,\"heavydutyoils_national-mechanics-championship-2018.aspx\")</script>" : ""); %></asp:panel>
                     <asp:panel visible="false" id="L1_7_L2_2" Runat="server">
                         <ul>
                             <li class="endpoint">
-                                <asp:HyperLink runat="server" id="aL1_7_L2_2" NavigateUrl="/Poland-Polish-LCW/heavydutyoils_national-mechanics-championship-2017.aspx">mistrzostwa mechanik&oacute;w 2017</asp:HyperLink>
+                                <asp:HyperLink runat="server" id="aL1_7_L2_2" NavigateUrl="/Poland-Polish-LCW/heavydutyoils_national-mechanics-championship-2017.aspx">Mistrzostwa Mechanik&oacute;w 2017</asp:HyperLink>
                             </li>
                         </ul><% Response.Write((aL1_7_L2_2.CssClass == "selected") ? "<script type=\"text/javascript\">addFallback(2,\"heavydutyoils_national-mechanics-championship-2017.aspx\")</script>" : ""); %></asp:panel>
                 </ul><% Response.Write((aL1_7.CssClass == "selected") ? "<script type=\"text/javascript\">addFallback(1,\"heavydutyoils_national-mechanics-championship-2019.aspx\")</script>" : ""); %></asp:panel>
