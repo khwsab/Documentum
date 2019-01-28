@@ -4,12 +4,12 @@
   <%@ Register TagPrefix="XOM" Namespace="XOM.Common.Web" Assembly="XOMCommon" %>
 <%@ Register Src="Navigation/heavydutyoils.ascx" TagName="Navigation" TagPrefix="xom" %><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
     <head><meta http-equiv="X-UA-Compatible" content="IE=8">
-        <title>Mobil Delvac&trade; | Og�lnopolskie Mistrzostwa Mechanik�w 2019</title>
-        <meta name="keywords" content="Mobil Delvac&trade; | Og�lnopolskie Mistrzostwa Mechanik�w 2019"/>
-        <meta name="description" content="Mobil Delvac&trade; | Og�lnopolskie Mistrzostwa Mechanik�w 2019"/>
+        <title>Mobil Delvac&trade; | Og&oacute;lnopolskie Mistrzostwa Mechanik&oacute;w 2019</title>
+        <meta name="keywords" content="Mobil Delvac&trade; | Og&oacute;lnopolskie Mistrzostwa Mechanik&oacute;w 2019"/>
+        <meta name="description" content="Mobil Delvac&trade; | Og&oacute;lnopolskie Mistrzostwa Mechanik&oacute;w 2019"/>
         <meta name="language" content="pl"/>
         <meta http-equiv="Content-Language" content="pl"/>
-        <meta name="WT.ti" content="Mobil Delvac&trade; | Og�lnopolskie Mistrzostwa Mechanik�w 2019"/>
+        <meta name="WT.ti" content="Mobil Delvac&trade; | Og&oacute;lnopolskie Mistrzostwa Mechanik&oacute;w 2019"/>
         <meta name="WT.cg_n" content="Article"/>
         <meta name="WT.cg_s" content=""/>
         <link type="text/css" rel="stylesheet" media="all" href="/Imports/LCW_xom.css"/>

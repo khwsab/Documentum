@@ -138,7 +138,7 @@ Dobierz odpowiedni olej do Twojego pojazdu korzystaj&#261;c z naszego narz&#281;
                         </div><div class="middleSection"><ul xmlns="">
     
                             <li>
-                                <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/heavydutyoils_national-mechanics-championship-2019.aspx#" class="">Og�lnopolskie Mistrzostwa&nbsp;Mechanik�w </a>
+                                <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/heavydutyoils_national-mechanics-championship-2019.aspx#" class="">Og&oacute;lnopolskie Mistrzostwa&nbsp;Mechanik�w </a>
                             </li>
     
                             <li>
