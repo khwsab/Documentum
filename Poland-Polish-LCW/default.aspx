@@ -7,7 +7,7 @@
     <head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Mobil&trade; w Polsce | Syntetyczne oleje silnikowe | &#346;rodki smarne dla przemys&#322;u i &#347;rodki specjalne | Paliwa</title>
         <meta name="keywords" content="mobile, syntetyczny, syntetyki, &#347;rodki smarne, oleje smarne, smarowanie, oleje, smar, mobil, exxonmobil, exxon, Mobil1, Mobil 1, BP, Shell, sporty samochodowe, F1, Formu&#322;a 1, Lewis Hamilton, McLaren, castrol, fantasy grand prix"/>
-        <meta name="description" content="Bez wzgl&#281;du na to, czy szukasz olejów silnikowych do samochodów osobowych i dostawczych, olejów do wysokoobci&#261;&#380;onych silników wysokopr&#281;&#380;nych do pojazdów ci&#281;&#380;arowych czy przemys&#322;owych &#347;rodków smarnych, mo&#380;esz by&#263; pewien, &#380;e dzi&#281;ki &#347;rodkom smarnym Mobil&trade; wszystko b&#281;dzie dzia&#322;a&#322;o bez zarzutu."/>
+        <meta name="description" content="Bez wzgl&#281;du na to, czy szukasz olejï¿½w silnikowych do samochodï¿½w osobowych i dostawczych, olejï¿½w do wysokoobci&#261;&#380;onych silnikï¿½w wysokopr&#281;&#380;nych do pojazdï¿½w ci&#281;&#380;arowych czy przemys&#322;owych &#347;rodkï¿½w smarnych, mo&#380;esz by&#263; pewien, &#380;e dzi&#281;ki &#347;rodkom smarnym Mobil&trade; wszystko b&#281;dzie dzia&#322;a&#322;o bez zarzutu."/>
         <meta name="date" content="2011-03-01"/>
         <meta name="language" content="pl"/>
         <meta http-equiv="Content-Language" content="pl"/>
@@ -79,7 +79,7 @@
                                 <div class="content">
                                     <div class="subfeature">
                                         <h2>Witamy, Mobil&trade; w Polsce</h2>
-                                        <p xmlns="">Bez wzgl&#281;du na to, czy szukasz <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/carengineoils.aspx" class="">olejów silnikowych</a> do samochodów osobowych i dostawczych, <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/heavydutyoils.aspx" class="">olejów do wysokoobci&#261;&#380;onych silników</a> pojazdów ci&#281;&#380;arowych, czy <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/industrialspecialty.aspx" class="">przemys&#322;owych &#347;rodków smarnych</a>, mo&#380;esz by&#263; pewien, &#380;e produkty Mobil zapewni&#261;j&#261; doskona&#322;e smarowanie. Nieustanne badania i rozwój &#347;rodków smarnych Mobil maj&#261; na celu utworzenie nowych produktów i rozwi&#261;za&#324;, aby sprosta&#263; potrzebom klientów.<br>
+                                        <p xmlns="">Bez wzgl&#281;du na to, czy szukasz <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/carengineoils.aspx" class="">olejï¿½w silnikowych</a> do samochodï¿½w osobowych i dostawczych, <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/heavydutyoils.aspx" class="">olejï¿½w do wysokoobci&#261;&#380;onych silnikï¿½w</a> pojazdï¿½w ci&#281;&#380;arowych, czy <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/industrialspecialty.aspx" class="">przemys&#322;owych &#347;rodkï¿½w smarnych</a>, mo&#380;esz by&#263; pewien, &#380;e produkty Mobil zapewni&#261;j&#261; doskona&#322;e smarowanie. Nieustanne badania i rozwï¿½j &#347;rodkï¿½w smarnych Mobil maj&#261; na celu utworzenie nowych produktï¿½w i rozwi&#261;za&#324;, aby sprosta&#263; potrzebom klientï¿½w.<br>
 Aby dobra&#263; w&#322;a&#347;ciwy oleju do swojego samochodu skorzystaj z narz&#281;dzia <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/which-oil.aspx" class="">doboru oleju</a>.</p>
                                     </div>
                                 </div>
@@ -118,27 +118,27 @@ Aby dobra&#263; w&#322;a&#347;ciwy oleju do swojego samochodu skorzystaj z narz&
                                 <a title="" target="_self" onclick="trackClick(this);" href="../Poland-Polish-LCW/carengineoils.aspx">samochodowe oleje silnikowe<span></span></a>
                             </h3>
                         </div><div class="middleSection"><div xmlns="" class="img90 left"><a href="../Poland-Polish-LCW/carengineoils.aspx" title="samochodowe oleje silnikowe" target="_self" onclick="trackClick(this);"><img title="Motor Oils" src="../Shared-Images-LCW/article_150x150_porsche-panamera_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="Motor Oils"></a></div>
-                        <div xmlns="" class="LinkLight">Mobil&trade; oferuje szeroki asortyment, zatwierdzonych przez producentów przemys&#322;u motoryzacyjnego, olejów silnikowych do samochodów osobowych&nbsp;<br>
-i &#347;rodków piel&#281;gnacyjnych,&nbsp;<br>
-w tym Mobil 1&trade; &mdash; wiod&#261;c&#261; &#347;wiatow&#261; mark&#281; syntetycznego oleju silnikowego, a tak&#380;e Mobil Super&trade; &mdash; rodzin&#281; olejów silnikowych klasy Premium oraz inne oleje silnikowe do codziennej eksploatacji pojazdu.&nbsp;Dobierz <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/carengineoils_which-oil.aspx" class="">odpowiedni olej do Twojego pojazdu</a> korzystaj&#261;c z naszego narz&#281;dzia <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/carengineoils_which-oil.aspx" class="">doboru oleju</a>.</div></div><div class="lowerSection"></div></div><div class="TextContent"><div xmlns="" class="headerbar">
+                        <div xmlns="" class="LinkLight">Mobil&trade; oferuje szeroki asortyment, zatwierdzonych przez producentï¿½w przemys&#322;u motoryzacyjnego, olejï¿½w silnikowych do samochodï¿½w osobowych&nbsp;<br>
+i &#347;rodkï¿½w piel&#281;gnacyjnych,&nbsp;<br>
+w tym Mobil 1&trade; &mdash; wiod&#261;c&#261; &#347;wiatow&#261; mark&#281; syntetycznego oleju silnikowego, a tak&#380;e Mobil Super&trade; &mdash; rodzin&#281; olejï¿½w silnikowych klasy Premium oraz inne oleje silnikowe do codziennej eksploatacji pojazdu.&nbsp;Dobierz <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/carengineoils_which-oil.aspx" class="">odpowiedni olej do Twojego pojazdu</a> korzystaj&#261;c z naszego narz&#281;dzia <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/carengineoils_which-oil.aspx" class="">doboru oleju</a>.</div></div><div class="lowerSection"></div></div><div class="TextContent"><div xmlns="" class="headerbar">
                             <h3>
-                                <a title="" target="_self" onclick="trackClick(this);" href="../Poland-Polish-LCW/vanengineoils.aspx">Nowa gama olejów Mobil Delvac<span></span></a>
+                                <a title="" target="_self" onclick="trackClick(this);" href="../Poland-Polish-LCW/vanengineoils.aspx">Nowa gama olejï¿½w Mobil Delvac<span></span></a>
                             </h3>
-                        </div><div class="middleSection"><div xmlns="" class="img90 left"><a href="../Poland-Polish-LCW/vanengineoils.aspx" title="Nowa gama olejów Mobil Delvac" target="_self" onclick="trackClick(this);"><img title="Nowa gama olejów Mobil Delvac" src="../Shared-Images-LCW/90x90_eld-callout.jpg" longdesc="" class="floatimgleft" border="0" alt="Nowa gama olejów Mobil Delvac"></a></div>
-                        <div xmlns="" class="LinkLight">Przedstawiamy now&#261; gam&#281; olejów silnikowych do samochodów dostawczych, opracowan&#261; z my&#347;l&#261; o wyd&#322;u&#380;eniu &#380;ywotno&#347;ci silnika, doskona&#322;ej ochronie i oszcz&#281;dno&#347;ci paliwa w warunkach jazdy miejskiej.&nbsp; Poniewa&#380; odpowiedni olej mo&#380;e wyró&#380;ni&#263; Ci&#281; na tle konkurencji.</div></div><div class="lowerSection"></div></div></div>
+                        </div><div class="middleSection"><div xmlns="" class="img90 left"><a href="../Poland-Polish-LCW/vanengineoils.aspx" title="Nowa gama olejï¿½w Mobil Delvac" target="_self" onclick="trackClick(this);"><img title="Nowa gama olejï¿½w Mobil Delvac" src="../Shared-Images-LCW/90x90_eld-callout.jpg" longdesc="" class="floatimgleft" border="0" alt="Nowa gama olejï¿½w Mobil Delvac"></a></div>
+                        <div xmlns="" class="LinkLight">Przedstawiamy now&#261; gam&#281; olejï¿½w silnikowych do samochodï¿½w dostawczych, opracowan&#261; z my&#347;l&#261; o wyd&#322;u&#380;eniu &#380;ywotno&#347;ci silnika, doskona&#322;ej ochronie i oszcz&#281;dno&#347;ci paliwa w warunkach jazdy miejskiej.&nbsp; Poniewa&#380; odpowiedni olej mo&#380;e wyrï¿½&#380;ni&#263; Ci&#281; na tle konkurencji.</div></div><div class="lowerSection"></div></div></div>
                     <div class="subfeature csingle ccenter"><div class="TextContent"><div xmlns="" class="headerbar">
                             <h3>
-                                <a title="" target="_self" onclick="trackClick(this);" href="../Poland-Polish-LCW/heavydutyoils.aspx">oleje silnikowe do samochodów ci&#281;&#380;arowych<span></span></a>
+                                <a title="" target="_self" onclick="trackClick(this);" href="../Poland-Polish-LCW/heavydutyoils.aspx">oleje silnikowe do samochodï¿½w ci&#281;&#380;arowych<span></span></a>
                             </h3>
-                        </div><div class="middleSection"><div xmlns="" class="img90 left"><a href="../Poland-Polish-LCW/heavydutyoils.aspx" title="oleje silnikowe do samochodów ci&#281;&#380;arowych" target="_self" onclick="trackClick(this);"><img title="Heavy Duty Engine Oils" src="../Shared-Images-LCW/teaser_90x90_euro-truck_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Heavy Duty Engine Oils"></a></div>
-                        <div xmlns="" class="LinkLight">Mobil Delvac&trade; od ponad 90 lat specjalizuje si&#281; w &#347;rodkach smarnych do pojazdów u&#380;ytkowych. Rok po roku, dekada po dekadzie, w&#322;a&#347;ciciele i kierowcy oraz osoby zarz&#261;dzaj&#261;cy flotami ufaj&#261; Mobil Delvac, marce wybieranej przez wielu wiod&#261;cych &#347;wiatowych producentów wysokoobci&#261;&#380;onych silników do samochodów ci&#281;&#380;arowych.<br>
+                        </div><div class="middleSection"><div xmlns="" class="img90 left"><a href="../Poland-Polish-LCW/heavydutyoils.aspx" title="oleje silnikowe do samochodï¿½w ci&#281;&#380;arowych" target="_self" onclick="trackClick(this);"><img title="Heavy Duty Engine Oils" src="../Shared-Images-LCW/teaser_90x90_euro-truck_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Heavy Duty Engine Oils"></a></div>
+                        <div xmlns="" class="LinkLight">Mobil Delvac&trade; od ponad 90 lat specjalizuje si&#281; w &#347;rodkach smarnych do pojazdï¿½w u&#380;ytkowych. Rok po roku, dekada po dekadzie, w&#322;a&#347;ciciele i kierowcy oraz osoby zarz&#261;dzaj&#261;cy flotami ufaj&#261; Mobil Delvac, marce wybieranej przez wielu wiod&#261;cych &#347;wiatowych producentï¿½w wysokoobci&#261;&#380;onych silnikï¿½w do samochodï¿½w ci&#281;&#380;arowych.<br>
                             <br>
 Dobierz odpowiedni olej do Twojego pojazdu korzystaj&#261;c z naszego narz&#281;dzia <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/heavydutyoils_which-oil.aspx" class="">doboru oleju Mobil Delvac</a>.</div></div><div class="lowerSection"></div></div><div class="TextContent"><div xmlns="" class="headerbar">
                             <h3 class="nolink">popularne linki</h3>
                         </div><div class="middleSection"><ul xmlns="">
     
                             <li>
-                                <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/heavydutyoils_national-mechanics-championship-2018.aspx#" class="">Ogólnopolskie Mistrzostwa&nbsp;Mechaników </a>
+                                <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/heavydutyoils_national-mechanics-championship-2019.aspx#" class="">Ogï¿½lnopolskie Mistrzostwa&nbsp;Mechanikï¿½w </a>
                             </li>
     
                             <li>
@@ -149,7 +149,7 @@ Dobierz odpowiedni olej do Twojego pojazdu korzystaj&#261;c z naszego narz&#281;
                             </li>
     
                             <li>
-                                <a title="" target="" onclick="trackClick(this);" href="http://www.mobil.pl/poland-polish-lcw/TCO-Guide.aspx" class="">Ca&#322;kowity Koszt Posiadania &ndash; Poradnik dla W&#322;a&#347;cicieli Flot Pojazdów U&#380;ytkowych </a>
+                                <a title="" target="" onclick="trackClick(this);" href="http://www.mobil.pl/poland-polish-lcw/TCO-Guide.aspx" class="">Ca&#322;kowity Koszt Posiadania &ndash; Poradnik dla W&#322;a&#347;cicieli Flot Pojazdï¿½w U&#380;ytkowych </a>
                             </li>
     
                             <li>
@@ -163,7 +163,7 @@ Dobierz odpowiedni olej do Twojego pojazdu korzystaj&#261;c z naszego narz&#281;
                                 <a title="" target="_self" onclick="trackClick(this);" href="http://www.mobil.com/en/industrial/lubricants" class="">dobierz olej przemys&#322;owy dla Twoich potrzeb</a>&nbsp;</li>
     
                             <li>
-                                <a title="" target="_blank" onclick="trackClick(this);" href="http://www.exxonmobil.com/pds" class="">karty produktów</a>
+                                <a title="" target="_blank" onclick="trackClick(this);" href="http://www.exxonmobil.com/pds" class="">karty produktï¿½w</a>
                             </li>
     
                             <li>
@@ -197,7 +197,7 @@ Dobierz odpowiedni olej do Twojego pojazdu korzystaj&#261;c z naszego narz&#281;
                                             <h2>
                                                 <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://www.mobil.pl/Poland-Polish-LCW/carengineoils_which-oil.aspx"><a title="" target="_self" onclick="trackClick(this);" href="http://www.mobil.pl/Poland-Polish-LCW/carengineoils_which-oil.aspx" class="">Jaki olej?</a><span></span></a>
                                             </h2>
-                                            <p>Dowiedz si&#281;, który olej silnikowy Mobil jest odpowiedni dla twojego samochodu za pomoc&#261; poni&#380;szego narz&#281;dzia doboru oleju.</p>
+                                            <p>Dowiedz si&#281;, ktï¿½ry olej silnikowy Mobil jest odpowiedni dla twojego samochodu za pomoc&#261; poni&#380;szego narz&#281;dzia doboru oleju.</p>
                                         </div>
                                         <div class="callpadButton">
                                             <div class="buttonBL">

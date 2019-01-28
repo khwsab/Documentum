@@ -12,8 +12,8 @@
         "selector": "selector1"
     }, {
         "slide": "slide2",
-        "link": "http://www.mobil.pl/Poland-Polish-LCW/carengineoils_which-oil.aspx",
-        "img": "html5/images/615x274_product-selector-pl.jpg",
+        "link": "https://lubes.mobil.com/Poland-Polish-LCW/heavydutyoils_national-mechanics-championship-2019.aspx",
+        "img": "html5/images/5700-12-EAME_Mistrozostwa-Logo_617x274.jpg",
         "main": "",
         "title": "",
         "subtitle": "",
@@ -22,8 +22,8 @@
         "selector": "selector2"
     }, {
         "slide": "slide3",
-        "link": "http://www.mobil.pl/Poland-Polish-LCW/vanengineoils.aspx",
-        "img": "html5/images/615x274_light-duty-pl-1.jpg",
+        "link": "http://www.mobil.pl/Poland-Polish-LCW/carengineoils_which-oil.aspx",
+        "img": "html5/images/615x274_product-selector-pl.jpg",
         "main": "",
         "title": "",
         "subtitle": "",
@@ -33,12 +33,22 @@
     }, {
         "slide": "slide4",
         "link": "http://www.mobil.pl/Poland-Polish-LCW/vanengineoils.aspx",
-        "img": "html5/images/615x274_light-duty-pl-2.jpg",
+        "img": "html5/images/615x274_light-duty-pl-1.jpg",
         "main": "",
         "title": "",
         "subtitle": "",
         "linkslide": "",
         "active": "active",
         "selector": "selector4"
+    }, {
+        "slide": "slide5",
+        "link": "http://www.mobil.pl/Poland-Polish-LCW/vanengineoils.aspx",
+        "img": "html5/images/615x274_light-duty-pl-2.jpg",
+        "main": "",
+        "title": "",
+        "subtitle": "",
+        "linkslide": "",
+        "active": "active",
+        "selector": "selector5"
     }]
 }
