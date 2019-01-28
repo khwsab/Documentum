@@ -671,6 +671,7 @@ For questions or comments regarding the program please write to us at <a title="
                                         Ontario, L1S 2C9<br>
                                         905-427-6796</p>
                                     </td>
+                                    <td width="50%" height="" class="standard"></td>
                                 </tr>
                             </tbody>
                         </table>
