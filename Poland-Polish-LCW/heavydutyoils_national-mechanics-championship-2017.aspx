@@ -4,13 +4,13 @@
   <%@ Register TagPrefix="XOM" Namespace="XOM.Common.Web" Assembly="XOMCommon" %>
 <%@ Register Src="Navigation/heavydutyoils.ascx" TagName="Navigation" TagPrefix="xom" %><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
     <head><meta http-equiv="X-UA-Compatible" content="IE=8">
-        <title>mistrzostwa mechaników 2017</title>
-        <meta name="keywords" content="Mobil Delvac, Olej silnikowy, Pozna&#324; Motor Show, mistrzostwa mechanik"/>
+        <title>Mistrzostwa Mechaników 2017</title>
+        <meta name="keywords" content="Mobil Delvac, Olej silnikowy, Pozna&#324; Motor Show, Mistrzostwa Mechanik"/>
         <meta name="description" content="Trwa VI edycja Ogólnopolskich Mistrzostw Mechaników pod patronatem producenta olejów silnikowych Mobil Delvac 1&trade;."/>
         <meta name="date" content="2017-03-01"/>
         <meta name="language" content="pl"/>
         <meta http-equiv="Content-Language" content="pl"/>
-        <meta name="WT.ti" content="mistrzostwa mechaników 2017"/>
+        <meta name="WT.ti" content="Mistrzostwa Mechaników 2017"/>
         <meta name="WT.cg_n" content="Article"/>
         <meta name="WT.cg_s" content=""/>
         <link type="text/css" rel="stylesheet" media="all" href="/Imports/LCW_xom.css"/>

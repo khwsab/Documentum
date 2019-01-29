@@ -65,7 +65,7 @@ string isCurrent(string url){
         <input value="0" type="hidden" name="NUM_FALLBACKS" id="NUM_FALLBACKS"><input name="CURRENT_PAGE" id="CURRENT_PAGE" type="hidden" value="<%=Request.Url.AbsoluteUri.Substring(Request.Url.AbsoluteUri.LastIndexOf("/")+1)%>" /><input value="" type="hidden" name="REQUESTED_LANG" id="REQUESTED_LANG"><input value="English" type="hidden" name="CURRENT_LANG" id="CURRENT_LANG"><input name="BASE_URL" id="BASE_URL" type="hidden" value="<%=Request.Url.AbsoluteUri.Substring(0,Request.Url.AbsoluteUri.LastIndexOf("/")+1)%>" /><ul>
             <li style="border: medium none ;">English</li>
             <li style="padding-right: 10px;">
-                <a target="" onclick="javascript:selectLanguage('French');" href="/canada-french-lcw/default.aspx">Français</a>
+                <a target="" onclick="javascript:selectLanguage('French');" href="/canada-french-lcw/default.aspx">FranÃ§ais</a>
             </li>
         </ul>
         <script type="text/javascript">document.getElementById("NUM_FALLBACKS").value=0;</script>
@@ -96,7 +96,7 @@ string isCurrent(string url){
             <li><a onclick="trackClick(this);" target="" <% =isCurrent("/Canada-English-LCW/default.aspx#") %> href="/Canada-English-LCW/default.aspx#">home</a></li>
             <li><a onclick="trackClick(this);" target="" <% =isCurrent("http://www.imperialoil.com/Canada-English/about_media_releases.aspx") %> href="http://www.imperialoil.com/Canada-English/about_media_releases.aspx">news</a></li>
             <li><a onclick="trackClick(this);" target="" <% =isCurrent("http://www.imperialoil.ca/Canada-English/about_investors.aspx") %> href="http://www.imperialoil.ca/Canada-English/about_investors.aspx">investors</a></li>
-            <li><a onclick="trackClick(this);" target="" <% =isCurrent("https://www.imperialoil.ca/en-ca/careers/working-with-us") %> href="https://www.imperialoil.ca/en-ca/careers/working-with-us">careers</a></li>
+            <li><a onclick="trackClick(this);" target="" <% =isCurrent("https://www.imperialoil.ca/en-ca/careers/careers") %> href="https://www.imperialoil.ca/en-ca/careers/careers">careers</a></li>
             <li><a onclick="trackClick(this);" target="" <% =isCurrent("https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form") %> href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form">contact us</a></li>
         </ul>
     </div>
