@@ -226,13 +226,13 @@
                                     <p>Thickwood Lube and Carwash<br>
                                         101 Thickwood Blvd.<br>
 
-                                        <strong>Fort McMurray Alberta, </strong>T9H 5E5<strong>
-                                            <br>
-
-                                        </strong>780-791-5069</p>
-
-                                        <p>Coleman LubeandOil<br>
-                                        20966 56th Ave&nbsp;2<br>
+                                        <strong>Fort McMurray Alberta,</strong> T9H 5E5<br>
+                                        780-791-5069</p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </p>
 
                 <p xmlns="">
 
@@ -268,7 +268,7 @@
 
                                         <strong>Langley<br>
 
-                                        </strong>British Columbia,, V2Y 1M7<br>
+                                        </strong>British Columbia, V2Y 1M7<br>
                                         604-530-5335<br>
                                         &nbsp;<br>
                                         Web: <a title="" target="_blank" onclick="trackClick(this);" href="http://www.langleymobil1.com"
@@ -678,12 +678,7 @@
                             </tr>
                         </tbody>
                     </table>
-
                 </p>
-
-                <table xmlns="" width="100%" summary="" class="standard" cellspacing="0" border="0">
-                    </tbody>
-                </table>
             </div>
         </div>
     </div>
