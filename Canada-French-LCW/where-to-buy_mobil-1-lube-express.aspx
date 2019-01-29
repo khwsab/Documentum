@@ -603,7 +603,21 @@
 
                                     </strong>Ontario,<br>
                                     905-655-3255</td>
-                                <td width="50%" height="" class="standard"></td>
+                                <td width="50%" height="" class="standard">
+                                    Mobil 1 Lube Express<br>
+                                    11085 Creditview Road<br>
+                                    <strong>Brampton</strong><br>
+                                    Ontario, L7A 0G4<br>
+                                    905-495-4234
+                                </td>
+                            </tr>
+                            <tr>
+                                <td width="50%" height="" class="standard">
+                                    Kandy Auto Enterprises Inc<br>
+                                    1000 Rountree Dairy Rd Unit #3<br>
+                                    <strong>Woodbridge</strong><br>
+                                    Ontario
+                                </td>
                             </tr>
                         </tbody>
                     </table>
@@ -655,7 +669,12 @@
                                     <strong>Unity&nbsp;</strong>
                                     <br>
                                     Saskatchewan,&nbsp;S0K 4L0</td>
-                                <td width="50%" height="" class="standard">&nbsp;</td>
+                                <td width="50%" height="" class="standard">
+                                    Brad's Automotive<br>
+                                    1011 Osler Street<br>
+                                    <strong>Regina</strong><br>
+                                    Saskatchewan
+                                </td>
                             </tr>
                         </tbody>
                     </table>
