@@ -79,14 +79,14 @@ string isCurrent(string url){
                 <span>Canada</span>
             </li>
             <li style="border: medium none ;">
-                <a onclick="trackClick(this);" href="http://www.mobil.com/glp/Default.aspx?page=flags" class="iconleft world">Sélectionner un localization</a>
+                <a onclick="trackClick(this);" href="http://www.mobil.com/glp/Default.aspx?page=flags" class="iconleft world">SÃ©lectionner un localization</a>
             </li>
         </ul>
     </div>
     <div style="visibility: Visible;display:none;" id="search">
         <form onsubmit="javascript: return CheckInput()" name="frmSimpleSearch" method="get" action="/Search/Search.aspx">
             <div>
-                <script type="text/javascript">quickEditForm("0915881d81fe9207", "/Content",true,"../forms/LCWHeaderSettings","","630px","700px","Search And Language Settings","","pencil.gif","");</script><span style="padding-right:30px" class="barbgleftSumbit"><span class="barbgrightSubmit"><input value="ouverture de session" type="button" onclick="location.href='/Canada-French-LCW/login.aspx'" class="middleSubmitBtn"></span></span><label for="searchTerms">RECHERCHER</label><input value="mots-clés" type="text" onClick="javascript: clearBox();" name="q" maxlength="50" id="qt"><input value="mobil|ledr" type="hidden" name="site"><input value="/imports/lcw_xom" type="Hidden" name="css"><input type="hidden" name="BCL" value="/Canada-French-LCW/Navigation"><input value="global" type="Hidden" name="km"><input value="fr" type="hidden" name="la"><input value="lang_fr" type="hidden" name="lr"><input value="xml_no_dtd" type="Hidden" name="output"><input value="default_frontend" type="Hidden" name="client"><input value="description" type="Hidden" name="getfields"><input value="n" type="Hidden" name="show_km"><input value="inurl:mobil inurl:/Canada-French-LCW OR inurl:/Canada-French/Lubes/PDS" type="hidden" name="as_q"><input value="0" type="Hidden" name="filter"><input value="10" type="Hidden" name="num"><input value="UTF-8" type="Hidden" name="ie"><input value="UTF-8" type="Hidden" name="oe"><span class="barbgleftSumbit"><span class="barbgrightSubmit"><input value="RECHERCHER" type="submit" class="middleSubmitBtn"></span></span>
+                <script type="text/javascript">quickEditForm("0915881d81fe9207", "/Content",true,"../forms/LCWHeaderSettings","","630px","700px","Search And Language Settings","","pencil.gif","");</script><span style="padding-right:30px" class="barbgleftSumbit"><span class="barbgrightSubmit"><input value="ouverture de session" type="button" onclick="location.href='/Canada-French-LCW/login.aspx'" class="middleSubmitBtn"></span></span><label for="searchTerms">RECHERCHER</label><input value="mots-clÃ©s" type="text" onClick="javascript: clearBox();" name="q" maxlength="50" id="qt"><input value="mobil|ledr" type="hidden" name="site"><input value="/imports/lcw_xom" type="Hidden" name="css"><input type="hidden" name="BCL" value="/Canada-French-LCW/Navigation"><input value="global" type="Hidden" name="km"><input value="fr" type="hidden" name="la"><input value="lang_fr" type="hidden" name="lr"><input value="xml_no_dtd" type="Hidden" name="output"><input value="default_frontend" type="Hidden" name="client"><input value="description" type="Hidden" name="getfields"><input value="n" type="Hidden" name="show_km"><input value="inurl:mobil inurl:/Canada-French-LCW OR inurl:/Canada-French/Lubes/PDS" type="hidden" name="as_q"><input value="0" type="Hidden" name="filter"><input value="10" type="Hidden" name="num"><input value="UTF-8" type="Hidden" name="ie"><input value="UTF-8" type="Hidden" name="oe"><span class="barbgleftSumbit"><span class="barbgrightSubmit"><input value="RECHERCHER" type="submit" class="middleSubmitBtn"></span></span>
             </div>
         </form>
     </div>
@@ -96,7 +96,7 @@ string isCurrent(string url){
             <li><a onclick="trackClick(this);" target="" <% =isCurrent("/Canada-French-LCW/default.aspx") %> href="/Canada-French-LCW/default.aspx">accueil</a></li>
             <li><a onclick="trackClick(this);" target="" <% =isCurrent("http://www.limperiale.ca/Canada-Francais/about_media_releases.aspx") %> href="http://www.limperiale.ca/Canada-Francais/about_media_releases.aspx">nouvelles</a></li>
             <li><a onclick="trackClick(this);" target="" <% =isCurrent("http://www.imperialoil.ca/Canada-Francais/about_investors.aspx") %> href="http://www.imperialoil.ca/Canada-Francais/about_investors.aspx">investisseurs</a></li>
-            <li><a onclick="trackClick(this);" target="" <% =isCurrent("https://www.imperialoil.ca/fr-ca/careers/careers") %> href="https://www.imperialoil.ca/fr-ca/careers/careers">carrières</a></li>
+            <li><a onclick="trackClick(this);" target="" <% =isCurrent("https://www.imperialoil.ca/fr-ca/careers/careers") %> href="https://www.imperialoil.ca/fr-ca/careers/careers">carriÃ¨res</a></li>
             <li><a onclick="trackClick(this);" target="" <% =isCurrent("https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form") %> href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form">nous joindre</a></li>
         </ul>
     </div>
@@ -117,7 +117,7 @@ string isCurrent(string url){
                     <a target="" onclick="trackClick(this);" href="/Canada-French-LCW/heavydutyengineoils.aspx" id="heavydutyoils">huiles moteur service intense</a>
                 </li>
                 <li>
-                    <a target="" onclick="trackClick(this);" href="/Canada-French-LCW/industrialspecialty.aspx" id="industrialspecialty">lubrifiants industriels&nbsp;&amp; spéciaux</a>
+                    <a target="" onclick="trackClick(this);" href="/Canada-French-LCW/industrialspecialty.aspx" id="industrialspecialty">lubrifiants industriels&nbsp;&amp; spÃ©ciaux</a>
                 </li>
                 <li>
                     <a target="" onclick="trackClick(this);" href="/Canada-French-LCW/fuels.aspx" id="fuels">carburants</a>
