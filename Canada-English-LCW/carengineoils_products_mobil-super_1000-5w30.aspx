@@ -213,60 +213,110 @@
                                             <tr>
                                                 <th width="" scope="col" height="" class="standard">Mobil Super 1000 meets or exceeds the requirements of:</th>
                                                 <th width="" scope="col" height="" class="standard">5W-20</th>
+                                                <th width="" scope="col" height="" class="standard">5W-30</th>
+                                                <th width="" scope="col" height="" class="standard">10W-30</th>
                                             </tr>
                                         </thead>
                                         <tbody>
                                             <tr>
                                                 <td width="" height="" class="standard">API SL</td>
                                                 <td width="" height="" class="standard">X</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
                                             </tr>
                                             <tr>
                                                 <td width="" height="" class="standard">API SM</td>
                                                 <td width="" height="" class="standard">X</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
                                             </tr>
                                             <tr>
                                                 <td width="" height="" class="standard">API SN</td>
                                                 <td width="" height="" class="standard">X</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
                                             </tr>
                                             <tr>
                                                 <td width="" height="" class="standard">API SN PLUS</td>
+                                                <td width="" height="" class="standard">X</td>
+                                                <td width="" height="" class="standard">X</td>
                                                 <td width="" height="" class="standard">X</td>
                                             </tr>
                                             <tr>
                                                 <td width="" height="" class="standard">API SN PLUS RESOURCE CONSERVING</td>
                                                 <td width="" height="" class="standard">X</td>
+                                                <td width="" height="" class="standard">X</td>
+                                                <td width="" height="" class="standard">X</td>
                                             </tr>
                                             <tr>
                                                 <td width="" height="" class="standard">API SN Resource Conserving</td>
                                                 <td width="" height="" class="standard">X</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
                                             </tr>
                                             <tr>
                                                 <td width="" height="" class="standard">ILSAC GF-5</td>
                                                 <td width="" height="" class="standard">X</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
                                             </tr>
                                             <tr>
                                                 <td width="" height="" class="standard">Ford WSS-M2C945-A</td>
                                                 <td width="" height="" class="standard">X</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
                                             </tr>
                                             <tr>
                                                 <td width="" height="" class="standard">Ford WSS-M2C945-B1</td>
                                                 <td width="" height="" class="standard">X</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">Ford WSS-M2C946-A</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                                <td width="" height="" class="standard">X</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">Ford WSS-M2C946-B1</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                                <td width="" height="" class="standard">X</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
                                             </tr>
                                         </tbody>
                                         <thead>
                                             <tr>
                                                 <th width="" scope="col" height="" class="standard">This product is recommended by Imperial Oil for use in applications requiring:</th>
                                                 <th width="" scope="col" height="" class="standard">5W-20</th>
+                                                <th width="" scope="col" height="" class="standard">5W-30</th>
+                                                <th width="" scope="col" height="" class="standard">10W-30</th>
                                             </tr>
                                         </thead>
                                         <tbody>
                                             <tr>
                                                 <td width="" height="" class="standard">Ford WSS-M2C930-A</td>
                                                 <td width="" height="" class="standard">X</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">Fiat Chrysler Automotive MS-6395</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                                <td width="" height="" class="standard">X</td>
+                                                <td width="" height="" class="standard">X</td>
+                                            </tr>
+                                            <tr>
+                                                <td width="" height="" class="standard">Ford WSS-M2C929-A</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
+                                                <td width="" height="" class="standard">X</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
                                             </tr>
                                             <tr>
                                                 <td width="" height="" class="standard">GM 6094M</td>
                                                 <td width="" height="" class="standard">X</td>
+                                                <td width="" height="" class="standard">X</td>
+                                                <td width="" height="" class="standard">&nbsp;</td>
                                             </tr>
                                         </tbody>
                                     </table>
