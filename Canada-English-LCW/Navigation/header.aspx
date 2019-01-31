@@ -65,7 +65,7 @@ string isCurrent(string url){
         <input value="0" type="hidden" name="NUM_FALLBACKS" id="NUM_FALLBACKS"><input name="CURRENT_PAGE" id="CURRENT_PAGE" type="hidden" value="<%=Request.Url.AbsoluteUri.Substring(Request.Url.AbsoluteUri.LastIndexOf("/")+1)%>" /><input value="" type="hidden" name="REQUESTED_LANG" id="REQUESTED_LANG"><input value="English" type="hidden" name="CURRENT_LANG" id="CURRENT_LANG"><input name="BASE_URL" id="BASE_URL" type="hidden" value="<%=Request.Url.AbsoluteUri.Substring(0,Request.Url.AbsoluteUri.LastIndexOf("/")+1)%>" /><ul>
             <li style="border: medium none ;">English</li>
             <li style="padding-right: 10px;">
-                <a target="" onclick="javascript:selectLanguage('French');" href="/canada-french-lcw/default.aspx">FranÃ§ais</a>
+                <a target="" onclick="javascript:selectLanguage('French');" href="/canada-french-lcw/default.aspx">Français</a>
             </li>
         </ul>
         <script type="text/javascript">document.getElementById("NUM_FALLBACKS").value=0;</script>
