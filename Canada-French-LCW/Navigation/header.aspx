@@ -79,7 +79,7 @@ string isCurrent(string url){
                 <span>Canada</span>
             </li>
             <li style="border: medium none ;">
-                <a onclick="trackClick(this);" href="http://www.mobil.com/glp/Default.aspx?page=flags" class="iconleft world">SÃ©lectionner un localization</a>
+                <a onclick="trackClick(this);" href="http://www.mobil.com/glp/Default.aspx?page=flags" class="iconleft world">Sélectionner un localization</a>
             </li>
         </ul>
     </div>
@@ -96,7 +96,7 @@ string isCurrent(string url){
             <li><a onclick="trackClick(this);" target="" <% =isCurrent("/Canada-French-LCW/default.aspx") %> href="/Canada-French-LCW/default.aspx">accueil</a></li>
             <li><a onclick="trackClick(this);" target="" <% =isCurrent("http://www.limperiale.ca/Canada-Francais/about_media_releases.aspx") %> href="http://www.limperiale.ca/Canada-Francais/about_media_releases.aspx">nouvelles</a></li>
             <li><a onclick="trackClick(this);" target="" <% =isCurrent("http://www.imperialoil.ca/Canada-Francais/about_investors.aspx") %> href="http://www.imperialoil.ca/Canada-Francais/about_investors.aspx">investisseurs</a></li>
-            <li><a onclick="trackClick(this);" target="" <% =isCurrent("https://www.imperialoil.ca/fr-ca/careers/careers") %> href="https://www.imperialoil.ca/fr-ca/careers/careers">carriÃ¨res</a></li>
+            <li><a onclick="trackClick(this);" target="" <% =isCurrent("https://www.imperialoil.ca/fr-ca/careers/careers") %> href="https://www.imperialoil.ca/fr-ca/careers/careers">carrières</a></li>
             <li><a onclick="trackClick(this);" target="" <% =isCurrent("https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form") %> href="https://www.imperialoil.ca/en-ca/company/contact-us/contact-us-by-email/email-form">nous joindre</a></li>
         </ul>
     </div>
@@ -117,7 +117,7 @@ string isCurrent(string url){
                     <a target="" onclick="trackClick(this);" href="/Canada-French-LCW/heavydutyengineoils.aspx" id="heavydutyoils">huiles moteur service intense</a>
                 </li>
                 <li>
-                    <a target="" onclick="trackClick(this);" href="/Canada-French-LCW/industrialspecialty.aspx" id="industrialspecialty">lubrifiants industriels&nbsp;&amp; spÃ©ciaux</a>
+                    <a target="" onclick="trackClick(this);" href="/Canada-French-LCW/industrialspecialty.aspx" id="industrialspecialty">lubrifiants industriels&nbsp;&amp; spéciaux</a>
                 </li>
                 <li>
                     <a target="" onclick="trackClick(this);" href="/Canada-French-LCW/fuels.aspx" id="fuels">carburants</a>
