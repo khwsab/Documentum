@@ -692,7 +692,7 @@
 
                                 </td>
                                 <td width="50%" height="" class="standard">
-                                    <p>Kandy Auto Enterprises<br>
+                                    <p>Mobil 1 Lube Express<br>
                                         1000 Rountree Dairy Rd Unit #3<br>
                                         <strong>Woodbridge</strong><br>
                                         Ontario</p>
