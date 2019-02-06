@@ -242,7 +242,7 @@
                                 <th width="" scope="col" height="" colspan="2" class="standard">
 
                                     <p>
-                                        <strong>British Columbia</strong>
+                                        <strong>Colombie-Britannique</strong>
                                     </p>
 
                                 </th>
@@ -467,7 +467,7 @@
                                 <th width="" scope="col" height="" colspan="2" class="standard">
 
                                     <p>
-                                        <strong>Newfoundland&nbsp;</strong>
+                                        <strong>Terre-Neuve&nbsp;</strong>
                                     </p>
 
                                 </th>
@@ -522,15 +522,6 @@
 
                                 </td>
                                 <td width="50%" height="" class="standard">
-                                    Northern Auto<br>
-                                    5734 Valley Way&nbsp;<br>
-
-                                    <strong>Niagara Falls&nbsp;</strong><br>
-                                    Ontario, L2E 1X8&nbsp;<br>
-                                    905-358-1106</td>
-                            </tr>
-                            <tr>
-                                <td width="50%" height="" class="standard">
 
                                     <p>Mobil 1 Lube Express<br>
                                         627 Danforth Rd<br>
@@ -541,6 +532,8 @@
                                         416-264-0240</p>
 
                                 </td>
+                            </tr>
+                            <tr>
                                 <td width="50%" height="" class="standard">
 
                                     <p>1125780 Ontario Ltd<br>
@@ -550,8 +543,7 @@
                                         Ontario, L2R 5L3<br>
                                         905-397-2922</p>
                                 </td>
-                            </tr>
-                            <tr>
+
                                 <td width="50%" height="" class="standard">Mobil 1 Lube Express &ndash; St. Thomas<br>
                                     261 Talbot Street<br>
 
@@ -559,17 +551,6 @@
 
                                     </strong>Ontario, N5P 1B3<br>
                                     519-631-2117
-                                </td>
-                                <td width="50%" height="" class="standard">
-
-                                    <p>Mobil 1 Lube Express - Vaughan<br>
-                                        1000 Rowntree Dairy Rd<br>
-
-                                        <strong>Vaughan</strong>
-                                        <br>
-                                        Ontario, L4L 5V8<br>
-                                        905-850-9640</p>
-
                                 </td>
                             </tr>
                             <tr>
@@ -613,7 +594,7 @@
                             </tr>
                             <tr>
                                 <td width="50%" height="" class="standard">
-                                    Kandy Auto Enterprises Inc<br>
+                                    Kandy Auto Enterprises<br>
                                     1000 Rountree Dairy Rd Unit #3<br>
                                     <strong>Woodbridge</strong><br>
                                     Ontario

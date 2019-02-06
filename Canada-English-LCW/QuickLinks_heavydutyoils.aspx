@@ -21,10 +21,10 @@
             <a target="_blank" onclick="trackClick(this);" href="https://www.youtube.com/user/OfficialMobilDelvac ">Mobil Delvac&trade; - YouTube</a>
         </li>
         <li>
-            <a target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-English-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx">Bumper to bumper product guide</a>
+            <a target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-English-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx">Bumper to bumper product guide</a>
         </li>
         <li>
-            <a target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-English-LCW/heavydutyengineoils_ck4-or-fa4.aspx">CK4 or FA4?</a>
+            <a target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-English-LCW/heavydutyengineoils_ck4-or-fa4.aspx">CK4 or FA4?</a>
         </li>
     </ul>
 </div>
