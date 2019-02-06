@@ -153,9 +153,9 @@ Fördelar Content">
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Specs Content">
                                     <p xmlns="">
-                                        <strong>Mobil Super 3000 Formula R 5W-30 uppfyller eller överträffar kraven enligt:5W-30&nbsp;&nbsp;&nbsp;</strong>
-                                        <br>
-ACEA C4<br>
+                                        <strong>Mobil Super 3000 Formula R 5W-30 uppfyller eller överträffar kraven enligt:5W-30&nbsp;&nbsp;&nbsp;</strong><br>
+                                        ACEA C4<br>
+                                        MB-Approval 226.51
 
                                         <br>
 

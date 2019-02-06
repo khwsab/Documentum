@@ -148,9 +148,9 @@
                                 </div>
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Spesifikasjoner Content">
                                     <p xmlns="">
-                                        <strong>Mobil Super 3000 Formula R 5W-30 møter eller ovegår kravene til: 5W-30&nbsp;</strong>
-                                        <br>
-ACEA C4</p>
+                                        <strong>Mobil Super 3000 Formula R 5W-30 møter eller ovegår kravene til: 5W-30&nbsp;</strong><br>
+                                        ACEA C4<br>
+                                        MB-Approval 226.51</p>
 
                                     <p xmlns="">
                                         <br>
