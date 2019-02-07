@@ -6,12 +6,12 @@
 
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=8">
-    <title>Mobil Delvac&trade; | Ogólnopolskie Mistrzostwa Mechaników 2019</title>
-    <meta name="keywords" content="Mobil Delvac&trade; | Ogólnopolskie Mistrzostwa Mechaników 2019" />
-    <meta name="description" content="Mobil Delvac&trade; | Ogólnopolskie Mistrzostwa Mechaników 2019" />
+    <title>Mobil Delvac&trade; | Og�lnopolskie Mistrzostwa Mechanik�w 2019</title>
+    <meta name="keywords" content="Mobil Delvac&trade; | Og�lnopolskie Mistrzostwa Mechanik�w 2019" />
+    <meta name="description" content="Mobil Delvac&trade; | Og�lnopolskie Mistrzostwa Mechanik�w 2019" />
     <meta name="language" content="pl" />
     <meta http-equiv="Content-Language" content="pl" />
-    <meta name="WT.ti" content="Mobil Delvac&trade; | Ogólnopolskie Mistrzostwa Mechaników 2019" />
+    <meta name="WT.ti" content="Mobil Delvac&trade; | Og�lnopolskie Mistrzostwa Mechanik�w 2019" />
     <meta name="WT.cg_n" content="Article" />
     <meta name="WT.cg_s" content="" />
     <link type="text/css" rel="stylesheet" media="all" href="/Imports/LCW_xom.css" />
@@ -96,7 +96,7 @@
                 </div>
                 <p />
 
-                <h1>Weź udział w Ogólnopolskich Mistrzostwach Mechaników!</h1>
+                <h1>We&#378; udzia&#322; w Og�lnopolskich Mistrzostwach Mechanik�w!</h1>
 
                 <p xmlns="">
                     <img src="../Poland-Polish-LCW/Images/mistrzostwa_mechanikow_2019_logo.png" height="500" width="472"
@@ -106,44 +106,44 @@
 
                 <p>
                     <strong>
-                        Mechanik Zawodowy, Młody Mechanik oraz po raz pierwszy Młody Mechanik Maszyn Rolniczych – w takich kategoriach będą rywalizować uczestnicy VIII Ogólnopolskich Mistrzostw Mechaników pod patronatem producenta olejów silnikowych Mobil.
+                        Mechanik Zawodowy, M&#322;ody Mechanik oraz po raz pierwszy M&#322;ody Mechanik Maszyn Rolniczych � w takich kategoriach b&#281;d&#261; rywalizowa&#263; uczestnicy VIII Og�lnopolskich Mistrzostw Mechanik�w pod patronatem producenta olej�w silnikowych Mobil.
                     </strong>
                 </p>
                 <p>
                     <strong>
-                            Zgłoszenia są przyjmowane na nowej stronie internetowej <a href="http://www.mistrzostwamechanikow.pl">mistrzostwamechanikow.pl</a>, a finały odbędą się pod koniec marca podczas targów Poznań Motor Show 2019. Ambasadorem konkursu jest Grzegorz Duda - wielokrotny mistrz w rajdach oraz gospodarz programów „Garaż Dudy” i „101 napraw” w TVN Turbo.
+                            Zg&#322;oszenia s&#261; przyjmowane na nowej stronie internetowej <a href="http://www.mistrzostwamechanikow.pl">mistrzostwamechanikow.pl</a>, a fina&#322;y odb&#281;d&#261; si&#281; pod koniec marca podczas targ�w Pozna&#324; Motor Show 2019. Ambasadorem konkursu jest Grzegorz Duda - wielokrotny mistrz w rajdach oraz gospodarz program�w �Gara&#378; Dudy� i �101 napraw� w TVN Turbo.
                     </strong>
                 </p>
                 <p>
-                    Ogólnopolskie Mistrzostwa Mechaników już na dobre wpisały się w kalendarz konkursów dla branży motoryzacyjnej. Po kilku latach szybkiego rozwoju to jedne z najbardziej prestiżowych zawodów dla profesjonalistów i młodych mechaników czemu sprzyja bliska współpraca organizatora - Fundacji Cooperatio z Międzynarodowymi Targami Poznańskimi, ExxonMobil oraz pozostałymi partnerami Mistrzostw. W tym roku największą zmianą w konkursie jest wprowadzenie nowej kategorii Młody Mechanik Maszyn Rolniczych oraz uruchomienie nowej wersji strony internetowej.
+                    Og�lnopolskie Mistrzostwa Mechanik�w ju&#378; na dobre wpisa&#322;y si&#281; w kalendarz konkurs�w dla bran&#378;y motoryzacyjnej. Po kilku latach szybkiego rozwoju to jedne z najbardziej presti&#378;owych zawod�w dla profesjonalist�w i m&#322;odych mechanik�w czemu sprzyja bliska wsp�&#322;praca organizatora - Fundacji Cooperatio z Mi&#281;dzynarodowymi Targami Pozna&#324;skimi, ExxonMobil oraz pozosta&#322;ymi partnerami Mistrzostw. W tym roku najwi&#281;ksz&#261; zmian&#261; w konkursie jest wprowadzenie nowej kategorii M&#322;ody Mechanik Maszyn Rolniczych oraz uruchomienie nowej wersji strony internetowej.
                 </p>
                 <p>
-                    Pod adresem <a href="http://www.mistrzostwamechanikow.pl">mistrzostwamechanikow.pl</a> znajdziemy bezpłatny formularz rejestracyjny, aktualności oraz relacje z poprzednich finałów. „Zgłoszenia przyjmujemy do początku marca, ale namawiamy do wcześniejszej rejestracji i poświęcenia reszty czasu na przygotowania. Konkurencja jest duża, a liczba miejsc w finałach pozostaje bez zmian. Na Poznań Motor Show zapraszamy 30 mechaników zawodowych, 60 młodych mechaników oraz po raz pierwszy 40 młodych mechaników maszyn rolniczych” – mówi Adrian Dekowski, Prezes Fundacji Cooperatio, organizatora Mistrzostw.
+                    Pod adresem <a href="http://www.mistrzostwamechanikow.pl">mistrzostwamechanikow.pl</a> znajdziemy bezp&#322;atny formularz rejestracyjny, aktualno&#347;ci oraz relacje z poprzednich fina&#322;�w. �Zg&#322;oszenia przyjmujemy do pocz&#261;tku marca, ale namawiamy do wcze&#347;niejszej rejestracji i po&#347;wi&#281;cenia reszty czasu na przygotowania. Konkurencja jest du&#378;a, a liczba miejsc w fina&#322;ach pozostaje bez zmian. Na Pozna&#324; Motor Show zapraszamy 30 mechanik�w zawodowych, 60 m&#322;odych mechanik�w oraz po raz pierwszy 40 m&#322;odych mechanik�w maszyn rolniczych� � m�wi Adrian Dekowski, Prezes Fundacji Cooperatio, organizatora Mistrzostw.
                 </p>
                 <p>
-                    Nowa kategoria Młody Mechanik Maszyn Rolniczych jest adresowana do uczniów kierunków mechanicznych ze szkół rolniczych. Jednak w praktyce kilka pytań dotyczących napraw ciągników i sprzętu rolniczego pojawi się również w dwóch pozostałych kategoriach Mistrzostw. „Biorąc pod uwagę bardzo dobre przyjęcie konkurencji z ciągnikiem John Deere podczas minionych finałów, mechanicy na pewno poradzą sobie z wyzwaniami nowej edycji Mistrzostw” – dodaje Dekowski.
+                    Nowa kategoria M&#322;ody Mechanik Maszyn Rolniczych jest adresowana do uczni�w kierunk�w mechanicznych ze szk�&#322; rolniczych. Jednak w praktyce kilka pyta&#324; dotycz&#261;cych napraw ci&#261;gnik�w i sprz&#281;tu rolniczego pojawi si&#281; r�wnie&#378; w dw�ch pozosta&#322;ych kategoriach Mistrzostw. �Bior&#261;c pod uwag&#281; bardzo dobre przyj&#281;cie konkurencji z ci&#261;gnikiem John Deere podczas minionych fina&#322;�w, mechanicy na pewno poradz&#261; sobie z wyzwaniami nowej edycji Mistrzostw� � dodaje Dekowski.
                 </p>
                 <p>
-                    Ogólnopolskie Mistrzostwa Mechaników to okazja do bezpośredniej rywalizacji z najlepszymi mechanikami w kraju, która odbywa się na oczach widzów największych w tej części Europy targów motoryzacyjnych. „Jest nam niezmiernie miło, że coraz częściej wśród profesjonalnych mechaników są absolwenci szkół zawodowych i techników, którzy jeszcze niedawno próbowali sił w kategorii Młody Mechanik. Z perspektywy lat widać coraz więcej korzyści jakie daje uczestnikom start w naszym konkursie” – mówi Ewa Jeżewska z ExxonMobil, producenta olejów silnikowych Mobil oraz inicjatora kategorii Młody Mechanik.
+                    Og�lnopolskie Mistrzostwa Mechanik�w to okazja do bezpo&#347;redniej rywalizacji z najlepszymi mechanikami w kraju, kt�ra odbywa si&#281; na oczach widz�w najwi&#281;kszych w tej cz&#281;&#347;ci Europy targ�w motoryzacyjnych. �Jest nam niezmiernie mi&#322;o, &#378;e coraz cz&#281;&#347;ciej w&#347;r�d profesjonalnych mechanik�w s&#261; absolwenci szk�&#322; zawodowych i technik�w, kt�rzy jeszcze niedawno pr�bowali si&#322; w kategorii M&#322;ody Mechanik. Z perspektywy lat wida&#263; coraz wi&#281;cej korzy&#347;ci jakie daje uczestnikom start w naszym konkursie� � m�wi Ewa Je&#378;ewska z ExxonMobil, producenta olej�w silnikowych Mobil oraz inicjatora kategorii M&#322;ody Mechanik.
                 </p>
                 <p>
-                    Poprzednia edycja Mistrzostw zgromadziła rekordowe 750 zespołów szkolnych oraz blisko 230 mechaników zawodowych. Zwycięzcą w kategorii Mechanik Zawodowy został Jacek Jakimów, a najlepszymi wśród Młodych byli Radosław Bladocha i Kamil Misiewicz z Zespołu Szkół Samochodowych w Poznaniu. Laureatów VIII Ogólnopolskich Mistrzostw Mechaników poznamy 28, 29 i 30 marca na Poznań Motor Show 2019.
+                    Poprzednia edycja Mistrzostw zgromadzi&#322;a rekordowe 750 zespo&#322;�w szkolnych oraz blisko 230 mechanik�w zawodowych. Zwyci&#281;zc&#261; w kategorii Mechanik Zawodowy zosta&#322; Jacek Jakim�w, a najlepszymi w&#347;r�d M&#322;odych byli Rados&#322;aw Bladocha i Kamil Misiewicz z Zespo&#322;u Szk�&#322; Samochodowych w Poznaniu. Laureat�w VIII Og�lnopolskich Mistrzostw Mechanik�w poznamy 28, 29 i 30 marca na Pozna&#324; Motor Show 2019.
                 </p>
-                <p><strong>Najważniejsze daty VIII Ogólnopolskich Mistrzostw Mechaników</strong></p>
+                <p><strong>Najwa&#378;niejsze daty VIII Og�lnopolskich Mistrzostw Mechanik�w</strong></p>
                 <p><strong>6 marca, godz. 11:59:59</strong> &ndash; ostateczny termin rejestracji</p>
-                <p><strong>6 marca</strong> &ndash; eliminacje online (kategorie dla uczniów)</p>
-                <p><strong>1 poł. marca</strong> &ndash; eliminacje dla Mechaników Zawodowych<br/>
-                    (dokładna data zostanie potwierdzona w późniejszym terminie)</p>
+                <p><strong>6 marca</strong> &ndash; eliminacje online (kategorie dla uczni�w)</p>
+                <p><strong>1 po&#322;. marca</strong> &ndash; eliminacje dla Mechanik�w Zawodowych<br/>
+                    (dok&#322;adna data zostanie potwierdzona w p�&#378;niejszym terminie)</p>
                 <p><strong>28 marca (czwartek)</strong> &ndash; final w kategorii Mlody Mechanik</p>
-                <p><strong>29 marca (piatek)</strong> &ndash; finał w kategorii Młody Mechanik</p>
-                <p><strong>30 marca (sobota)</strong> &ndash; finał w kategorii Mechanik Zawodowy</p>
+                <p><strong>29 marca (piatek)</strong> &ndash; fina&#322; w kategorii M&#322;ody Mechanik</p>
+                <p><strong>30 marca (sobota)</strong> &ndash; fina&#322; w kategorii Mechanik Zawodowy</p>
                 <p>
-                    Organizatorami Ogólnopolskich Mistrzostw Mechaników są Międzynarodowe Targi Poznańskie i Fundacja Cooperatio, zrzeszająca ekspertów, przedstawicieli organizacji branżowych i firm współpracujących na rzecz bezpieczeństwa w ruchu drogowym oraz promujących rozwój edukacji technicznej. Partnerami Mistrzostw są ExxonMobil – inicjator kategorii Młody Mechanik, Akademia Praktycznych Umiejętności, Akademia Kierowcy, febi, Filtron, Kolejowe Zakłady Łączności oraz Uni-Trol. Z kolei kategorii Młody Mechanik Maszyn Rolniczych patronują firma Kramp, producent ciągników i maszyn rolniczych John Deere, największy w Polsce miesięcznik rolniczy TOP AGRAR oraz nowy magazyn rolniczy Profi.
+                    Organizatorami Og�lnopolskich Mistrzostw Mechanik�w s&#261; Mi&#281;dzynarodowe Targi Pozna&#324;skie i Fundacja Cooperatio, zrzeszaj&#261;ca ekspert�w, przedstawicieli organizacji bran&#378;owych i firm wsp�&#322;pracuj&#261;cych na rzecz bezpiecze&#324;stwa w ruchu drogowym oraz promuj&#261;cych rozw�j edukacji technicznej. Partnerami Mistrzostw s&#261; ExxonMobil � inicjator kategorii M&#322;ody Mechanik, Akademia Praktycznych Umiej&#281;tno&#347;ci, Akademia Kierowcy, febi, Filtron, Kolejowe Zak&#322;ady &#322;&#261;czno&#347;ci oraz Uni-Trol. Z kolei kategorii M&#322;ody Mechanik Maszyn Rolniczych patronuj&#261; firma Kramp, producent ci&#261;gnik�w i maszyn rolniczych John Deere, najwi&#281;kszy w Polsce miesi&#281;cznik rolniczy TOP AGRAR oraz nowy magazyn rolniczy Profi.
                 </p>
 
                 <p xmlns="">
-                    <img src="../Poland-Polish-LCW/Images/Plakat2019.jpg" style="max-width: 100%;" title="Plakat 2019 Młody Mechanik"
-                        alt="Plakat 2019 Młody Mechanik" border="0" hspace="0">
+                    <img src="../Poland-Polish-LCW/Images/Plakat2019.jpg" style="max-width: 100%;" title="Plakat 2019 M&#322;ody Mechanik"
+                        alt="Plakat 2019 M&#322;ody Mechanik" border="0" hspace="0">
                 </p>
 
                 <div>
