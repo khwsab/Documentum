@@ -18,10 +18,10 @@
             <a target="_blank" onclick="trackClick(this);" href="https://www.youtube.com/user/OfficialMobilDelvac">Mobil Delvac&trade; - YouTube</a>
         </li>
         <li>
-            <a target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx">Lubrifants et graisses recommandés pour votre camion</a>
+            <a target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_mobil-delvac_bumper-to-bumper.aspx">Lubrifants et graisses recommandés pour votre camion</a>
         </li>
         <li>
-            <a target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_ck4-ou-fa4.aspx#">CK-4 ou FA-4?</a>
+            <a target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_ck4-ou-fa4.aspx#">CK-4 ou FA-4?</a>
         </li>
     </ul>
 </div>

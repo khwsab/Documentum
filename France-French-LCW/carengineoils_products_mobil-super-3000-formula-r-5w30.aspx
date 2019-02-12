@@ -171,7 +171,8 @@
                                 <div style="width:415px; white-space:normal; padding-top:10px;display:none " class="divTabContent" id="Approbations Content">
                                     <p xmlns="">
                                         <strong>Mobil Super 3000 Formula R 5W-30 satisfait ou dépasse les exigences:&nbsp;&nbsp; <br>
-                                        </strong>ACEA C4</p>
+                                        </strong>ACEA C4<br>
+                                        MB-Approval 226.51</p>
                                     <p xmlns="">
                                         <strong>Mobil Super 3000 Formula R 5W-30 est homologuée par les</strong><strong>constructeurs suivants:&nbsp;&nbsp; <br>
                                         </strong>Renault RN0720</p>

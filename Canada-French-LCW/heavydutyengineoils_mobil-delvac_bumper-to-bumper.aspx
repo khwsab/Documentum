@@ -84,7 +84,7 @@
 
                             <br>
 
-                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils.aspx" class="">Cliquez ici pour davantage d&rsquo;information.</a>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils.aspx" class="">Cliquez ici pour davantage d&rsquo;information.</a>
                         </p>
 
                         <p xmlns="">
@@ -116,7 +116,7 @@ Graisse Mobil Delvac&trade; Xtreme</strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx" class="">Pour en savoir plus &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx" class="">Pour en savoir plus &gt;</a>
                         </p>
 
                         <h3 xmlns="">
@@ -146,7 +146,7 @@ Graisse Mobil Delvac&trade; Xtreme</strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx" class="">Pour en savoir plus &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx" class="">Pour en savoir plus &gt;</a>
                         </p>
 
                         <p xmlns="">
@@ -170,7 +170,7 @@ Mobil&trade; Unirex EP 2</strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_greases_unirex-ep-2.aspx" class="">Pour en savoir plus &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_greases_unirex-ep-2.aspx" class="">Pour en savoir plus &gt;</a>
                         </p>
 
                         <p xmlns="">
@@ -190,7 +190,7 @@ Mobilgrease XHP&trade; 222</strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_greases_mobilgrease-xhp-222.aspx" class="">Pour en savoir plus &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_greases_mobilgrease-xhp-222.aspx" class="">Pour en savoir plus &gt;</a>
                             <br>
 &nbsp;</p>
 
@@ -220,7 +220,7 @@ Mobilgrease XHP&trade; 222</strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_rear-axle_mobil-delvac-synthetic-gear-oil-75w90.aspx" class="">Pour en savoir plus &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_rear-axle_mobil-delvac-synthetic-gear-oil-75w90.aspx" class="">Pour en savoir plus &gt;</a>
                             <br>
 
                             <br>
@@ -270,7 +270,7 @@ Graisse Mobil Delvac&trade; Xtreme</strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx" class="">Pour en savoir plus &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx" class="">Pour en savoir plus &gt;</a>
                         </p>
 
                         <p xmlns="">
@@ -294,7 +294,7 @@ Graisse Mobil Delvac&trade; Xtreme</strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_greases_unirex-ep-2.aspx" class="">Pour en savoir plus &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_greases_unirex-ep-2.aspx" class="">Pour en savoir plus &gt;</a>
                         </p>
 
                         <p xmlns="">
@@ -313,7 +313,7 @@ Graisse Mobil Delvac&trade; Xtreme</strong>
 
                         </ul>
 
-                        <a xmlns="" title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_greases_mobilgrease-xhp-222.aspx" class="">Pour en savoir plus &gt;</a>
+                        <a xmlns="" title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_greases_mobilgrease-xhp-222.aspx" class="">Pour en savoir plus &gt;</a>
                         <br xmlns="">
 
                         <br xmlns="">
@@ -348,7 +348,7 @@ Graisse Mobil Delvac&trade; Xtreme</strong>
                         </p>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-esp-0w40.aspx" class="">Pour en savoir plus&gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-esp-0w40.aspx" class="">Pour en savoir plus&gt;</a>
                         </p>
 
                         <p xmlns="">
@@ -372,7 +372,7 @@ Graisse Mobil Delvac&trade; Xtreme</strong>
                         </p>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx" class="">Pour en savoir plus&gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-le-5w30.aspx" class="">Pour en savoir plus&gt;</a>
                         </p>
 
                         <p xmlns="">
@@ -392,7 +392,7 @@ Graisse Mobil Delvac&trade; Xtreme</strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-esp-5w40.aspx" class="">Pour en savoir plus&gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1-esp-5w40.aspx" class="">Pour en savoir plus&gt;</a>
                         </p>
 
                         <p xmlns="">
@@ -412,7 +412,7 @@ Graisse Mobil Delvac&trade; Xtreme</strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1300-super-10W30.aspx" class="">Pour en savoir plus&gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_engine-oils_mobil-delvac-1300-super-10W30.aspx" class="">Pour en savoir plus&gt;</a>
                             <br>
 &nbsp;</p>
 
@@ -443,7 +443,7 @@ Graisse Mobil Delvac&trade; Xtreme</strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx" class="">Pour en savoir plus &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_greases_mobil-delvac-xtreme-grease.aspx" class="">Pour en savoir plus &gt;</a>
                         </p>
 
                         <p xmlns="">
@@ -462,7 +462,7 @@ Graisse Mobil Delvac&trade; Xtreme</strong>
 
                         </ul>
 
-                        <a xmlns="" title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_greases_mobilgrease-xhp-222.aspx" class="">Pour en savoir plus &gt;</a>
+                        <a xmlns="" title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_greases_mobilgrease-xhp-222.aspx" class="">Pour en savoir plus &gt;</a>
                         <br xmlns="">
 
                         <br xmlns="">
@@ -495,7 +495,7 @@ Mobil Delvac&trade; 1 Fluide de boîte de vitesses 50&nbsp; </strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_mobil-delvac-synthetic-transmission-fluid-50.aspx" class="">Pour en savoir plus &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_mobil-delvac-synthetic-transmission-fluid-50.aspx" class="">Pour en savoir plus &gt;</a>
                             <br>
 &nbsp;</p>
 
@@ -524,7 +524,7 @@ Mobil Delvac&trade; 1 Fluide de boîte de vitesses 50&nbsp; </strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_greases_mobilith-shc-007.aspx" class="">Pour en savoir plus &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_greases_mobilith-shc-007.aspx" class="">Pour en savoir plus &gt;</a>
                             <br>
 &nbsp;</p>
 
@@ -556,7 +556,7 @@ Mobilith SHC 007</strong>
                         </ul>
 
                         <p xmlns="">
-                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.ca/Canada-French-LCW/heavydutyengineoils_products_greases_mobilith-shc-007.aspx" class="">Pour en savoir plus &gt;</a>
+                            <a title="" target="" onclick="trackClick(this);" href="http://lubes.mobil.com/Canada-French-LCW/heavydutyengineoils_products_greases_mobilith-shc-007.aspx" class="">Pour en savoir plus &gt;</a>
                             <br>
 &nbsp;</p>
                     </div>

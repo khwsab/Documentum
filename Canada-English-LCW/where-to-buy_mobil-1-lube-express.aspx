@@ -624,21 +624,6 @@
                                 <td width="50%" height="" class="standard">
 
                                     <p>
-                                        <strong>Northern Auto<br>
-
-                                        </strong>5734 Valley Way<br>
-
-                                        <strong>Niagara Falls&nbsp;<br>
-
-                                        </strong>Ontario, L2E 1X8&nbsp;<br>
-                                        905-358-1106</p>
-
-                                </td>
-                            </tr>
-                            <tr>
-                                <td width="50%" height="" class="standard">
-
-                                    <p>
                                         <br>
 
                                         <strong>1125780 Ontario Ltd.</strong>
@@ -651,6 +636,8 @@
                                         905-397-2922</p>
 
                                 </td>
+                            </tr>
+                            <tr>
                                 <td width="50%" height="" class="standard">Mobil 1 Lube Express &ndash; St. Thomas<br>
                                     261 Talbot Street<br>
 
@@ -658,23 +645,7 @@
 
                                     </strong>Ontario, N5P 1B3<br>
                                     519- 631-2117</td>
-                            </tr>
-                            <tr>
-                                <td width="50%" height="" class="standard">&nbsp;</td>
-                                <td width="50%" height="" class="standard">&nbsp;</td>
-                            </tr>
-                            <tr>
-                                <td width="50%" height="" class="standard">
 
-                                    <p>Mobil 1 Lube Express - Vaughan<br>
-                                        1000 Rowntree Dairy Rd<br>
-
-                                        <strong>Vaughan</strong>
-                                        <br>
-                                        Ontario, L4L 5V8<br>
-                                        905-850-9640</p>
-
-                                </td>
                                 <td width="50%" height="" class="standard">
 
                                     <p>Mobil 1 Lube Express- Guelph<br>
@@ -721,7 +692,7 @@
 
                                 </td>
                                 <td width="50%" height="" class="standard">
-                                    <p>Kandy Auto Enterprises Inc<br>
+                                    <p>Mobil 1 Lube Express<br>
                                         1000 Rountree Dairy Rd Unit #3<br>
                                         <strong>Woodbridge</strong><br>
                                         Ontario</p>
