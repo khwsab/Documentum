@@ -20,25 +20,5 @@
         "linkslide": "",
         "active": "",
         "selector": "selector2"
-    }, {
-		"slide": "slide3",
-        "link": "https://carburanti.esso.it/explore/index.php#video",
-        "img": "html5/images/615x274_Flashbox_frames_IT.jpg",
-        "main": "",
-        "title": "",
-        "subtitle": "",
-        "linkslide": "",
-        "active": "",
-        "selector": "selector3"
-    }, {
-        "slide": "slide4",
-        "link": "https://carburanti.esso.it/v1/explore/index.php#video",
-        "img": "html5/images/615x274_esso_servitissimo_mobil.jpg",
-        "main": "",
-        "title": "",
-        "subtitle": "",
-        "linkslide": "",
-        "active": "active",
-        "selector": "selector4"
     }]
 }
