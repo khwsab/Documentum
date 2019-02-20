@@ -142,9 +142,6 @@ Dobierz odpowiedni olej do Twojego pojazdu korzystaj&#261;c z naszego narz&#281;
                             </li>
     
                             <li>
-                                <a title="" target="" onclick="trackClick(this);" href="/Poland-Polish-LCW/heavyduty_mobil_delvac-strong-traker-2018.aspx" class="">Mobil Delvac&trade; Strong Traker&nbsp;</a>&nbsp;&nbsp;</li>
-    
-                            <li>
                                 <a title="" target="" onclick="trackClick(this);" href="http://www.mobil.pl/poland-polish-LCW/heavydutyoils_energy-efficiency-guide.aspx" class="">Efektywno&#347;&#263; energetyczna w firmie Transportowej - Poradnik</a>
                             </li>
     

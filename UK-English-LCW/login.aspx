@@ -4,7 +4,7 @@
   <%@ Register TagPrefix="XOM" Namespace="XOM.Common.Web" Assembly="XOMCommon" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
     <head><meta http-equiv="X-UA-Compatible" content="IE=8">
-        <title>partner and customer login</title>
+        <title>Partner and Customer Login | Mobil™ UK & Ireland</title>
         <meta name="keywords" content="partner and customer login"/>
         <meta name="description" content="partner and customer login"/>
         <meta name="language" content="en"/>
@@ -80,13 +80,13 @@
                         <div class="subfeature csingle cleft"><!-- googleoff: all -->
                             <script type="text/javascript">quickEditForm("0915881d812147f0", "/Content/SLeftColumn/Section",true,"../forms/LCWLandingColumns","20px","820px","700px","Left Landing Page Column","","pencil.gif","");</script><!-- googleon: all --><div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://portal.exxonmobil.com/">DNet<span></span></a>
+                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/en/">DNet<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="http://portal.exxonmobil.com/" title="DNet" target="_blank" onclick="trackClick(this);"><a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://portal.exxonmobil.com"><img title="Euro Truck" src="../Shared-Images-LCW/teaser_60x60_euro-truck_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Euro Truck"></a></a></div>
+                                <div class="img60 left"><a href="https://dnet.mobil.com/en/" title="DNet" target="_blank" onclick="trackClick(this);"><a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/en/"><img title="Euro Truck" src="../Shared-Images-LCW/teaser_60x60_euro-truck_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Euro Truck"></a></a></div>
                                 <p>DNet is the place for registered&nbsp; ExxonMobil Distributors to find what you need to successfully market Exxon and Mobil&trade; branded products.&nbsp;<br>
-Click here to access <a title="" target="" onclick="trackClick(this);" href="http://portal.exxonmobil.com/" class="">DNet</a>.</p>
+Click here to access <a title="" target="" onclick="trackClick(this);" href="https://dnet.mobil.com/en/" class="">DNet</a>.</p>
                             </div>
                         </div>
                         <div class="subfeature csingle cright"><!-- googleoff: all -->
@@ -105,12 +105,12 @@ Click here to access <a title="" target="" onclick="trackClick(this);" href="htt
                         <div class="subfeature csingle cleft">
                             <div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://portal.exxonmobil.com">pre-registered partners<span></span></a>
+                                    <a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="https://dnet.mobil.com/en/">pre-registered partners<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="http://portal.exxonmobil.com" title="pre-registered partners" target="_blank" onclick="trackClick(this);"><img title="Group of People" src="../Shared-Images-LCW/teaser_60x60_group-of-people_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Group of People"></a></div>
-                                <p>If you are a pre-registered customer&nbsp; or supplier of ExxonMobil, you can access your <a title="" target="" onclick="trackClick(this);" href="https://portal.exxonmobil.com" class="">personalised portal</a>.</p>
+                                <div class="img60 left"><a href="https://dnet.mobil.com/en/" title="pre-registered partners" target="_blank" onclick="trackClick(this);"><img title="Group of People" src="../Shared-Images-LCW/teaser_60x60_group-of-people_eame.jpg" longdesc="" class="floatimgleft" border="0" alt="Group of People"></a></div>
+                                <p>If you are a pre-registered customer&nbsp; or supplier of ExxonMobil, you can access your <a title="" target="" onclick="trackClick(this);" href="https://dnet.mobil.com/en/" class="">personalised portal</a>.</p>
                             </div>
                         </div>
                         <div class="subfeature csingle cright">
@@ -121,7 +121,7 @@ Click here to access <a title="" target="" onclick="trackClick(this);" href="htt
                             </div>
                             <div xmlns="" class="padding">
                                 <div class="img60 left"><a href="http://www.signumoilanalysis.com" title="Signum oil analysis" target="_blank" onclick="trackClick(this);"><a title="This link will open a new window." target="_blank" onclick="trackClick(this);" href="http://www.signumoilanalysis.com"><img title="Signum Oil Pour" src="../Shared-Images-LCW/teaser_60x60_signum-oil-pour_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="Signum Oil Pour"></a></a></div>
-                                <p>Our state-of-the-art used oil analysis programs, such as Signum<sup>SM</sup>, provide the insight you need to better understand the condition of your company&rsquo;s lubricants and equipment. Click here to access <a title="" target="" onclick="trackClick(this);" href="http://www.signumoilanalysis.com" class="">Signum oil analysis</a> or existing users, can <a title="" target="" onclick="trackClick(this);" href="https://portal.exxonmobil.com" class="">log in here</a>.&nbsp;</p>
+                                <p>Our state-of-the-art used oil analysis programs, such as Signum<sup>SM</sup>, provide the insight you need to better understand the condition of your company&rsquo;s lubricants and equipment. Click here to access <a title="" target="" onclick="trackClick(this);" href="http://www.signumoilanalysis.com" class="">Signum oil analysis</a> or existing users, can <a title="" target="" onclick="trackClick(this);" href="https://ucld.us/Account/Login.aspx?brand=xom" class="">log in here</a>.&nbsp;</p>
                             </div>
                         </div>
                     </div>
@@ -129,12 +129,12 @@ Click here to access <a title="" target="" onclick="trackClick(this);" href="htt
                         <div class="subfeature csingle cleft">
                             <div xmlns="" class="headerbar">
                                 <h3>
-                                    <a title="" target="_self" onclick="trackClick(this);" href="../UK-English-LCW/contactus_contact.aspx?CountryCode=UK">looking to register?<span></span></a>
+                                    <a title="" target="_self" onclick="trackClick(this);" href="https://www.mobil.com/contact-us?lang=EN">looking to register?<span></span></a>
                                 </h3>
                             </div>
                             <div xmlns="" class="padding">
-                                <div class="img60 left"><a href="../UK-English-LCW/contactus_contact.aspx?CountryCode=UK" title="looking to register?" target="_self" onclick="trackClick(this);"><img title="Customer Support" src="../Shared-Images-LCW/teaser_60x60_customer-support_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="Customer Support"></a></div>
-                                <p>Not a registered user? You&rsquo;re missing out on a lot of important information! Ask your company&rsquo;s <a title="" target="" onclick="trackClick(this);" href="/UK-English-LCW/contactus_contact.aspx?CountryCode=UK" class="">key contact</a> to enroll you today.</p>
+                                <div class="img60 left"><a href="https://www.mobil.com/contact-us?lang=EN" title="looking to register?" target="_self" onclick="trackClick(this);"><img title="Customer Support" src="../Shared-Images-LCW/teaser_60x60_customer-support_gbl.jpg" longdesc="" class="floatimgleft" border="0" alt="Customer Support"></a></div>
+                                <p>Not a registered user? You&rsquo;re missing out on a lot of important information! Ask your company&rsquo;s <a title="" target="" onclick="trackClick(this);" href="https://www.mobil.com/contact-us?lang=EN" class="">key contact</a> to enroll you today.</p>
                             </div>
                         </div>
                     </div>
